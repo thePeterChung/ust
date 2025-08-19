@@ -1,0 +1,1951 @@
+{
+  "discipline": "Medicine",
+  "children": [
+    {
+      "structure_name": "Clinical-Reasoning-Model",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Data Collection → 2. Problem Identification → 3. Hypothesis Generation → 4. Diagnostic Testing → 5. Diagnosis → 6. Treatment Planning → 7. Follow-up and Reflection"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Data Collection"
+                },
+                {
+                  "structure_part": "[2/7] 2. Problem Identification"
+                },
+                {
+                  "structure_part": "[3/7] 3. Hypothesis Generation"
+                },
+                {
+                  "structure_part": "[4/7] 4. Diagnostic Testing"
+                },
+                {
+                  "structure_part": "[5/7] 5. Diagnosis"
+                },
+                {
+                  "structure_part": "[6/7] 6. Treatment Planning"
+                },
+                {
+                  "structure_part": "[7/7] 7. Follow-up and Reflection"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "General Practice Consultation, Emergency Case Workup, Case-Based Medical School Exams"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Data Collection → Patient history, physical examination, and initial information gathering"
+            },
+            {
+              "terminology": "2. Problem Identification → Recognizing and prioritizing clinical problems"
+            },
+            {
+              "terminology": "3. Hypothesis Generation → Formulating possible explanations or diagnoses"
+            },
+            {
+              "terminology": "4. Diagnostic Testing → Ordering and interpreting investigations"
+            },
+            {
+              "terminology": "5. Diagnosis → Establishing the most likely cause"
+            },
+            {
+              "terminology": "6. Treatment Planning → Creating and choosing management strategies"
+            },
+            {
+              "terminology": "7. Follow-up and Reflection → Monitoring outcomes and learning from the process"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Data Collection",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.1",
+                      "question": "What types of information are typically collected during patient data gathering?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.2",
+                      "question": "How does taking a patient history contribute to understanding their condition?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.3",
+                      "question": "Why is a physical examination important alongside the patient's verbal history?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.4",
+                      "question": "What if key details are missing during data collection? How might this affect the clinical reasoning process?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.5",
+                      "question": "How do healthcare professionals decide what questions to ask during data collection?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.6",
+                      "question": "What patterns can be recognized in patient data that signal common diseases?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.7",
+                      "question": "How might emotional responses from patients influence the data collected?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.8",
+                      "question": "What role does memory play in recalling relevant patient information during data collection?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.9",
+                      "question": "How can biases impact the accuracy of the data collected from patients?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.10",
+                      "question": "What next steps should be taken after initial data collection to ensure thoroughness?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.11",
+                      "question": "Why might the context or environment in which data is collected affect its reliability?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.1.12",
+                      "question": "How can patient cooperation be encouraged to improve data quality?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Problem Identification",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.1",
+                      "question": "What criteria are used to identify clinical problems from collected data?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.2",
+                      "question": "How does prioritizing problems influence patient care outcomes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.3",
+                      "question": "Why is it important to differentiate between primary and secondary problems?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.4",
+                      "question": "What if some problems are overlooked during this stage? What consequences could arise?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.5",
+                      "question": "How can ambiguity in symptoms complicate problem identification?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.6",
+                      "question": "What patterns or clusters of symptoms help in recognizing specific problems?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.7",
+                      "question": "How might emotional responses from patients or clinicians affect problem recognition?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.8",
+                      "question": "What role does clinical experience play in problem identification?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.9",
+                      "question": "How does the concept of threshold apply when deciding if a symptom qualifies as a clinical problem?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.10",
+                      "question": "What next steps follow effective problem identification in the clinical reasoning process?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.11",
+                      "question": "How can interdisciplinary collaboration improve problem identification?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.2.12",
+                      "question": "Why does clear problem identification matter for patient communication and trust?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Hypothesis Generation",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.1",
+                      "question": "What is the purpose of generating hypotheses in clinical reasoning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.2",
+                      "question": "How are initial hypotheses formed from identified problems?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.3",
+                      "question": "Why is it important to consider multiple hypotheses rather than a single explanation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.4",
+                      "question": "What if a hypothesis is not testable? How should this influence clinical decisions?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.5",
+                      "question": "How does prior knowledge and experience influence hypothesis generation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.6",
+                      "question": "What role does creativity play in formulating clinical hypotheses?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.7",
+                      "question": "How can bias affect the generation of clinical hypotheses?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.8",
+                      "question": "What patterns in data support or weaken specific hypotheses?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.9",
+                      "question": "How can competing hypotheses be compared and evaluated effectively?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.10",
+                      "question": "What next steps should be taken after generating clinical hypotheses?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.11",
+                      "question": "How does hypothesis generation affect patient involvement and communication?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.3.12",
+                      "question": "Why might emotional responses impact which hypotheses clinicians favor?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Diagnostic Testing",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.1",
+                      "question": "What types of diagnostic tests are commonly used to investigate clinical hypotheses?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.2",
+                      "question": "How does selecting appropriate tests influence the accuracy of diagnosis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.3",
+                      "question": "Why is it important to understand the limitations of diagnostic tests?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.4",
+                      "question": "What if diagnostic tests give conflicting results? How should clinicians respond?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.5",
+                      "question": "How can diagnostic tests be prioritized based on risks and benefits?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.6",
+                      "question": "What patterns in test results help confirm or rule out hypotheses?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.7",
+                      "question": "How do feedback loops operate when test results lead to further testing?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.8",
+                      "question": "What emotional responses might patients have toward diagnostic testing, and how can these be managed?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.9",
+                      "question": "How can diagnostic test results be communicated clearly to patients and colleagues?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.10",
+                      "question": "What next steps should follow diagnostic testing in the clinical reasoning process?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.11",
+                      "question": "Why is continuous evaluation of test reliability essential in clinical decision-making?",
+                      "concept": "Accuracy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.4.12",
+                      "question": "How can unexpected test outcomes influence the direction of clinical reasoning?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Diagnosis",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.1",
+                      "question": "What factors contribute to establishing a confident clinical diagnosis?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.2",
+                      "question": "How does integrating data and test results lead to diagnosis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.3",
+                      "question": "Why might differential diagnosis be necessary in complex cases?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.4",
+                      "question": "What if a diagnosis remains uncertain after testing? What are the implications?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.5",
+                      "question": "How does clinician experience affect diagnostic accuracy?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.6",
+                      "question": "What patterns in symptoms and tests are most critical for diagnosis?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.7",
+                      "question": "How can biases interfere with reaching a correct diagnosis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.8",
+                      "question": "What emotional impact does receiving a diagnosis have on patients, and how should clinicians respond?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.9",
+                      "question": "What role does communication play in explaining diagnosis to patients?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.10",
+                      "question": "What next steps should follow diagnosis in clinical management?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.11",
+                      "question": "Why is it important to revisit diagnosis if patient condition changes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.5.12",
+                      "question": "How does a diagnosis shape the overall treatment plan and prognosis?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Treatment Planning",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.1",
+                      "question": "What are the key elements considered when planning treatment for a patient?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.2",
+                      "question": "How does the diagnosis guide the selection of treatment options?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.3",
+                      "question": "Why is it important to consider patient preferences and context in treatment planning?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.4",
+                      "question": "What if recommended treatments carry significant risks? How are these managed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.5",
+                      "question": "How can multidisciplinary teams contribute to effective treatment planning?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.6",
+                      "question": "What patterns in treatment outcomes inform adjustments to plans?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.7",
+                      "question": "How does evidence-based medicine influence treatment choices?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.8",
+                      "question": "What emotional considerations should be addressed during treatment planning?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.9",
+                      "question": "How can treatment plans be communicated effectively to ensure patient understanding and compliance?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.10",
+                      "question": "What next steps follow treatment planning to monitor patient progress?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.11",
+                      "question": "Why might treatment plans require frequent revision or adaptation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.6.12",
+                      "question": "How can ethical considerations impact decisions in treatment planning?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Follow-up and Reflection",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.1",
+                      "question": "What is the purpose of follow-up in the clinical reasoning process?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.2",
+                      "question": "How does monitoring patient progress help refine treatment plans?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.3",
+                      "question": "Why is reflection important for clinicians after patient encounters?",
+                      "concept": "Metacognition"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.4",
+                      "question": "What if patient outcomes do not improve as expected? How should clinicians respond?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.5",
+                      "question": "How can patient feedback contribute to clinical learning and improvement?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.6",
+                      "question": "What patterns in follow-up data indicate success or need for change?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.7",
+                      "question": "How do clinicians balance standard protocols with individualized patient responses during follow-up?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.8",
+                      "question": "What emotional challenges might clinicians face during reflection and follow-up?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.9",
+                      "question": "How can follow-up practices improve patient trust and engagement?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.10",
+                      "question": "What next steps can clinicians take to integrate lessons learned into future cases?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.11",
+                      "question": "Why is documentation critical during follow-up and reflection?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.B.7.12",
+                      "question": "How does the follow-up stage complete the clinical reasoning cycle?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Data Collection",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.1",
+                      "question": "How does the quality of patient data influence the subsequent clinical reasoning steps?",
+                      "concept": "Accuracy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.2",
+                      "question": "What methods can clinicians use to verify the reliability of the collected data?",
+                      "concept": "Verification"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.3",
+                      "question": "Why is it necessary to consider sociocultural factors during data collection?",
+                      "concept": "Context"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.4",
+                      "question": "How can clinicians balance thoroughness with efficiency when gathering patient information?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.5",
+                      "question": "What role does selective attention play in filtering relevant from irrelevant patient data?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.6",
+                      "question": "How might confirmation bias affect data collection and what strategies can counteract it?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.7",
+                      "question": "What systems can be implemented to ensure completeness of clinical data?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.8",
+                      "question": "How can patient anxiety or discomfort impact data accuracy and how can clinicians mitigate this?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.9",
+                      "question": "What next steps should clinicians take if data collected appear contradictory or incomplete?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.10",
+                      "question": "How can interdisciplinary data sharing improve the quality of data collection?",
+                      "concept": "Collaboration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.11",
+                      "question": "Why is the timing of data collection important for accurate clinical reasoning?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.1.12",
+                      "question": "How do technology and electronic health records influence modern data collection?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Problem Identification",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.1",
+                      "question": "How can clinicians differentiate between symptoms that are causally linked versus coincidental?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.2",
+                      "question": "What frameworks assist in prioritizing multiple clinical problems?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.3",
+                      "question": "How does understanding patient history shape the identification of core problems?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.4",
+                      "question": "What role does clinical intuition play in identifying problems when data is ambiguous?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.5",
+                      "question": "How can clinicians manage uncertainty when problem identification is unclear?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.6",
+                      "question": "What strategies help avoid premature closure in problem identification?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.7",
+                      "question": "How do feedback mechanisms support refinement of problem lists?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.8",
+                      "question": "Why is patient involvement important in validating identified problems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.9",
+                      "question": "What next steps follow initial problem identification to ensure accuracy?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.10",
+                      "question": "How can collaboration across disciplines enhance problem identification?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.11",
+                      "question": "What emotional factors might influence clinicians’ prioritization of problems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.2.12",
+                      "question": "How does ambiguity in clinical presentations challenge problem identification?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Hypothesis Generation",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.1",
+                      "question": "How do clinicians use pattern recognition in generating diagnostic hypotheses?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.2",
+                      "question": "What are the cognitive risks of relying too heavily on initial hypotheses?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.3",
+                      "question": "How does the concept of duality (considering multiple competing hypotheses) enhance clinical reasoning?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.4",
+                      "question": "What methods help in evaluating the plausibility of different hypotheses?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.5",
+                      "question": "How can clinicians integrate emerging evidence into existing hypotheses?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.6",
+                      "question": "Why is flexibility important in adjusting hypotheses during diagnosis?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.7",
+                      "question": "What if a hypothesis conflicts with patient preferences or values?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.8",
+                      "question": "How does reflective practice support hypothesis generation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.9",
+                      "question": "What next steps can clinicians take when multiple hypotheses remain equally plausible?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.10",
+                      "question": "How can clinicians communicate uncertainty in hypotheses effectively to patients?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.11",
+                      "question": "What role does metacognition play in monitoring hypothesis generation?",
+                      "concept": "Metacognition"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.3.12",
+                      "question": "How can technology assist in generating and testing clinical hypotheses?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Diagnostic Testing",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.1",
+                      "question": "How do clinicians determine the most appropriate diagnostic tests for confirming hypotheses?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.2",
+                      "question": "What are the strengths and limitations of common diagnostic tests in clinical practice?",
+                      "concept": "Accuracy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.3",
+                      "question": "How does test sensitivity and specificity impact diagnostic decision-making?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.4",
+                      "question": "What strategies can be used to interpret conflicting or ambiguous test results?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.5",
+                      "question": "How can the timing and sequence of tests influence diagnostic accuracy?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.6",
+                      "question": "Why is it important to consider patient safety and ethical implications when ordering tests?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.7",
+                      "question": "What role does feedback from test outcomes play in refining diagnostic hypotheses?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.8",
+                      "question": "How can clinicians communicate uncertain or unexpected test results effectively to patients?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.9",
+                      "question": "What next steps should be taken when diagnostic tests are inconclusive?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.10",
+                      "question": "How can advancements in technology improve diagnostic testing processes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.11",
+                      "question": "What impact does test accessibility and cost have on clinical decision-making?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.4.12",
+                      "question": "How can multidisciplinary teams enhance the interpretation of complex diagnostic data?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Diagnosis",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.1",
+                      "question": "How does integrating clinical data and test results lead to a final diagnosis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.2",
+                      "question": "What methods assist clinicians in differentiating between similar diagnoses?",
+                      "concept": "Discrimination"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.3",
+                      "question": "How can cognitive biases affect diagnostic accuracy, and how can they be mitigated?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.4",
+                      "question": "What is the role of diagnostic uncertainty and how should it be managed?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.5",
+                      "question": "How does patient feedback influence the confidence in a diagnosis?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.6",
+                      "question": "What patterns in patient symptoms are critical for confirming or excluding diagnoses?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.7",
+                      "question": "Why is ongoing reassessment necessary even after a diagnosis is made?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.8",
+                      "question": "How does a diagnosis shape communication and decision-making with patients?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.9",
+                      "question": "What next steps should follow a diagnosis in patient management?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.10",
+                      "question": "How can diagnostic errors be identified and addressed in clinical practice?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.11",
+                      "question": "What ethical considerations arise in disclosing diagnoses to patients?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.5.12",
+                      "question": "How does diagnosis affect prognosis and treatment planning?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Treatment Planning",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.1",
+                      "question": "How can evidence-based guidelines be integrated with patient-specific factors in treatment planning?",
+                      "concept": "Integration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.2",
+                      "question": "What are the challenges in balancing efficacy, safety, and patient preference in treatment choices?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.3",
+                      "question": "How does interdisciplinary collaboration enhance the development of treatment plans?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.4",
+                      "question": "What role does shared decision-making play in treatment planning?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.5",
+                      "question": "How can clinicians anticipate and manage potential barriers to treatment adherence?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.6",
+                      "question": "What patterns in patient response guide modifications to treatment plans?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.7",
+                      "question": "How can technology assist in monitoring and adjusting treatments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.8",
+                      "question": "What ethical issues must be considered when planning treatments with significant risks?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.9",
+                      "question": "How can emotional and psychological factors be incorporated into treatment planning?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.10",
+                      "question": "What next steps should clinicians take to evaluate treatment effectiveness?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.11",
+                      "question": "Why is flexibility important in adapting treatment plans over time?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.6.12",
+                      "question": "How do resource limitations impact treatment planning decisions?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Follow-up and Reflection",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.1",
+                      "question": "How does systematic follow-up contribute to continuous improvement in clinical care?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.2",
+                      "question": "What feedback mechanisms enable clinicians to assess the effectiveness of treatment over time?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.3",
+                      "question": "Why is reflective practice essential for professional growth in clinical reasoning?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.4",
+                      "question": "How should clinicians respond when patient outcomes diverge from expected results?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.5",
+                      "question": "In what ways can patient engagement during follow-up improve health outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.6",
+                      "question": "What patterns in follow-up data indicate the need for revising diagnosis or treatment?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.7",
+                      "question": "How do clinicians balance adherence to protocols with individualized patient needs during follow-up?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.8",
+                      "question": "What emotional and ethical challenges arise in the follow-up stage, and how can they be managed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.9",
+                      "question": "How does effective communication during follow-up enhance patient trust and compliance?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.10",
+                      "question": "What next steps can clinicians take to incorporate lessons learned into future clinical reasoning cycles?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.11",
+                      "question": "Why is documentation of follow-up encounters critical for legal and clinical purposes?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.I.7.12",
+                      "question": "How does the follow-up stage close the loop in the clinical reasoning process?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Data Collection",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.1",
+                      "question": "How can advanced data analytics improve the precision of clinical data collection?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.2",
+                      "question": "What frameworks help clinicians integrate heterogeneous data sources effectively?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.3",
+                      "question": "How does bias in data collection manifest at systemic and individual levels?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.4",
+                      "question": "Why is critical evaluation of patient-reported data essential for accurate diagnosis?",
+                      "concept": "Verification"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.5",
+                      "question": "How can clinicians mitigate the impact of cognitive biases during initial data gathering?",
+                      "concept": "Metacognition"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.6",
+                      "question": "What role do technological innovations play in overcoming limitations of traditional data collection?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.7",
+                      "question": "How can the concept of boundary help define the scope of relevant clinical data?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.8",
+                      "question": "What ethical considerations arise when collecting sensitive or personal patient data?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.9",
+                      "question": "How does temporal pacing affect the reliability of longitudinal data collection?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.10",
+                      "question": "How can clinicians use abstraction to synthesize complex clinical data?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.11",
+                      "question": "What methods support the verification of data quality in electronic health records?",
+                      "concept": "Verification"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.1.12",
+                      "question": "How do feedback loops influence adjustments in ongoing data collection?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Problem Identification",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.1",
+                      "question": "How can clinicians distinguish between correlation and causation in clinical problem identification?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.2",
+                      "question": "What role does systems thinking play in identifying interconnected clinical problems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.3",
+                      "question": "How does understanding hierarchy help prioritize complex clinical issues?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.4",
+                      "question": "Why is it important to recognize paradoxes or contradictions during problem identification?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.5",
+                      "question": "How can iterative refinement enhance the accuracy of problem lists?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.6",
+                      "question": "What strategies help mitigate premature closure and cognitive biases in problem identification?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.7",
+                      "question": "How does clinician reflexivity contribute to better problem framing?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.8",
+                      "question": "What ethical tensions can arise during problem prioritization?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.9",
+                      "question": "How can ambiguity in symptom presentation be systematically addressed?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.10",
+                      "question": "How does patient agency influence identification and framing of clinical problems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.11",
+                      "question": "What next steps can enhance interdisciplinary collaboration in problem identification?",
+                      "concept": "Collaboration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.2.12",
+                      "question": "How can conceptual tools such as framing and boundary aid in problem identification?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Hypothesis Generation",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.1",
+                      "question": "How does embracing duality improve the robustness of clinical hypotheses?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.2",
+                      "question": "What role does abductive reasoning play in hypothesis generation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.3",
+                      "question": "How can clinicians balance creativity and evidence when generating hypotheses?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.4",
+                      "question": "Why is managing cognitive dissonance important during hypothesis formulation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.5",
+                      "question": "How does reflexivity support recognition of biases in hypothesis generation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.6",
+                      "question": "What methods can be employed to test and refine competing hypotheses?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.7",
+                      "question": "How can metaphor and analogy aid in conceptualizing complex clinical scenarios?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.8",
+                      "question": "What if a dominant hypothesis blinds clinicians to alternative explanations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.9",
+                      "question": "How should uncertainty be communicated during hypothesis discussion with patients?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.10",
+                      "question": "What next steps ensure hypotheses remain flexible to new evidence?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.11",
+                      "question": "How do cultural transformations impact hypothesis generation and clinical interpretation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.3.12",
+                      "question": "How can clinicians use systems thinking to anticipate emergent consequences of hypotheses?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Diagnostic Testing",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.1",
+                      "question": "How can clinicians critically appraise the validity and reliability of various diagnostic tests?",
+                      "concept": "Accuracy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.2",
+                      "question": "What are the implications of false positives and false negatives in clinical decision-making?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.3",
+                      "question": "How does understanding test characteristics such as sensitivity, specificity, and predictive values influence test selection?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.4",
+                      "question": "What strategies can be used to interpret ambiguous or contradictory diagnostic results?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.5",
+                      "question": "How do ethical considerations shape decisions regarding invasive or risky diagnostic procedures?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.6",
+                      "question": "In what ways can emerging diagnostic technologies transform clinical testing paradigms?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.7",
+                      "question": "How can systems thinking improve the integration of diagnostic data across multidisciplinary teams?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.8",
+                      "question": "What role does temporal pacing play in the timing and sequencing of diagnostic tests?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.9",
+                      "question": "How can clinicians balance the need for diagnostic certainty with the risks and costs of testing?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.10",
+                      "question": "What next steps should be considered when diagnostic tests yield inconclusive results?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.11",
+                      "question": "How can clinician reflexivity mitigate biases in interpreting diagnostic tests?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.4.12",
+                      "question": "How does boundary-setting influence the scope and focus of diagnostic evaluation?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Diagnosis",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.1",
+                      "question": "How can complex diagnostic reasoning reconcile conflicting clinical data?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.2",
+                      "question": "What frameworks help distinguish between differential diagnoses in ambiguous cases?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.3",
+                      "question": "How do cognitive errors such as anchoring and availability heuristics impair diagnostic accuracy?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.4",
+                      "question": "Why is it essential to maintain diagnostic uncertainty, and how can this be communicated ethically?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.5",
+                      "question": "How can patient narratives challenge or support clinical diagnoses?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.6",
+                      "question": "What role does pattern recognition play in differentiating between similar diagnoses?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.7",
+                      "question": "How can ongoing iteration and reassessment improve diagnostic confidence?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.8",
+                      "question": "What ethical considerations arise when disclosing uncertain or serious diagnoses to patients?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.9",
+                      "question": "What next steps follow a confirmed diagnosis in refining patient care?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.10",
+                      "question": "How can diagnostic errors be systematically identified and addressed in healthcare systems?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.11",
+                      "question": "How does diagnostic labeling impact patient identity and treatment adherence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.5.12",
+                      "question": "In what ways does the diagnosis influence prognostic reasoning and resource allocation?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Treatment Planning",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.1",
+                      "question": "How can clinicians integrate evidence-based medicine with individualized care in treatment planning?",
+                      "concept": "Integration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.2",
+                      "question": "What are the ethical tensions between patient autonomy and clinical judgment in treatment decisions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.3",
+                      "question": "How can multidisciplinary collaboration optimize treatment outcomes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.4",
+                      "question": "What role does shared decision-making play in respecting patient agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.5",
+                      "question": "How can clinicians anticipate and mitigate barriers to treatment adherence?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.6",
+                      "question": "What feedback loops inform timely modification of treatment strategies?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.7",
+                      "question": "How might emerging technologies transform treatment planning and monitoring?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.8",
+                      "question": "What ethical dilemmas arise when treatment risks outweigh potential benefits?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.9",
+                      "question": "How can emotional and psychosocial factors be integrated into comprehensive treatment plans?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.10",
+                      "question": "What next steps enable continuous evaluation of treatment effectiveness?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.11",
+                      "question": "Why is flexibility crucial in adapting treatments over the course of illness?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.6.12",
+                      "question": "How do systemic resource constraints influence clinical treatment decisions?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Follow-up and Reflection",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.1",
+                      "question": "How does systematic follow-up support continuous quality improvement in clinical care?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.2",
+                      "question": "What feedback mechanisms are most effective in evaluating long-term treatment outcomes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.3",
+                      "question": "Why is reflective practice critical for advancing clinical reasoning skills?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.4",
+                      "question": "How should clinicians address unexpected patient outcomes during follow-up?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.5",
+                      "question": "In what ways can patient engagement in follow-up enhance therapeutic relationships?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.6",
+                      "question": "What patterns in follow-up data signal the need to revise diagnoses or treatment plans?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.7",
+                      "question": "How can clinicians balance standardized protocols with individualized patient needs during follow-up?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.8",
+                      "question": "What ethical challenges emerge during follow-up, and how can they be navigated?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.9",
+                      "question": "How does effective communication in follow-up build patient trust and compliance?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.10",
+                      "question": "What next steps can integrate lessons learned from follow-up into future clinical reasoning cycles?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.11",
+                      "question": "Why is thorough documentation of follow-up essential for clinical and legal accountability?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.A.7.12",
+                      "question": "How does the follow-up stage complete and reinforce the clinical reasoning process?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Data Collection",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.1",
+                      "question": "How can meta-cognitive strategies be employed to critically evaluate the completeness and quality of collected clinical data?",
+                      "concept": "Metacognition"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.2",
+                      "question": "What systemic biases exist within clinical data collection processes, and how can they be systematically disrupted?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.3",
+                      "question": "How does the interplay between patient narrative and technological data sources shape emergent clinical understanding?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.4",
+                      "question": "In what ways can reflexivity transform the clinician’s approach to data gathering and interpretation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.5",
+                      "question": "How can abstraction be leveraged to synthesize multi-dimensional clinical data without losing critical nuance?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.6",
+                      "question": "What are the implications of boundary-setting in determining the scope of relevant clinical data in complex cases?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.7",
+                      "question": "How can feedback loops within data collection processes be optimized to enhance adaptive learning?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.8",
+                      "question": "What role does temporal continuity and discontinuity play in interpreting longitudinal patient data?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.9",
+                      "question": "How can clinicians negotiate power dynamics inherent in patient data disclosure and confidentiality?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.10",
+                      "question": "What cognitive tools support clinicians in managing uncertainty and complexity during data collection?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.11",
+                      "question": "How can scale and hierarchy be balanced when integrating individual patient data into broader health systems?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.1.12",
+                      "question": "What next-level methodologies can be developed to transcend current limitations in clinical data acquisition?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Problem Identification",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.1",
+                      "question": "How can systems theory be applied to uncover hidden interdependencies in complex clinical problems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.2",
+                      "question": "In what ways can paradox and ambiguity be embraced to enrich problem framing rather than hinder decision-making?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.3",
+                      "question": "How does meta-reflexivity enable clinicians to challenge their own assumptions and cognitive biases?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.4",
+                      "question": "What ethical frameworks guide prioritization when clinical problems compete for limited resources?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.5",
+                      "question": "How can iteration and feedback cycles be structured to dynamically refine clinical problem lists?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.6",
+                      "question": "What role does clinician-patient co-agency play in collaboratively defining and reframing clinical problems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.7",
+                      "question": "How can framing techniques be used to shift perspectives and reveal novel problem definitions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.8",
+                      "question": "How do cultural transformations affect the recognition and prioritization of clinical problems?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.9",
+                      "question": "What advanced diagnostic heuristics can mitigate ambiguity in complex clinical presentations?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.10",
+                      "question": "How can hierarchical structuring of problems enhance systemic understanding and treatment planning?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.11",
+                      "question": "What next steps can be taken to develop adaptive and resilient clinical problem-solving models?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.2.12",
+                      "question": "How can clinicians integrate cognitive learning theories to improve problem identification under uncertainty?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Hypothesis Generation",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.1",
+                      "question": "How can abductive and dialectical reasoning be combined to generate robust clinical hypotheses?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.2",
+                      "question": "In what ways does embracing duality and paradox enhance creative clinical problem-solving?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.3",
+                      "question": "How can metaphor and analogy serve as tools for conceptual transformation in hypothesis formation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.4",
+                      "question": "What strategies enable clinicians to navigate cognitive dissonance during conflicting hypothesis generation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.5",
+                      "question": "How can reflexive practice lead to disruption of entrenched diagnostic paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.6",
+                      "question": "What role does iteration play in refining and validating complex clinical hypotheses?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.7",
+                      "question": "How might emergent properties of complex systems challenge linear hypothesis testing?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.8",
+                      "question": "What if dominant clinical narratives obscure alternative hypotheses, and how can this be countered?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.9",
+                      "question": "How can clinicians communicate uncertainty and complexity inherent in hypotheses to diverse audiences?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.10",
+                      "question": "What next steps can foster cultural transformation in clinical reasoning approaches?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.11",
+                      "question": "How can systems thinking anticipate unintended consequences in hypothesis testing and clinical intervention?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.3.12",
+                      "question": "How does meta-cognition inform adaptive learning and hypothesis evolution in complex clinical environments?",
+                      "concept": "Metacognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Diagnostic Testing",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.1",
+                      "question": "How can clinicians critically assess the epistemological foundations of diagnostic tests in complex cases?",
+                      "concept": "Accuracy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.2",
+                      "question": "What systemic factors contribute to diagnostic errors arising from test limitations, and how can they be mitigated?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.3",
+                      "question": "How does the temporal sequencing of diagnostic tests influence emergent clinical interpretations?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.4",
+                      "question": "In what ways can paradoxical or contradictory test results be integrated into coherent clinical reasoning?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.5",
+                      "question": "How can clinicians navigate ethical tensions between diagnostic thoroughness and patient risk?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.6",
+                      "question": "What role do feedback loops play in adapting diagnostic pathways in real time?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.7",
+                      "question": "How can boundary concepts clarify the scope and limits of diagnostic evaluation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.8",
+                      "question": "What next-level diagnostic methodologies can be developed through cultural and technological transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.9",
+                      "question": "How can emergent phenomena in complex biological systems challenge standard diagnostic criteria?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.10",
+                      "question": "How can clinicians leverage metacognition to recognize and counteract confirmation bias during test interpretation?",
+                      "concept": "Metacognition"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.11",
+                      "question": "What role does scale play in interpreting diagnostic data from molecular to systemic levels?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.4.12",
+                      "question": "How can interdisciplinary collaboration disrupt siloed diagnostic approaches to enhance patient care?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Diagnosis",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.1",
+                      "question": "How can meta-critical thinking deconstruct entrenched diagnostic paradigms to foster innovation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.2",
+                      "question": "In what ways does ambiguity serve as a productive force in diagnostic complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.3",
+                      "question": "How can clinicians balance hierarchical diagnostic frameworks with patient-centered narratives?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.4",
+                      "question": "What ethical imperatives guide transparency and uncertainty communication in diagnosis?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.5",
+                      "question": "How can reflexivity help clinicians identify personal and systemic biases influencing diagnosis?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.6",
+                      "question": "How might cultural transformations redefine diagnostic categories and their clinical relevance?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.7",
+                      "question": "What role does iterative reassessment play in refining diagnostic accuracy over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.8",
+                      "question": "How do power dynamics within healthcare systems impact diagnostic decision-making?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.9",
+                      "question": "What next steps can promote the integration of patient agency in co-constructing diagnostic understanding?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.10",
+                      "question": "How can clinicians use metaphor and narrative to frame diagnoses in culturally sensitive ways?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.11",
+                      "question": "How can system-level interventions reduce diagnostic errors and improve patient outcomes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.5.12",
+                      "question": "How does the interplay of closure and ambiguity shape the clinician’s acceptance of diagnostic uncertainty?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Treatment Planning",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.1",
+                      "question": "How can treatment planning incorporate meta-level reflection on ethical, cultural, and systemic factors?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.2",
+                      "question": "What strategies enable balancing patient autonomy with evidence-based protocols in complex cases?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.3",
+                      "question": "How can systems thinking facilitate adaptive, resilient treatment plans in dynamic clinical environments?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.4",
+                      "question": "In what ways can clinician-patient co-agency transform shared decision-making processes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.5",
+                      "question": "How might emerging technologies and cultural shifts disrupt traditional treatment paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.6",
+                      "question": "How can feedback and iteration optimize treatment effectiveness while managing uncertainty?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.7",
+                      "question": "What role do emotional tone and psychosocial factors play in shaping patient adherence and outcomes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.8",
+                      "question": "How can clinicians ethically navigate treatment risks when outcomes are unpredictable?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.9",
+                      "question": "What next steps are necessary to integrate cultural competence into personalized treatment plans?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.10",
+                      "question": "How can abstraction and scale help clinicians design multi-level treatment strategies?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.11",
+                      "question": "How does iterative learning inform real-time adaptation of treatment interventions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.6.12",
+                      "question": "How can systemic resource constraints be addressed within ethical treatment planning frameworks?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Follow-up and Reflection",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.1",
+                      "question": "How can meta-reflective practices transform the clinician’s approach to follow-up and continuous learning?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.2",
+                      "question": "In what ways do feedback loops within follow-up processes contribute to systemic improvements in patient care?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.3",
+                      "question": "How can clinicians balance standardized protocols with personalized patient needs during follow-up?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.4",
+                      "question": "What ethical challenges arise during follow-up, and how can they be critically navigated?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.5",
+                      "question": "How does effective communication in follow-up influence patient trust, compliance, and shared decision-making?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.6",
+                      "question": "What patterns identified in follow-up data indicate the need for diagnostic or treatment plan revision?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.7",
+                      "question": "How can follow-up processes be designed to foster emergence of innovative clinical practices?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.8",
+                      "question": "What next-level strategies can integrate lessons from follow-up into broader clinical reasoning frameworks?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.9",
+                      "question": "How does the cyclical nature of follow-up reinforce continuous professional development and patient care improvement?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.10",
+                      "question": "Why is thorough documentation during follow-up essential for clinical accountability and knowledge retention?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.11",
+                      "question": "How can clinicians use reflexivity to critically appraise their own performance during follow-up stages?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Clinical-Reasoning-Model.ME.7.12",
+                      "question": "What systemic feedback mechanisms can be implemented to ensure adaptive learning from follow-up outcomes?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+  "discipline": "History",
+  "children": [
+    {
+      "structure_name": "Historical-Causation",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Identification of Causes → 2. Analysis of Causes → 3. Evaluation of Causes → 4. Consequences → 5. Historical Significance"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Identification of Causes"
+                },
+                {
+                  "structure_part": "[2/5] 2. Analysis of Causes"
+                },
+                {
+                  "structure_part": "[3/5] 3. Evaluation of Causes"
+                },
+                {
+                  "structure_part": "[4/5] 4. Consequences"
+                },
+                {
+                  "structure_part": "[5/5] 5. Historical Significance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "French Revolution, Industrial Revolution, World War I"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Identification of Causes → Recognizing all factors that contributed to an event, including immediate and long-term causes"
+            },
+            {
+              "terminology": "2. Analysis of Causes → Examining how different causes interacted, their nature, and scope"
+            },
+            {
+              "terminology": "3. Evaluation of Causes → Judging the relative importance or weight of each cause"
+            },
+            {
+              "terminology": "4. Consequences → Understanding the outcomes and effects resulting from the event"
+            },
+            {
+              "terminology": "5. Historical Significance → Assessing the lasting impact and meaning of the event in history"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Identification of Causes",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.B.1.1",
+                      "question": "What are the main causes that led to this historical event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.2",
+                      "question": "How can we distinguish between immediate and long-term causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.3",
+                      "question": "Why is it important to identify multiple causes rather than a single cause?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.4",
+                      "question": "What evidence helps us recognize the causes of an event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.5",
+                      "question": "How do social, political, and economic factors contribute differently as causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.6",
+                      "question": "What if we ignored long-term causes in understanding this event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.7",
+                      "question": "How might bias affect the identification of causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.8",
+                      "question": "What role does chronology play in identifying causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.9",
+                      "question": "How can identifying causes help explain the event's outcome?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.10",
+                      "question": "What emotions or attitudes might affect how causes are identified?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.11",
+                      "question": "How does recognizing multiple causes change our understanding of history?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.1.12",
+                      "question": "Why do historians seek to identify causes carefully rather than quickly?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Analysis of Causes",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.B.2.1",
+                      "question": "How do different causes interact to produce the event?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.2",
+                      "question": "Why might some causes be more influential than others?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.3",
+                      "question": "What are the social and political contexts affecting the causes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.4",
+                      "question": "How can understanding cause interactions help explain complexity in history?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.5",
+                      "question": "What if one key cause had not occurred—how would the event differ?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.6",
+                      "question": "How does analyzing causes help uncover hidden or indirect factors?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.7",
+                      "question": "Why is it important to consider both human agency and structural causes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.8",
+                      "question": "How might different perspectives influence the analysis of causes?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.9",
+                      "question": "What role do economic causes play compared to ideological causes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.10",
+                      "question": "How can cause analysis reveal patterns across different historical events?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.11",
+                      "question": "What emotional or rhetorical effects arise from explaining cause interactions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.2.12",
+                      "question": "How does cause analysis support deeper historical understanding rather than surface explanation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Evaluation of Causes",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.B.3.1",
+                      "question": "How do we determine which causes were most important to the event?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.2",
+                      "question": "Why is evaluating causes necessary beyond simply identifying them?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.3",
+                      "question": "What criteria can we use to judge the significance of different causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.4",
+                      "question": "How might historians disagree on the importance of causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.5",
+                      "question": "What if we overemphasize one cause while ignoring others—what are the risks?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.6",
+                      "question": "How can cause evaluation help avoid simplistic or biased explanations?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.7",
+                      "question": "What role do values and perspectives play in evaluating causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.8",
+                      "question": "How can weighing causes change our interpretation of the event’s significance?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.9",
+                      "question": "What emotional responses might arise from judging causes as more or less important?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.10",
+                      "question": "Why is it important to balance evidence and interpretation when evaluating causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.11",
+                      "question": "How does evaluating causes contribute to constructing historical narratives?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.3.12",
+                      "question": "What next steps follow from evaluating causes in historical study?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Consequences",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.B.4.1",
+                      "question": "What were the immediate consequences following the event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.2",
+                      "question": "How did the event affect different groups or societies?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.3",
+                      "question": "Why is it important to study the consequences of historical events?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.4",
+                      "question": "What long-term effects did the event trigger?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.5",
+                      "question": "How can consequences lead to further historical changes or events?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.6",
+                      "question": "What if the consequences had been different—how might history have changed?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.7",
+                      "question": "How do consequences reflect the causes previously identified?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.8",
+                      "question": "What role do unintended consequences play in history?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.9",
+                      "question": "How might emotional reactions shape the perception of consequences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.10",
+                      "question": "Why is it challenging to trace all consequences of a historical event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.11",
+                      "question": "How do consequences connect past events to future developments?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.4.12",
+                      "question": "What next consequences could follow from the ones we observe?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Historical Significance",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.B.5.1",
+                      "question": "Why is assessing the historical significance of an event important?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.2",
+                      "question": "How do historians decide which events are historically significant?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.3",
+                      "question": "What criteria help measure the lasting impact of an event?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.4",
+                      "question": "How can historical significance vary depending on perspective or context?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.5",
+                      "question": "What if an event seems insignificant at first but gains importance later?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.6",
+                      "question": "How does understanding significance shape our view of history?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.7",
+                      "question": "What emotional responses are tied to the significance assigned to events?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.8",
+                      "question": "Why might different cultures assign different significance to the same event?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.9",
+                      "question": "How does significance connect past events to present identity or values?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.10",
+                      "question": "What role does historical significance play in education and memory?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.11",
+                      "question": "How can reassessing significance lead to new interpretations of history?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.B.5.12",
+                      "question": "What next questions arise from evaluating the significance of an event?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Identification of Causes",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.I.1.1",
+                      "question": "How can we systematically identify all relevant causes of a historical event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.2",
+                      "question": "What methods help differentiate between proximate and underlying causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.3",
+                      "question": "Why is it necessary to consider multiple categories of causes such as social, economic, and political?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.4",
+                      "question": "How do source reliability and bias affect cause identification?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.5",
+                      "question": "What challenges arise when causes are interconnected or overlapping?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.6",
+                      "question": "How does chronology influence the identification and ordering of causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.7",
+                      "question": "What if some causes are missing from the historical record—how does that impact understanding?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.8",
+                      "question": "How might different historiographical traditions affect cause identification?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.9",
+                      "question": "What role does context play in recognizing the causes of an event?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.10",
+                      "question": "How do emotional or ideological biases impact the identification process?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.11",
+                      "question": "How can cross-disciplinary approaches improve identification of causes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.1.12",
+                      "question": "What strategies help clarify ambiguous or contested causes?",
+                      "concept": "Clarity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Analysis of Causes",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.I.2.1",
+                      "question": "How do the identified causes influence one another to produce the event?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.2",
+                      "question": "What frameworks assist in analyzing cause interactions within historical complexity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.3",
+                      "question": "How can analyzing cause dynamics reveal underlying systemic issues?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.4",
+                      "question": "Why is it important to distinguish between necessary and sufficient causes in analysis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.5",
+                      "question": "How does power relations shape the interplay of causes?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.6",
+                      "question": "What if one cause acts as a catalyst—how does this affect overall analysis?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.7",
+                      "question": "How do differing historical perspectives alter the interpretation of cause relationships?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.8",
+                      "question": "How can feedback loops in causes create reinforcing or balancing effects?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.9",
+                      "question": "What role does uncertainty play in analyzing complex causes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.10",
+                      "question": "How can patterns identified in cause interactions inform broader historical theories?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.11",
+                      "question": "What emotional or rhetorical effects can cause analysis evoke in audiences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.2.12",
+                      "question": "How does cause analysis deepen critical thinking about historical events?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Evaluation of Causes",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.I.3.1",
+                      "question": "What criteria can historians use to evaluate the relative importance of causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.2",
+                      "question": "How can differing interpretations of cause significance arise among historians?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.3",
+                      "question": "Why must evaluation consider context, scale, and consequence when judging causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.4",
+                      "question": "How can the evaluation process reveal historian bias or assumptions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.5",
+                      "question": "What if evaluation favors certain types of causes over others—how does this shape narratives?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.6",
+                      "question": "How does weighing causes contribute to building coherent historical explanations?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.7",
+                      "question": "What role does evidence quality play in evaluating causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.8",
+                      "question": "How can alternative explanations challenge accepted evaluations of causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.9",
+                      "question": "What emotional impacts might emerge from controversial cause evaluations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.10",
+                      "question": "How can transparent evaluation processes improve historical understanding?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.11",
+                      "question": "Why is balancing complexity and clarity important in cause evaluation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.3.12",
+                      "question": "What next steps does evaluation suggest for further historical inquiry?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Consequences",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.I.4.1",
+                      "question": "How can we trace the immediate and long-term consequences of the event?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.2",
+                      "question": "What mechanisms link causes to their outcomes in historical processes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.3",
+                      "question": "How do consequences vary across different social, political, and economic groups?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.4",
+                      "question": "Why is it important to distinguish intended from unintended consequences?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.5",
+                      "question": "How can consequences themselves become causes for subsequent events?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.6",
+                      "question": "What if key consequences had been altered—how might history have changed?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.7",
+                      "question": "How do historians assess the broader impact of consequences beyond the event itself?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.8",
+                      "question": "What role does context play in shaping the effects of consequences over time?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.9",
+                      "question": "How can emotional responses to consequences influence historical narratives?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.10",
+                      "question": "Why might some consequences be overlooked or undervalued in historical study?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.11",
+                      "question": "How do consequences connect to themes of continuity and change in history?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.4.12",
+                      "question": "What next questions arise from understanding the consequences of this event?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Historical Significance",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.I.5.1",
+                      "question": "How do historians determine the significance of an event within a broader historical context?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.2",
+                      "question": "What criteria are most effective for assessing the lasting impact of historical events?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.3",
+                      "question": "How can significance change over time based on new evidence or perspectives?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.4",
+                      "question": "Why might different communities or cultures assign varying significance to the same event?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.5",
+                      "question": "How does the concept of significance relate to memory and identity formation?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.6",
+                      "question": "What if an event previously deemed insignificant gains importance in light of contemporary issues?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.7",
+                      "question": "How do emotional and rhetorical factors influence the portrayal of historical significance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.8",
+                      "question": "How can evaluating significance inform our understanding of historical change and continuity?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.9",
+                      "question": "What challenges do historians face in balancing subjective and objective assessments of significance?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.10",
+                      "question": "How does the evaluation of significance affect historical narratives and education?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.11",
+                      "question": "What strategies can historians use to critically reflect on the significance they assign to events?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Historical-Causation.I.5.12",
+                      "question": "What further inquiries might follow from reassessing an event’s historical significance?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Identification of Causes",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.A.1.1",
+                      "question": "How can we critically assess the completeness and reliability of identified causes in complex historical events?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.2",
+                      "question": "In what ways do historiographical debates influence the identification of causes?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.3",
+                      "question": "How does recognizing structural versus agent-based causes deepen our understanding of historical causation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.4",
+                      "question": "What role do contingency and chance play in the identification of causes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.5",
+                      "question": "How can we methodologically separate correlation from causation in historical analysis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.6",
+                      "question": "Why might some causes remain obscured or marginalized in historical records and how can we address this?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.7",
+                      "question": "How do interdisciplinary approaches contribute to a more nuanced identification of causes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.8",
+                      "question": "What are the epistemological limits to identifying causes in history?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.9",
+                      "question": "How can power dynamics shape which causes are foregrounded or suppressed?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.10",
+                      "question": "What emotional or ideological biases might affect cause identification and how can historians mitigate these?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.11",
+                      "question": "How does the temporal scale of analysis affect which causes are identified as significant?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.1.12",
+                      "question": "What next theoretical frameworks could enhance cause identification beyond traditional methods?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Analysis of Causes",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.A.2.1",
+                      "question": "How can systems theory be applied to analyze complex cause interactions in history?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.2",
+                      "question": "What is the significance of feedback loops and emergent properties in historical causation analysis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.3",
+                      "question": "How does analyzing dualities or paradoxes in causes challenge simplistic historical narratives?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.4",
+                      "question": "In what ways can power structures distort the analysis of causes and their interactions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.5",
+                      "question": "How can uncertainty and ambiguity be integrated into rigorous cause analysis?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.6",
+                      "question": "What methodologies help unpack nonlinear or recursive cause-effect relationships in history?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.7",
+                      "question": "How does perspective influence the interpretation of complex cause networks?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.8",
+                      "question": "How can analogies or metaphors illuminate hidden cause relationships?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.9",
+                      "question": "What role do cognitive biases play in shaping cause analysis and how can they be countered?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.10",
+                      "question": "How can emotional tone and narrative framing influence the presentation of cause analysis?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.11",
+                      "question": "How does transformation theory inform the understanding of cause evolution over time?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.2.12",
+                      "question": "What new insights emerge when analyzing causes through the lens of systems logic rather than linear causality?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Evaluation of Causes",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.A.3.1",
+                      "question": "How can historians critically evaluate cause significance while balancing competing narratives and evidences?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.2",
+                      "question": "What frameworks assist in weighing short-term versus long-term causes in complex events?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.3",
+                      "question": "How do historians account for the role of contingency and human agency in evaluating causes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.4",
+                      "question": "In what ways can power dynamics influence the prioritization of causes in historiography?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.5",
+                      "question": "What methodological tools help avoid bias or overemphasis when evaluating causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.6",
+                      "question": "How can historians reconcile conflicting evaluations of cause importance across different schools of thought?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.7",
+                      "question": "How might emotional or ideological perspectives affect cause evaluation and how can reflexivity mitigate this?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.8",
+                      "question": "What role does evidence hierarchies and source criticism play in evaluating causes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.9",
+                      "question": "How does the choice of temporal and spatial scale impact cause evaluation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.10",
+                      "question": "How can digital humanities tools advance the evaluation of causes in historical research?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.11",
+                      "question": "What are the ethical considerations involved in emphasizing certain causes over others?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.3.12",
+                      "question": "What further research directions emerge from critical cause evaluation in history?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Consequences",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.A.4.1",
+                      "question": "How can we critically evaluate the ripple effects of consequences across different historical contexts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.2",
+                      "question": "In what ways do unintended consequences challenge established historical narratives?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.3",
+                      "question": "How can the concept of cycles and feedback enhance our understanding of historical consequences?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.4",
+                      "question": "What role do power structures play in shaping the visibility and impact of consequences over time?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.5",
+                      "question": "How might consequences trigger transformations in social, political, or economic systems?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.6",
+                      "question": "What methods can historians use to trace and analyze cascading effects in history?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.7",
+                      "question": "How can emotional tone in historical sources affect interpretations of consequences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.8",
+                      "question": "What if key consequences are reinterpreted—how does this alter historical understanding and memory?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.9",
+                      "question": "How do historians differentiate between short-term disruptions and long-term structural changes as consequences?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.10",
+                      "question": "How does framing influence the emphasis placed on particular consequences in historical narratives?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.11",
+                      "question": "What is the significance of recognizing ambiguity and uncertainty in assessing consequences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.4.12",
+                      "question": "What next lines of inquiry emerge when reconsidering the consequences of major historical events?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Historical Significance",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.A.5.1",
+                      "question": "How can historians methodologically assess the shifting significance of events over time and cultures?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.2",
+                      "question": "What theoretical models help explain the process of constructing historical significance?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.3",
+                      "question": "How do memory, identity, and power intersect in the making of historical significance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.4",
+                      "question": "In what ways can the reassessment of significance lead to historical revisionism or transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.5",
+                      "question": "How can emotional and rhetorical strategies influence the perception and communication of significance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.6",
+                      "question": "What challenges arise when balancing subjective cultural perspectives with objective historical analysis in judging significance?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.7",
+                      "question": "How do historians navigate ethical considerations when assigning or contesting historical significance?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.8",
+                      "question": "What role does historical significance play in shaping contemporary political and social discourses?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.9",
+                      "question": "How can meta-critical reflection improve our understanding of how significance is constructed and contested?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.10",
+                      "question": "What are the implications of digital and global history for evaluating and communicating historical significance?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.11",
+                      "question": "How might the concept of significance evolve in the future of historical scholarship?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.A.5.12",
+                      "question": "What next questions arise for historians when reconsidering the significance of past events in light of new evidence or perspectives?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Identification of Causes",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.ME.1.1",
+                      "question": "How can advanced historiographical theory challenge traditional approaches to cause identification?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.2",
+                      "question": "In what ways can deconstruction and post-structuralism reshape our understanding of causation in history?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.3",
+                      "question": "How does the integration of multi-scalar analysis alter cause identification across temporal and spatial dimensions?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.4",
+                      "question": "What role do emergent properties play in redefining causes beyond linear models?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.5",
+                      "question": "How can reflexivity be applied to critically examine the historian’s positionality in cause identification?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.6",
+                      "question": "What methodologies enable the inclusion of marginalized or silenced causes in historical narratives?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.7",
+                      "question": "How do complex adaptive systems theory and chaos theory inform the identification of causes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.8",
+                      "question": "How can digital humanities tools transform the mapping and visualization of historical causes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.9",
+                      "question": "What ethical considerations arise when redefining causes in contested historical events?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.10",
+                      "question": "How might postcolonial perspectives complicate or expand traditional cause identification?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.11",
+                      "question": "How does interdisciplinary synthesis challenge or enhance cause identification practices?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.1.12",
+                      "question": "What next paradigms could fundamentally shift how causes are identified in historical research?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Analysis of Causes",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.ME.2.1",
+                      "question": "How can meta-theoretical frameworks deepen the analysis of cause interactions beyond reductionist approaches?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.2",
+                      "question": "In what ways can network theory reveal hidden patterns in historical cause relationships?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.3",
+                      "question": "How does embracing paradox and ambiguity improve our understanding of conflicting causes?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.4",
+                      "question": "What is the role of temporal discontinuity and non-linearity in cause analysis at an expert level?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.5",
+                      "question": "How can concepts of agency and structure be reconciled in complex cause analyses?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.6",
+                      "question": "What critical insights emerge from applying chaos and complexity theories to historical causation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.7",
+                      "question": "How does emotional tone intersect with epistemological challenges in advanced cause analysis?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.8",
+                      "question": "How can interdisciplinary methodologies transform the interpretation of cause networks?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.9",
+                      "question": "What new interpretations arise from integrating cultural and cognitive dimensions in cause analysis?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.10",
+                      "question": "How can reflexivity and authorial strategy inform the presentation of complex cause analyses?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.11",
+                      "question": "What role do feedback mechanisms play in sustaining or disrupting historical cause patterns?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.2.12",
+                      "question": "What next research questions emerge from applying meta-critical theory to cause analysis?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Evaluation of Causes",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.ME.3.1",
+                      "question": "How can critical theory challenge conventional criteria for evaluating cause importance in history?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.2",
+                      "question": "In what ways can pluralistic and contested evaluations enrich historical understanding?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.3",
+                      "question": "How does the negotiation between subjective interpretation and objective evidence shape cause evaluation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.4",
+                      "question": "What ethical dimensions must be considered when assigning significance to causes in politically sensitive histories?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.5",
+                      "question": "How can advanced reflexivity expose the historian’s influence on cause evaluation outcomes?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.6",
+                      "question": "What role does meta-cognition play in refining cause evaluation processes at the expert level?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.7",
+                      "question": "How can conflicting cause evaluations be synthesized to produce more nuanced historical narratives?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.8",
+                      "question": "What implications does digital humanities have for advancing cause evaluation methodologies?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.9",
+                      "question": "How do power relations and cultural narratives shape the authority of cause evaluations?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.10",
+                      "question": "How can historians balance complexity and clarity when presenting cause evaluations to diverse audiences?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.11",
+                      "question": "What new conceptual tools might emerge to enhance the evaluation of historical causes in the future?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.3.12",
+                      "question": "What next meta-critical questions arise from re-examining the process of cause evaluation itself?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Consequences",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.ME.4.1",
+                      "question": "How can postmodern theories complicate traditional narratives about historical consequences?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.2",
+                      "question": "In what ways do emergent and nonlinear consequences challenge linear historical models?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.3",
+                      "question": "How might recursive feedback loops alter the trajectory of consequences over extended periods?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.4",
+                      "question": "What ethical issues arise when interpreting consequences that affect marginalized or silenced groups?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.5",
+                      "question": "How can ambiguity and uncertainty be productively incorporated into analyses of historical consequences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.6",
+                      "question": "What role does the historian’s positionality play in framing the significance of consequences?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.7",
+                      "question": "How do cultural memory and collective identity shape the interpretation of consequences?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.8",
+                      "question": "In what ways can digital tools and big data analytics transform the tracing of complex consequence networks?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.9",
+                      "question": "How does the interplay of continuity and disruption manifest in long-term historical consequences?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.10",
+                      "question": "What are the implications of recognizing paradoxes within historical consequences for historiography?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.11",
+                      "question": "How can narrative tone influence the perception and emotional impact of described consequences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.4.12",
+                      "question": "What next theoretical developments could redefine how historians understand consequences?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Historical Significance",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Historical-Causation.ME.5.1",
+                      "question": "How can critical historiography question the established criteria of historical significance?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.2",
+                      "question": "In what ways do power relations and ideological frameworks shape the construction of significance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.3",
+                      "question": "How might meta-narratives and grand theories influence judgments about what is historically significant?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.4",
+                      "question": "What role does reflexivity play in reassessing the historian’s own influence on the designation of significance?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.5",
+                      "question": "How do cultural and collective memories interact with scholarly evaluations of historical significance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.6",
+                      "question": "What challenges emerge when integrating global and transnational perspectives in assessing significance?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.7",
+                      "question": "How do emotional and rhetorical strategies shape public perceptions of historical significance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.8",
+                      "question": "What ethical considerations must historians confront when contesting established significance narratives?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.9",
+                      "question": "How can digital humanities reshape both the practice and public understanding of historical significance?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.10",
+                      "question": "What future directions might historiography take in redefining and communicating significance?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.11",
+                      "question": "How can historians foster critical dialogue between academic and popular interpretations of significance?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Historical-Causation.ME.5.12",
+                      "question": "What next meta-critical questions arise from reflecting on the concept and practice of historical significance itself?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

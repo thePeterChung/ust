@@ -1,0 +1,1951 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Parallel-Structure",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Introduction of Storyline A → 2. Introduction of Storyline B → 3. Development of Storylines → 4. Crosscutting/Interweaving Scenes → 5. Climax of Storylines → 6. Convergence or Contrast of Storylines → 7. Resolution"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Introduction of Storyline A"
+                },
+                {
+                  "structure_part": "[2/7] 2. Introduction of Storyline B"
+                },
+                {
+                  "structure_part": "[3/7] 3. Development of Storylines"
+                },
+                {
+                  "structure_part": "[4/7] 4. Crosscutting/Interweaving Scenes"
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax of Storylines"
+                },
+                {
+                  "structure_part": "[6/7] 6. Convergence or Contrast of Storylines"
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Babel, Cloud Atlas, Traffic"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Introduction of Storyline A → Establishing characters, setting, and tone for first storyline"
+            },
+            {
+              "terminology": "2. Introduction of Storyline B → Establishing characters, setting, and tone for second storyline"
+            },
+            {
+              "terminology": "3. Development of Storylines → Progression of events and conflicts in both storylines"
+            },
+            {
+              "terminology": "4. Crosscutting/Interweaving Scenes → Alternation between storylines to build tension and connections"
+            },
+            {
+              "terminology": "5. Climax of Storylines → Peak conflicts or turning points in each storyline"
+            },
+            {
+              "terminology": "6. Convergence or Contrast of Storylines → Intersection or thematic comparison of storylines"
+            },
+            {
+              "terminology": "7. Resolution → Final outcomes and closure for both storylines"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Introduction of Storyline A",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.1.1",
+                      "question": "What is the main setting and who are the key characters introduced in Storyline A?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.2",
+                      "question": "How does Storyline A establish its initial tone or mood?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.3",
+                      "question": "Why is the introduction of Storyline A important for the overall narrative?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.4",
+                      "question": "How does Storyline A’s beginning create expectations for the viewer?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.5",
+                      "question": "What if Storyline A had a different opening setting? How would that change its impact?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.6",
+                      "question": "What emotions might the audience feel during the opening scenes of Storyline A?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.7",
+                      "question": "How does Storyline A’s introduction contribute to the narrative’s framing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.8",
+                      "question": "What early conflicts or tensions are suggested in Storyline A’s introduction?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.9",
+                      "question": "How does the pacing of Storyline A’s introduction affect viewer engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.10",
+                      "question": "Why might the filmmaker choose to focus first on Storyline A?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.11",
+                      "question": "What key themes are hinted at through Storyline A’s opening scenes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.1.12",
+                      "question": "How does Storyline A’s introduction set up possibilities for later interaction with other storylines?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Introduction of Storyline B",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.2.1",
+                      "question": "How does the introduction of Storyline B differ from Storyline A’s opening?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.2",
+                      "question": "What are the main characters and setting introduced in Storyline B?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.3",
+                      "question": "Why is it important to introduce Storyline B as a separate narrative early on?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.4",
+                      "question": "What emotions or moods are evoked in Storyline B’s introduction?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.5",
+                      "question": "How does Storyline B’s introduction create a contrast or complement to Storyline A?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.6",
+                      "question": "What if Storyline B was introduced after some development in Storyline A? How might that change audience understanding?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.7",
+                      "question": "How do the initial events in Storyline B hint at its future trajectory?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.8",
+                      "question": "What key themes start to emerge through Storyline B’s opening scenes?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.9",
+                      "question": "How does Storyline B’s introduction contribute to the overall narrative framing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.10",
+                      "question": "What early conflicts or questions are raised in Storyline B?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.11",
+                      "question": "How might the pacing of Storyline B’s introduction affect audience interest compared to Storyline A?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.2.12",
+                      "question": "Why might a filmmaker alternate the order of introducing multiple storylines?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Development of Storylines",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.3.1",
+                      "question": "How do Storylines A and B develop their plots independently during this stage?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.2",
+                      "question": "What are the main conflicts or challenges faced in each storyline’s development?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.3",
+                      "question": "Why is it important for the storylines to develop separately before interacting?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.4",
+                      "question": "How do changes in each storyline create anticipation for their future connection?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.5",
+                      "question": "What emotions arise as each storyline progresses through challenges?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.6",
+                      "question": "How might the development pace differ between Storyline A and B? What effects does this create?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.7",
+                      "question": "What if one storyline’s development is more detailed than the other? How does this affect balance?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.8",
+                      "question": "How does each storyline’s development contribute to overall themes?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.9",
+                      "question": "What narrative techniques help maintain audience interest across parallel developments?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.10",
+                      "question": "Why is maintaining separate narrative arcs important before convergence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.11",
+                      "question": "How do transformations in each storyline reflect or contrast each other?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.3.12",
+                      "question": "What if one storyline changes its trajectory suddenly? How does this impact narrative coherence?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Crosscutting/Interweaving Scenes",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.4.1",
+                      "question": "How are scenes from Storylines A and B intercut to create a narrative rhythm?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.2",
+                      "question": "What effect does switching between storylines have on audience engagement?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.3",
+                      "question": "Why do filmmakers use crosscutting to highlight parallels or contrasts between storylines?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.4",
+                      "question": "How does the pacing of interwoven scenes influence the story’s mood?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.5",
+                      "question": "What emotions are evoked when narratives interweave at critical moments?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.6",
+                      "question": "How does crosscutting build suspense or anticipation across storylines?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.7",
+                      "question": "What if the narratives were shown sequentially instead of intercut? How would this affect impact?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.8",
+                      "question": "How do interwoven scenes emphasize thematic connections?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.9",
+                      "question": "What techniques help the viewer follow multiple storylines during crosscutting?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.10",
+                      "question": "Why is the balance of screen time important when intercutting narratives?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.11",
+                      "question": "How does the order of scenes affect audience perception of the storylines?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.4.12",
+                      "question": "What authorial choices influence the way parallel storylines are interwoven?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax of Storylines",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.5.1",
+                      "question": "How do the climaxes in Storylines A and B individually build to tension?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.2",
+                      "question": "What key turning points define the climax of each storyline?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.3",
+                      "question": "Why is it important to have climaxes in both storylines before resolution?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.4",
+                      "question": "How do the emotional stakes rise during each storyline’s climax?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.5",
+                      "question": "What if one storyline’s climax is more dramatic than the other? How does this affect balance?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.6",
+                      "question": "How does the buildup in each storyline prepare the audience for the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.7",
+                      "question": "What conflicts reach their peak in Storylines A and B during the climax?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.8",
+                      "question": "How might the climaxes reveal new facets of characters or themes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.9",
+                      "question": "How do the climaxes affect the audience’s emotional investment?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.10",
+                      "question": "Why might a filmmaker choose to synchronize or separate the climaxes?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.11",
+                      "question": "How does tension from both climaxes influence the momentum towards resolution?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.5.12",
+                      "question": "What if the climax of one storyline is ambiguous while the other is clear? How does this shape interpretation?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Convergence or Contrast of Storylines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.6.1",
+                      "question": "How do Storylines A and B converge or contrast at this stage?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.2",
+                      "question": "What thematic links are revealed through the interaction of the storylines?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.3",
+                      "question": "Why is convergence or contrast significant for the overall narrative meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.4",
+                      "question": "How does the convergence affect the viewer’s understanding of each storyline?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.5",
+                      "question": "What emotions arise when storylines intersect or sharply contrast?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.6",
+                      "question": "How might the narrative change if storylines did not converge at all?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.7",
+                      "question": "What visual or narrative techniques emphasize convergence or contrast?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.8",
+                      "question": "How does convergence create new meaning from previously separate narratives?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.9",
+                      "question": "What if the storylines converge in unexpected ways? How does this affect interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.10",
+                      "question": "Why might a filmmaker choose to highlight differences instead of similarities in this stage?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.11",
+                      "question": "How does this stage prepare the story for final resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.6.12",
+                      "question": "What new questions arise from the interaction between storylines at convergence?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.B.7.1",
+                      "question": "How are the storylines resolved individually or together at the end?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.2",
+                      "question": "What emotional closure do the resolutions provide to the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.3",
+                      "question": "Why is it important to resolve or intentionally leave open the storylines?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.4",
+                      "question": "How does the resolution reflect or transform the themes introduced earlier?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.5",
+                      "question": "What if one storyline is resolved while another remains ambiguous? How does this affect interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.6",
+                      "question": "How does the pacing of the resolution affect audience satisfaction?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.7",
+                      "question": "What narrative techniques are used to signal the story’s conclusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.8",
+                      "question": "How might the resolution highlight character growth or change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.9",
+                      "question": "Why might a filmmaker choose to contrast resolutions of different storylines?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.10",
+                      "question": "What impact does the resolution have on the overall mood or tone of the film?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.11",
+                      "question": "How does the resolution encourage reflection on the film’s central messages?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.B.7.12",
+                      "question": "What next questions might viewers consider after the story concludes?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Introduction of Storyline A",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.1.1",
+                      "question": "How does the introduction of Storyline A establish its unique narrative voice and perspective?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.2",
+                      "question": "In what ways does Storyline A’s setting influence the initial conflicts presented?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.3",
+                      "question": "How does the filmmaker use visual or auditory cues to differentiate Storyline A?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.4",
+                      "question": "Why might the introduction of Storyline A be designed to evoke specific audience emotions?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.5",
+                      "question": "How does Storyline A’s opening create narrative expectations that shape audience interpretation?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.6",
+                      "question": "What thematic elements are embedded in Storyline A’s introduction that resonate through the film?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.7",
+                      "question": "How does the introduction set up potential narrative tension or ambiguity?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.8",
+                      "question": "In what ways does Storyline A’s beginning frame character agency and motivation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.9",
+                      "question": "How might altering the order or style of Storyline A’s introduction impact the overall narrative structure?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.10",
+                      "question": "What role does pacing play in establishing Storyline A’s initial rhythm and engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.11",
+                      "question": "How does the introduction of Storyline A establish boundaries that define its narrative space?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.1.12",
+                      "question": "What if Storyline A’s introduction included elements from Storyline B? How would that change narrative clarity?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Introduction of Storyline B",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.2.1",
+                      "question": "How does Storyline B’s introduction contrast or complement Storyline A in narrative tone and style?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.2",
+                      "question": "What narrative techniques are used to establish Storyline B’s distinct spatial and temporal setting?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.3",
+                      "question": "How does Storyline B’s introduction contribute to building thematic complexity across the film?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.4",
+                      "question": "In what ways does Storyline B’s opening shape audience expectations differently from Storyline A?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.5",
+                      "question": "Why is the order and timing of introducing Storyline B critical to audience understanding?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.6",
+                      "question": "How do the characters introduced in Storyline B reflect or subvert archetypes established in Storyline A?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.7",
+                      "question": "What emotional undertones characterize Storyline B’s opening scenes and how are they conveyed?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.8",
+                      "question": "How might the filmmaker use framing devices to highlight connections between Storylines A and B early on?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.9",
+                      "question": "What if Storyline B’s introduction was delayed or foreshadowed differently? How would this affect narrative impact?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.10",
+                      "question": "How does the introduction of Storyline B establish narrative boundaries that maintain clarity?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.11",
+                      "question": "What are the implications of introducing contrasting narrative voices through Storyline B?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.2.12",
+                      "question": "How does pacing differ between Storylines A and B in their introductions, and what effect does this have?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Development of Storylines",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.3.1",
+                      "question": "How do the parallel developments in Storylines A and B advance the film’s central themes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.2",
+                      "question": "What narrative strategies are used to maintain audience interest across simultaneous developments?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.3",
+                      "question": "How do evolving conflicts in each storyline reflect or challenge each other?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.4",
+                      "question": "In what ways do character motivations develop differently in the two storylines?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.5",
+                      "question": "How does the pacing of each storyline’s development affect the overall narrative balance?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.6",
+                      "question": "Why is it significant to maintain separate narrative arcs before convergence?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.7",
+                      "question": "How do the developments foreshadow potential points of convergence or divergence?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.8",
+                      "question": "What role does narrative tension play in sustaining parallel storylines?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.9",
+                      "question": "How might contrasting thematic elements in the storylines deepen the film’s message?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.10",
+                      "question": "What if one storyline experiences a narrative disruption while the other progresses smoothly? How does this affect coherence?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.11",
+                      "question": "How are narrative boundaries negotiated during the development stage to maintain clarity?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.3.12",
+                      "question": "How does audience perception shift as the storylines develop in parallel rather than sequentially?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Crosscutting/Interweaving Scenes",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.4.1",
+                      "question": "How does the technique of crosscutting enhance thematic parallels between Storylines A and B?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.2",
+                      "question": "In what ways does the interweaving of scenes build narrative tension and audience engagement?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.3",
+                      "question": "How do visual and auditory motifs assist viewers in following the intercut narrative structure?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.4",
+                      "question": "Why might a filmmaker choose a rapid alternation versus a slower transition between storylines?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.5",
+                      "question": "How does crosscutting contribute to the creation of narrative ambiguity or complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.6",
+                      "question": "What effects does the juxtaposition of contrasting scenes have on the audience’s interpretation?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.7",
+                      "question": "How might crosscutting affect the perceived causality between events in different storylines?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.8",
+                      "question": "What role does viewer inference play in understanding interwoven storylines?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.9",
+                      "question": "How do framing and boundaries help maintain coherence during complex crosscutting sequences?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.10",
+                      "question": "What are the risks and benefits of using crosscutting to create parallelism versus dissonance?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.11",
+                      "question": "How does authorial strategy influence the rhythm and order of crosscut scenes?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.4.12",
+                      "question": "How does the use of iteration in crosscutting impact the emergent narrative meaning?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax of Storylines",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.5.1",
+                      "question": "How do the climaxes of Storylines A and B individually intensify their respective conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.2",
+                      "question": "In what ways do the parallel climaxes create narrative symmetry or contrast?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.3",
+                      "question": "How does pacing influence the buildup to the climaxes in each storyline?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.4",
+                      "question": "What emotional or thematic resonance emerges from the juxtaposition of the climaxes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.5",
+                      "question": "Why is it important for the climaxes to maintain narrative coherence despite their parallelism?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.6",
+                      "question": "How do character transformations culminate during the climaxes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.7",
+                      "question": "What role does ambiguity play if one or both climaxes leave questions unanswered?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.8",
+                      "question": "How might the simultaneity or sequence of climaxes affect audience perception?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.9",
+                      "question": "What narrative risks arise when balancing multiple climaxes, and how can they be managed?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.10",
+                      "question": "How does the climax stage prepare the narrative for convergence or contrast?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.11",
+                      "question": "What if one storyline’s climax undermines or contradicts the other? How does this affect interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.5.12",
+                      "question": "How do climaxes contribute to the overall cathartic experience for the audience?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Convergence or Contrast of Storylines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.6.1",
+                      "question": "How do the storylines converge or contrast to create a unified or fragmented narrative?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.2",
+                      "question": "What thematic insights emerge from the interaction of the parallel storylines at this stage?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.3",
+                      "question": "How does convergence or contrast influence audience interpretation and emotional response?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.4",
+                      "question": "In what ways do visual or narrative framing devices highlight the relationship between storylines?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.5",
+                      "question": "What are the implications of unresolved contrasts between storylines at convergence?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.6",
+                      "question": "How might the narrative meaning shift if the storylines converge versus remain contrasted?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.7",
+                      "question": "What role does ambiguity play in the convergence or contrast stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.8",
+                      "question": "How does this stage prepare the narrative’s final resolution or denouement?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.9",
+                      "question": "How do audience expectations influence the perception of storyline convergence or contrast?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.10",
+                      "question": "What narrative techniques are employed to balance coherence and complexity in this stage?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.11",
+                      "question": "How does the interplay of dualities at convergence enrich the film’s message?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.6.12",
+                      "question": "What if the convergence subverts traditional narrative expectations? How does this impact critical interpretation?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.I.7.1",
+                      "question": "How does the resolution reconcile or emphasize the differences between Storylines A and B?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.2",
+                      "question": "In what ways does the resolution provide thematic closure while maintaining narrative complexity?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.3",
+                      "question": "How do character arcs conclude in each storyline, and what does this reveal about transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.4",
+                      "question": "Why might a filmmaker choose to leave one storyline’s resolution ambiguous? How does this affect audience interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.5",
+                      "question": "How does the pacing of the resolution influence the emotional impact on the audience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.6",
+                      "question": "What narrative devices are used to signal finality or openness in the film’s conclusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.7",
+                      "question": "How does the resolution invite viewers to reconsider earlier narrative assumptions or themes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.8",
+                      "question": "What role does ambiguity play in sustaining the film’s meaning beyond its resolution?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.9",
+                      "question": "How might the resolution challenge or reinforce traditional narrative expectations within parallel storytelling?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.10",
+                      "question": "What emotions does the resolution evoke, and how are these aligned with the film’s overall tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.11",
+                      "question": "How does the resolution shape the viewer’s final understanding of the film’s message?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.I.7.12",
+                      "question": "What future questions or possibilities does the resolution leave open for interpretation or continuation?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Introduction of Storyline A",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.1.1",
+                      "question": "How does the introduction of Storyline A utilize framing devices to establish its narrative scope and epistemic limits?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.2",
+                      "question": "In what ways does the filmmaker subvert traditional narrative expectations in Storyline A’s opening scenes?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.3",
+                      "question": "How do visual motifs in Storyline A’s introduction foreshadow thematic transformations later in the film?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.4",
+                      "question": "What role does ambiguity play in shaping audience interpretation during the introduction of Storyline A?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.5",
+                      "question": "How does the introduction manipulate temporal form to challenge continuity and perspective?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.6",
+                      "question": "What is the significance of boundary-setting in distinguishing Storyline A from Storyline B at this stage?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.7",
+                      "question": "How does the introduction explore agency and intention of key characters within Storyline A?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.8",
+                      "question": "How do pacing and repetition function to establish narrative rhythm in Storyline A’s opening?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.9",
+                      "question": "What cognitive challenges does Storyline A’s introduction pose to the audience, and how are they resolved?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.10",
+                      "question": "How does the authorial strategy in Storyline A’s opening influence audience engagement and expectation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.11",
+                      "question": "What transformations in mood or tone are initiated in Storyline A’s introduction?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.1.12",
+                      "question": "What if Storyline A’s introduction were presented from Storyline B’s perspective? How would this alter interpretive possibilities?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Introduction of Storyline B",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.2.1",
+                      "question": "How does Storyline B’s introduction function as a foil or complement to Storyline A’s opening?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.2",
+                      "question": "In what ways does the filmmaker employ framing and perspective to delineate Storyline B’s narrative space?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.3",
+                      "question": "How does the temporal structure of Storyline B’s introduction challenge or reinforce narrative coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.4",
+                      "question": "What thematic tensions are introduced through Storyline B’s opening, and how do they interact with Storyline A’s themes?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.5",
+                      "question": "How does ambiguity function to complicate initial audience readings of Storyline B?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.6",
+                      "question": "What authorial strategies are evident in Storyline B’s introduction to shape narrative expectations?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.7",
+                      "question": "How do narrative boundaries in Storyline B’s opening maintain clarity amidst the film’s structural complexity?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.8",
+                      "question": "What role does character agency play in defining Storyline B’s narrative trajectory early on?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.9",
+                      "question": "How does pacing in Storyline B’s introduction create contrast or harmony with Storyline A?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.10",
+                      "question": "What if the introduction of Storyline B were reordered or intercut with Storyline A? How would this affect narrative interpretation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.11",
+                      "question": "How do visual and thematic motifs in Storyline B’s opening set up potential narrative transformations?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.2.12",
+                      "question": "Why might a filmmaker choose to emphasize contrast rather than convergence in the storylines’ introductions?",
+                      "concept": "Contrast"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Development of Storylines",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.3.1",
+                      "question": "How does the development stage deepen thematic complexity across Storylines A and B?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.2",
+                      "question": "In what ways do parallel developments reflect systemic interactions or feedback loops within the narrative?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.3",
+                      "question": "How are conflicts and tensions dynamically escalated across the two storylines to sustain narrative drive?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.4",
+                      "question": "How does character agency evolve differently within each storyline’s development, and what does this reveal about narrative intention?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.5",
+                      "question": "What pacing strategies are employed to balance audience attention between simultaneous narrative arcs?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.6",
+                      "question": "How do narrative boundaries shift or blur during the development phase, and what effect does this have on coherence?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.7",
+                      "question": "What role does foreshadowing play in setting up potential convergence or divergence of the storylines?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.8",
+                      "question": "How does the interplay of dualities such as order and chaos or stability and disruption manifest during development?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.9",
+                      "question": "What are the cognitive and emotional effects on the audience of following multiple parallel narrative threads?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.10",
+                      "question": "How does the authorial strategy during development manipulate narrative tension and audience expectation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.11",
+                      "question": "What if the development of one storyline disrupts the narrative flow of the other? How can this be thematically justified?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.3.12",
+                      "question": "How does transformation at this stage set the stage for eventual convergence or contrast?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Crosscutting/Interweaving Scenes",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.4.1",
+                      "question": "How does the crosscutting technique function as an iterative device to reinforce or disrupt thematic coherence across storylines?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.2",
+                      "question": "In what ways do the interwoven scenes generate emergent meanings that exceed the sum of individual storylines?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.3",
+                      "question": "How do pacing variations in crosscutting affect audience perception of temporal and causal relations?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.4",
+                      "question": "What role does authorial strategy play in determining the rhythm and order of intercut scenes to shape narrative tension?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.5",
+                      "question": "How might visual and auditory motifs serve as boundary markers to maintain clarity within complex intercut sequences?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.6",
+                      "question": "How does the juxtaposition of contrasting narrative elements via crosscutting create productive paradoxes or dualities?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.7",
+                      "question": "In what ways does crosscutting challenge or affirm traditional narrative continuity and causality?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.8",
+                      "question": "How does crosscutting engage viewer inference to bridge fragmented narrative pieces into coherent understanding?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.9",
+                      "question": "What are the cognitive implications of iterative crosscutting for audience memory and focus?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.10",
+                      "question": "How can crosscutting be used strategically to create ambiguity without sacrificing narrative clarity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.11",
+                      "question": "How does iterative crosscutting contribute to the film’s overall thematic transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.4.12",
+                      "question": "What if crosscutting were replaced by sequential storytelling? How would this alter emergent meanings and audience engagement?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax of Storylines",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.5.1",
+                      "question": "How do the climaxes in Storylines A and B function as convergent or divergent points of narrative conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.2",
+                      "question": "In what ways do the climaxes reflect or subvert traditional notions of narrative resolution and catharsis?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.3",
+                      "question": "How does pacing at the climax stage heighten the emotional and thematic stakes across storylines?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.4",
+                      "question": "What narrative techniques are used to balance multiple climaxes without fragmenting audience engagement?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.5",
+                      "question": "How do character arcs culminate during the climaxes to reveal deeper transformations?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.6",
+                      "question": "What role does ambiguity play in maintaining complexity at the climax stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.7",
+                      "question": "How might simultaneous versus sequential climaxes alter audience interpretation and emotional response?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.8",
+                      "question": "What narrative risks arise from parallel climaxes, and how can they be mitigated through authorial strategy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.9",
+                      "question": "How does the climax stage set up for potential convergence or contrast in the narrative resolution?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.10",
+                      "question": "What if one storyline’s climax undermines the other’s? How does this tension influence overall narrative coherence?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.11",
+                      "question": "How does the climax contribute to the film’s thematic depth and audience catharsis?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.5.12",
+                      "question": "How do the climaxes interrogate the duality between order and chaos within the narrative?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Convergence or Contrast of Storylines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.6.1",
+                      "question": "How does the convergence or contrast of storylines enact dialectical synthesis or thematic tension?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.2",
+                      "question": "What philosophical or ideological insights emerge from the interplay of converging or contrasting storylines?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.3",
+                      "question": "In what ways does framing highlight or obscure the boundaries between convergent or contrasted narratives?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.4",
+                      "question": "How do unresolved contrasts at convergence invite ongoing ambiguity and interpretive openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.5",
+                      "question": "How does this stage negotiate narrative closure versus disruption in preparing for resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.6",
+                      "question": "What role do audience expectations and cultural conventions play in interpreting convergence or contrast?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.7",
+                      "question": "How does the duality of convergence and contrast function as a meta-critical commentary on storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.8",
+                      "question": "What narrative strategies balance coherence with complexity during this stage?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.9",
+                      "question": "How does this stage set the tone and emotional tenor for the final resolution?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.10",
+                      "question": "What if the storylines refuse to converge? How does this choice affect narrative meaning and audience response?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.11",
+                      "question": "How does the interplay of dualities enrich or complicate the film’s thematic exploration?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.6.12",
+                      "question": "In what ways can this stage serve as a critique of linear narrative conventions?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.A.7.1",
+                      "question": "How does the resolution negotiate between closure and openness to sustain thematic complexity across parallel storylines?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.2",
+                      "question": "In what ways does the resolution challenge conventional narrative closure through ambiguity or fragmentation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.3",
+                      "question": "How do character arcs culminate in the resolution to reflect broader narrative transformations?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.4",
+                      "question": "What narrative strategies are employed to balance multiple resolutions while maintaining coherence?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.5",
+                      "question": "How does the resolution's pacing influence the emotional and intellectual impact on the audience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.6",
+                      "question": "What role does authorial strategy play in framing the resolution to invite varied audience interpretations?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.7",
+                      "question": "How does the resolution engage with or subvert audience expectations grounded in genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.8",
+                      "question": "In what ways does the resolution serve as a meta-critical commentary on the act of storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.9",
+                      "question": "How might unresolved narrative elements at the resolution stage provoke ongoing audience reflection and discourse?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.10",
+                      "question": "What emotional tones are evoked in the resolution, and how do they align with or complicate the film’s overarching mood?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.11",
+                      "question": "How does the resolution influence the viewer’s ultimate interpretation of the film’s thematic message?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.A.7.12",
+                      "question": "What if the resolution were presented non-linearly or from a different narrative perspective? How would this alter meaning and engagement?",
+                      "concept": "Discontinuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Introduction of Storyline A",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.1.1",
+                      "question": "How does the framing of Storyline A’s introduction engage with and challenge dominant cultural narratives or ideologies?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.2",
+                      "question": "In what ways does the introduction utilize metanarrative techniques to foreground the constructed nature of Storyline A?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.3",
+                      "question": "How can the ambiguity in Storyline A’s opening serve as a critical device to destabilize fixed meanings?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.4",
+                      "question": "What are the implications of the introduction’s boundary-setting for systemic power relations within the narrative?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.5",
+                      "question": "How does the introduction interrogate the agency of marginalized or silenced characters within Storyline A?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.6",
+                      "question": "In what ways does temporal disruption in Storyline A’s introduction function as a critique of linear historicity?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.7",
+                      "question": "How does the authorial strategy manifest in the introduction to challenge audience expectations about narrative authority?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.8",
+                      "question": "What role do emergent patterns play in signaling thematic undercurrents in Storyline A’s opening?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.9",
+                      "question": "How might scale and perspective shifts in the introduction reveal underlying social or psychological structures?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.10",
+                      "question": "What if Storyline A’s introduction were deconstructed to expose ideological biases embedded within its framing?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.11",
+                      "question": "How does the introduction engage cognitive learning mechanisms to both invite and disrupt viewer understanding?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.1.12",
+                      "question": "How does the tone established in Storyline A’s introduction anticipate or complicate subsequent narrative developments?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Introduction of Storyline B",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.2.1",
+                      "question": "How does Storyline B’s introduction function as a counter-framing to Storyline A, interrogating dominant narratives or power structures?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.2",
+                      "question": "In what ways does Storyline B employ reflexivity to question the nature of storytelling and narrative authority?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.3",
+                      "question": "How does ambiguity in Storyline B’s introduction subvert audience expectations and open space for multiple interpretations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.4",
+                      "question": "What systemic dynamics are exposed through boundary negotiations in Storyline B’s opening narrative?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.5",
+                      "question": "How is agency distributed or contested among characters introduced in Storyline B’s opening, and what does this reveal about power relations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.6",
+                      "question": "How does temporal and spatial disruption in Storyline B challenge linear notions of time and place?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.7",
+                      "question": "What authorial strategies are deployed in Storyline B’s introduction to destabilize conventional narrative authority?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.8",
+                      "question": "How do emergent narrative patterns in Storyline B’s introduction suggest deeper thematic or ideological concerns?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.9",
+                      "question": "How might shifts in scale and perspective in Storyline B’s opening reveal or obscure social hierarchies or psychological depth?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.10",
+                      "question": "What if Storyline B’s introduction were read through a critical theory lens? How would this reshape interpretive possibilities?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.11",
+                      "question": "How does Storyline B’s introduction manipulate cognitive dissonance to engage or unsettle viewers?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.2.12",
+                      "question": "How does the mood and tone in Storyline B’s opening set up expectations for its thematic trajectory?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Development of Storylines",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.3.1",
+                      "question": "How does the development phase enact complex transformations that interrogate systemic social or psychological structures?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.2",
+                      "question": "In what ways do feedback loops within and between Storylines A and B reveal emergent narrative dynamics?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.3",
+                      "question": "How are tensions between order and chaos negotiated during the development, and what thematic purposes do they serve?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.4",
+                      "question": "How do evolving character agencies reflect or resist hegemonic power within the narrative system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.5",
+                      "question": "What pacing strategies are employed to facilitate cognitive engagement with simultaneous complex narrative threads?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.6",
+                      "question": "How do boundaries shift dynamically to both separate and connect parallel storylines in the development phase?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.7",
+                      "question": "What role does foreshadowing play in preparing audiences for the eventual dialectical synthesis or disruption?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.8",
+                      "question": "How does the interplay of paradox and duality manifest in thematic and narrative structures during development?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.9",
+                      "question": "What cognitive challenges arise from following multiple complex storylines, and how does the film guide viewer focus?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.10",
+                      "question": "How does the authorial strategy during development utilize disruption to provoke critical reflection?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.11",
+                      "question": "What if the development phase inverted traditional narrative causality? How would this reshape meaning and engagement?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.3.12",
+                      "question": "How do transformations in this phase set the groundwork for meta-critical commentary in later stages?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Crosscutting/Interweaving Scenes",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.4.1",
+                      "question": "How does the iterative technique of crosscutting function as a meta-narrative tool to reveal emergent properties and challenge linear temporality?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.2",
+                      "question": "In what ways does the interweaving of scenes generate complex feedback loops that destabilize traditional cause and effect within the narrative system?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.3",
+                      "question": "How do patterns of repetition and variation in crosscutting contribute to thematic accumulation and cognitive engagement?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.4",
+                      "question": "What authorial strategies govern the rhythm and disjunctions of intercut scenes to produce reflexive audience awareness?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.5",
+                      "question": "How do boundary markers within crosscut sequences negotiate clarity while enabling interpretive openness?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.6",
+                      "question": "How does the juxtaposition of paradoxical elements via crosscutting interrogate dualities such as order and chaos or presence and absence?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.7",
+                      "question": "In what ways does crosscutting disrupt conventional narrative continuity and invite multi-layered temporal readings?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.8",
+                      "question": "How does viewer inference operate in assembling fragmented narrative elements into emergent meanings during interweaving scenes?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.9",
+                      "question": "What are the cognitive and emotional implications of crosscutting-induced fragmentation for audience memory and focus?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.10",
+                      "question": "How can ambiguity be strategically maintained in crosscutting without undermining narrative coherence?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.11",
+                      "question": "What transformations in narrative and thematic depth emerge uniquely from the iterative process of crosscutting?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.4.12",
+                      "question": "What if the film abandoned crosscutting in favor of linear sequencing? How would this reshape interpretive possibilities and thematic resonance?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax of Storylines",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.5.1",
+                      "question": "How do simultaneous climaxes function as a dialectical tension that challenges traditional resolution paradigms?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.2",
+                      "question": "In what ways do the climaxes destabilize audience expectations regarding catharsis and closure?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.3",
+                      "question": "How does the pacing of converging climaxes reflect or resist the cultural rhythms and ideologies embedded in the narrative?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.4",
+                      "question": "What authorial strategies orchestrate the interplay of multiple climaxes to provoke critical reflection on narrative form?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.5",
+                      "question": "How do character transformations at the climaxes interrogate notions of agency, power, and resistance within the storyworld?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.6",
+                      "question": "How is ambiguity leveraged at the climax stage to maintain thematic complexity and open-endedness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.7",
+                      "question": "What are the implications of simultaneous versus sequential climaxes for audience engagement and interpretive multiplicity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.8",
+                      "question": "How do the risks inherent in parallel climaxes contribute to the film’s meta-critical interrogation of storytelling conventions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.9",
+                      "question": "How does the climax phase mediate between narrative tension and thematic synthesis or rupture?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.10",
+                      "question": "What if one storyline’s climax intentionally subverts the other’s? How does this dialectic influence the film’s ideological stance?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.11",
+                      "question": "How do the climaxes enact or resist closure in relation to broader cultural or philosophical narratives?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.5.12",
+                      "question": "In what ways do the climaxes embody paradoxes central to the film’s thematic exploration?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Convergence or Contrast of Storylines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.6.1",
+                      "question": "How does the convergence or contrast stage enact a dialectical synthesis or critique of narrative dualities and contradictions?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.2",
+                      "question": "What meta-critical insights emerge from the interplay between converging and contrasting storylines regarding narrative authority and ideology?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.3",
+                      "question": "In what ways do framing and boundary dynamics at this stage problematize or reinforce systemic structures within the film’s narrative?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.4",
+                      "question": "How does unresolved contrast function as a deliberate strategy to sustain interpretive openness and audience engagement?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.5",
+                      "question": "What role do cultural and genre conventions play in shaping audience reception of convergence versus contrast?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.6",
+                      "question": "How does this stage negotiate between narrative closure and disruption to challenge dominant storytelling paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.7",
+                      "question": "How does the duality of convergence and contrast serve as a meta-narrative commentary on storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.8",
+                      "question": "What narrative balances are struck to maintain coherence without sacrificing complexity or thematic depth?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.9",
+                      "question": "How does the tone established during this stage set the emotional and intellectual tenor for the film’s resolution?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.10",
+                      "question": "What if the storylines resist convergence entirely? How does this refusal affect narrative meaning and audience interpretation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.11",
+                      "question": "In what ways does the interplay of dualities at this stage deepen or complicate the film’s thematic concerns?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.6.12",
+                      "question": "How can this stage be read as a critique of linear, hegemonic narrative forms and their ideological implications?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Parallel-Structure.ME.7.1",
+                      "question": "How does the resolution challenge traditional notions of closure by embracing narrative ambiguity and interpretive openness?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.2",
+                      "question": "In what ways does the resolution enact a meta-critical reflection on the processes of storytelling and audience engagement?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.3",
+                      "question": "How are thematic transformations from earlier stages synthesized or problematized in the resolution to complicate dominant ideological frameworks?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.4",
+                      "question": "What authorial strategies are employed to balance multiple narrative threads while resisting reductive closure?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.5",
+                      "question": "How does the pacing of the resolution influence the audience’s cognitive and emotional processing of complex narrative threads?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.6",
+                      "question": "What role do unresolved tensions or contradictions play in sustaining post-narrative reflection beyond the film’s end?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.7",
+                      "question": "How does the resolution engage with genre conventions to both fulfill and subvert audience expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.8",
+                      "question": "In what ways does the tone and mood of the resolution contribute to the film’s overarching affective and ideological impact?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.9",
+                      "question": "How might non-linear or fragmented presentation of the resolution alter interpretive possibilities and viewer engagement?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.10",
+                      "question": "What if the resolution deliberately resists synthesis, leaving parallel storylines unresolved? How does this choice shape critical discourse?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.11",
+                      "question": "How does the resolution function as a site of negotiation between narrative coherence and thematic complexity?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Parallel-Structure.ME.7.12",
+                      "question": "What are the implications of the resolution for understanding the film’s contribution to broader cultural or philosophical debates?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

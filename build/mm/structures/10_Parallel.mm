@@ -1,0 +1,499 @@
+<map version="freeplane 1.11.5">
+
+<node TEXT="Film" FOLDED="false" ID="ID_1668253879" CREATED="1754168375105" MODIFIED="1754168375105"><hook NAME="MapStyle">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false" />
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
+<font SIZE="24" />
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="NONE" ENDARROW="DEFAULT" />
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false" />
+<richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto" />
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details" />
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes">
+<font SIZE="9" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT" />
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge" />
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#afd3f7" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#afd3f7" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.important" ID="ID_67550811">
+<icon BUILTIN="yes" />
+<arrowlink COLOR="#003399" TRANSPARENCY="255" DESTINATION="ID_67550811" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.flower" COLOR="#ffffff" BACKGROUND_COLOR="#255aba" STYLE="oval" TEXT_ALIGN="CENTER" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="22 pt" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#f9d71c" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="CLOSE_DOTS" MAX_WIDTH="6 cm" MIN_WIDTH="3 cm" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000" STYLE="oval" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt">
+<font SIZE="18" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
+<font SIZE="16" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
+<font SIZE="14" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000">
+<font SIZE="12" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
+<font SIZE="10" />
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5" />
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6" />
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7" />
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8" />
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9" />
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10" />
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11" />
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<node TEXT="Parallel-Structure" FOLDED="true" ID="ID_1211238474" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="Structure" FOLDED="true" ID="ID_1295274923" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="&lt;structure_process: 1. Introduction of Storyline A → 2. Introduction of Storyline B → 3. Development of Storylines → 4. Crosscutting/Interweaving Scenes → 5. Climax of Storylines → 6. Convergence or Contrast of Storylines → 7. Resolution&gt;" ID="ID_1181594917" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="&lt;structure_parts_master&gt;" FOLDED="true" ID="ID_245103518" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="[1/7] 1. Introduction of Storyline A" ID="ID_1887135664" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="[2/7] 2. Introduction of Storyline B" ID="ID_907121881" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="[3/7] 3. Development of Storylines" ID="ID_1378993857" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="[4/7] 4. Crosscutting/Interweaving Scenes" ID="ID_250285916" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="[5/7] 5. Climax of Storylines" ID="ID_1791052145" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="[6/7] 6. Convergence or Contrast of Storylines" ID="ID_455443912" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="[7/7] 7. Resolution" ID="ID_82381733" CREATED="1754168375105" MODIFIED="1754168375105" />
+</node>
+</node>
+<node TEXT="Examples" FOLDED="true" ID="ID_693889517" CREATED="1754169142337" MODIFIED="1754169142337">
+<node TEXT="&lt;examples:Babel, Cloud Atlas, Traffic&gt;" ID="ID_1073420809" CREATED="1754169142337" MODIFIED="1754181750268" />
+</node>
+<node TEXT="Terminology" FOLDED="true" ID="ID_1742943438" CREATED="1754181450038" MODIFIED="1754181450038">
+<node TEXT="1. Introduction of Storyline A → Establishing characters, setting, and tone for first storyline" ID="ID_381381415" CREATED="1754181450038" MODIFIED="1754181450038" />
+<node TEXT="2. Introduction of Storyline B → Establishing characters, setting, and tone for second storyline" ID="ID_144358402" CREATED="1754181450038" MODIFIED="1754181450038" />
+<node TEXT="3. Development of Storylines → Progression of events and conflicts in both storylines" ID="ID_841671672" CREATED="1754181450038" MODIFIED="1754181450038" />
+<node TEXT="4. Crosscutting/Interweaving Scenes → Alternation between storylines to build tension and connections" ID="ID_1263573019" CREATED="1754181450038" MODIFIED="1754181450038" />
+<node TEXT="5. Climax of Storylines → Peak conflicts or turning points in each storyline" ID="ID_208920762" CREATED="1754181450038" MODIFIED="1754181450038" />
+<node TEXT="6. Convergence or Contrast of Storylines → Intersection or thematic comparison of storylines" ID="ID_169276539" CREATED="1754181450038" MODIFIED="1754181450038" />
+<node TEXT="7. Resolution → Final outcomes and closure for both storylines" ID="ID_427962636" CREATED="1754181450038" MODIFIED="1754181450038" />
+</node>
+<node TEXT="Level" FOLDED="true" ID="ID_507227400" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="Beginner" FOLDED="true" ID="ID_860193726" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="[1/7] 1. Introduction of Storyline A" FOLDED="true" ID="ID_1041505959" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="B.1.1 What is the main setting and who are the key characters introduced in Storyline A?" ID="ID_1291315313" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.2 How does Storyline A establish its initial tone or mood?" ID="ID_1047739020" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.3 Why is the introduction of Storyline A important for the overall narrative?" ID="ID_637491049" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.4 How does Storyline A’s beginning create expectations for the viewer?" ID="ID_805309931" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.5 What if Storyline A had a different opening setting? How would that change its impact?" ID="ID_1660024819" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.6 What emotions might the audience feel during the opening scenes of Storyline A?" ID="ID_1945801579" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.7 How does Storyline A’s introduction contribute to the narrative’s framing?" ID="ID_618349439" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.8 What early conflicts or tensions are suggested in Storyline A’s introduction?" ID="ID_1309424498" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.9 How does the pacing of Storyline A’s introduction affect viewer engagement?" ID="ID_1912017989" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.10 Why might the filmmaker choose to focus first on Storyline A?" ID="ID_1136441696" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.11 What key themes are hinted at through Storyline A’s opening scenes?" ID="ID_167755033" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.1.12 How does Storyline A’s introduction set up possibilities for later interaction with other storylines?" ID="ID_1112917400" CREATED="1754168375105" MODIFIED="1754168375105" />
+</node>
+<node TEXT="[2/7] 2. Introduction of Storyline B" FOLDED="true" ID="ID_498179193" CREATED="1754168375105" MODIFIED="1754168375105">
+<node TEXT="B.2.1 How does the introduction of Storyline B differ from Storyline A’s opening?" ID="ID_1159157562" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.2.2 What are the main characters and setting introduced in Storyline B?" ID="ID_1983874472" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.2.3 Why is it important to introduce Storyline B as a separate narrative early on?" ID="ID_270526969" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.2.4 What emotions or moods are evoked in Storyline B’s introduction?" ID="ID_400607204" CREATED="1754168375105" MODIFIED="1754168375105" />
+<node TEXT="B.2.5 How does Storyline B’s introduction create a contrast or complement to Storyline A?" ID="ID_945278752" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.6 What if Storyline B was introduced after some development in Storyline A? How might that change audience understanding?" ID="ID_1884813802" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.7 How do the initial events in Storyline B hint at its future trajectory?" ID="ID_88447812" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.8 What key themes start to emerge through Storyline B’s opening scenes?" ID="ID_22921928" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.9 How does Storyline B’s introduction contribute to the overall narrative framing?" ID="ID_1108224138" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.10 What early conflicts or questions are raised in Storyline B?" ID="ID_170099737" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.11 How might the pacing of Storyline B’s introduction affect audience interest compared to Storyline A?" ID="ID_336740869" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.2.12 Why might a filmmaker alternate the order of introducing multiple storylines?" ID="ID_513751497" CREATED="1754168375106" MODIFIED="1754168375106" />
+</node>
+<node TEXT="[3/7] 3. Development of Storylines" FOLDED="true" ID="ID_37849677" CREATED="1754168375106" MODIFIED="1754168375106">
+<node TEXT="B.3.1 How do Storylines A and B develop their plots independently during this stage?" ID="ID_606478533" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.2 What are the main conflicts or challenges faced in each storyline’s development?" ID="ID_1661138452" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.3 Why is it important for the storylines to develop separately before interacting?" ID="ID_4982800" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.4 How do changes in each storyline create anticipation for their future connection?" ID="ID_648997661" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.5 What emotions arise as each storyline progresses through challenges?" ID="ID_21241533" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.6 How might the development pace differ between Storyline A and B? What effects does this create?" ID="ID_824288414" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.7 What if one storyline’s development is more detailed than the other? How does this affect balance?" ID="ID_1601136018" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.8 How does each storyline’s development contribute to overall themes?" ID="ID_1869090723" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.9 What narrative techniques help maintain audience interest across parallel developments?" ID="ID_1656204327" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.10 Why is maintaining separate narrative arcs important before convergence?" ID="ID_48778445" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.11 How do transformations in each storyline reflect or contrast each other?" ID="ID_997357419" CREATED="1754168375106" MODIFIED="1754168375106" />
+<node TEXT="B.3.12 What if one storyline changes its trajectory suddenly? How does this impact narrative coherence?" ID="ID_1076236343" CREATED="1754168375106" MODIFIED="1754168375106" />
+</node>
+<node TEXT="[4/7] 4. Crosscutting/Interweaving Scenes" FOLDED="true" ID="ID_533783215" CREATED="1754168375182" MODIFIED="1754168375182">
+<node TEXT="B.4.1 How are scenes from Storylines A and B intercut to create a narrative rhythm?" ID="ID_1678974231" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.2 What effect does switching between storylines have on audience engagement?" ID="ID_1394295908" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.3 Why do filmmakers use crosscutting to highlight parallels or contrasts between storylines?" ID="ID_1482440762" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.4 How does the pacing of interwoven scenes influence the story’s mood?" ID="ID_1423254748" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.5 What emotions are evoked when narratives interweave at critical moments?" ID="ID_774560544" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.6 How does crosscutting build suspense or anticipation across storylines?" ID="ID_1049571220" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.7 What if the narratives were shown sequentially instead of intercut? How would this affect impact?" ID="ID_701231379" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.8 How do interwoven scenes emphasize thematic connections?" ID="ID_193838718" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.9 What techniques help the viewer follow multiple storylines during crosscutting?" ID="ID_914202701" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.10 Why is the balance of screen time important when intercutting narratives?" ID="ID_1993816866" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.11 How does the order of scenes affect audience perception of the storylines?" ID="ID_648489668" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.4.12 What authorial choices influence the way parallel storylines are interwoven?" ID="ID_1810029124" CREATED="1754168375182" MODIFIED="1754168375182" />
+</node>
+<node TEXT="[5/7] 5. Climax of Storylines" FOLDED="true" ID="ID_928158950" CREATED="1754168375182" MODIFIED="1754168375182">
+<node TEXT="B.5.1 How do the climaxes in Storylines A and B individually build to tension?" ID="ID_298218792" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.2 What key turning points define the climax of each storyline?" ID="ID_618140712" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.3 Why is it important to have climaxes in both storylines before resolution?" ID="ID_173997674" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.4 How do the emotional stakes rise during each storyline’s climax?" ID="ID_805696487" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.5 What if one storyline’s climax is more dramatic than the other? How does this affect balance?" ID="ID_59183283" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.6 How does the buildup in each storyline prepare the audience for the climax?" ID="ID_1432642763" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.7 What conflicts reach their peak in Storylines A and B during the climax?" ID="ID_382231183" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.8 How might the climaxes reveal new facets of characters or themes?" ID="ID_956645732" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.9 How do the climaxes affect the audience’s emotional investment?" ID="ID_261672167" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.10 Why might a filmmaker choose to synchronize or separate the climaxes?" ID="ID_12573286" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.11 How does tension from both climaxes influence the momentum towards resolution?" ID="ID_960532644" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.5.12 What if the climax of one storyline is ambiguous while the other is clear? How does this shape interpretation?" ID="ID_1341668758" CREATED="1754168375182" MODIFIED="1754168375182" />
+</node>
+<node TEXT="[6/7] 6. Convergence or Contrast of Storylines" FOLDED="true" ID="ID_970157119" CREATED="1754168375182" MODIFIED="1754168375182">
+<node TEXT="B.6.1 How do Storylines A and B converge or contrast at this stage?" ID="ID_148261877" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.2 What thematic links are revealed through the interaction of the storylines?" ID="ID_632283905" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.3 Why is convergence or contrast significant for the overall narrative meaning?" ID="ID_73514629" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.4 How does the convergence affect the viewer’s understanding of each storyline?" ID="ID_1596595699" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.5 What emotions arise when storylines intersect or sharply contrast?" ID="ID_658871415" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.6 How might the narrative change if storylines did not converge at all?" ID="ID_1388941714" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.7 What visual or narrative techniques emphasize convergence or contrast?" ID="ID_239876692" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.8 How does convergence create new meaning from previously separate narratives?" ID="ID_161012594" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.9 What if the storylines converge in unexpected ways? How does this affect interpretation?" ID="ID_1531522882" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.10 Why might a filmmaker choose to highlight differences instead of similarities in this stage?" ID="ID_617488430" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.11 How does this stage prepare the story for final resolution?" ID="ID_29912100" CREATED="1754168375182" MODIFIED="1754168375182" />
+<node TEXT="B.6.12 What new questions arise from the interaction between storylines at convergence?" ID="ID_418569231" CREATED="1754168375182" MODIFIED="1754168375182" />
+</node>
+<node TEXT="[7/7] 7. Resolution" FOLDED="true" ID="ID_1524432896" CREATED="1754168375039" MODIFIED="1754168375039">
+<node TEXT="B.7.1 How are the storylines resolved individually or together at the end?" ID="ID_1472273830" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.2 What emotional closure do the resolutions provide to the audience?" ID="ID_1129930936" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.3 Why is it important to resolve or intentionally leave open the storylines?" ID="ID_322592842" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.4 How does the resolution reflect or transform the themes introduced earlier?" ID="ID_1803834942" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.5 What if one storyline is resolved while another remains ambiguous? How does this affect interpretation?" ID="ID_1703788353" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.6 How does the pacing of the resolution affect audience satisfaction?" ID="ID_1712601568" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.7 What narrative techniques are used to signal the story’s conclusion?" ID="ID_95038687" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.8 How might the resolution highlight character growth or change?" ID="ID_1363769743" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.9 Why might a filmmaker choose to contrast resolutions of different storylines?" ID="ID_1633556700" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.10 What impact does the resolution have on the overall mood or tone of the film?" ID="ID_1316587903" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.11 How does the resolution encourage reflection on the film’s central messages?" ID="ID_542649472" CREATED="1754168375039" MODIFIED="1754168375039" />
+<node TEXT="B.7.12 What next questions might viewers consider after the story concludes?" ID="ID_374135082" CREATED="1754168375039" MODIFIED="1754168375039" />
+</node>
+</node>
+<node TEXT="Intermediate" FOLDED="true" ID="ID_1991663265" CREATED="1754168374969" MODIFIED="1754168374969">
+<node TEXT="[1/7] 1. Introduction of Storyline A" FOLDED="true" ID="ID_205818445" CREATED="1754168374969" MODIFIED="1754168374969">
+<node TEXT="I.1.1 How does the introduction of Storyline A establish its unique narrative voice and perspective?" ID="ID_254938231" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.2 In what ways does Storyline A’s setting influence the initial conflicts presented?" ID="ID_520322300" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.3 How does the filmmaker use visual or auditory cues to differentiate Storyline A?" ID="ID_1550393168" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.4 Why might the introduction of Storyline A be designed to evoke specific audience emotions?" ID="ID_1300741925" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.5 How does Storyline A’s opening create narrative expectations that shape audience interpretation?" ID="ID_81910970" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.6 What thematic elements are embedded in Storyline A’s introduction that resonate through the film?" ID="ID_1633926890" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.7 How does the introduction set up potential narrative tension or ambiguity?" ID="ID_1667290270" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.8 In what ways does Storyline A’s beginning frame character agency and motivation?" ID="ID_993980372" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.9 How might altering the order or style of Storyline A’s introduction impact the overall narrative structure?" ID="ID_1342039818" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.10 What role does pacing play in establishing Storyline A’s initial rhythm and engagement?" ID="ID_1211811347" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.11 How does the introduction of Storyline A establish boundaries that define its narrative space?" ID="ID_967171415" CREATED="1754168374969" MODIFIED="1754168374969" />
+<node TEXT="I.1.12 What if Storyline A’s introduction included elements from Storyline B? How would that change narrative clarity?" ID="ID_1578908301" CREATED="1754168374969" MODIFIED="1754168374969" />
+</node>
+<node TEXT="[2/7] 2. Introduction of Storyline B" FOLDED="true" ID="ID_1655822804" CREATED="1754168374969" MODIFIED="1754168374969">
+<node TEXT="I.2.1 How does Storyline B’s introduction contrast or complement Storyline A in narrative tone and style?" ID="ID_244952456" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.2 What narrative techniques are used to establish Storyline B’s distinct spatial and temporal setting?" ID="ID_19324409" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.3 How does Storyline B’s introduction contribute to building thematic complexity across the film?" ID="ID_1416968074" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.4 In what ways does Storyline B’s opening shape audience expectations differently from Storyline A?" ID="ID_1412943557" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.5 Why is the order and timing of introducing Storyline B critical to audience understanding?" ID="ID_359588188" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.6 How do the characters introduced in Storyline B reflect or subvert archetypes established in Storyline A?" ID="ID_485155208" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.7 What emotional undertones characterize Storyline B’s opening scenes and how are they conveyed?" ID="ID_1123785238" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.8 How might the filmmaker use framing devices to highlight connections between Storylines A and B early on?" ID="ID_1472896332" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.9 What if Storyline B’s introduction was delayed or foreshadowed differently? How would this affect narrative impact?" ID="ID_1680291671" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.10 How does the introduction of Storyline B establish narrative boundaries that maintain clarity?" ID="ID_1552423824" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.11 What are the implications of introducing contrasting narrative voices through Storyline B?" ID="ID_319251609" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.2.12 How does pacing differ between Storylines A and B in their introductions, and what effect does this have?" ID="ID_683221878" CREATED="1754168374970" MODIFIED="1754168374970" />
+</node>
+<node TEXT="[3/7] 3. Development of Storylines" FOLDED="true" ID="ID_102880398" CREATED="1754168374970" MODIFIED="1754168374970">
+<node TEXT="I.3.1 How do the parallel developments in Storylines A and B advance the film’s central themes?" ID="ID_1281830403" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.2 What narrative strategies are used to maintain audience interest across simultaneous developments?" ID="ID_738780407" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.3 How do evolving conflicts in each storyline reflect or challenge each other?" ID="ID_1709829049" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.4 In what ways do character motivations develop differently in the two storylines?" ID="ID_359056925" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.5 How does the pacing of each storyline’s development affect the overall narrative balance?" ID="ID_102806321" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.6 Why is it significant to maintain separate narrative arcs before convergence?" ID="ID_1043912350" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.7 How do the developments foreshadow potential points of convergence or divergence?" ID="ID_158560" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.8 What role does narrative tension play in sustaining parallel storylines?" ID="ID_96761127" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.9 How might contrasting thematic elements in the storylines deepen the film’s message?" ID="ID_586637906" CREATED="1754168374970" MODIFIED="1754168374970" />
+<node TEXT="I.3.10 What if one storyline experiences a narrative disruption while the other progresses smoothly? How does this affect coherence?" ID="ID_1385204605" CREATED="1754168374971" MODIFIED="1754168374971" />
+<node TEXT="I.3.11 How are narrative boundaries negotiated during the development stage to maintain clarity?" ID="ID_672921448" CREATED="1754168374971" MODIFIED="1754168374971" />
+<node TEXT="I.3.12 How does audience perception shift as the storylines develop in parallel rather than sequentially?" ID="ID_1169922542" CREATED="1754168374971" MODIFIED="1754168374971" />
+</node>
+<node TEXT="[4/7] 4. Crosscutting/Interweaving Scenes" FOLDED="true" ID="ID_934584871" CREATED="1754168374903" MODIFIED="1754168374903">
+<node TEXT="I.4.1 How does the technique of crosscutting enhance thematic parallels between Storylines A and B?" ID="ID_1844903822" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.2 In what ways does the interweaving of scenes build narrative tension and audience engagement?" ID="ID_611253613" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.3 How do visual and auditory motifs assist viewers in following the intercut narrative structure?" ID="ID_249038260" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.4 Why might a filmmaker choose a rapid alternation versus a slower transition between storylines?" ID="ID_1330990692" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.5 How does crosscutting contribute to the creation of narrative ambiguity or complexity?" ID="ID_1504074820" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.6 What effects does the juxtaposition of contrasting scenes have on the audience’s interpretation?" ID="ID_1622959930" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.7 How might crosscutting affect the perceived causality between events in different storylines?" ID="ID_20316285" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.8 What role does viewer inference play in understanding interwoven storylines?" ID="ID_535228235" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.9 How do framing and boundaries help maintain coherence during complex crosscutting sequences?" ID="ID_860422434" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.10 What are the risks and benefits of using crosscutting to create parallelism versus dissonance?" ID="ID_1660251375" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.11 How does authorial strategy influence the rhythm and order of crosscut scenes?" ID="ID_1082163436" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.4.12 How does the use of iteration in crosscutting impact the emergent narrative meaning?" ID="ID_1230147814" CREATED="1754168374903" MODIFIED="1754168374903" />
+</node>
+<node TEXT="[5/7] 5. Climax of Storylines" FOLDED="true" ID="ID_472728421" CREATED="1754168374903" MODIFIED="1754168374903">
+<node TEXT="I.5.1 How do the climaxes of Storylines A and B individually intensify their respective conflicts?" ID="ID_1989550030" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.2 In what ways do the parallel climaxes create narrative symmetry or contrast?" ID="ID_1617412171" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.3 How does pacing influence the buildup to the climaxes in each storyline?" ID="ID_984323040" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.4 What emotional or thematic resonance emerges from the juxtaposition of the climaxes?" ID="ID_1081095905" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.5 Why is it important for the climaxes to maintain narrative coherence despite their parallelism?" ID="ID_1742837666" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.6 How do character transformations culminate during the climaxes?" ID="ID_1734636032" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.7 What role does ambiguity play if one or both climaxes leave questions unanswered?" ID="ID_1400041962" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.8 How might the simultaneity or sequence of climaxes affect audience perception?" ID="ID_1542671564" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.9 What narrative risks arise when balancing multiple climaxes, and how can they be managed?" ID="ID_1679743766" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.10 How does the climax stage prepare the narrative for convergence or contrast?" ID="ID_1605439555" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.11 What if one storyline’s climax undermines or contradicts the other? How does this affect interpretation?" ID="ID_57859689" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.5.12 How do climaxes contribute to the overall cathartic experience for the audience?" ID="ID_973588715" CREATED="1754168374903" MODIFIED="1754168374903" />
+</node>
+<node TEXT="[6/7] 6. Convergence or Contrast of Storylines" FOLDED="true" ID="ID_889535515" CREATED="1754168374903" MODIFIED="1754168374903">
+<node TEXT="I.6.1 How do the storylines converge or contrast to create a unified or fragmented narrative?" ID="ID_503175318" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.6.2 What thematic insights emerge from the interaction of the parallel storylines at this stage?" ID="ID_102201383" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.6.3 How does convergence or contrast influence audience interpretation and emotional response?" ID="ID_1950676003" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.6.4 In what ways do visual or narrative framing devices highlight the relationship between storylines?" ID="ID_1079801133" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.6.5 What are the implications of unresolved contrasts between storylines at convergence?" ID="ID_1102808996" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.6.6 How might the narrative meaning shift if the storylines converge versus remain contrasted?" ID="ID_931202331" CREATED="1754168374903" MODIFIED="1754168374903" />
+<node TEXT="I.6.7 What role does ambiguity play in the convergence or contrast stage?" ID="ID_1119427111" CREATED="1754168374904" MODIFIED="1754168374904" />
+<node TEXT="I.6.8 How does this stage prepare the narrative’s final resolution or denouement?" ID="ID_1002088323" CREATED="1754168374904" MODIFIED="1754168374904" />
+<node TEXT="I.6.9 How do audience expectations influence the perception of storyline convergence or contrast?" ID="ID_1442714496" CREATED="1754168374904" MODIFIED="1754168374904" />
+<node TEXT="I.6.10 What narrative techniques are employed to balance coherence and complexity in this stage?" ID="ID_1152207196" CREATED="1754168374904" MODIFIED="1754168374904" />
+<node TEXT="I.6.11 How does the interplay of dualities at convergence enrich the film’s message?" ID="ID_40713845" CREATED="1754168374904" MODIFIED="1754168374904" />
+<node TEXT="I.6.12 What if the convergence subverts traditional narrative expectations? How does this impact critical interpretation?" ID="ID_1162171630" CREATED="1754168374904" MODIFIED="1754168374904" />
+</node>
+<node TEXT="[7/7] 7. Resolution" FOLDED="true" ID="ID_664685843" CREATED="1754168374839" MODIFIED="1754168374839">
+<node TEXT="I.7.1 How does the resolution reconcile or emphasize the differences between Storylines A and B?" ID="ID_1022196906" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.2 In what ways does the resolution provide thematic closure while maintaining narrative complexity?" ID="ID_1599028104" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.3 How do character arcs conclude in each storyline, and what does this reveal about transformation?" ID="ID_1411482334" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.4 Why might a filmmaker choose to leave one storyline’s resolution ambiguous? How does this affect audience interpretation?" ID="ID_1570797471" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.5 How does the pacing of the resolution influence the emotional impact on the audience?" ID="ID_351595699" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.6 What narrative devices are used to signal finality or openness in the film’s conclusion?" ID="ID_1415181075" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.7 How does the resolution invite viewers to reconsider earlier narrative assumptions or themes?" ID="ID_877042866" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.8 What role does ambiguity play in sustaining the film’s meaning beyond its resolution?" ID="ID_1739904006" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.9 How might the resolution challenge or reinforce traditional narrative expectations within parallel storytelling?" ID="ID_1658464126" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.10 What emotions does the resolution evoke, and how are these aligned with the film’s overall tone?" ID="ID_1239914781" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.11 How does the resolution shape the viewer’s final understanding of the film’s message?" ID="ID_509672758" CREATED="1754168374839" MODIFIED="1754168374839" />
+<node TEXT="I.7.12 What future questions or possibilities does the resolution leave open for interpretation or continuation?" ID="ID_967296446" CREATED="1754168374839" MODIFIED="1754168374839" />
+</node>
+</node>
+<node TEXT="Advanced" FOLDED="true" ID="ID_1495278202" CREATED="1754168374772" MODIFIED="1754168374772">
+<node TEXT="[1/7] 1. Introduction of Storyline A" FOLDED="true" ID="ID_1524780869" CREATED="1754168374772" MODIFIED="1754168374772">
+<node TEXT="A.1.1 How does the introduction of Storyline A utilize framing devices to establish its narrative scope and epistemic limits?" ID="ID_903435709" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.2 In what ways does the filmmaker subvert traditional narrative expectations in Storyline A’s opening scenes?" ID="ID_857871585" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.3 How do visual motifs in Storyline A’s introduction foreshadow thematic transformations later in the film?" ID="ID_864454692" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.4 What role does ambiguity play in shaping audience interpretation during the introduction of Storyline A?" ID="ID_1408496167" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.5 How does the introduction manipulate temporal form to challenge continuity and perspective?" ID="ID_1963797719" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.6 What is the significance of boundary-setting in distinguishing Storyline A from Storyline B at this stage?" ID="ID_352976737" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.7 How does the introduction explore agency and intention of key characters within Storyline A?" ID="ID_485029455" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.8 How do pacing and repetition function to establish narrative rhythm in Storyline A’s opening?" ID="ID_1036131031" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.9 What cognitive challenges does Storyline A’s introduction pose to the audience, and how are they resolved?" ID="ID_302927536" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.10 How does the authorial strategy in Storyline A’s opening influence audience engagement and expectation?" ID="ID_82766681" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.11 What transformations in mood or tone are initiated in Storyline A’s introduction?" ID="ID_1709676307" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.1.12 What if Storyline A’s introduction were presented from Storyline B’s perspective? How would this alter interpretive possibilities?" ID="ID_1602398469" CREATED="1754168374772" MODIFIED="1754168374772" />
+</node>
+<node TEXT="[2/7] 2. Introduction of Storyline B" FOLDED="true" ID="ID_41200766" CREATED="1754168374772" MODIFIED="1754168374772">
+<node TEXT="A.2.1 How does Storyline B’s introduction function as a foil or complement to Storyline A’s opening?" ID="ID_1158684244" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.2 In what ways does the filmmaker employ framing and perspective to delineate Storyline B’s narrative space?" ID="ID_1828435541" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.3 How does the temporal structure of Storyline B’s introduction challenge or reinforce narrative coherence?" ID="ID_1394322627" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.4 What thematic tensions are introduced through Storyline B’s opening, and how do they interact with Storyline A’s themes?" ID="ID_1875930804" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.5 How does ambiguity function to complicate initial audience readings of Storyline B?" ID="ID_157603310" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.6 What authorial strategies are evident in Storyline B’s introduction to shape narrative expectations?" ID="ID_1049983245" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.7 How do narrative boundaries in Storyline B’s opening maintain clarity amidst the film’s structural complexity?" ID="ID_489942846" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.8 What role does character agency play in defining Storyline B’s narrative trajectory early on?" ID="ID_741898173" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.9 How does pacing in Storyline B’s introduction create contrast or harmony with Storyline A?" ID="ID_806355578" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.10 What if the introduction of Storyline B were reordered or intercut with Storyline A? How would this affect narrative interpretation?" ID="ID_345354573" CREATED="1754168374772" MODIFIED="1754168374772" />
+<node TEXT="A.2.11 How do visual and thematic motifs in Storyline B’s opening set up potential narrative transformations?" ID="ID_1695769867" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.2.12 Why might a filmmaker choose to emphasize contrast rather than convergence in the storylines’ introductions?" ID="ID_1456017932" CREATED="1754168374773" MODIFIED="1754168374773" />
+</node>
+<node TEXT="[3/7] 3. Development of Storylines" FOLDED="true" ID="ID_543984320" CREATED="1754168374773" MODIFIED="1754168374773">
+<node TEXT="A.3.1 How does the development stage deepen thematic complexity across Storylines A and B?" ID="ID_224799125" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.2 In what ways do parallel developments reflect systemic interactions or feedback loops within the narrative?" ID="ID_247869562" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.3 How are conflicts and tensions dynamically escalated across the two storylines to sustain narrative drive?" ID="ID_754193080" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.4 How does character agency evolve differently within each storyline’s development, and what does this reveal about narrative intention?" ID="ID_1794206649" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.5 What pacing strategies are employed to balance audience attention between simultaneous narrative arcs?" ID="ID_1067247759" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.6 How do narrative boundaries shift or blur during the development phase, and what effect does this have on coherence?" ID="ID_1207410099" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.7 What role does foreshadowing play in setting up potential convergence or divergence of the storylines?" ID="ID_909479052" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.8 How does the interplay of dualities such as order and chaos or stability and disruption manifest during development?" ID="ID_1855726399" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.9 What are the cognitive and emotional effects on the audience of following multiple parallel narrative threads?" ID="ID_81287022" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.10 How does the authorial strategy during development manipulate narrative tension and audience expectation?" ID="ID_276989548" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.11 What if the development of one storyline disrupts the narrative flow of the other? How can this be thematically justified?" ID="ID_1587503675" CREATED="1754168374773" MODIFIED="1754168374773" />
+<node TEXT="A.3.12 How does transformation at this stage set the stage for eventual convergence or contrast?" ID="ID_768531283" CREATED="1754168374773" MODIFIED="1754168374773" />
+</node>
+<node TEXT="[4/7] 4. Crosscutting/Interweaving Scenes" FOLDED="true" ID="ID_1265904751" CREATED="1754168374706" MODIFIED="1754168374706">
+<node TEXT="A.4.1 How does the crosscutting technique function as an iterative device to reinforce or disrupt thematic coherence across storylines?" ID="ID_1677101489" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.2 In what ways do the interwoven scenes generate emergent meanings that exceed the sum of individual storylines?" ID="ID_970571787" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.3 How do pacing variations in crosscutting affect audience perception of temporal and causal relations?" ID="ID_1659583362" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.4 What role does authorial strategy play in determining the rhythm and order of intercut scenes to shape narrative tension?" ID="ID_1698730175" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.5 How might visual and auditory motifs serve as boundary markers to maintain clarity within complex intercut sequences?" ID="ID_548926084" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.6 How does the juxtaposition of contrasting narrative elements via crosscutting create productive paradoxes or dualities?" ID="ID_1479772694" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.7 In what ways does crosscutting challenge or affirm traditional narrative continuity and causality?" ID="ID_77229825" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.8 How does crosscutting engage viewer inference to bridge fragmented narrative pieces into coherent understanding?" ID="ID_1838333407" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.9 What are the cognitive implications of iterative crosscutting for audience memory and focus?" ID="ID_1921524105" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.10 How can crosscutting be used strategically to create ambiguity without sacrificing narrative clarity?" ID="ID_1817962477" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.11 How does iterative crosscutting contribute to the film’s overall thematic transformation?" ID="ID_844843678" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.4.12 What if crosscutting were replaced by sequential storytelling? How would this alter emergent meanings and audience engagement?" ID="ID_814709339" CREATED="1754168374706" MODIFIED="1754168374706" />
+</node>
+<node TEXT="[5/7] 5. Climax of Storylines" FOLDED="true" ID="ID_225424259" CREATED="1754168374706" MODIFIED="1754168374706">
+<node TEXT="A.5.1 How do the climaxes in Storylines A and B function as convergent or divergent points of narrative conflict?" ID="ID_505614232" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.2 In what ways do the climaxes reflect or subvert traditional notions of narrative resolution and catharsis?" ID="ID_1647344220" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.3 How does pacing at the climax stage heighten the emotional and thematic stakes across storylines?" ID="ID_737679607" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.4 What narrative techniques are used to balance multiple climaxes without fragmenting audience engagement?" ID="ID_1748787994" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.5 How do character arcs culminate during the climaxes to reveal deeper transformations?" ID="ID_1881477044" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.6 What role does ambiguity play in maintaining complexity at the climax stage?" ID="ID_847406751" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.7 How might simultaneous versus sequential climaxes alter audience interpretation and emotional response?" ID="ID_1356791067" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.8 What narrative risks arise from parallel climaxes, and how can they be mitigated through authorial strategy?" ID="ID_53916027" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.9 How does the climax stage set up for potential convergence or contrast in the narrative resolution?" ID="ID_1437019864" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.10 What if one storyline’s climax undermines the other’s? How does this tension influence overall narrative coherence?" ID="ID_1258593337" CREATED="1754168374706" MODIFIED="1754168374706" />
+<node TEXT="A.5.11 How does the climax contribute to the film’s thematic depth and audience catharsis?" ID="ID_1724639724" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.5.12 How do the climaxes interrogate the duality between order and chaos within the narrative?" ID="ID_1943223920" CREATED="1754168374707" MODIFIED="1754168374707" />
+</node>
+<node TEXT="[6/7] 6. Convergence or Contrast of Storylines" FOLDED="true" ID="ID_1915817491" CREATED="1754168374707" MODIFIED="1754168374707">
+<node TEXT="A.6.1 How does the convergence or contrast of storylines enact dialectical synthesis or thematic tension?" ID="ID_1415240543" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.2 What philosophical or ideological insights emerge from the interplay of converging or contrasting storylines?" ID="ID_568154792" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.3 In what ways does framing highlight or obscure the boundaries between convergent or contrasted narratives?" ID="ID_136268111" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.4 How do unresolved contrasts at convergence invite ongoing ambiguity and interpretive openness?" ID="ID_973279613" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.5 How does this stage negotiate narrative closure versus disruption in preparing for resolution?" ID="ID_1208456111" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.6 What role do audience expectations and cultural conventions play in interpreting convergence or contrast?" ID="ID_1891038901" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.7 How does the duality of convergence and contrast function as a meta-critical commentary on storytelling itself?" ID="ID_1480698801" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.8 What narrative strategies balance coherence with complexity during this stage?" ID="ID_1195316868" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.9 How does this stage set the tone and emotional tenor for the final resolution?" ID="ID_858825429" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.10 What if the storylines refuse to converge? How does this choice affect narrative meaning and audience response?" ID="ID_292240021" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.11 How does the interplay of dualities enrich or complicate the film’s thematic exploration?" ID="ID_656650591" CREATED="1754168374707" MODIFIED="1754168374707" />
+<node TEXT="A.6.12 In what ways can this stage serve as a critique of linear narrative conventions?" ID="ID_306735444" CREATED="1754168374707" MODIFIED="1754168374707" />
+</node>
+<node TEXT="[7/7] 7. Resolution" FOLDED="true" ID="ID_1520841494" CREATED="1754168374641" MODIFIED="1754168374641">
+<node TEXT="A.7.1 How does the resolution negotiate between closure and openness to sustain thematic complexity across parallel storylines?" ID="ID_232704989" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.2 In what ways does the resolution challenge conventional narrative closure through ambiguity or fragmentation?" ID="ID_1965542582" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.3 How do character arcs culminate in the resolution to reflect broader narrative transformations?" ID="ID_105254017" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.4 What narrative strategies are employed to balance multiple resolutions while maintaining coherence?" ID="ID_243748773" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.5 How does the resolution's pacing influence the emotional and intellectual impact on the audience?" ID="ID_749528225" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.6 What role does authorial strategy play in framing the resolution to invite varied audience interpretations?" ID="ID_1039491786" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.7 How does the resolution engage with or subvert audience expectations grounded in genre conventions?" ID="ID_1476672578" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.8 In what ways does the resolution serve as a meta-critical commentary on the act of storytelling itself?" ID="ID_369458972" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.9 How might unresolved narrative elements at the resolution stage provoke ongoing audience reflection and discourse?" ID="ID_1447762731" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.10 What emotional tones are evoked in the resolution, and how do they align with or complicate the film’s overarching mood?" ID="ID_68880052" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.11 How does the resolution influence the viewer’s ultimate interpretation of the film’s thematic message?" ID="ID_760179715" CREATED="1754168374641" MODIFIED="1754168374641" />
+<node TEXT="A.7.12 What if the resolution were presented non-linearly or from a different narrative perspective? How would this alter meaning and engagement?" ID="ID_1558749026" CREATED="1754168374641" MODIFIED="1754168374641" />
+</node>
+</node>
+<node TEXT="Meta/Expert" FOLDED="true" ID="ID_1842125372" CREATED="1754168374563" MODIFIED="1754168374563">
+<node TEXT="[1/7] 1. Introduction of Storyline A" FOLDED="true" ID="ID_701237467" CREATED="1754168374563" MODIFIED="1754168374563">
+<node TEXT="ME.1.1 How does the framing of Storyline A’s introduction engage with and challenge dominant cultural narratives or ideologies?" ID="ID_1922696593" CREATED="1754168374563" MODIFIED="1754168374563" />
+<node TEXT="ME.1.2 In what ways does the introduction utilize metanarrative techniques to foreground the constructed nature of Storyline A?" ID="ID_715878850" CREATED="1754168374563" MODIFIED="1754168374563" />
+<node TEXT="ME.1.3 How can the ambiguity in Storyline A’s opening serve as a critical device to destabilize fixed meanings?" ID="ID_661002734" CREATED="1754168374563" MODIFIED="1754168374563" />
+<node TEXT="ME.1.4 What are the implications of the introduction’s boundary-setting for systemic power relations within the narrative?" ID="ID_1702366296" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.5 How does the introduction interrogate the agency of marginalized or silenced characters within Storyline A?" ID="ID_1501830087" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.6 In what ways does temporal disruption in Storyline A’s introduction function as a critique of linear historicity?" ID="ID_616180668" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.7 How does the authorial strategy manifest in the introduction to challenge audience expectations about narrative authority?" ID="ID_1925540905" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.8 What role do emergent patterns play in signaling thematic undercurrents in Storyline A’s opening?" ID="ID_1247602630" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.9 How might scale and perspective shifts in the introduction reveal underlying social or psychological structures?" ID="ID_274466896" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.10 What if Storyline A’s introduction were deconstructed to expose ideological biases embedded within its framing?" ID="ID_182757943" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.11 How does the introduction engage cognitive learning mechanisms to both invite and disrupt viewer understanding?" ID="ID_1052017375" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.1.12 How does the tone established in Storyline A’s introduction anticipate or complicate subsequent narrative developments?" ID="ID_1797407985" CREATED="1754168374565" MODIFIED="1754168374565" />
+</node>
+<node TEXT="[2/7] 2. Introduction of Storyline B" FOLDED="true" ID="ID_1499453561" CREATED="1754168374565" MODIFIED="1754168374565">
+<node TEXT="ME.2.1 How does Storyline B’s introduction function as a counter-framing to Storyline A, interrogating dominant narratives or power structures?" ID="ID_540876826" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.2.2 In what ways does Storyline B employ reflexivity to question the nature of storytelling and narrative authority?" ID="ID_1395300121" CREATED="1754168374565" MODIFIED="1754168374565" />
+<node TEXT="ME.2.3 How does ambiguity in Storyline B’s introduction subvert audience expectations and open space for multiple interpretations?" ID="ID_106576809" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.4 What systemic dynamics are exposed through boundary negotiations in Storyline B’s opening narrative?" ID="ID_254260363" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.5 How is agency distributed or contested among characters introduced in Storyline B’s opening, and what does this reveal about power relations?" ID="ID_16766215" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.6 How does temporal and spatial disruption in Storyline B challenge linear notions of time and place?" ID="ID_1617804170" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.7 What authorial strategies are deployed in Storyline B’s introduction to destabilize conventional narrative authority?" ID="ID_1532136427" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.8 How do emergent narrative patterns in Storyline B’s introduction suggest deeper thematic or ideological concerns?" ID="ID_1650412915" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.9 How might shifts in scale and perspective in Storyline B’s opening reveal or obscure social hierarchies or psychological depth?" ID="ID_1089480925" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.10 What if Storyline B’s introduction were read through a critical theory lens? How would this reshape interpretive possibilities?" ID="ID_1477932333" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.11 How does Storyline B’s introduction manipulate cognitive dissonance to engage or unsettle viewers?" ID="ID_1454508122" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.2.12 How does the mood and tone in Storyline B’s opening set up expectations for its thematic trajectory?" ID="ID_1810017268" CREATED="1754168374566" MODIFIED="1754168374566" />
+</node>
+<node TEXT="[3/7] 3. Development of Storylines" FOLDED="true" ID="ID_1179684676" CREATED="1754168374566" MODIFIED="1754168374566">
+<node TEXT="ME.3.1 How does the development phase enact complex transformations that interrogate systemic social or psychological structures?" ID="ID_848282079" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.2 In what ways do feedback loops within and between Storylines A and B reveal emergent narrative dynamics?" ID="ID_278943716" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.3 How are tensions between order and chaos negotiated during the development, and what thematic purposes do they serve?" ID="ID_274883084" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.4 How do evolving character agencies reflect or resist hegemonic power within the narrative system?" ID="ID_1031905886" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.5 What pacing strategies are employed to facilitate cognitive engagement with simultaneous complex narrative threads?" ID="ID_605236630" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.6 How do boundaries shift dynamically to both separate and connect parallel storylines in the development phase?" ID="ID_1031792660" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.7 What role does foreshadowing play in preparing audiences for the eventual dialectical synthesis or disruption?" ID="ID_393621621" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.8 How does the interplay of paradox and duality manifest in thematic and narrative structures during development?" ID="ID_1183828144" CREATED="1754168374566" MODIFIED="1754168374566" />
+<node TEXT="ME.3.9 What cognitive challenges arise from following multiple complex storylines, and how does the film guide viewer focus?" ID="ID_904428020" CREATED="1754168374567" MODIFIED="1754168374567" />
+<node TEXT="ME.3.10 How does the authorial strategy during development utilize disruption to provoke critical reflection?" ID="ID_1910259073" CREATED="1754168374567" MODIFIED="1754168374567" />
+<node TEXT="ME.3.11 What if the development phase inverted traditional narrative causality? How would this reshape meaning and engagement?" ID="ID_1423044969" CREATED="1754168374567" MODIFIED="1754168374567" />
+<node TEXT="ME.3.12 How do transformations in this phase set the groundwork for meta-critical commentary in later stages?" ID="ID_1993167773" CREATED="1754168374567" MODIFIED="1754168374567" />
+</node>
+<node TEXT="[4/7] 4. Crosscutting/Interweaving Scenes" FOLDED="true" ID="ID_1258483185" CREATED="1754168374487" MODIFIED="1754168374487">
+<node TEXT="ME.4.1 How does the iterative technique of crosscutting function as a meta-narrative tool to reveal emergent properties and challenge linear temporality?" ID="ID_1495359352" CREATED="1754168374487" MODIFIED="1754168374487" />
+<node TEXT="ME.4.2 In what ways does the interweaving of scenes generate complex feedback loops that destabilize traditional cause and effect within the narrative system?" ID="ID_884109456" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.3 How do patterns of repetition and variation in crosscutting contribute to thematic accumulation and cognitive engagement?" ID="ID_430681511" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.4 What authorial strategies govern the rhythm and disjunctions of intercut scenes to produce reflexive audience awareness?" ID="ID_204087940" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.5 How do boundary markers within crosscut sequences negotiate clarity while enabling interpretive openness?" ID="ID_638997040" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.6 How does the juxtaposition of paradoxical elements via crosscutting interrogate dualities such as order and chaos or presence and absence?" ID="ID_687755027" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.7 In what ways does crosscutting disrupt conventional narrative continuity and invite multi-layered temporal readings?" ID="ID_111822211" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.8 How does viewer inference operate in assembling fragmented narrative elements into emergent meanings during interweaving scenes?" ID="ID_316239803" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.9 What are the cognitive and emotional implications of crosscutting-induced fragmentation for audience memory and focus?" ID="ID_1571472881" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.10 How can ambiguity be strategically maintained in crosscutting without undermining narrative coherence?" ID="ID_1536340065" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.11 What transformations in narrative and thematic depth emerge uniquely from the iterative process of crosscutting?" ID="ID_1482409012" CREATED="1754168374488" MODIFIED="1754168374488" />
+<node TEXT="ME.4.12 What if the film abandoned crosscutting in favor of linear sequencing? How would this reshape interpretive possibilities and thematic resonance?" ID="ID_1659718157" CREATED="1754168374489" MODIFIED="1754168374489" />
+</node>
+<node TEXT="[5/7] 5. Climax of Storylines" FOLDED="true" ID="ID_262232726" CREATED="1754168374489" MODIFIED="1754168374489">
+<node TEXT="ME.5.1 How do simultaneous climaxes function as a dialectical tension that challenges traditional resolution paradigms?" ID="ID_1933358387" CREATED="1754168374489" MODIFIED="1754168374489" />
+<node TEXT="ME.5.2 In what ways do the climaxes destabilize audience expectations regarding catharsis and closure?" ID="ID_1605850453" CREATED="1754168374489" MODIFIED="1754168374489" />
+<node TEXT="ME.5.3 How does the pacing of converging climaxes reflect or resist the cultural rhythms and ideologies embedded in the narrative?" ID="ID_644027960" CREATED="1754168374489" MODIFIED="1754168374489" />
+<node TEXT="ME.5.4 What authorial strategies orchestrate the interplay of multiple climaxes to provoke critical reflection on narrative form?" ID="ID_695213754" CREATED="1754168374489" MODIFIED="1754168374489" />
+<node TEXT="ME.5.5 How do character transformations at the climaxes interrogate notions of agency, power, and resistance within the storyworld?" ID="ID_349678724" CREATED="1754168374489" MODIFIED="1754168374489" />
+<node TEXT="ME.5.6 How is ambiguity leveraged at the climax stage to maintain thematic complexity and open-endedness?" ID="ID_1801700545" CREATED="1754168374490" MODIFIED="1754168374490" />
+<node TEXT="ME.5.7 What are the implications of simultaneous versus sequential climaxes for audience engagement and interpretive multiplicity?" ID="ID_1008781547" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.5.8 How do the risks inherent in parallel climaxes contribute to the film’s meta-critical interrogation of storytelling conventions?" ID="ID_960979937" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.5.9 How does the climax phase mediate between narrative tension and thematic synthesis or rupture?" ID="ID_1338898321" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.5.10 What if one storyline’s climax intentionally subverts the other’s? How does this dialectic influence the film’s ideological stance?" ID="ID_92637051" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.5.11 How do the climaxes enact or resist closure in relation to broader cultural or philosophical narratives?" ID="ID_1723769489" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.5.12 In what ways do the climaxes embody paradoxes central to the film’s thematic exploration?" ID="ID_144651959" CREATED="1754168374491" MODIFIED="1754168374491" />
+</node>
+<node TEXT="[6/7] 6. Convergence or Contrast of Storylines" FOLDED="true" ID="ID_397290938" CREATED="1754168374491" MODIFIED="1754168374491">
+<node TEXT="ME.6.1 How does the convergence or contrast stage enact a dialectical synthesis or critique of narrative dualities and contradictions?" ID="ID_1219811198" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.2 What meta-critical insights emerge from the interplay between converging and contrasting storylines regarding narrative authority and ideology?" ID="ID_1423976664" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.3 In what ways do framing and boundary dynamics at this stage problematize or reinforce systemic structures within the film’s narrative?" ID="ID_1358735153" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.4 How does unresolved contrast function as a deliberate strategy to sustain interpretive openness and audience engagement?" ID="ID_598200992" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.5 What role do cultural and genre conventions play in shaping audience reception of convergence versus contrast?" ID="ID_558769189" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.6 How does this stage negotiate between narrative closure and disruption to challenge dominant storytelling paradigms?" ID="ID_89391667" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.7 How does the duality of convergence and contrast serve as a meta-narrative commentary on storytelling itself?" ID="ID_934935401" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.8 What narrative balances are struck to maintain coherence without sacrificing complexity or thematic depth?" ID="ID_709192801" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.9 How does the tone established during this stage set the emotional and intellectual tenor for the film’s resolution?" ID="ID_1391688317" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.10 What if the storylines resist convergence entirely? How does this refusal affect narrative meaning and audience interpretation?" ID="ID_1689132656" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.11 In what ways does the interplay of dualities at this stage deepen or complicate the film’s thematic concerns?" ID="ID_126547821" CREATED="1754168374491" MODIFIED="1754168374491" />
+<node TEXT="ME.6.12 How can this stage be read as a critique of linear, hegemonic narrative forms and their ideological implications?" ID="ID_1254319259" CREATED="1754168374492" MODIFIED="1754168374492" />
+</node>
+<node TEXT="[7/7] 7. Resolution" FOLDED="true" ID="ID_337603162" CREATED="1754168374419" MODIFIED="1754168374419">
+<node TEXT="ME.7.1 How does the resolution challenge traditional notions of closure by embracing narrative ambiguity and interpretive openness?" ID="ID_472293643" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.2 In what ways does the resolution enact a meta-critical reflection on the processes of storytelling and audience engagement?" ID="ID_134468488" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.3 How are thematic transformations from earlier stages synthesized or problematized in the resolution to complicate dominant ideological frameworks?" ID="ID_1031881275" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.4 What authorial strategies are employed to balance multiple narrative threads while resisting reductive closure?" ID="ID_487633095" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.5 How does the pacing of the resolution influence the audience’s cognitive and emotional processing of complex narrative threads?" ID="ID_1112617766" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.6 What role do unresolved tensions or contradictions play in sustaining post-narrative reflection beyond the film’s end?" ID="ID_339366513" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.7 How does the resolution engage with genre conventions to both fulfill and subvert audience expectations?" ID="ID_755323147" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.8 In what ways does the tone and mood of the resolution contribute to the film’s overarching affective and ideological impact?" ID="ID_960947487" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.9 How might non-linear or fragmented presentation of the resolution alter interpretive possibilities and viewer engagement?" ID="ID_1363017944" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.10 What if the resolution deliberately resists synthesis, leaving parallel storylines unresolved? How does this choice shape critical discourse?" ID="ID_503718289" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.11 How does the resolution function as a site of negotiation between narrative coherence and thematic complexity?" ID="ID_903909621" CREATED="1754168374419" MODIFIED="1754168374419" />
+<node TEXT="ME.7.12 What are the implications of the resolution for understanding the film’s contribution to broader cultural or philosophical debates?" ID="ID_479447155" CREATED="1754168374419" MODIFIED="1754168374419" />
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>

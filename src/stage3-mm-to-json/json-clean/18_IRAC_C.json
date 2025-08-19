@@ -1,0 +1,1141 @@
+{
+  "discipline": "Law",
+  "children": [
+    {
+      "structure_name": "IRAC-Method",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Issue → 2. Rule → 3. Application → 4. Conclusion"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Issue"
+                },
+                {
+                  "structure_part": "[2/4] 2. Rule"
+                },
+                {
+                  "structure_part": "[3/4] 3. Application"
+                },
+                {
+                  "structure_part": "[4/4] 4. Conclusion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Analyzing a breach of contract case, Writing a legal memo, Arguing a tort liability scenario"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Issue → Legal Question / Contested Matter / Factual Dispute"
+            },
+            {
+              "terminology": "2. Rule → Legal Principle / Statutory Basis / Precedent"
+            },
+            {
+              "terminology": "3. Application → Analysis / Argument / Interpretation"
+            },
+            {
+              "terminology": "4. Conclusion → Resolution / Holding / Outcome"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Issue",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.B.1.1",
+                      "question": "What is the main legal question in this scenario?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.2",
+                      "question": "How can the issue be framed as a yes-or-no question?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.3",
+                      "question": "Why is identifying the issue the first step in legal reasoning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.4",
+                      "question": "What facts make this issue legally significant?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.5",
+                      "question": "What are some common mistakes in stating a legal issue?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.6",
+                      "question": "How can you distinguish between a factual issue and a legal issue?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.7",
+                      "question": "How does the issue determine the rest of the analysis?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.8",
+                      "question": "What if the issue was framed more broadly or narrowly—how would that affect your analysis?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.9",
+                      "question": "How might the tone or language of the issue affect the reader’s perception of importance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.10",
+                      "question": "What assumptions are built into how the issue is stated?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.11",
+                      "question": "How does identifying multiple possible issues affect the structure of your essay?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.1.12",
+                      "question": "What is the relationship between a legal issue and the real-world conflict it represents?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Rule",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.B.2.1",
+                      "question": "What legal rule or principle governs this issue?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.2",
+                      "question": "Where does this rule come from—case law, statute, or another source?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.3",
+                      "question": "How do you summarize the rule without losing key detail?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.4",
+                      "question": "Why is this rule relevant to the issue identified?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.5",
+                      "question": "What are the elements or conditions of the rule?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.6",
+                      "question": "How do courts typically interpret this rule?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.7",
+                      "question": "What if different jurisdictions use different rules—how does that change the analysis?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.8",
+                      "question": "How would you apply this rule in a different factual context?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.9",
+                      "question": "How does stating the rule clearly help your audience follow your reasoning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.10",
+                      "question": "What tone does a strong rule statement convey—certainty, caution, neutrality?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.11",
+                      "question": "How does the rule connect to broader principles of justice or policy?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.2.12",
+                      "question": "Why is it important to cite the rule’s source accurately?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Application",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.B.3.1",
+                      "question": "How does the rule apply to the specific facts of the case?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.2",
+                      "question": "What factual details are most important in this application?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.3",
+                      "question": "What steps do you take to connect facts to legal rules?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.4",
+                      "question": "Why is this the most complex part of legal analysis?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.5",
+                      "question": "What counterarguments could be raised against your application?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.6",
+                      "question": "How do you evaluate the strength of an application argument?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.7",
+                      "question": "What if two interpretations of the same fact lead to different outcomes?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.8",
+                      "question": "How can analogy help clarify your application?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.9",
+                      "question": "What tone or rhetorical strategy helps persuade your reader in this section?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.10",
+                      "question": "How might audience expectations shape how you apply the rule?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.11",
+                      "question": "How does writing out the application section clarify your own understanding?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.3.12",
+                      "question": "What would happen if this application ignored key facts—how would that affect credibility?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.B.4.1",
+                      "question": "What is the final answer to the legal issue based on your reasoning?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.2",
+                      "question": "How should the conclusion be phrased to clearly reflect your analysis?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.3",
+                      "question": "Why is it important not to introduce new ideas in the conclusion?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.4",
+                      "question": "What makes a conclusion feel complete or satisfying in legal writing?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.5",
+                      "question": "How does the conclusion reinforce your rule and application sections?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.6",
+                      "question": "What are signs that a conclusion may be too vague or unsupported?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.7",
+                      "question": "What if you included a recommendation or next step in the conclusion—would that help or distract?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.8",
+                      "question": "How might the tone of your conclusion affect the reader’s impression of your argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.9",
+                      "question": "How does a well-structured conclusion reflect critical thinking skills?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.10",
+                      "question": "What makes a conclusion legally persuasive as well as logically sound?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.11",
+                      "question": "Why is it useful to revisit the original issue when writing the conclusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.B.4.12",
+                      "question": "How can you revise a weak conclusion to make it stronger and clearer?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Issue",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.I.1.1",
+                      "question": "How do you differentiate between primary and secondary legal issues in a complex case?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.2",
+                      "question": "Why is precise framing of the issue critical for effective legal analysis?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.3",
+                      "question": "How can multiple issues interact or conflict within a single case?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.4",
+                      "question": "What strategies help in narrowing a broad legal issue to a manageable question?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.5",
+                      "question": "How does the context or background influence the way the issue is framed?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.6",
+                      "question": "What if an issue is ambiguous—how can you clarify or redefine it for stronger analysis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.7",
+                      "question": "How does the issue relate to the underlying facts and legal principles involved?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.8",
+                      "question": "How might different stakeholders perceive the issue differently?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.9",
+                      "question": "What impact does the wording of the issue have on the audience’s understanding or bias?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.10",
+                      "question": "How can you use framing to highlight the significance of an issue in your argument?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.11",
+                      "question": "What role does critical questioning play in refining the legal issue?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.1.12",
+                      "question": "How can framing affect the logical flow of your entire IRAC analysis?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Rule",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.I.2.1",
+                      "question": "How do you evaluate the relevance and authority of different legal rules for your issue?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.2",
+                      "question": "Why might conflicting rules or precedents exist, and how should they be handled?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.3",
+                      "question": "How can you synthesize multiple related rules into a coherent statement?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.4",
+                      "question": "What criteria determine the priority of one rule over another in legal reasoning?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.5",
+                      "question": "How does statutory interpretation influence the application of rules?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.6",
+                      "question": "What role do legal maxims or principles play in shaping rules?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.7",
+                      "question": "How do you identify exceptions or limitations within a legal rule?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.8",
+                      "question": "What if a rule has evolved over time—how does historical context affect its current meaning?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.9",
+                      "question": "How can analogies to other legal areas clarify the application of a rule?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.10",
+                      "question": "How does precision in stating the rule affect the strength of your argument?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.11",
+                      "question": "What tone should be adopted when presenting rules to convey objectivity and authority?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.2.12",
+                      "question": "How does understanding the rule’s purpose or policy enhance legal analysis?",
+                      "concept": "Inference"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Application",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.I.3.1",
+                      "question": "How do you critically analyze facts to determine their relevance under the rule?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.2",
+                      "question": "What methods help identify strengths and weaknesses in your application?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.3",
+                      "question": "How can you balance competing interpretations of facts in your analysis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.4",
+                      "question": "Why is it important to consider alternative applications of the rule?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.5",
+                      "question": "How does the application demonstrate logical coherence between facts and rule?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.6",
+                      "question": "What role does precedent play in strengthening your application?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.7",
+                      "question": "How can hypothetical scenarios deepen understanding in the application stage?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.8",
+                      "question": "What if new evidence contradicted your application—how would you revise your analysis?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.9",
+                      "question": "How can tone and rhetoric be used ethically to persuade in this section?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.10",
+                      "question": "In what ways do audience assumptions influence your application arguments?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.11",
+                      "question": "How does the application phase help you develop critical thinking skills?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.3.12",
+                      "question": "What are the risks of overgeneralizing facts in your application?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.I.4.1",
+                      "question": "How can you formulate a conclusion that logically follows from your application?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.2",
+                      "question": "What techniques ensure your conclusion addresses the original issue fully?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.3",
+                      "question": "Why should the conclusion avoid introducing new arguments or evidence?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.4",
+                      "question": "How does the conclusion contribute to the persuasiveness of your legal analysis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.5",
+                      "question": "What if your conclusion acknowledges uncertainty or alternative outcomes—how does that affect credibility?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.6",
+                      "question": "How can revisiting the issue in your conclusion reinforce your argument’s coherence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.7",
+                      "question": "What tone best suits a conclusion aiming for professional and objective impact?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.8",
+                      "question": "How can you use your conclusion to suggest implications or recommendations responsibly?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.9",
+                      "question": "How does clarity in your conclusion reflect mastery of the IRAC method?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.10",
+                      "question": "What role does iteration play in refining a strong conclusion?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.11",
+                      "question": "How might different audiences respond to your conclusion differently?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "IRAC-Method.I.4.12",
+                      "question": "What strategies help you identify and correct weaknesses in your conclusion?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Issue",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.A.1.1",
+                      "question": "How can subtle variations in issue framing influence the scope of legal analysis at an advanced level?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.2",
+                      "question": "Why is it important to identify implicit assumptions embedded in legal issue statements?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.3",
+                      "question": "How do you critically evaluate competing issue formulations to select the most analytically useful?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.4",
+                      "question": "What role does interdisciplinary context play in shaping complex legal issues?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.5",
+                      "question": "How can reframing an issue reveal deeper systemic conflicts or power dynamics?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.6",
+                      "question": "What if multiple overlapping issues exist—how do you prioritize them for a coherent argument?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.7",
+                      "question": "How does issue framing influence the ethical implications of a legal argument?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.8",
+                      "question": "How might the framing of an issue anticipate and respond to counterarguments effectively?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.9",
+                      "question": "What strategies help maintain clarity while addressing highly complex or abstract issues?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.10",
+                      "question": "How can issue framing affect the interpretation of precedent and statutes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.11",
+                      "question": "Why is it critical to align issue framing with jurisdictional or procedural considerations?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.1.12",
+                      "question": "How does advanced issue analysis integrate both normative and doctrinal perspectives?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Rule",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.A.2.1",
+                      "question": "How do you assess the hierarchical authority and interplay between multiple legal sources?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.2",
+                      "question": "What techniques facilitate reconciling conflicting precedents or statutory provisions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.3",
+                      "question": "How can doctrinal evolution and legal trends influence rule formulation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.4",
+                      "question": "What role do policy considerations play in interpreting and applying legal rules?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.5",
+                      "question": "How can you critically evaluate judicial reasoning to understand rule boundaries?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.6",
+                      "question": "What if legal rules incorporate exceptions—how do you systematically identify and analyze them?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.7",
+                      "question": "How does comparative law enrich understanding and application of domestic rules?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.8",
+                      "question": "How can abstraction help in synthesizing complex rules for clear application?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.9",
+                      "question": "Why is precise citation and contextualization of legal rules essential in advanced analysis?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.10",
+                      "question": "How does the articulation of legal principles reflect broader jurisprudential theories?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.11",
+                      "question": "What is the impact of emerging technologies or societal changes on existing legal rules?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.2.12",
+                      "question": "How can tone and authorial strategy shape the presentation of complex legal rules?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Application",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.A.3.1",
+                      "question": "How can you critically evaluate the interplay between facts and rules to construct a nuanced legal argument?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.2",
+                      "question": "What methods enable effective synthesis of competing factual interpretations under the rule?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.3",
+                      "question": "How do you address and mitigate ambiguity when applying rules to complex facts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.4",
+                      "question": "Why is considering counterarguments essential in strengthening your application section?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.5",
+                      "question": "How can analogical reasoning advance the application of legal rules in novel scenarios?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.6",
+                      "question": "What role does precedent continuity play in justifying your application logic?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.7",
+                      "question": "How can hypothetical reasoning reveal limits or strengths of your application?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.8",
+                      "question": "What if emerging facts challenge your initial application—how do you adapt your analysis?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.9",
+                      "question": "How does your rhetorical approach influence the persuasiveness of the application section?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.10",
+                      "question": "In what ways do audience expectations and assumptions affect your application narrative?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.11",
+                      "question": "How does iterative revision enhance clarity and depth in the application section?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.3.12",
+                      "question": "What risks arise from overgeneralizing or oversimplifying the application of rules to facts?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.A.4.1",
+                      "question": "How do you craft a conclusion that synthesizes analysis while reinforcing your argument’s coherence?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.2",
+                      "question": "What techniques ensure your conclusion acknowledges complexity without losing clarity?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.3",
+                      "question": "Why should a strong conclusion avoid introducing new evidence or arguments?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.4",
+                      "question": "How can your conclusion ethically address uncertainties or limitations in your analysis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.5",
+                      "question": "What role does the conclusion play in influencing the reader’s final judgment or decision?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.6",
+                      "question": "How can revisiting the original issue in the conclusion reinforce argumentative coherence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.7",
+                      "question": "What tone and style best suit an advanced legal conclusion aiming for persuasive impact?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.8",
+                      "question": "How might you responsibly incorporate recommendations or implications in your conclusion?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.9",
+                      "question": "How does the iterative refinement process improve the effectiveness of the conclusion?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.10",
+                      "question": "What strategies help anticipate and address potential criticisms in the conclusion?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.11",
+                      "question": "How can the conclusion contribute to broader jurisprudential or policy debates?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "IRAC-Method.A.4.12",
+                      "question": "What impact does audience diversity have on shaping an effective conclusion?",
+                      "concept": "Agency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Issue",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.ME.1.1",
+                      "question": "How does meta-framing of legal issues reveal underlying power structures and ideological biases?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.2",
+                      "question": "In what ways can deconstructing the issue expose latent contradictions within legal discourse?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.3",
+                      "question": "How might reflexivity in issue formulation enhance critical awareness and intellectual rigor?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.4",
+                      "question": "What role does genre awareness play in shaping the rhetorical construction of legal issues?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.5",
+                      "question": "How can you integrate interdisciplinary perspectives to reconceptualize complex legal issues?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.6",
+                      "question": "What if the framing of the issue disrupts traditional hierarchies—how does that challenge established jurisprudence?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.7",
+                      "question": "How can advanced issue framing anticipate and incorporate systemic social transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.8",
+                      "question": "What strategies enable the negotiation of ambiguity and multiplicity in complex legal issues?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.9",
+                      "question": "How does the ethical dimension intersect with framing at the meta/expert level?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.10",
+                      "question": "How can issue formulation serve as a site of contestation between competing legal philosophies?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.11",
+                      "question": "What is the impact of cultural and historical context on meta-level issue framing?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.1.12",
+                      "question": "How can metacognitive awareness of framing choices improve legal pedagogy and practice?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Rule",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.ME.2.1",
+                      "question": "How does system theory illuminate the dynamic interrelations within complex legal rules?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.2",
+                      "question": "In what ways do rules function as emergent phenomena within legal systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.3",
+                      "question": "How can paradoxes within legal rules reveal tensions between formalism and pragmatism?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.4",
+                      "question": "What role does boundary-setting play in defining the scope and limits of legal rules?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.5",
+                      "question": "How can reflexive iteration improve rule interpretation and adaptation over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.6",
+                      "question": "How does hierarchical structuring of rules impact legal reasoning at the meta level?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.7",
+                      "question": "What implications arise when legal rules disrupt established systemic orders?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.8",
+                      "question": "How can metaphor and narrative shape the conceptualization and communication of complex legal rules?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.9",
+                      "question": "In what ways can interdisciplinary insights enrich the evolution of legal rules?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.10",
+                      "question": "How does the authorial strategy influence the perceived legitimacy and authority of legal rules?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.11",
+                      "question": "What cognitive challenges arise in comprehending multifaceted legal rules at the expert level?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.2.12",
+                      "question": "How can understanding systemic feedback loops inform the refinement of legal doctrines?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Application",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.ME.3.1",
+                      "question": "How can meta-cognitive strategies enhance the analysis of facts within the application phase?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.2",
+                      "question": "In what ways does the application reveal underlying systemic tensions or contradictions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.3",
+                      "question": "How can the application phase be used to challenge dominant legal narratives or assumptions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.4",
+                      "question": "What role does ambiguity play in interpreting facts under complex legal rules?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.5",
+                      "question": "How can interdisciplinary frameworks deepen the inference process in legal application?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.6",
+                      "question": "What methods facilitate ethical reasoning and power analysis during application?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.7",
+                      "question": "How does iterative feedback refine the alignment between facts and rules?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.8",
+                      "question": "What if conflicting interpretations emerge—how do you synthesize or prioritize them effectively?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.9",
+                      "question": "How can the application be framed to anticipate diverse audience interpretations and biases?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.10",
+                      "question": "What is the impact of rhetorical strategies on the perceived credibility of the application?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.11",
+                      "question": "How can abstraction and analogy be employed to navigate complex legal fact patterns?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.3.12",
+                      "question": "How does uncertainty influence decision-making within the application stage at an expert level?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "IRAC-Method.ME.4.1",
+                      "question": "How can conclusions be constructed to engage with and challenge broader jurisprudential frameworks?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.2",
+                      "question": "What role does reflexivity play in shaping authoritative yet flexible legal conclusions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.3",
+                      "question": "How can the conclusion ethically address ambiguity and unresolved tensions in the analysis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.4",
+                      "question": "In what ways can conclusions contribute to legal reform or cultural transformation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.5",
+                      "question": "How might conclusions be strategically framed to influence diverse legal audiences and stakeholders?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.6",
+                      "question": "What strategies allow for the integration of iterative feedback to refine conclusions over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.7",
+                      "question": "How does tone modulation in conclusions affect perceived authority and persuasiveness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.8",
+                      "question": "How can metaphor and narrative techniques enhance the impact of legal conclusions?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.9",
+                      "question": "What challenges arise in balancing precision and flexibility when formulating advanced conclusions?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.10",
+                      "question": "How can conclusions serve as sites for negotiation between competing legal interpretations?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.11",
+                      "question": "What is the role of cultural and historical context in shaping expert-level legal conclusions?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "IRAC-Method.ME.4.12",
+                      "question": "How does metacognitive awareness improve the quality and impact of conclusions in legal writing?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

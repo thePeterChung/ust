@@ -1,0 +1,2221 @@
+{
+  "discipline": "Conflict Resolution",
+  "children": [
+    {
+      "structure_name": "Interest-Based-Negotiation",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Preparation → 2. Building Relationship → 3. Information Exchange → 4. Understanding Interests → 5. Generating Options → 6. Evaluating Options → 7. Reaching Agreement → 8. Implementation"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Preparation"
+                },
+                {
+                  "structure_part": "[2/8] 2. Building Relationship"
+                },
+                {
+                  "structure_part": "[3/8] 3. Information Exchange"
+                },
+                {
+                  "structure_part": "[4/8] 4. Understanding Interests"
+                },
+                {
+                  "structure_part": "[5/8] 5. Generating Options"
+                },
+                {
+                  "structure_part": "[6/8] 6. Evaluating Options"
+                },
+                {
+                  "structure_part": "[7/8] 7. Reaching Agreement"
+                },
+                {
+                  "structure_part": "[8/8] 8. Implementation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Labor negotiations, Community mediation, Diplomatic peace talks"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Preparation → Planning / Goal Setting / Strategy"
+            },
+            {
+              "terminology": "2. Building Relationship → Trust / Rapport / Communication"
+            },
+            {
+              "terminology": "3. Information Exchange → Sharing Facts / Positions / Needs"
+            },
+            {
+              "terminology": "4. Understanding Interests → Identifying Needs / Motivations / Priorities"
+            },
+            {
+              "terminology": "5. Generating Options → Brainstorming / Creativity / Alternatives"
+            },
+            {
+              "terminology": "6. Evaluating Options → Criteria / Feasibility / Impact Assessment"
+            },
+            {
+              "terminology": "7. Reaching Agreement → Consensus / Commitment / Bargaining"
+            },
+            {
+              "terminology": "8. Implementation → Follow-up / Monitoring / Enforcement"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Preparation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.1",
+                      "question": "What are the key goals you set before starting a negotiation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.2",
+                      "question": "How do you gather information about the other party's needs and interests?",
+                      "concept": "Information"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.3",
+                      "question": "Why is it important to clarify your own priorities before negotiating?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.4",
+                      "question": "What potential challenges can arise if preparation is neglected?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.5",
+                      "question": "How might different cultural backgrounds affect your preparation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.6",
+                      "question": "What tools or frameworks can help in planning a negotiation strategy?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.7",
+                      "question": "What if you discover conflicting goals during your preparation stage?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.8",
+                      "question": "How does thorough preparation influence your confidence in negotiation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.9",
+                      "question": "What emotions are common during preparation, and how can they impact the process?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.10",
+                      "question": "Why might preparation be seen as a form of control in negotiation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.11",
+                      "question": "How does understanding your BATNA affect your preparation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.1.12",
+                      "question": "What is the role of ethical considerations during preparation?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Building Relationship",
+                  "part_concept": "Trust",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.1",
+                      "question": "How do you establish trust with the other party early on?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.2",
+                      "question": "Why is rapport important in interest-based negotiation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.3",
+                      "question": "What communication techniques support building positive relationships?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.4",
+                      "question": "How can body language influence relationship-building in negotiation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.5",
+                      "question": "What challenges might hinder building relationships, and how can they be overcome?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.6",
+                      "question": "What if the other party is initially distrustful—how should you respond?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.7",
+                      "question": "How does emotional intelligence play a role in relationship-building?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.8",
+                      "question": "What impact does the relationship stage have on later negotiation phases?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.9",
+                      "question": "How might cultural differences affect relationship dynamics?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.10",
+                      "question": "Why is patience important when building negotiation relationships?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.11",
+                      "question": "How can you recognize when a relationship is strong enough to move forward?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.2.12",
+                      "question": "What tone should be set to encourage openness and collaboration?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Information Exchange",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.1",
+                      "question": "What kinds of information are typically shared during this stage?",
+                      "concept": "Information"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.2",
+                      "question": "How does exchanging information help clarify each party’s position?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.3",
+                      "question": "Why is active listening important in this phase?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.4",
+                      "question": "What strategies can you use to encourage honest sharing of interests?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.5",
+                      "question": "What risks exist in sharing too much or too little information?",
+                      "concept": "Risk"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.6",
+                      "question": "How can misunderstandings during information exchange be identified and resolved?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.7",
+                      "question": "What if the parties have asymmetric information—how does this affect negotiation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.8",
+                      "question": "How does the tone of communication influence willingness to share information?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.9",
+                      "question": "What role does questioning play in deepening understanding?",
+                      "concept": "Inquiry"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.10",
+                      "question": "How might emotions affect the exchange of information?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.11",
+                      "question": "Why is summarizing important during this stage?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.3.12",
+                      "question": "How does effective information exchange build the foundation for the next stages?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Understanding Interests",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.1",
+                      "question": "How do you identify the underlying interests behind stated positions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.2",
+                      "question": "Why is it important to focus on interests rather than positions?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.3",
+                      "question": "What techniques can help reveal hidden or unspoken interests?",
+                      "concept": "Inquiry"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.4",
+                      "question": "How might understanding interests reduce conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.5",
+                      "question": "What if parties have competing interests—how can they be addressed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.6",
+                      "question": "How can empathy support understanding the other party’s interests?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.7",
+                      "question": "Why might parties conceal their true interests?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.8",
+                      "question": "How can restating interests improve communication?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.9",
+                      "question": "What emotional responses can arise when interests are uncovered?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.10",
+                      "question": "How does focusing on interests create opportunities for collaboration?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.11",
+                      "question": "What role does trust play in openly discussing interests?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.4.12",
+                      "question": "How can misunderstandings about interests lead to negotiation breakdown?",
+                      "concept": "Discontinuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Generating Options",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.1",
+                      "question": "What methods encourage creative brainstorming of options?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.2",
+                      "question": "How can parties avoid prematurely judging options during generation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.3",
+                      "question": "Why is quantity important before quality in option generation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.4",
+                      "question": "What if parties struggle to find options that satisfy both sides?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.5",
+                      "question": "How does collaboration during this stage influence outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.6",
+                      "question": "What role does open-mindedness play in generating options?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.7",
+                      "question": "How can using analogies or past experiences aid option generation?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.8",
+                      "question": "Why might emotional tone affect the creativity of options proposed?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.9",
+                      "question": "How can power dynamics influence which options are suggested or accepted?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.10",
+                      "question": "What strategies help balance divergent interests in option generation?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.11",
+                      "question": "How can reframing the problem lead to new options?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.5.12",
+                      "question": "What impact does brainstorming together have on relationship building?",
+                      "concept": "Trust"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Evaluating Options",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.1",
+                      "question": "What criteria are useful for assessing negotiation options?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.2",
+                      "question": "How can parties ensure fairness when evaluating options?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.3",
+                      "question": "Why is it important to consider feasibility alongside desirability?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.4",
+                      "question": "What if parties disagree on evaluation criteria—how can this be resolved?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.5",
+                      "question": "How can feedback loops improve the evaluation process?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.6",
+                      "question": "What role do emotions play during evaluation of options?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.7",
+                      "question": "How can parties manage uncertainty when outcomes of options are unclear?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.8",
+                      "question": "How does perspective-taking influence evaluation judgments?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.9",
+                      "question": "What strategies help prioritize options when multiple are acceptable?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.10",
+                      "question": "How can parties anticipate potential unintended consequences of options?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.11",
+                      "question": "Why is transparency important in this stage?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.6.12",
+                      "question": "How can evaluation discussions affect the overall negotiation tone?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Reaching Agreement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.1",
+                      "question": "How do parties work toward reaching a mutually acceptable agreement?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.2",
+                      "question": "What negotiation tactics can facilitate consensus building?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.3",
+                      "question": "Why is it important to clarify terms and conditions before finalizing?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.4",
+                      "question": "How can parties manage disagreements during agreement drafting?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.5",
+                      "question": "What if a party feels pressured to accept terms—how should this be addressed?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.6",
+                      "question": "How does trust built earlier affect willingness to finalize an agreement?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.7",
+                      "question": "What role do emotions play at the moment of agreement?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.8",
+                      "question": "How can cultural differences influence the agreement process?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.9",
+                      "question": "What strategies ensure clarity and prevent future misunderstandings?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.10",
+                      "question": "How can parties verify that the agreement reflects their interests accurately?",
+                      "concept": "Verification"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.11",
+                      "question": "Why might parties use formal versus informal agreements?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.7.12",
+                      "question": "How can power imbalances be addressed when finalizing an agreement?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Implementation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.1",
+                      "question": "What steps are necessary to implement the negotiated agreement effectively?",
+                      "concept": "Action"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.2",
+                      "question": "How can monitoring ensure compliance with the agreement?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.3",
+                      "question": "Why is follow-up important after reaching an agreement?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.4",
+                      "question": "What challenges might arise during implementation and how can they be managed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.5",
+                      "question": "How can communication between parties be maintained post-agreement?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.6",
+                      "question": "What role does flexibility play in successful implementation?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.7",
+                      "question": "How can parties address unforeseen issues that occur during implementation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.8",
+                      "question": "What emotions might surface during implementation, and how can they be managed?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.9",
+                      "question": "Why is documenting the agreement important for implementation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.10",
+                      "question": "How does successful implementation affect future negotiations between parties?",
+                      "concept": "Relationship"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.11",
+                      "question": "What systems or structures support long-term adherence to the agreement?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.B.8.12",
+                      "question": "How can implementation feedback lead to continuous improvement in negotiation processes?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Preparation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.1",
+                      "question": "How do you analyze both your and the other party’s interests to set negotiation objectives?",
+                      "concept": "Analysis"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.2",
+                      "question": "Why is identifying your BATNA crucial in shaping your negotiation strategy?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.3",
+                      "question": "How can power imbalances be anticipated and planned for during preparation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.4",
+                      "question": "What role does cultural context play in framing your negotiation goals?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.5",
+                      "question": "How might cognitive biases affect your preparation and how can you mitigate them?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.6",
+                      "question": "What methods help gather reliable information about the other party’s interests?",
+                      "concept": "Information"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.7",
+                      "question": "How can clarifying your negotiation limits improve your decision-making?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.8",
+                      "question": "What if new information arises during negotiation—how should you adjust your preparation?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.9",
+                      "question": "How do ethical considerations influence your preparatory decisions?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.10",
+                      "question": "Why is it important to anticipate potential conflicts during preparation?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.11",
+                      "question": "How does preparation affect your ability to manage negotiation dynamics?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.1.12",
+                      "question": "What emotional states should you be aware of entering negotiation, and how can you manage them?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Building Relationship",
+                  "part_concept": "Trust",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.1",
+                      "question": "How can you assess the trustworthiness of the other party early in negotiation?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.2",
+                      "question": "What communication strategies promote rapport without compromising your position?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.3",
+                      "question": "Why is managing emotional expression important when building relationships?",
+                      "concept": "Emotional-Regulation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.4",
+                      "question": "How do nonverbal cues influence perceptions during relationship-building?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.5",
+                      "question": "What challenges arise from cultural differences, and how can they be navigated in this stage?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.6",
+                      "question": "How can you balance openness with strategic discretion when establishing rapport?",
+                      "concept": "Strategy"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.7",
+                      "question": "What if initial attempts to build relationship fail—what are your options?",
+                      "concept": "Resilience"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.8",
+                      "question": "How does early relationship-building impact long-term negotiation outcomes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.9",
+                      "question": "How can empathy be authentically expressed to strengthen negotiation ties?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.10",
+                      "question": "What tone and mood are most conducive to building collaborative relationships?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.11",
+                      "question": "How can you identify and mitigate signs of distrust early on?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.2.12",
+                      "question": "How does feedback during relationship-building enhance mutual understanding?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Information Exchange",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.1",
+                      "question": "How can active listening techniques be used to maximize effective information exchange?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.2",
+                      "question": "What strategies help verify the accuracy of exchanged information?",
+                      "concept": "Verification"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.3",
+                      "question": "Why is balancing disclosure with confidentiality critical during this stage?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.4",
+                      "question": "How do you detect and respond to misleading or incomplete information?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.5",
+                      "question": "What role do questioning and clarification play in deepening understanding?",
+                      "concept": "Inquiry"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.6",
+                      "question": "How can information asymmetry affect negotiation dynamics at this stage?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.7",
+                      "question": "What are effective ways to manage emotional reactions to difficult information?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.8",
+                      "question": "How can the framing of information influence the other party’s perception?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.9",
+                      "question": "What if parties have conflicting facts—how can this be addressed?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.10",
+                      "question": "How does mutual information sharing build or erode trust?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.11",
+                      "question": "How can you maintain focus on interests rather than positions during information exchange?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.3.12",
+                      "question": "What feedback mechanisms can ensure clarity and prevent misunderstandings?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Understanding Interests",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.1",
+                      "question": "How can you distinguish between positions and underlying interests in negotiation dialogues?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.2",
+                      "question": "Why is uncovering hidden interests critical to creating value in negotiation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.3",
+                      "question": "What methods help elicit interests that parties may be reluctant to share?",
+                      "concept": "Inquiry"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.4",
+                      "question": "How do conflicting interests shape negotiation dynamics and potential outcomes?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.5",
+                      "question": "How can empathy and perspective-taking deepen understanding of others’ interests?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.6",
+                      "question": "What if parties’ interests seem incompatible—how can integrative solutions be sought?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.7",
+                      "question": "How does trust influence willingness to disclose true interests?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.8",
+                      "question": "What role does emotional tone play in discussing sensitive interests?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.9",
+                      "question": "How can restating or reframing interests help resolve misunderstandings?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.10",
+                      "question": "What cognitive biases might distort interpretation of others’ interests?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.11",
+                      "question": "How does understanding interests support creative problem-solving?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.4.12",
+                      "question": "How can systemic factors influence the interests parties bring to negotiation?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Generating Options",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.1",
+                      "question": "What brainstorming techniques encourage diverse and innovative options?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.2",
+                      "question": "How can parties suspend judgment to enhance creativity during option generation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.3",
+                      "question": "Why is it important to separate idea generation from evaluation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.4",
+                      "question": "What if parties struggle to find win-win options—how can problem reframing help?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.5",
+                      "question": "How can collaborative dialogue foster option development even among competitors?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.6",
+                      "question": "What role do analogies and metaphors play in expanding option possibilities?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.7",
+                      "question": "How can emotional states influence the quantity and quality of options generated?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.8",
+                      "question": "How do power relations affect which options are proposed or dismissed?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.9",
+                      "question": "What strategies can balance divergent interests while generating options?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.10",
+                      "question": "How can systemic thinking improve the comprehensiveness of generated options?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.11",
+                      "question": "Why is iteration important when refining options?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.5.12",
+                      "question": "How can you ensure inclusivity in option generation to reflect diverse interests?",
+                      "concept": "Inclusion"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Evaluating Options",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.1",
+                      "question": "What multi-criteria frameworks can be used to assess negotiation options?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.2",
+                      "question": "How can parties ensure equity and fairness during option evaluation?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.3",
+                      "question": "Why must feasibility and sustainability be considered alongside immediate benefits?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.4",
+                      "question": "How can conflicting evaluation priorities be negotiated effectively?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.5",
+                      "question": "What role do feedback loops play in refining option assessments?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.6",
+                      "question": "How can emotional intelligence support objective evaluation of options?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.7",
+                      "question": "How can parties deal with uncertainty and incomplete information in evaluation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.8",
+                      "question": "What impact does perspective-taking have on option prioritization?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.9",
+                      "question": "How can hierarchy and weighting of criteria influence decision-making?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.10",
+                      "question": "How can unintended consequences of options be anticipated during evaluation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.11",
+                      "question": "Why is transparency in evaluation processes essential for lasting agreements?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.6.12",
+                      "question": "How can the tone of evaluation discussions affect party commitment to selected options?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Reaching Agreement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.1",
+                      "question": "How can negotiators balance assertiveness and cooperation when finalizing agreements?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.2",
+                      "question": "What strategies help clarify ambiguous terms to avoid future disputes?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.3",
+                      "question": "How can power dynamics influence the fairness of the agreement reached?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.4",
+                      "question": "Why is documenting the agreement essential for enforcement and accountability?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.5",
+                      "question": "How might cultural differences affect agreement interpretation and acceptance?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.6",
+                      "question": "What if one party feels coerced—how should ethical concerns be addressed?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.7",
+                      "question": "How does the emotional tone at this stage impact party satisfaction and commitment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.8",
+                      "question": "How can negotiators ensure that the agreement reflects mutual interests rather than positional compromises?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.9",
+                      "question": "What role does trust play in moving from negotiation to agreement implementation?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.10",
+                      "question": "How can negotiators prepare to manage potential post-agreement conflicts?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.11",
+                      "question": "Why is flexibility important even after the agreement is reached?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.7.12",
+                      "question": "How can feedback from earlier stages inform the final agreement terms?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Implementation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.1",
+                      "question": "What systems and processes support effective implementation of negotiated agreements?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.2",
+                      "question": "How can ongoing communication prevent misunderstandings during implementation?",
+                      "concept": "Communication"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.3",
+                      "question": "Why is monitoring and evaluation critical to sustain agreement benefits?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.4",
+                      "question": "How can parties adapt the agreement in response to unforeseen challenges?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.5",
+                      "question": "What role do emotions play in maintaining commitment during implementation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.6",
+                      "question": "How can accountability mechanisms be designed to encourage compliance?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.7",
+                      "question": "What strategies help manage conflicts arising during implementation?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.8",
+                      "question": "How does documentation support dispute resolution post-implementation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.9",
+                      "question": "How can feedback loops promote continuous improvement in negotiation practice?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.10",
+                      "question": "What if implementation fails—how can parties renegotiate effectively?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.11",
+                      "question": "How can systemic thinking help anticipate long-term impacts of the agreement?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.I.8.12",
+                      "question": "Why is maintaining positive relationships important beyond the negotiation itself?",
+                      "concept": "Relationship"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Preparation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.1",
+                      "question": "How can advanced stakeholder analysis refine negotiation objectives beyond basic interests?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.2",
+                      "question": "In what ways can scenario planning enhance anticipation of negotiation outcomes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.3",
+                      "question": "How does integrating ethical frameworks influence preparation strategies in complex negotiations?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.4",
+                      "question": "What role does power mapping play in preparing for multi-party negotiations?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.5",
+                      "question": "How can cognitive load management improve decision-making during preparation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.6",
+                      "question": "Why is it important to identify potential systemic risks before entering negotiation?",
+                      "concept": "Risk"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.7",
+                      "question": "How can meta-cognitive awareness enhance adaptive preparation under uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.8",
+                      "question": "What methods can be employed to critically evaluate one’s BATNA in dynamic contexts?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.9",
+                      "question": "How can cultural intelligence inform nuanced preparation in international negotiations?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.10",
+                      "question": "What if unexpected stakeholder interests emerge—how should preparation adapt?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.11",
+                      "question": "How does framing affect strategic goal-setting during preparation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.1.12",
+                      "question": "How can systems thinking reveal interdependencies influencing negotiation preparation?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Building Relationship",
+                  "part_concept": "Trust",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.1",
+                      "question": "How can trust-building strategies be tailored to complex, high-stakes negotiations?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.2",
+                      "question": "In what ways can emotional intelligence be leveraged to manage relational dynamics effectively?",
+                      "concept": "Emotional-Intelligence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.3",
+                      "question": "How does power asymmetry affect relationship-building tactics in multi-level negotiations?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.4",
+                      "question": "What role do cultural dimensions play in shaping rapport and communication styles?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.5",
+                      "question": "How can feedback mechanisms be designed to foster continuous relationship development?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.6",
+                      "question": "What strategies help to navigate and repair relational ruptures during negotiation?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.7",
+                      "question": "How can negotiators balance authenticity with strategic self-presentation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.8",
+                      "question": "Why is managing emotional contagion crucial during relationship-building?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.9",
+                      "question": "How do systemic power structures influence interpersonal trust dynamics?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.10",
+                      "question": "What if trust-building efforts are resisted—how should negotiators recalibrate?",
+                      "concept": "Resilience"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.11",
+                      "question": "How can metaphor and narrative be employed to strengthen relational bonds?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.2.12",
+                      "question": "How do tone and mood interplay to affect the quality of relationship-building?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Information Exchange",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.1",
+                      "question": "How can advanced questioning techniques elicit deeper interests and concerns?",
+                      "concept": "Inquiry"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.2",
+                      "question": "What strategies can mitigate information asymmetry in complex negotiations?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.3",
+                      "question": "How does transparency balance with strategic discretion during information sharing?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.4",
+                      "question": "Why is recognizing cognitive biases essential during interpretation of exchanged information?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.5",
+                      "question": "How can reframing contentious information facilitate mutual understanding?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.6",
+                      "question": "What role do narrative coherence and consistency play in effective communication?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.7",
+                      "question": "How can negotiators manage emotional responses triggered by sensitive disclosures?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.8",
+                      "question": "What techniques support verification and validation of critical information?",
+                      "concept": "Verification"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.9",
+                      "question": "How can feedback loops improve the quality of information exchange over time?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.10",
+                      "question": "What if conflicting data arises—how can negotiators effectively address discrepancies?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.11",
+                      "question": "How can cultural and contextual factors influence interpretation of information?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.3.12",
+                      "question": "How does perspective-taking enhance the depth and relevance of information shared?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Understanding Interests",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.1",
+                      "question": "How can integrative negotiation techniques reveal latent interests behind stated positions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.2",
+                      "question": "What role does systemic analysis play in identifying interdependent interests?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.3",
+                      "question": "How can deep empathy transform conflictual interests into collaborative opportunities?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.4",
+                      "question": "In what ways can psychological theories assist in uncovering unconscious interests?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.5",
+                      "question": "How can reframing conflicting interests reduce tension and open pathways to agreement?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.6",
+                      "question": "What if certain interests remain undisclosed—how can negotiators infer and address them?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.7",
+                      "question": "How does cultural intelligence influence the interpretation of interests across diverse parties?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.8",
+                      "question": "How can power asymmetries distort the recognition of true interests?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.9",
+                      "question": "What strategies facilitate the disclosure of sensitive or taboo interests?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.10",
+                      "question": "How can negotiators balance competing interests while maintaining ethical standards?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.11",
+                      "question": "How do temporal factors influence the prioritization of interests?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.4.12",
+                      "question": "How does understanding emergent group dynamics shape the analysis of collective interests?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Generating Options",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.1",
+                      "question": "How can cross-disciplinary creativity methods enhance option generation in negotiation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.2",
+                      "question": "What role does abductive reasoning play in developing novel negotiation solutions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.3",
+                      "question": "How can systems mapping reveal overlooked opportunities for mutual gain?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.4",
+                      "question": "Why is maintaining a paradoxical mindset beneficial during option generation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.5",
+                      "question": "How can negotiators leverage cognitive diversity to expand the solution space?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.6",
+                      "question": "What strategies support iterative refinement of negotiation options?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.7",
+                      "question": "How can emotional intelligence contribute to recognizing latent options?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.8",
+                      "question": "How do power dynamics influence which options gain prominence during discussions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.9",
+                      "question": "What if systemic constraints limit option feasibility—how can negotiators creatively navigate these limits?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.10",
+                      "question": "How can metaphorical thinking break cognitive fixedness in option generation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.11",
+                      "question": "How does balancing divergent interests affect the sustainability of generated options?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.5.12",
+                      "question": "What role does trust play in encouraging risk-taking during option exploration?",
+                      "concept": "Trust"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Evaluating Options",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.1",
+                      "question": "How can multi-criteria decision analysis frameworks enhance option evaluation rigor?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.2",
+                      "question": "What ethical considerations should be integrated into option evaluation processes?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.3",
+                      "question": "How can negotiators anticipate and weigh unintended systemic consequences?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.4",
+                      "question": "How does feedback from past negotiations inform current option evaluation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.5",
+                      "question": "What role does emotional regulation play in maintaining objectivity during evaluation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.6",
+                      "question": "How can power asymmetries bias option prioritization and how can these biases be mitigated?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.7",
+                      "question": "In what ways can scenario analysis help in stress-testing options under uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.8",
+                      "question": "How can perspective-taking improve the fairness and inclusivity of option evaluation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.9",
+                      "question": "What strategies support transparent communication of evaluation criteria to all parties?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.10",
+                      "question": "How can systemic feedback loops be leveraged to dynamically refine option assessments?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.11",
+                      "question": "Why is it important to balance short-term gains with long-term relational health during evaluation?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.6.12",
+                      "question": "How can tone and mood in evaluative discussions influence party buy-in and commitment?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Reaching Agreement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.1",
+                      "question": "How can negotiators integrate complex trade-offs to formulate a mutually beneficial agreement?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.2",
+                      "question": "What role does ethical negotiation play in ensuring equitable and sustainable agreements?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.3",
+                      "question": "How can ambiguity in agreement terms be managed to prevent future conflicts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.4",
+                      "question": "How does power imbalance influence the perceived legitimacy of final agreements?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.5",
+                      "question": "What strategies support effective communication of agreement terms across cultural divides?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.6",
+                      "question": "How can feedback from stakeholders be incorporated to refine agreements pre-implementation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.7",
+                      "question": "What if parties renegotiate during agreement finalization—how can process integrity be maintained?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.8",
+                      "question": "How do emotional dynamics at this stage affect commitment and compliance?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.9",
+                      "question": "Why is transparency critical to building lasting trust in agreement finalization?",
+                      "concept": "Trust"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.10",
+                      "question": "How can negotiators balance flexibility and firmness to sustain agreement durability?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.11",
+                      "question": "How does the negotiation context shape strategies for closing deals?",
+                      "concept": "Context"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.7.12",
+                      "question": "How can systemic considerations enhance the robustness of negotiated agreements?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Implementation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.1",
+                      "question": "What frameworks support monitoring and adaptive management during agreement implementation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.2",
+                      "question": "How can continuous feedback loops facilitate iterative improvements in implementation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.3",
+                      "question": "What strategies mitigate implementation risks arising from contextual changes?",
+                      "concept": "Risk"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.4",
+                      "question": "How can accountability structures be designed to encourage sustained compliance?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.5",
+                      "question": "How do emotional and relational dynamics affect long-term implementation success?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.6",
+                      "question": "What role do cultural adaptations play in ensuring the relevance of agreements over time?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.7",
+                      "question": "How can systemic disruptions be anticipated and managed during implementation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.8",
+                      "question": "What mechanisms support conflict resolution arising during the implementation phase?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.9",
+                      "question": "How can documentation and institutional memory support dispute resolution post-implementation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.10",
+                      "question": "What if the implementation diverges from original terms—how can renegotiation be effectively managed?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.11",
+                      "question": "How can relationship management beyond formal negotiation enhance sustained collaboration?",
+                      "concept": "Relationship"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.A.8.12",
+                      "question": "Why is reflexivity important for negotiators to assess implementation outcomes critically?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Preparation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.1",
+                      "question": "How can meta-theoretical frameworks reshape the conceptualization of preparation in interest-based negotiation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.2",
+                      "question": "In what ways does critical reflexivity enable negotiators to anticipate and transcend embedded power structures during preparation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.3",
+                      "question": "How can decolonial perspectives inform the preparation phase to challenge dominant cultural paradigms in negotiation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.4",
+                      "question": "What role does anticipatory governance play in preparing for negotiation under complex systemic uncertainties?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.5",
+                      "question": "How can network theory be applied to map and leverage multi-scalar stakeholder influence during preparation?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.6",
+                      "question": "How does integrating transdisciplinary knowledge systems transform negotiation readiness and strategic framing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.7",
+                      "question": "What implications arise from viewing BATNA as a dynamic, co-evolving construct rather than a static fallback?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.8",
+                      "question": "How can ethical pluralism be operationalized in preparing negotiations involving conflicting moral frameworks?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.9",
+                      "question": "What methods can surface and challenge implicit biases that shape preparatory assumptions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.10",
+                      "question": "How can scenario foresight methodologies enhance preparedness for emergent negotiation challenges?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.11",
+                      "question": "In what ways does the notion of boundary critique expand understanding of negotiation preparation scope?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.1.12",
+                      "question": "How can negotiators cultivate meta-awareness to fluidly adapt preparation to shifting systemic contexts?",
+                      "concept": "Adaptation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Building Relationship",
+                  "part_concept": "Trust",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.1",
+                      "question": "How can complex adaptive systems theory inform relationship-building strategies in multi-party negotiations?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.2",
+                      "question": "What is the impact of relational dialectics on trust dynamics and negotiation trajectories?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.3",
+                      "question": "How can power asymmetries be critically deconstructed to foster authentic relational engagement?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.4",
+                      "question": "In what ways can intersectionality deepen understanding of identity-driven relational complexities?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.5",
+                      "question": "How might affect theory elucidate the role of collective emotions in sustaining or undermining negotiation relationships?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.6",
+                      "question": "What role do narratives and counter-narratives play in shaping relational meaning-making during negotiation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.7",
+                      "question": "How can critical reflexivity challenge the reproduction of hegemonic relational patterns?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.8",
+                      "question": "How does cultural humility reshape ethical imperatives in relationship-building processes?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.9",
+                      "question": "How can boundary spanning practices facilitate bridging of divergent relational worlds?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.10",
+                      "question": "What strategies promote resilience in relationships amid systemic disruptions and conflicts?",
+                      "concept": "Resilience"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.11",
+                      "question": "How does power/knowledge dynamics influence relational transparency and vulnerability?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.2.12",
+                      "question": "How might the tone and affective environment be intentionally cultivated to enable transformative relational outcomes?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Information Exchange",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.1",
+                      "question": "How can epistemic justice frameworks inform equitable information exchange in negotiations?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.2",
+                      "question": "In what ways do power relations shape whose knowledge is privileged during information sharing?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.3",
+                      "question": "How can narrative epistemology expand understanding of information as co-constructed knowledge?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.4",
+                      "question": "What role does uncertainty play in negotiators’ willingness to disclose sensitive information?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.5",
+                      "question": "How might systemic blind spots be identified and addressed during information exchange?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.6",
+                      "question": "How can boundary critique serve to delimit and expand the scope of relevant information?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.7",
+                      "question": "How can feedback loops be designed to foster iterative co-creation of shared understanding?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.8",
+                      "question": "What strategies help negotiators navigate ambiguity and polysemy in communicated information?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.9",
+                      "question": "How does critical discourse analysis uncover power-laden communication patterns in negotiation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.10",
+                      "question": "How might perspective-taking practices disrupt entrenched cognitive biases during information exchange?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.11",
+                      "question": "How do cultural hermeneutics inform interpretation and meaning-making of exchanged information?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.3.12",
+                      "question": "What if negotiators employed meta-communication to explicitly address the process of information exchange itself?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Understanding Interests",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.1",
+                      "question": "How can post-structuralist theories challenge traditional notions of fixed interests in negotiation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.2",
+                      "question": "In what ways do intersecting identities complicate the mapping of interests in multi-party contexts?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.3",
+                      "question": "How can critical realism inform the distinction between observable and latent interests?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.4",
+                      "question": "What role does power/knowledge interplay play in shaping perceived versus actual interests?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.5",
+                      "question": "How might negotiators ethically navigate conflicts between individual and collective interests?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.6",
+                      "question": "How can systemic thinking illuminate emergent interests beyond individual parties?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.7",
+                      "question": "What if the recognition of interests is influenced by temporal shifts and historical contexts?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.8",
+                      "question": "How can boundary critique help identify marginalized or excluded interests in negotiation processes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.9",
+                      "question": "How does emotional intelligence intersect with critical reflexivity in understanding complex interests?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.10",
+                      "question": "What strategies facilitate dialogic engagement to co-construct shared understanding of diverse interests?",
+                      "concept": "Dialogue"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.11",
+                      "question": "How can power asymmetries distort the articulation and acknowledgment of interests?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.4.12",
+                      "question": "How might emergent systemic dynamics reframe the negotiation’s scope of interests over time?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Generating Options",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.1",
+                      "question": "How can abductive logic and generative epistemologies enhance option creation beyond conventional boundaries?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.2",
+                      "question": "What is the role of paradoxical thinking in transcending binary option frameworks?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.3",
+                      "question": "How can transdisciplinary collaboration foster emergent and innovative negotiation solutions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.4",
+                      "question": "In what ways can narrative and metaphor unlock deeper creative potentials in option generation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.5",
+                      "question": "How might systems mapping identify leverage points for breakthrough solutions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.6",
+                      "question": "What strategies support maintaining cognitive flexibility and openness during high-stakes option generation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.7",
+                      "question": "How can power dynamics be consciously navigated to democratize option generation processes?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.8",
+                      "question": "How does iterative prototyping of options influence negotiation adaptability and resilience?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.9",
+                      "question": "What if negotiators employed scenario planning to envision radical alternative futures?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.10",
+                      "question": "How can emotional intelligence guide recognition of subtle cues that suggest novel options?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.11",
+                      "question": "What ethical considerations arise when pushing the boundaries of conventional option spaces?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.5.12",
+                      "question": "How can boundary-spanning practices enhance inclusivity and innovation in option generation?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Evaluating Options",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.1",
+                      "question": "How can critical systems heuristics be applied to reveal hidden assumptions in option evaluation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.2",
+                      "question": "What role does ethical pluralism play in reconciling competing evaluation criteria?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.3",
+                      "question": "How can multi-voiced evaluation processes democratize decision-making in complex negotiations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.4",
+                      "question": "In what ways can scenario analysis incorporate emergent risks and opportunities into evaluation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.5",
+                      "question": "How can emotional awareness mitigate bias and promote fairness during option appraisal?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.6",
+                      "question": "How do power relations shape the framing and weighting of evaluation criteria?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.7",
+                      "question": "What methods support reflexive evaluation that accounts for both systemic and local impacts?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.8",
+                      "question": "How can transparency and accountability mechanisms be embedded in evaluation frameworks?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.9",
+                      "question": "How does temporal pacing influence the sequencing and prioritization of option assessment?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.10",
+                      "question": "What role does collective sensemaking play in achieving shared evaluation outcomes?",
+                      "concept": "Dialogue"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.11",
+                      "question": "How can tone and communication style affect legitimacy and acceptance of evaluation results?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.6.12",
+                      "question": "What if emergent conflicts arise during evaluation—how should negotiators adapt processes to manage disruption?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Reaching Agreement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.1",
+                      "question": "How can negotiators employ meta-negotiation to shape the conditions and process of reaching agreement?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.2",
+                      "question": "What systemic patterns influence the emergence and sustainability of negotiated agreements?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.3",
+                      "question": "How do power asymmetries manifest during final consensus-building, and how can they be ethically mitigated?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.4",
+                      "question": "In what ways can ambiguity in agreement language be strategically utilized or resolved to balance flexibility and clarity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.5",
+                      "question": "How can cultural pluralism be honored in crafting agreements acceptable across diverse stakeholder groups?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.6",
+                      "question": "What role does emotional contagion play in shaping commitment to the agreement during closing stages?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.7",
+                      "question": "How might boundary objects be used to facilitate shared understanding and commitment across divergent interests?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.8",
+                      "question": "What ethical dilemmas arise in balancing transparency with confidentiality when finalizing agreements?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.9",
+                      "question": "How can negotiators design agreements resilient to future systemic disruptions and conflicts?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.10",
+                      "question": "What strategies support the institutionalization of agreements to enhance long-term compliance and adaptation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.11",
+                      "question": "How does narrative framing influence the perceived legitimacy and acceptance of agreements?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.7.12",
+                      "question": "What if parties renegotiate after agreement—is there a meta-framework to manage iterative renegotiations effectively?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Implementation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.1",
+                      "question": "How can adaptive governance frameworks support reflexive and resilient implementation processes?",
+                      "concept": "Adaptation"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.2",
+                      "question": "What role do feedback mechanisms play in enabling continuous learning and adjustment during implementation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.3",
+                      "question": "How can negotiators anticipate and manage emergent conflicts arising during implementation phases?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.4",
+                      "question": "In what ways can cultural contexts shape the sustainability of implemented agreements?",
+                      "concept": "Culture"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.5",
+                      "question": "How might systemic shocks disrupt implementation, and what strategies promote resilience?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.6",
+                      "question": "What ethical considerations guide accountability and transparency throughout implementation?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.7",
+                      "question": "How can institutional memory and knowledge management prevent erosion of negotiated outcomes over time?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.8",
+                      "question": "How does relational dynamics evolve post-agreement, and what impact does this have on ongoing collaboration?",
+                      "concept": "Relationship"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.9",
+                      "question": "What mechanisms facilitate iterative renegotiation and adaptive modification during implementation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.10",
+                      "question": "How can tone and communication styles be optimized to sustain motivation and reduce fatigue during long-term implementation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.11",
+                      "question": "How might emerging technologies support transparency, monitoring, and trust in implementation processes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Interest-Based-Negotiation.ME.8.12",
+                      "question": "What if implementation fails to meet expectations—how can reflexive evaluation and learning restore alignment?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

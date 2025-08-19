@@ -1,0 +1,2461 @@
+{
+  "discipline": "Environmental Science",
+  "children": [
+    {
+      "structure_name": "Environmental-Impact-Assessment",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": "1. Screening → 2. Scoping → 3. Baseline Data Collection → 4. Impact Prediction → 5. Mitigation → 6. Reporting → 7. Review → 8. Decision-Making → 9. Monitoring and Compliance"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Screening"
+                },
+                {
+                  "structure_part": "[2/9] 2. Scoping"
+                },
+                {
+                  "structure_part": "[3/9] 3. Baseline Data Collection"
+                },
+                {
+                  "structure_part": "[4/9] 4. Impact Prediction"
+                },
+                {
+                  "structure_part": "[5/9] 5. Mitigation"
+                },
+                {
+                  "structure_part": "[6/9] 6. Reporting"
+                },
+                {
+                  "structure_part": "[7/9] 7. Review"
+                },
+                {
+                  "structure_part": "[8/9] 8. Decision-Making"
+                },
+                {
+                  "structure_part": "[9/9] 9. Monitoring and Compliance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Construction of hydroelectric dam, Expansion of an airport, Urban waste treatment facility"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Screening → Determining whether a project requires an EIA"
+            },
+            {
+              "terminology": "2. Scoping → Identifying key environmental issues and study boundaries"
+            },
+            {
+              "terminology": "3. Baseline Data Collection → Gathering environmental conditions before the project"
+            },
+            {
+              "terminology": "4. Impact Prediction → Forecasting potential environmental changes"
+            },
+            {
+              "terminology": "5. Mitigation → Proposing ways to avoid, minimize, or offset impacts"
+            },
+            {
+              "terminology": "6. Reporting → Compiling findings into an Environmental Impact Statement (EIS)"
+            },
+            {
+              "terminology": "7. Review → Evaluating the quality and adequacy of the EIS"
+            },
+            {
+              "terminology": "8. Decision-Making → Approving, modifying, or rejecting the proposal"
+            },
+            {
+              "terminology": "9. Monitoring and Compliance → Ensuring implementation and follow-up on commitments"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Screening",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.1",
+                      "question": "What is the purpose of the screening stage in an EIA?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.2",
+                      "question": "How do authorities decide if a project needs an EIA?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.3",
+                      "question": "What types of projects usually require screening?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.4",
+                      "question": "Why is early evaluation important in environmental planning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.5",
+                      "question": "What criteria are commonly used in screening decisions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.6",
+                      "question": "How might political or economic pressures affect screening outcomes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.7",
+                      "question": "What if screening is skipped or rushed?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.8",
+                      "question": "What could be the emotional impact on communities if they are excluded at this stage?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.9",
+                      "question": "How might the tone of a screening report affect public perception?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.10",
+                      "question": "How can transparency improve the legitimacy of screening?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.11",
+                      "question": "What systems or tools help structure the screening process?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.1.12",
+                      "question": "Why does screening play a crucial role in limiting environmental damage early on?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Scoping",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.1",
+                      "question": "What is the main goal of the scoping stage?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.2",
+                      "question": "How are relevant environmental issues selected for focus?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.3",
+                      "question": "Why is defining the study area so important?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.4",
+                      "question": "What stakeholders are typically involved in scoping?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.5",
+                      "question": "What happens if scoping is done too narrowly?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.6",
+                      "question": "How does scoping influence later stages of the EIA?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.7",
+                      "question": "How might public values shape the scoping process?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.8",
+                      "question": "What if new information challenges the initial scoping decisions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.9",
+                      "question": "What tone should facilitators set during public scoping consultations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.10",
+                      "question": "How can emotional responses from local communities help refine scoping criteria?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.11",
+                      "question": "What frameworks help organize scoping criteria across disciplines?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.2.12",
+                      "question": "How does clear scoping support fairness and inclusion in EIA?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Baseline Data Collection",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.1",
+                      "question": "What kinds of data are collected during this stage?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.2",
+                      "question": "How does baseline data help evaluate future impacts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.3",
+                      "question": "Why is long-term environmental data important for analysis?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.4",
+                      "question": "How do researchers decide what environmental factors to track?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.5",
+                      "question": "What challenges arise when data is incomplete or outdated?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.6",
+                      "question": "What if data collection is influenced by external interests?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.7",
+                      "question": "How does memory of past ecological changes shape baseline assumptions?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.8",
+                      "question": "How might the collection process affect local trust and emotional tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.9",
+                      "question": "What emotional reactions might communities have to baseline data findings?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.10",
+                      "question": "How can scale distort or clarify what the data shows?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.11",
+                      "question": "What systems of measurement are most effective in this context?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.3.12",
+                      "question": "What if baseline data contradicts official narratives about an area’s condition?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Impact Prediction",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.1",
+                      "question": "What is the goal of impact prediction in an EIA?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.2",
+                      "question": "How are environmental impacts forecasted?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.3",
+                      "question": "What tools or models are used to estimate impacts?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.4",
+                      "question": "Why is it important to predict both short-term and long-term effects?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.5",
+                      "question": "What types of impacts are commonly assessed (e.g., air, water, soil)?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.6",
+                      "question": "How do scientists deal with uncertainty in prediction?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.7",
+                      "question": "What if an impact is identified too late in the process?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.8",
+                      "question": "What emotional reactions might arise from predicted negative outcomes?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.9",
+                      "question": "How can impact prediction influence the tone of the public conversation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.10",
+                      "question": "How can feedback from earlier EIAs improve future impact prediction?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.11",
+                      "question": "How does predicting cascading effects help with planning?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.4.12",
+                      "question": "What happens if stakeholders interpret predictions differently?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Mitigation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.1",
+                      "question": "What does mitigation mean in the context of environmental planning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.2",
+                      "question": "How can mitigation strategies reduce or prevent negative impacts?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.3",
+                      "question": "What are common examples of mitigation measures?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.4",
+                      "question": "Why is it important to prioritize mitigation in project planning?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.5",
+                      "question": "How does mitigation differ from compensation or adaptation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.6",
+                      "question": "What challenges might arise in implementing mitigation plans?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.7",
+                      "question": "What if proposed mitigation fails to work as expected?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.8",
+                      "question": "What emotional responses might stakeholders have to mitigation proposals?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.9",
+                      "question": "How can the tone of a mitigation plan affect its acceptance by the public?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.10",
+                      "question": "How do trade-offs in mitigation affect decision-making?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.11",
+                      "question": "What systems are needed to monitor if mitigation is working?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.5.12",
+                      "question": "How does effective mitigation show transformation of environmental risk into opportunity?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Reporting",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.1",
+                      "question": "What is the main purpose of the reporting stage in an EIA?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.2",
+                      "question": "What information is typically included in an Environmental Impact Statement (EIS)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.3",
+                      "question": "How is data from earlier stages organized in the report?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.4",
+                      "question": "Why is clarity important in environmental reporting?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.5",
+                      "question": "What happens if the report is overly technical or inaccessible?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.6",
+                      "question": "How does the report support transparency and accountability?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.7",
+                      "question": "How might different audiences interpret the same report differently?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.8",
+                      "question": "What tone should an EIS use to communicate both seriousness and balance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.9",
+                      "question": "How can reporting evoke emotional awareness about environmental consequences?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.10",
+                      "question": "What systems exist to standardize how EIA reports are written?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.11",
+                      "question": "How does strong reporting improve public engagement in decision-making?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.6.12",
+                      "question": "What are the risks of omitting key findings in the final report?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Review",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.1",
+                      "question": "What is the purpose of reviewing the Environmental Impact Statement (EIS)?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.2",
+                      "question": "Who is responsible for reviewing the EIS and why?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.3",
+                      "question": "How is the quality of an EIS evaluated?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.4",
+                      "question": "What criteria are commonly used during the review process?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.5",
+                      "question": "What happens if major issues are found during review?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.6",
+                      "question": "How does public feedback influence the review process?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.7",
+                      "question": "What if conflicting feedback is received from stakeholders?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.8",
+                      "question": "What emotional responses might arise if the review process is seen as unfair?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.9",
+                      "question": "How can the tone of review communication impact trust in the process?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.10",
+                      "question": "How does review act as a feedback loop within the overall EIA system?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.11",
+                      "question": "Why is review essential for ensuring environmental protection?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.7.12",
+                      "question": "How can transparency during review foster public confidence?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Decision-Making",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.1",
+                      "question": "What decisions can be made at the end of the EIA process?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.2",
+                      "question": "Who makes the final decision and on what basis?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.3",
+                      "question": "How are EIA findings integrated into policy or project approval?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.4",
+                      "question": "What factors beyond environmental concerns might influence the final decision?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.5",
+                      "question": "How can the decision-making process be made more transparent?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.6",
+                      "question": "What if the decision contradicts public expectations or recommendations?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.7",
+                      "question": "How does uncertainty affect environmental decision-making?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.8",
+                      "question": "How might the final decision emotionally impact affected communities?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.9",
+                      "question": "What tone should decision-makers strike when announcing outcomes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.10",
+                      "question": "What are the possible long-term consequences of poor decision-making in this context?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.11",
+                      "question": "How does this stage reflect broader debates about power and responsibility in environmental governance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.8.12",
+                      "question": "How can inclusive decision-making improve project legitimacy?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Monitoring and Compliance",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.1",
+                      "question": "What is the goal of monitoring and compliance after an EIA is approved?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.2",
+                      "question": "What are common methods for monitoring environmental impacts?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.3",
+                      "question": "Why is follow-up essential to ensure mitigation measures are effective?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.4",
+                      "question": "How is compliance measured and enforced?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.5",
+                      "question": "What happens if a developer fails to meet compliance requirements?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.6",
+                      "question": "How does ongoing monitoring lead to adaptive management?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.7",
+                      "question": "How might data from monitoring reshape future EIAs?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.8",
+                      "question": "What emotional responses might arise if monitoring reports reveal ongoing harm?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.9",
+                      "question": "What tone should be used in compliance communication to maintain trust?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.10",
+                      "question": "How can communities be involved in monitoring efforts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.11",
+                      "question": "What systems help automate and streamline monitoring processes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.B.9.12",
+                      "question": "Why is monitoring a continuous cycle rather than a final step?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Screening",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.1",
+                      "question": "How does the framing of a proposed project influence whether it passes the screening threshold?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.2",
+                      "question": "What types of environmental, legal, or political framing can alter the perceived need for a full EIA?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.3",
+                      "question": "In what ways do regional policies or planning frameworks shape the screening process?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.4",
+                      "question": "How can bias or strategic ambiguity be used during screening, and with what effects?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.5",
+                      "question": "What if developers frame a project to appear below impact thresholds—how can regulators detect this?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.6",
+                      "question": "Why is consistency in screening criteria difficult to maintain across cases and jurisdictions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.7",
+                      "question": "How might screening outcomes reflect power asymmetries between developers and local communities?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.8",
+                      "question": "What are the implications of a “precautionary” versus “reactive” tone in screening narratives?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.9",
+                      "question": "How can the public’s emotional investment influence whether a project is screened in?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.10",
+                      "question": "How do layered regulatory systems complicate screening decisions in cross-border or transnational projects?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.11",
+                      "question": "What are the trade-offs between broad and narrow screening criteria for long-term environmental strategy?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.1.12",
+                      "question": "How could AI tools transform the logic and fairness of initial screening assessments?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Scoping",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.1",
+                      "question": "How do scoping boundaries determine which environmental systems are visible or invisible in the EIA?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.2",
+                      "question": "What cognitive or institutional biases influence how issues are prioritized during scoping?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.3",
+                      "question": "How might early stakeholder engagement shift the direction or scope of an EIA?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.4",
+                      "question": "What role does past ecological memory play in determining the scope of concern?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.5",
+                      "question": "How does scoping create feedback loops that shape public trust and institutional credibility?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.6",
+                      "question": "What if scoping fails to account for cumulative or systemic effects across ecosystems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.7",
+                      "question": "How can ambiguity in scoping boundaries generate long-term interpretive disputes?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.8",
+                      "question": "How might the tone of stakeholder consultations alter what issues are considered “legitimate”?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.9",
+                      "question": "How can emotional attachments to land, heritage, or memory shape scoping priorities?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.10",
+                      "question": "How does the structure of interdisciplinary teams affect scoping complexity?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.11",
+                      "question": "What framing devices do consultants use to “scale” problems into or out of relevance?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.2.12",
+                      "question": "How might scoping adapt over time as more data becomes available or political contexts shift?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Baseline Data Collection",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.1",
+                      "question": "How do assumptions about the past shape what data is collected as “baseline”?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.2",
+                      "question": "What technical or political decisions affect which indicators are monitored and why?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.3",
+                      "question": "How do historical data gaps introduce uncertainty into baseline analysis?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.4",
+                      "question": "What if the baseline itself is already an artifact of prior degradation or restoration?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.5",
+                      "question": "How does the scale and duration of monitoring influence the quality of baseline conclusions?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.6",
+                      "question": "What systemic challenges arise when data from different sources conflict?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.7",
+                      "question": "How can communities serve as sources of ecological memory through lived experience?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.8",
+                      "question": "What emotional impact might occur if the data reveals prior environmental injustice?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.9",
+                      "question": "How might the tone of scientific language in baseline reports affect public engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.10",
+                      "question": "What tools can reconcile qualitative and quantitative forms of baseline data?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.11",
+                      "question": "How do legal requirements versus ecological complexity conflict when setting baseline parameters?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.3.12",
+                      "question": "How does baseline construction reflect deeper disciplinary assumptions about “normalcy”?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Impact Prediction",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.1",
+                      "question": "How do models simulate future environmental changes, and what assumptions do they rely on?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.2",
+                      "question": "What types of impacts are most difficult to predict accurately and why?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.3",
+                      "question": "How do predictive tools reflect different disciplinary logics (e.g., engineering vs. ecology)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.4",
+                      "question": "What are the risks of linear prediction models in complex ecological systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.5",
+                      "question": "How might feedback loops complicate or invalidate straightforward impact forecasts?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.6",
+                      "question": "What ethical dilemmas arise from relying on uncertain predictions in high-stakes projects?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.7",
+                      "question": "How do visualizations (maps, graphs) shape audience perception of predicted impacts?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.8",
+                      "question": "What emotional responses might be triggered by predicted losses to biodiversity or culture?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.9",
+                      "question": "How can the tone of prediction language shift between alarmism and complacency?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.10",
+                      "question": "How can scenario analysis offer a more robust approach than single-outcome forecasting?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.11",
+                      "question": "What role do thresholds and tipping points play in impact prediction logic?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.4.12",
+                      "question": "How does uncertainty in prediction reflect deeper paradoxes about control in environmental planning?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Mitigation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.1",
+                      "question": "How are mitigation strategies prioritized when trade-offs must be made between ecological and economic interests?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.2",
+                      "question": "How do mitigation strategies reflect the underlying theory of change embedded in the EIA?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.3",
+                      "question": "What kinds of mitigation demonstrate a shift from reactive to preventive design thinking?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.4",
+                      "question": "How can we measure whether mitigation plans are transformative or merely cosmetic?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.5",
+                      "question": "How do systemic and localized mitigation approaches interact or conflict?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.6",
+                      "question": "How does stakeholder negotiation shape what is considered “adequate” mitigation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.7",
+                      "question": "What are the long-term risks if mitigation is treated as a checkbox rather than a design principle?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.8",
+                      "question": "How can the tone of mitigation plans influence whether they are seen as sincere or performative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.9",
+                      "question": "What emotional tensions arise when mitigation fails to meet community expectations?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.10",
+                      "question": "How do feedback loops between monitoring and mitigation support adaptive management?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.11",
+                      "question": "What disciplines must collaborate to design integrated mitigation solutions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.5.12",
+                      "question": "How does mitigation reshape the ethical narrative of environmental responsibility in project development?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Reporting",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.1",
+                      "question": "How does the structure and tone of an Environmental Impact Statement affect interpretation by different stakeholders?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.2",
+                      "question": "What rhetorical strategies are used in EIA reports to persuade or reassure readers?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.3",
+                      "question": "How does the choice between technical jargon and plain language affect public participation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.4",
+                      "question": "What are the ethical responsibilities of authors compiling the final report?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.5",
+                      "question": "How do embedded values shape what gets emphasized or omitted in the report?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.6",
+                      "question": "What risks arise when different agencies publish conflicting reports about the same project?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.7",
+                      "question": "How might genre expectations for EIA reports limit creativity in communicating environmental concerns?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.8",
+                      "question": "How can tone and layout influence the perceived neutrality of an EIA report?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.9",
+                      "question": "What emotional dynamics are at play when communities read reports about impacts to their homes or heritage?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.10",
+                      "question": "How can interactive or multimedia formats expand the impact of traditional written reports?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.11",
+                      "question": "What makes reporting not just a documentation task but a political and narrative act?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.6.12",
+                      "question": "How do EIA reports reflect competing systems of knowledge and authority?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Review",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.1",
+                      "question": "How do reviewers balance scientific rigor with real-world feasibility in their assessments?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.2",
+                      "question": "How do institutional biases affect the objectivity of EIA reviews?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.3",
+                      "question": "What criteria determine whether an EIA is considered ‘adequate’ by authorities or stakeholders?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.4",
+                      "question": "How are conflicting interpretations of environmental data handled during review?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.5",
+                      "question": "How does the timing of a review affect its impact on project decisions?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.6",
+                      "question": "What strategies can ensure diverse stakeholder voices are respected during review?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.7",
+                      "question": "How does the tone of a reviewer’s critique shape the developer’s response?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.8",
+                      "question": "What emotional or political tensions might reviewers face when rejecting a high-investment project?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.9",
+                      "question": "How can reviewers avoid either overstepping or under-enforcing environmental standards?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.10",
+                      "question": "How does peer review compare to public review in shaping the final evaluation?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.11",
+                      "question": "How does review act as a space for interdisciplinary dialogue or conflict?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.7.12",
+                      "question": "How might reviews themselves evolve to reflect shifting cultural or ecological values?",
+                      "concept": "Abstraction"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Decision-Making",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.1",
+                      "question": "What factors influence final decisions beyond the scientific findings of the EIA?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.2",
+                      "question": "How does political pressure shape which environmental priorities are upheld or dismissed?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.3",
+                      "question": "How do decision-makers justify moving forward with projects that carry significant risks?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.4",
+                      "question": "How are competing values (economic, cultural, ecological) weighed in final project approval?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.5",
+                      "question": "What role do visualizations and narratives play in shaping final decisions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.6",
+                      "question": "How might fear of legal challenge influence decision-makers’ caution or boldness?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.7",
+                      "question": "What emotional burden might decision-makers carry when outcomes are irreversible?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.8",
+                      "question": "How can the tone of decision documents signal transparency or defensiveness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.9",
+                      "question": "How do moments of crisis (e.g. ecological collapse, protest) shift the decision-making framework?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.10",
+                      "question": "How might participatory decision-making processes lead to more sustainable outcomes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.11",
+                      "question": "What frameworks help distinguish between precaution and paralysis in decision-making?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.8.12",
+                      "question": "How does EIA decision-making reflect broader societal narratives about control, growth, or stewardship?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Monitoring and Compliance",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.1",
+                      "question": "What indicators are most effective for monitoring long-term environmental impacts?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.2",
+                      "question": "How does ongoing monitoring close or open feedback loops within the EIA process?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.3",
+                      "question": "How can monitoring plans adapt to unexpected outcomes or emerging risks?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.4",
+                      "question": "What challenges arise in holding project developers accountable after approval?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.5",
+                      "question": "How does the framing of monitoring reports affect public trust in the project’s follow-through?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.6",
+                      "question": "What emotional responses might communities experience when monitoring reveals unmitigated harm?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.7",
+                      "question": "What role can citizen science play in expanding the scope or credibility of monitoring?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.8",
+                      "question": "How does tone in post-approval communication shift when problems are discovered?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.9",
+                      "question": "How might repeated monitoring failures reveal systemic weaknesses in the EIA process?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.10",
+                      "question": "What institutional or cultural factors support continuous learning from post-approval data?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.11",
+                      "question": "How can monitoring outcomes be integrated into future environmental planning cycles?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.I.9.12",
+                      "question": "How do long-term monitoring results challenge or reinforce the legitimacy of the original EIA?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Screening",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.1",
+                      "question": "How do emerging forms of ecological risk challenge traditional screening thresholds?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.2",
+                      "question": "How can complex systems thinking reshape assumptions about what projects require screening?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.3",
+                      "question": "In what ways might legal or institutional inertia bias screening toward development over protection?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.4",
+                      "question": "How does the burden of proof shift between developer and regulator during ambiguous screening decisions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.5",
+                      "question": "How can emotional framing (e.g., urgency, hope, fear) influence stakeholder perceptions of project eligibility?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.6",
+                      "question": "What are the limitations of cost-benefit logic when screening projects with irreversible ecological impacts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.7",
+                      "question": "How does the tone of public discourse affect which projects escape or receive scrutiny during screening?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.8",
+                      "question": "How do transboundary or cumulative effects complicate conventional screening categories?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.9",
+                      "question": "What assumptions underlie the very idea of 'screening' as a gatekeeping mechanism?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.10",
+                      "question": "How might climate tipping points redefine the ethics and scope of screening decisions?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.11",
+                      "question": "What philosophical tensions emerge between precautionary screening and innovation-driven development?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.1.12",
+                      "question": "How do regulatory exclusions reflect socio-political hierarchies in environmental governance?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Scoping",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.1",
+                      "question": "How are the boundaries of 'significance' constructed during scoping, and who gets to decide?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.2",
+                      "question": "How do epistemological assumptions shape which impacts are scoped in or out?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.3",
+                      "question": "How does the inclusion or exclusion of indigenous knowledge alter the legitimacy of scoping practices?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.4",
+                      "question": "What tensions arise when scoping tries to quantify inherently qualitative environmental values?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.5",
+                      "question": "How does scoping frame future risks—anticipating, excluding, or deferring responsibility for them?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.6",
+                      "question": "How can scoping criteria unintentionally reinforce colonial or extractive worldviews?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.7",
+                      "question": "What emotional tensions surface when communities’ priorities are scoped out of consideration?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.8",
+                      "question": "How might scoping serve as a site for deep negotiation between conflicting moral frameworks?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.9",
+                      "question": "How do institutional deadlines and funding cycles shape the breadth or depth of scoping analysis?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.10",
+                      "question": "What role does narrative structure play in making certain scoping decisions appear rational or inevitable?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.11",
+                      "question": "How might transdisciplinary scoping methods change the culture of environmental planning?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.2.12",
+                      "question": "How does the tone of early stakeholder meetings shape scoping inclusion or resistance?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Baseline Data Collection",
+                  "part_concept": "Interpretation",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.1",
+                      "question": "How does the act of establishing a ‘baseline’ embed specific temporal and spatial biases?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.2",
+                      "question": "How are ecological ‘norms’ constructed through baseline data, and to what extent are they negotiable?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.3",
+                      "question": "How might emotional attachments to place influence perceptions of what constitutes environmental 'health' or 'degradation'?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.4",
+                      "question": "In what ways can baseline studies be used to erase, obscure, or devalue prior harm or slow violence?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.5",
+                      "question": "What methodological challenges arise when trying to quantify cultural or spiritual baselines in indigenous territories?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.6",
+                      "question": "How does the visual rhetoric of baseline reporting affect trust, skepticism, or urgency among stakeholders?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.7",
+                      "question": "What role do long-term datasets play in disrupting assumptions about environmental stasis?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.8",
+                      "question": "How can baseline reports be designed to encourage reflection rather than complacency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.9",
+                      "question": "What tone choices in baseline documentation influence whether data is perceived as authoritative or contested?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.10",
+                      "question": "How does the act of naming (species, processes, systems) shape what is considered worth protecting?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.11",
+                      "question": "What ethical obligations emerge when baseline data reveals irreversible or ongoing damage?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.3.12",
+                      "question": "How can baselines evolve into dialogical platforms for multi-stakeholder learning?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Impact Prediction",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.1",
+                      "question": "How do models of ecological forecasting account for cascading or nonlinear feedback loops?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.2",
+                      "question": "To what extent do impact predictions reflect probabilistic reasoning vs. strategic framing for approval?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.3",
+                      "question": "How might the use of predictive AI tools reshape accountability in environmental forecasting?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.4",
+                      "question": "What cultural narratives shape the choice of best-case vs. worst-case scenarios in forecasting reports?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.5",
+                      "question": "How can impact prediction methods incorporate indigenous and place-based anticipatory knowledge?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.6",
+                      "question": "In what ways do predictive thresholds obscure long-term ecological transformation or delay responsibility?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.7",
+                      "question": "How might emotional tones of urgency, optimism, or fatalism alter how predicted impacts are interpreted by the public?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.8",
+                      "question": "How should uncertainty be ethically communicated in impact prediction reports to avoid false neutrality or alarmism?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.9",
+                      "question": "How do prediction tools risk reproducing systemic bias through data selection or exclusion?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.10",
+                      "question": "How do long temporal scales in prediction challenge public engagement or policy urgency?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.11",
+                      "question": "What philosophical tensions arise when impact prediction becomes a tool of both regulation and justification?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.4.12",
+                      "question": "How might visual representations of predicted impact manipulate affective responses and decision-making?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Mitigation",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.1",
+                      "question": "How can 'alternatives' be genuinely deliberated when economic interests constrain the mitigation imagination?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.2",
+                      "question": "How do cultural values shape definitions of acceptable mitigation across different communities?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.3",
+                      "question": "How might emotionally driven demands (e.g. grief, fear, hope) influence community acceptance of mitigation strategies?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.4",
+                      "question": "To what extent are offsetting schemes (e.g., biodiversity banking) a moral abdication rather than an ecological solution?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.5",
+                      "question": "What epistemological tensions arise when comparing scientific mitigation models with local or indigenous practices?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.6",
+                      "question": "How do mitigation measures conceal or redistribute risk among social and ecological systems?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.7",
+                      "question": "How might the rhetorical tone of minimization underplay the real scope of environmental loss?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.8",
+                      "question": "How can stakeholder fatigue distort meaningful deliberation over alternatives?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.9",
+                      "question": "How can radical alternatives be ethically weighed against 'least harm' scenarios?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.10",
+                      "question": "What role does design thinking play in reimagining mitigation as opportunity rather than concession?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.11",
+                      "question": "How might legal liability and ecological repair be more tightly integrated in mitigation planning?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.5.12",
+                      "question": "How do corporate sustainability narratives manipulate public trust in proposed mitigation pathways?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Reporting",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.1",
+                      "question": "How does the format of consultation shape who feels empowered or alienated in participatory processes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.2",
+                      "question": "How can emotional storytelling serve as a counterweight to technical expertise in public hearings?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.3",
+                      "question": "How does the tone of facilitation affect trust, defensiveness, or cooperation in community engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.4",
+                      "question": "What structural barriers prevent the participation of marginalized or indigenous groups in EIA processes?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.5",
+                      "question": "How might deliberative forums become spaces of emotional labor, not just rational discourse?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.6",
+                      "question": "In what ways does the 'public voice' get filtered or translated through bureaucratic processes, and with what effects?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.7",
+                      "question": "How can the timing of public engagement influence both its authenticity and impact?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.8",
+                      "question": "What ethical dilemmas arise when public feedback is solicited but not acted upon?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.9",
+                      "question": "How might participation processes be restructured to foster co-creation rather than consultation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.10",
+                      "question": "How does emotional fatigue among activists or communities erode participatory integrity over time?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.11",
+                      "question": "What role can arts-based or sensory methods play in democratizing environmental participation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.6.12",
+                      "question": "How does legal language in participation documents uphold or obstruct public comprehension and trust?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Review",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.1",
+                      "question": "How can decision-making frameworks balance ecological thresholds with political pragmatism?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.2",
+                      "question": "To what extent is decision-making in EIA shaped by emotional rhetoric rather than evidence-based criteria?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.3",
+                      "question": "How does the institutional design of review bodies affect impartiality, transparency, and legitimacy of outcomes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.4",
+                      "question": "How might public pressure, media framing, or activist tone ethically influence formal decision-making?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.5",
+                      "question": "What tensions emerge between adaptive governance and the finality of EIA decisions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.6",
+                      "question": "How do underlying ideologies shape how trade-offs between economy and environment are justified?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.7",
+                      "question": "How can emotional or spiritual connections to land be formally recognized in decision-making logic?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.8",
+                      "question": "How should uncertainty be weighed against precaution and innovation when making final EIA determinations?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.9",
+                      "question": "What role does procedural trust or mistrust play in community reactions to EIA verdicts?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.10",
+                      "question": "How might decision-makers integrate emotional responses (e.g., grief, hope, fear) into their ethical reasoning?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.11",
+                      "question": "How does the burden of proof in EIA implicitly prioritize development over precaution?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.7.12",
+                      "question": "How might restorative or transformative justice principles reshape how decisions are made and justified?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Decision-Making",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.1",
+                      "question": "How does the emotional tone of accountability language (e.g. enforcement vs. stewardship) affect compliance behavior?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.2",
+                      "question": "How might monitoring regimes reproduce power imbalances between state, corporation, and community?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.3",
+                      "question": "What is the epistemic status of citizen science in verifying EIA compliance, and how can it be strengthened?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.4",
+                      "question": "How can emotional storytelling by local communities expose failures in post-approval monitoring?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.5",
+                      "question": "How might real-time digital monitoring tools reconfigure responsibility, transparency, and resistance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.6",
+                      "question": "How does long-term environmental degradation challenge the efficacy and ethics of short-term compliance cycles?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.7",
+                      "question": "To what extent should emotional harm or cultural loss be included in monitoring indicators?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.8",
+                      "question": "What accountability mechanisms exist when EIAs are violated, and how do they reflect or fail principles of justice?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.9",
+                      "question": "How do emotions like disillusionment or betrayal among communities affect long-term compliance cultures?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.10",
+                      "question": "How might restorative approaches be used to repair not just environmental damage, but relational harm from failed compliance?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.11",
+                      "question": "How can third-party audits be made more democratically accountable and emotionally responsive to affected stakeholders?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.8.12",
+                      "question": "How might performance-based rather than rule-based compliance metrics better reflect adaptive environmental ethics?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Monitoring and Compliance",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.1",
+                      "question": "How can post-evaluations promote institutional humility and epistemic reflection?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.2",
+                      "question": "What emotional or symbolic gestures can accompany formal post-EIA learning to restore public trust?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.3",
+                      "question": "How might failures in one EIA cycle be reframed as learning assets in future assessments?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.4",
+                      "question": "What frameworks exist for integrating emotional and experiential knowledge into formal EIA review processes?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.5",
+                      "question": "How do bureaucratic structures limit the circulation of emotional and moral learning between cases?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.6",
+                      "question": "How can storytelling, ritual, or public art foster deeper collective reflection on the legacies of development?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.7",
+                      "question": "What role does language (technical vs. poetic) play in post-evaluation reports and how might tone alter meaning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.8",
+                      "question": "How can intergenerational perspectives be meaningfully included in post-EIA learning?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.9",
+                      "question": "What models support continuous learning loops rather than static finality in EIA outcomes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.10",
+                      "question": "How can emotional responses to success or failure in EIA guide future ethical design criteria?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.11",
+                      "question": "How might failed EIAs become sites of collective grief, apology, or renewal rather than bureaucratic closure?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.A.9.12",
+                      "question": "What pedagogical strategies might reframe EIA post-evaluations as moral inquiry rather than technical audit?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Screening",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.1",
+                      "question": "What meta-criteria determine why certain projects require EIA while others remain institutionally invisible?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.2",
+                      "question": "How does the historical evolution of EIA reflect deeper epistemic biases in what qualifies as 'impact' or 'environmental' damage?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.3",
+                      "question": "To what extent does the act of screening encode implicit decisions about legitimacy, authority, and narrative framing?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.4",
+                      "question": "How do screening thresholds function as political technologies that manage dissent and expectation?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.5",
+                      "question": "What ontologies of nature, development, and futurity are embedded in the institutional logic of screening?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.6",
+                      "question": "How might AI-driven automation of screening replicate or subvert prior patterns of marginalization?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.7",
+                      "question": "How can emotional or spiritual registers of impact, typically excluded, be legitimized at the screening phase?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.8",
+                      "question": "What would a counter-hegemonic model of screening look like if led by Indigenous or subaltern epistemologies?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.9",
+                      "question": "How do acts of omission in screening processes relate to the broader political economy of visibility and erasure?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.1.10",
+                      "question": "Can screening be reimagined as a moral gesture rather than a bureaucratic gatekeeping process?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Scoping",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.1",
+                      "question": "How do scoping decisions function as acts of epistemic boundary-making, privileging certain knowledge regimes while excluding others?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.2",
+                      "question": "How does the scope of EIA define the spatial and temporal politics of responsibility?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.3",
+                      "question": "In what ways are emotional, cultural, or affective dimensions of harm structurally excluded through scoping heuristics?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.4",
+                      "question": "What epistemological violence may occur through technocratic narrowing of scope in transboundary or intergenerational projects?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.5",
+                      "question": "How do stakeholder dynamics and power asymmetries co-produce what is deemed ‘material’ or ‘immaterial’ impact during scoping?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.6",
+                      "question": "Can scoping be re-envisioned as a deliberative ritual rather than a procedural step?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.7",
+                      "question": "How can scoping integrate speculative, narrative, or poetic methods to imagine long-term ecological futures?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.8",
+                      "question": "What hidden ideologies underlie the act of defining impact boundaries—growth, progress, stability—and how can they be contested?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.9",
+                      "question": "How does scoping co-determine not only what is studied but what is emotionally grieved, healed, or ignored?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.2.10",
+                      "question": "How might alternate scoping logics, based on relational ontologies, reframe what is considered 'externality' or 'harm'?",
+                      "concept": "Inversion"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Baseline Data Collection",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.1",
+                      "question": "What are the philosophical assumptions embedded in the idea of a ‘baseline’ and how might they distort dynamic systems?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.2",
+                      "question": "To what extent is the idea of ‘normal’ environmental condition a construct shaped by political, emotional, or historical narratives?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.3",
+                      "question": "How might baseline studies erase slow violence, colonial history, or cumulative trauma that resist quantification?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.4",
+                      "question": "How do baseline data practices reflect hierarchies of evidence, and what forms of knowing are routinely marginalized?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.5",
+                      "question": "What role does emotional tone—hope, fear, nostalgia—play in shaping the design and interpretation of baseline studies?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.6",
+                      "question": "Can baselines be reimagined as dynamic stories rather than fixed states—evolving, contested, and relational?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.7",
+                      "question": "What would it mean to produce a baseline not of things but of relationships, values, and interdependencies?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.8",
+                      "question": "How might the emotional labor of local knowledge holders be valued as part of baseline formation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.9",
+                      "question": "How does the act of baseline setting encode moral judgments about what is worth saving or restoring?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.3.10",
+                      "question": "What are the implications of historical data voids or lost archives on the legitimacy of current baselines?",
+                      "concept": "Entropy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Impact Prediction",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.1",
+                      "question": "How can impact prediction methodologies be critically examined for embedded assumptions about ecological stability and change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.2",
+                      "question": "In what ways do predictive models incorporate or exclude non-quantifiable cultural, spiritual, or emotional impacts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.3",
+                      "question": "How might foresight techniques integrate multi-scalar temporalities, challenging linear cause-effect paradigms?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.4",
+                      "question": "What are the ethical and epistemic implications of using AI and machine learning for environmental impact prediction?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.5",
+                      "question": "How do different epistemic communities negotiate uncertainties and thresholds in impact prediction?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.6",
+                      "question": "How might emotional tone in predictive narratives influence policy urgency or complacency?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.7",
+                      "question": "What role does reflexivity play in acknowledging the limitations and potential biases of impact prediction tools?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.8",
+                      "question": "How can impact prediction challenge entrenched power dynamics through alternative framings of risk and resilience?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.9",
+                      "question": "What tensions exist between precautionary principles and innovation-driven predictions in shaping environmental futures?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.10",
+                      "question": "How might impact predictions be transformed to include indigenous temporalities and cosmologies?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.11",
+                      "question": "How do visualizations in impact prediction act as rhetorical devices that shape public perception and policy debates?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.4.12",
+                      "question": "What methods can support inclusive co-production of predictive knowledge across diverse stakeholder groups?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Mitigation",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.1",
+                      "question": "How can mitigation strategies be critiqued for perpetuating systems of environmental injustice under the guise of solutions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.2",
+                      "question": "What frameworks enable the integration of indigenous epistemologies into mitigation planning in a way that challenges colonial legacies?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.3",
+                      "question": "How do narratives of technological optimism influence the scope and ambition of mitigation alternatives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.4",
+                      "question": "In what ways might mitigation be reimagined as a process of socio-ecological co-evolution rather than mere damage control?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.5",
+                      "question": "How do affective responses such as hope, grief, or guilt shape the political will for ambitious mitigation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.6",
+                      "question": "What role do economic imperatives play in framing the boundaries of viable alternatives within mitigation plans?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.7",
+                      "question": "How can participatory design methodologies expand the ethical imagination in mitigation planning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.8",
+                      "question": "What are the implications of offsetting practices for long-term ecological and social resilience?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.9",
+                      "question": "How might mitigation discourse silence or marginalize voices of non-human stakeholders and ecosystems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.10",
+                      "question": "How can mitigation alternatives be assessed beyond technical feasibility to include ethical and cultural dimensions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.11",
+                      "question": "What tensions exist between mitigation as a legal obligation and as a transformative opportunity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.5.12",
+                      "question": "How does the rhetorical framing of mitigation affect public perception and policy legitimacy?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Reporting",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.1",
+                      "question": "How does the design of participatory processes reflect and reproduce existing power hierarchies?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.2",
+                      "question": "In what ways can emotional labor and affective dynamics be acknowledged and integrated into participatory frameworks?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.3",
+                      "question": "How might participatory practices be decolonized to center marginalized epistemologies and knowledges?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.4",
+                      "question": "What role does reflexivity play in improving the inclusivity and effectiveness of public participation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.5",
+                      "question": "How do narratives constructed during participation shape collective identity and environmental stewardship?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.6",
+                      "question": "How might digital technologies enable or constrain democratic participation in EIAs?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.7",
+                      "question": "What are the ethical implications of tokenistic participation and how can they be addressed?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.8",
+                      "question": "How can emotional tone during public engagement influence both conflict escalation and resolution?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.9",
+                      "question": "How might iterative feedback loops between stakeholders enhance mutual understanding and trust?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.10",
+                      "question": "What are the challenges and opportunities of incorporating intergenerational perspectives in participation?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.11",
+                      "question": "How can participation transcend consultation to enable co-creation and shared agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.6.12",
+                      "question": "In what ways does the framing of participation influence its perceived legitimacy and transformative potential?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Review",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.1",
+                      "question": "How can decision-making frameworks reconcile conflicting epistemologies and values to achieve just environmental outcomes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.2",
+                      "question": "In what ways do power asymmetries influence whose knowledge is prioritized during EIA decisions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.3",
+                      "question": "How might integrating emotional and ethical dimensions transform conventional decision-making processes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.4",
+                      "question": "What strategies can mitigate the risk of decision fatigue and cognitive bias in complex environmental judgments?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.5",
+                      "question": "How does the temporal framing of impacts affect the weighting of short-term versus long-term consequences in decisions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.6",
+                      "question": "How can deliberative democratic models enhance legitimacy and fairness in EIA decision-making?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.7",
+                      "question": "What role do narrative and metaphor play in shaping stakeholder perceptions during the decision stage?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.8",
+                      "question": "How can transparency and reflexivity be institutionalized to improve accountability in decision processes?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.9",
+                      "question": "What ethical dilemmas arise when balancing economic development with ecological preservation in decision-making?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.10",
+                      "question": "How might scenario planning influence adaptive governance and resilience in EIA decisions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.11",
+                      "question": "How does the incorporation of indigenous knowledge systems challenge dominant decision paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.7.12",
+                      "question": "What mechanisms exist to integrate public sentiment and ethical considerations into final EIA decisions?",
+                      "concept": "Desire"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Decision-Making",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.1",
+                      "question": "How can monitoring systems be designed to balance technological efficiency with community empowerment?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.2",
+                      "question": "What are the implications of real-time data transparency for environmental justice and compliance enforcement?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.3",
+                      "question": "How might emotional responses to compliance failures be constructively integrated into remedial processes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.4",
+                      "question": "In what ways do institutional cultures shape the effectiveness and ethics of compliance monitoring?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.5",
+                      "question": "How can third-party oversight mechanisms mitigate conflicts of interest in environmental monitoring?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.6",
+                      "question": "What challenges arise in incorporating indigenous and local knowledge into formal monitoring frameworks?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.7",
+                      "question": "How can long-term environmental changes be accounted for within short-term compliance cycles?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.8",
+                      "question": "What role does community trust play in the success of monitoring and compliance programs?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.9",
+                      "question": "How might adaptive management approaches improve responsiveness to unforeseen impacts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.10",
+                      "question": "How can monitoring data be ethically communicated to diverse audiences to foster engagement and accountability?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.11",
+                      "question": "What are the risks and benefits of increasing reliance on automated environmental monitoring technologies?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.8.12",
+                      "question": "How can restorative justice principles be integrated into compliance enforcement to repair ecological and social harm?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Monitoring and Compliance",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.1",
+                      "question": "How can post-evaluation processes foster institutional learning and prevent recurrence of past mistakes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.2",
+                      "question": "In what ways can emotional narratives of success and failure deepen collective understanding of EIA outcomes?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.3",
+                      "question": "How might post-evaluation reports incorporate diverse epistemologies to enrich environmental governance?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.4",
+                      "question": "What mechanisms support the translation of post-evaluation insights into policy and practice reforms?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.5",
+                      "question": "How can reflexivity be institutionalized to continuously improve EIA frameworks based on post-evaluation findings?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.6",
+                      "question": "What role do storytelling, ritual, and symbolic acts play in legitimizing post-evaluation learning?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.7",
+                      "question": "How can intergenerational perspectives be meaningfully integrated into long-term post-evaluation strategies?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.8",
+                      "question": "What are the ethical responsibilities of institutions in communicating post-evaluation findings to affected communities?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.9",
+                      "question": "How can post-evaluation processes address both ecological and social dimensions of harm and recovery?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.10",
+                      "question": "What innovative pedagogical methods can transform post-evaluation from audit to moral inquiry?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.11",
+                      "question": "How do power relations shape which post-evaluation learnings are acted upon and which are ignored?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Environmental-Impact-Assessment.ME.9.12",
+                      "question": "How might the incorporation of emotional intelligence enhance institutional capacities for adaptive governance?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

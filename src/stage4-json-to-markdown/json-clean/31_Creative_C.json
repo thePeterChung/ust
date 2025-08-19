@@ -1,0 +1,1681 @@
+{
+  "discipline": "Art and Aesthetics",
+  "children": [
+    {
+      "structure_name": "Creative-Process",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Preparation → 2. Incubation → 3. Illumination → 4. Evaluation → 5. Elaboration → 6. Verification"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Preparation"
+                },
+                {
+                  "structure_part": "[2/6] 2. Incubation"
+                },
+                {
+                  "structure_part": "[3/6] 3. Illumination"
+                },
+                {
+                  "structure_part": "[4/6] 4. Evaluation"
+                },
+                {
+                  "structure_part": "[5/6] 5. Elaboration"
+                },
+                {
+                  "structure_part": "[6/6] 6. Verification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Pablo Picasso's Blue Period, Beethoven's Symphony No. 5, Maya Angelou's Writing Process"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Preparation → Gathering information and materials, initial conscious work"
+            },
+            {
+              "terminology": "2. Incubation → Subconscious processing and idea formation"
+            },
+            {
+              "terminology": "3. Illumination → Sudden insight or 'Aha' moment"
+            },
+            {
+              "terminology": "4. Evaluation → Critical assessment of the insight"
+            },
+            {
+              "terminology": "5. Elaboration → Developing the idea into a full work"
+            },
+            {
+              "terminology": "6. Verification → Final checking and refinement"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Preparation",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.B.1.1",
+                      "question": "What activities typically happen during the Preparation stage?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.2",
+                      "question": "How does gathering information influence creativity?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.3",
+                      "question": "Why is conscious effort important in this early phase?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.4",
+                      "question": "What materials or resources might an artist collect during Preparation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.5",
+                      "question": "How does Preparation set the foundation for later stages?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.6",
+                      "question": "What emotions might an artist feel during Preparation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.7",
+                      "question": "What if the Preparation phase is rushed or incomplete?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.8",
+                      "question": "How does the artist's focus shape this stage?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.9",
+                      "question": "What kinds of problems can arise in Preparation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.10",
+                      "question": "How might an artist frame the problem they want to solve?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.11",
+                      "question": "Why is this stage necessary for effective creative work?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.1.12",
+                      "question": "What next steps follow logically from Preparation?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Incubation",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.B.2.1",
+                      "question": "What happens during the Incubation stage?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.2",
+                      "question": "How does subconscious processing differ from conscious effort?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.3",
+                      "question": "Why might stepping away from a problem aid creativity?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.4",
+                      "question": "What if no incubation occurs—how might that affect the outcome?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.5",
+                      "question": "How can feedback loops occur in this stage?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.6",
+                      "question": "What feelings or moods are commonly associated with Incubation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.7",
+                      "question": "How might incubation involve ambiguity or uncertainty?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.8",
+                      "question": "What role does memory play in incubation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.9",
+                      "question": "How might an artist deliberately foster incubation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.10",
+                      "question": "What next might happen after incubation completes?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.11",
+                      "question": "How can incubation be seen as a cycle or iterative process?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.2.12",
+                      "question": "Why is Incubation critical despite seeming passive?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Illumination",
+                  "part_concept": "Inversion",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.B.3.1",
+                      "question": "What characterizes the Illumination stage?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.2",
+                      "question": "How does the 'Aha' moment impact the creative process?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.3",
+                      "question": "Why can sudden insight feel both surprising and inevitable?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.4",
+                      "question": "What if Illumination does not occur—how might the process change?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.5",
+                      "question": "How does illumination affect the artist's sense of agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.6",
+                      "question": "What emotions accompany the moment of insight?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.7",
+                      "question": "How can illumination shift perspective on the original problem?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.8",
+                      "question": "What next steps logically follow Illumination?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.9",
+                      "question": "How does this stage connect to previous Incubation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.10",
+                      "question": "Why might illumination be difficult to communicate to others?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.11",
+                      "question": "What role does memory play in illumination?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.3.12",
+                      "question": "How can the artist frame this moment to maximize creative potential?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Evaluation",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.B.4.1",
+                      "question": "What is the purpose of the Evaluation stage in the creative process?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.2",
+                      "question": "How does an artist assess the quality of their insight or idea?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.3",
+                      "question": "Why is critical thinking important during Evaluation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.4",
+                      "question": "What criteria might be used to judge an idea’s value?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.5",
+                      "question": "How can feedback from others influence the Evaluation phase?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.6",
+                      "question": "What emotions might an artist experience when evaluating their work?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.7",
+                      "question": "What if the Evaluation reveals flaws or gaps in the idea?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.8",
+                      "question": "How does Evaluation help decide whether to continue or revise?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.9",
+                      "question": "What next steps typically follow after Evaluation?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.10",
+                      "question": "How does this stage connect logically to Illumination and Elaboration?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.11",
+                      "question": "Why might Evaluation be challenging for artists emotionally or cognitively?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.4.12",
+                      "question": "How can framing influence the outcomes of Evaluation?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Elaboration",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.B.5.1",
+                      "question": "What activities define the Elaboration stage?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.2",
+                      "question": "How does an artist develop a rough idea into a complete work?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.3",
+                      "question": "Why is patience important during Elaboration?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.4",
+                      "question": "What challenges might arise while elaborating a creative idea?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.5",
+                      "question": "How can an artist maintain focus during this often long phase?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.6",
+                      "question": "What emotions might be experienced during Elaboration?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.7",
+                      "question": "What if new insights emerge during Elaboration—how should they be integrated?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.8",
+                      "question": "How does Elaboration relate to previous stages like Illumination and Evaluation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.9",
+                      "question": "What next steps follow after Elaboration?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.10",
+                      "question": "How might an artist’s intention guide the Elaboration phase?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.11",
+                      "question": "Why is Elaboration crucial for transforming ideas into tangible outcomes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.5.12",
+                      "question": "How can an artist use feedback loops to improve their work during Elaboration?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Verification",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.B.6.1",
+                      "question": "What is the Verification stage’s role in the creative process?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.2",
+                      "question": "How does Verification ensure the quality and coherence of the final work?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.3",
+                      "question": "Why is attention to detail important in Verification?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.4",
+                      "question": "What methods can artists use to verify their work’s effectiveness?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.5",
+                      "question": "How might Verification involve both self-assessment and external critique?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.6",
+                      "question": "What emotions can surface during this final phase?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.7",
+                      "question": "What if Verification reveals significant problems—how should an artist respond?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.8",
+                      "question": "How does Verification contribute to the sense of closure in creative work?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.9",
+                      "question": "What next projects or cycles might follow after Verification?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.10",
+                      "question": "How can Verification influence the artist’s learning and future creativity?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.11",
+                      "question": "Why might Verification require a different mindset than earlier stages?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.B.6.12",
+                      "question": "How does Verification close the creative process while opening possibilities for new work?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Preparation",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.I.1.1",
+                      "question": "How does the Preparation stage influence the scope of a creative project?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.2",
+                      "question": "In what ways can initial research shape the trajectory of creative work?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.3",
+                      "question": "Why might an artist’s intention evolve during Preparation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.4",
+                      "question": "How can one balance gathering information with starting to create?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.5",
+                      "question": "What are potential risks of insufficient preparation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.6",
+                      "question": "How does hierarchy of information affect the artist’s choices in this phase?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.7",
+                      "question": "What if new perspectives challenge the initial framing during Preparation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.8",
+                      "question": "How might an artist’s mood influence the quality of Preparation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.9",
+                      "question": "How can iterative cycles of Preparation improve creative outcomes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.10",
+                      "question": "Why is boundary-setting important during Preparation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.11",
+                      "question": "How does this stage interact with previous experiences or memory?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.1.12",
+                      "question": "What next steps should an artist anticipate after Preparation?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Incubation",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.I.2.1",
+                      "question": "How does Incubation facilitate the emergence of novel ideas subconsciously?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.2",
+                      "question": "In what ways does incubation integrate prior knowledge with new input?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.3",
+                      "question": "Why is allowing mental rest important for incubation to succeed?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.4",
+                      "question": "How can an artist intentionally cultivate an environment conducive to incubation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.5",
+                      "question": "What role does feedback play indirectly during Incubation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.6",
+                      "question": "How does ambiguity contribute to creative breakthroughs in incubation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.7",
+                      "question": "What if an artist’s subconscious biases limit the incubation process?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.8",
+                      "question": "How can cycles of incubation and conscious thought interact dynamically?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.9",
+                      "question": "What moods or emotions are most supportive of incubation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.10",
+                      "question": "Why might incubation be misunderstood as inactivity rather than active processing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.11",
+                      "question": "How can understanding system boundaries enhance incubation outcomes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.2.12",
+                      "question": "What are the implications of incubation for managing creative uncertainty?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Illumination",
+                  "part_concept": "Inversion",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.I.3.1",
+                      "question": "How does the Illumination stage transform latent ideas into explicit insight?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.2",
+                      "question": "What cognitive processes underlie the 'Aha!' moment during Illumination?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.3",
+                      "question": "Why can illumination feel paradoxical, blending surprise with recognition?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.4",
+                      "question": "How might an artist frame the insight to facilitate further development?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.5",
+                      "question": "What role does memory play in retrieving ideas during Illumination?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.6",
+                      "question": "How do shifts in perspective contribute to the breakthrough experienced?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.7",
+                      "question": "What emotional effects can accompany the Illumination stage?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.8",
+                      "question": "How does Illumination set up the Evaluation phase that follows?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.9",
+                      "question": "What if the Illumination is incomplete or ambiguous—how should an artist proceed?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.10",
+                      "question": "How does agency manifest during the moment of Illumination?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.11",
+                      "question": "What implications does Illumination have for the overall creative cycle?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.3.12",
+                      "question": "Why is it important to capture insights immediately after Illumination?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Evaluation",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.I.4.1",
+                      "question": "How does Evaluation help distinguish viable ideas from less effective ones?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.2",
+                      "question": "What criteria can be applied to critically assess creative insights?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.3",
+                      "question": "Why is reflexivity important during the Evaluation stage?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.4",
+                      "question": "How can feedback from diverse perspectives improve the evaluation process?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.5",
+                      "question": "What tensions arise when an artist evaluates their own work?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.6",
+                      "question": "How might cognitive biases impact evaluation outcomes?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.7",
+                      "question": "What strategies can mitigate emotional challenges during Evaluation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.8",
+                      "question": "How does framing influence the judgment made in this phase?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.9",
+                      "question": "In what ways does Evaluation inform decisions to iterate or proceed?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.10",
+                      "question": "What if Evaluation reveals fundamental flaws—how should the creative process adapt?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.11",
+                      "question": "How does Evaluation connect logically with prior Illumination and subsequent Elaboration?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.4.12",
+                      "question": "Why is Evaluation essential for sustaining creative integrity?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Elaboration",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.I.5.1",
+                      "question": "How does Elaboration translate abstract ideas into concrete form?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.2",
+                      "question": "What iterative techniques can enhance development during Elaboration?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.3",
+                      "question": "Why is managing tension between perfectionism and progress critical in this stage?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.4",
+                      "question": "How can an artist maintain intentionality while adapting ideas during Elaboration?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.5",
+                      "question": "What role does feedback play in refining work in Elaboration?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.6",
+                      "question": "How do emotions influence motivation and focus during Elaboration?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.7",
+                      "question": "What if new emergent patterns shift the original creative direction?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.8",
+                      "question": "How can boundary setting improve efficiency in the Elaboration stage?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.9",
+                      "question": "In what ways does Elaboration extend from prior Evaluation and prepare for Verification?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.10",
+                      "question": "How might scale or scope considerations affect elaboration decisions?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.11",
+                      "question": "Why is flexibility important when elaborating creative work?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.5.12",
+                      "question": "How does Elaboration contribute to the artist’s agency in shaping the final product?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Verification",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.I.6.1",
+                      "question": "How does Verification ensure coherence and integrity in the finished work?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.2",
+                      "question": "What analytical methods support thorough verification of creative outputs?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.3",
+                      "question": "Why is attention to detail critical during the Verification stage?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.4",
+                      "question": "How can external critique complement self-assessment in Verification?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.5",
+                      "question": "What emotional challenges might arise when finalizing a creative work?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.6",
+                      "question": "How should an artist respond if Verification uncovers major issues?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.7",
+                      "question": "In what ways does Verification contribute to a sense of closure or catharsis?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.8",
+                      "question": "How does Verification complete the creative cycle while enabling new beginnings?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.9",
+                      "question": "What role does memory play in learning from the Verification process?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.10",
+                      "question": "Why might Verification require a shift in mindset compared to earlier stages?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.11",
+                      "question": "How can Verification influence future creative intentions and projects?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.I.6.12",
+                      "question": "What next steps does Verification suggest for the artist’s creative development?",
+                      "concept": "Choice"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Preparation",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.A.1.1",
+                      "question": "How can the framing of initial research during Preparation influence the conceptual boundaries of creative work?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.2",
+                      "question": "In what ways does the artist’s intention mediate the selection and interpretation of preparatory materials?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.3",
+                      "question": "How might hierarchical structuring of information affect the efficiency and depth of the Preparation phase?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.4",
+                      "question": "Why is the balance between breadth and depth crucial in gathering preparatory knowledge?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.5",
+                      "question": "How can preparation practices be optimized to account for cognitive biases in problem framing?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.6",
+                      "question": "What role does boundary setting play in limiting scope to enhance creative focus during Preparation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.7",
+                      "question": "How might the iterative revisiting of preparatory materials foster emergent insights?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.8",
+                      "question": "In what ways can affective states during Preparation influence subsequent creative stages?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.9",
+                      "question": "How does Preparation serve as a form of cognitive scaffolding for creative problem solving?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.10",
+                      "question": "What are the implications of inadequate Preparation on the emergence and development of ideas?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.11",
+                      "question": "How can artists integrate interdisciplinary perspectives effectively during Preparation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.1.12",
+                      "question": "What logical continuities link Preparation to the Incubation stage in the creative cycle?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Incubation",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.A.2.1",
+                      "question": "How does subconscious incubation integrate diverse cognitive inputs to enable emergent creativity?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.2",
+                      "question": "In what ways can the management of uncertainty during incubation enhance creative potential?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.3",
+                      "question": "How might intentional disengagement during incubation facilitate novel pattern recognition?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.4",
+                      "question": "What systemic feedback mechanisms operate during the incubation phase to refine ideas?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.5",
+                      "question": "How can ambiguity within incubation serve as a productive tension for creative breakthroughs?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.6",
+                      "question": "What role do memory and analogy play in the subconscious integration of creative elements?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.7",
+                      "question": "How can artists consciously cultivate conditions that optimize incubation processes?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.8",
+                      "question": "Why might incubation be misunderstood as passive, and how can this misconception hinder creative practice?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.9",
+                      "question": "How does the interplay of cycles and iteration manifest during incubation?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.10",
+                      "question": "What psychological moods or states are conducive to effective incubation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.11",
+                      "question": "How do system boundaries influence the flow of ideas during incubation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.2.12",
+                      "question": "What are the implications of incubation for the artist’s agency and creative autonomy?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Illumination",
+                  "part_concept": "Inversion",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.A.3.1",
+                      "question": "How does the Illumination stage function as a cognitive transformation within the creative process?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.2",
+                      "question": "What neural and conceptual mechanisms underlie the sudden clarity of the 'Aha!' moment?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.3",
+                      "question": "Why is the paradoxical nature of illumination—being both sudden and gradual—significant for understanding creativity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.4",
+                      "question": "How can framing of insight during illumination influence subsequent elaboration and evaluation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.5",
+                      "question": "What roles do memory retrieval and pattern recognition play in facilitating illumination?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.6",
+                      "question": "How does a shift in perspective during illumination enable novel problem-solving approaches?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.7",
+                      "question": "What affective responses typically accompany illumination, and how do they impact creative momentum?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.8",
+                      "question": "How does illumination act as a pivot point linking incubation and evaluation within the creative cycle?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.9",
+                      "question": "What challenges arise in communicating the insight gained during illumination to others?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.10",
+                      "question": "How does agency manifest in the conscious recognition and ownership of an illuminating idea?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.11",
+                      "question": "In what ways does illumination embody an emergent property of complex cognitive systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.3.12",
+                      "question": "Why is immediate capture of insights critical following illumination, and how can this be optimized?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Evaluation",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.A.4.1",
+                      "question": "How can reflexive evaluation challenge an artist’s preconceived notions and enhance creative depth?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.2",
+                      "question": "In what ways can cognitive biases distort the evaluation of creative work, and how might these be mitigated?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.3",
+                      "question": "How does framing influence the criteria and standards applied during Evaluation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.4",
+                      "question": "What role does feedback from diverse audiences play in deepening or complicating the evaluation process?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.5",
+                      "question": "How can artists balance subjective intuition with objective criteria when evaluating their work?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.6",
+                      "question": "Why is managing emotional tension crucial during critical self-assessment in Evaluation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.7",
+                      "question": "How does the Evaluation phase facilitate the transformation of ideas through critical reflection?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.8",
+                      "question": "What implications does Evaluation have for the continuity and disruption of the creative cycle?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.9",
+                      "question": "What strategies can artists employ to sustain creative agency while navigating challenging evaluations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.10",
+                      "question": "How might cultural context shape the standards and outcomes of Evaluation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.11",
+                      "question": "What if evaluation reveals fundamental flaws—how should this influence the decision to iterate or pivot creatively?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.4.12",
+                      "question": "How can Evaluation be conceptualized as a dialogic process between the artist and their work?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Elaboration",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.A.5.1",
+                      "question": "How does Elaboration act as a site of transformation where abstract ideas gain tangible form?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.2",
+                      "question": "In what ways can iteration within Elaboration lead to emergent properties in the creative outcome?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.3",
+                      "question": "How do artists negotiate the paradox between creative freedom and structural constraints during Elaboration?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.4",
+                      "question": "Why is intentionality a guiding force in managing complexity during the elaboration phase?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.5",
+                      "question": "How can feedback loops be optimized to balance innovation with coherence in Elaboration?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.6",
+                      "question": "What emotional dynamics influence sustained engagement through often prolonged elaboration processes?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.7",
+                      "question": "How does boundary management during Elaboration affect creative scope and depth?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.8",
+                      "question": "What role does scale play in determining the granularity and expansiveness of elaborated work?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.9",
+                      "question": "How can artists harness uncertainty productively while elaborating their work?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.10",
+                      "question": "In what ways does elaboration empower the artist’s agency and authorship over the creative product?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.11",
+                      "question": "How might emergent patterns during elaboration necessitate iterative reevaluation of initial goals?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.5.12",
+                      "question": "Why is reflexivity important for adapting creative intentions throughout elaboration?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Verification",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.A.6.1",
+                      "question": "How does Verification reconcile creative vision with technical and conceptual coherence?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.2",
+                      "question": "What analytic frameworks support rigorous verification of complex creative works?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.3",
+                      "question": "How can focused attention during Verification reveal subtleties that affect the work’s impact?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.4",
+                      "question": "In what ways can external critique complement self-verification without compromising artistic autonomy?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.5",
+                      "question": "What emotional responses are common during Verification, and how can they be managed effectively?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.6",
+                      "question": "How should artists respond strategically when Verification identifies significant issues requiring revision?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.7",
+                      "question": "How does Verification contribute to the closure and catharsis of the creative cycle?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.8",
+                      "question": "What is the role of Verification in enabling new creative cycles and future transformations?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.9",
+                      "question": "How does memory inform learning and growth through the Verification process?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.10",
+                      "question": "Why is a shift in perspective often necessary to achieve effective Verification?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.11",
+                      "question": "How can Verification outcomes influence the artist’s evolving authorial strategy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Creative-Process.A.6.12",
+                      "question": "What next creative choices arise from insights gained during Verification?",
+                      "concept": "Choice"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Preparation",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.ME.1.1",
+                      "question": "How can meta-cognitive awareness during Preparation transform the framing of creative problems?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.2",
+                      "question": "In what ways does cultural context mediate the boundary-setting and information hierarchy in Preparation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.3",
+                      "question": "How might an artist’s epistemological assumptions influence the scope and depth of their preparatory research?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.4",
+                      "question": "What systems-thinking approaches can optimize the interplay between breadth and focus in Preparation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.5",
+                      "question": "How does iterative engagement with preparatory materials generate emergent cognitive structures?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.6",
+                      "question": "Why is managing paradoxes of certainty and uncertainty critical in the early framing of creative work?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.7",
+                      "question": "How can Preparation be reconceptualized as a dynamic threshold crossing in creative cognition?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.8",
+                      "question": "What role does the artist’s agency play in negotiating external and internal boundaries during Preparation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.9",
+                      "question": "How can affective tones during Preparation influence the cultural resonance of creative output?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.10",
+                      "question": "What implications does Preparation have for the continuity and disruption of creative trajectories?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.11",
+                      "question": "How can Preparation integrate multi-scalar perspectives to enrich conceptual framing?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.1.12",
+                      "question": "How might meta-reflective practices in Preparation inform an artist’s evolving authorial strategy?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Incubation",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.ME.2.1",
+                      "question": "How does incubation function as a complex systems process enabling emergent creativity beyond conscious control?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.2",
+                      "question": "In what ways can managing uncertainty during Incubation act as a catalyst for transformational insights?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.3",
+                      "question": "How can paradox and ambiguity be productively harnessed within incubation to transcend conventional thinking?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.4",
+                      "question": "What role do feedback loops within neural and cognitive systems play in the incubation of creative ideas?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.5",
+                      "question": "How might an artist strategically cultivate psychological and environmental conditions to optimize incubation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.6",
+                      "question": "Why is recognizing incubation as an iterative cycle critical for sustaining long-term creative productivity?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.7",
+                      "question": "How do boundary dynamics within mental and external environments influence incubation outcomes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.8",
+                      "question": "What implications does incubation have for the artist’s agency in balancing conscious and subconscious processes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.9",
+                      "question": "How can affective states during incubation modulate the emergence and refinement of creative patterns?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.10",
+                      "question": "How does meta-cognitive awareness during incubation enable strategic engagement with ambiguity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.11",
+                      "question": "What are the epistemological implications of incubation as a threshold crossing between unconscious and conscious cognition?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.2.12",
+                      "question": "How can incubation be conceptualized within a multi-scale temporal framework to better understand creative emergence?",
+                      "concept": "Repetition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Illumination",
+                  "part_concept": "Inversion",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.ME.3.1",
+                      "question": "How does the Illumination stage exemplify emergent properties arising from complex cognitive systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.2",
+                      "question": "In what ways does the paradoxical nature of illumination challenge linear models of creative cognition?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.3",
+                      "question": "How can meta-reflexivity enhance an artist’s ability to recognize and integrate illuminating insights?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.4",
+                      "question": "What role does framing play in shaping the interpretive meaning and communicability of illumination?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.5",
+                      "question": "How do shifts in perspective during illumination contribute to transformational thinking and authorial strategy?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.6",
+                      "question": "What affective and tonal qualities accompany illumination, and how do they influence creative momentum?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.7",
+                      "question": "How does illumination function as a threshold crossing linking subconscious incubation and conscious evaluation?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.8",
+                      "question": "Why is the immediate capture and articulation of illumination critical for sustaining creative agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.9",
+                      "question": "How might illumination be understood as an emergent discontinuity disrupting existing cognitive schemas?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.10",
+                      "question": "What are the epistemic challenges in communicating illuminating insights across disciplinary or cultural boundaries?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.11",
+                      "question": "How can the experience of illumination inform an artist’s evolving authorial strategy and meta-narrative?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.3.12",
+                      "question": "In what ways does illumination catalyze iterative cycles that underpin long-term creative development?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Evaluation",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.ME.4.1",
+                      "question": "How can Evaluation be theorized as a dialogic interplay between the artist’s internal standards and external cultural frameworks?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.2",
+                      "question": "In what ways do reflexive practices during Evaluation disrupt entrenched cognitive biases to enable transformative critique?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.3",
+                      "question": "How does framing within Evaluation influence the legitimacy and reception of creative work across diverse audiences?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.4",
+                      "question": "What role does multi-scalar feedback play in shaping iterative evaluation processes at both micro and macro creative levels?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.5",
+                      "question": "How can artists maintain agency and creative autonomy while engaging deeply with critical evaluation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.6",
+                      "question": "Why is managing affective tension pivotal in sustaining productive critical reflection during Evaluation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.7",
+                      "question": "How does Evaluation serve as a transformative threshold crossing that redefines the trajectory of creative projects?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.8",
+                      "question": "What are the epistemological and cultural implications of Evaluation as a site of creative legitimacy and contestation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.9",
+                      "question": "How can Evaluation processes be designed to foster inclusivity and plurality of interpretive perspectives?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.10",
+                      "question": "What if Evaluation reveals fundamental contradictions—how should an artist negotiate continuity and disruption creatively?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.11",
+                      "question": "How might meta-critical awareness during Evaluation inform an evolving authorial strategy and cultural positioning?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.4.12",
+                      "question": "In what ways does Evaluation contribute to the cyclical nature of creative transformation and renewal?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Elaboration",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.ME.5.1",
+                      "question": "How can Elaboration be conceptualized as a complex system where iterative feedback loops generate emergent creative structures?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.2",
+                      "question": "In what ways does the paradox of control and freedom manifest and resolve during Elaboration?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.3",
+                      "question": "How does intentionality mediate the dialectic between novelty and coherence in the elaboration of creative work?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.4",
+                      "question": "What role does boundary negotiation play in balancing expansion and focus within elaboration processes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.5",
+                      "question": "How can scale and granularity considerations inform strategic decisions in elaborating creative products?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.6",
+                      "question": "Why is managing affective states critical to sustaining creative momentum and resilience during prolonged elaboration?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.7",
+                      "question": "How does reflexivity support adaptive iteration and transformation in elaboration cycles?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.8",
+                      "question": "In what ways can elaboration be seen as a threshold crossing that redefines the artist’s authorship and voice?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.9",
+                      "question": "How might emergent patterns discovered during elaboration provoke re-evaluation of initial creative intentions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.10",
+                      "question": "What strategies can empower artists to maintain agency amid complex elaboration dynamics?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.11",
+                      "question": "How can cultural transformation be facilitated through iterative elaboration processes?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.5.12",
+                      "question": "What is the significance of meta-critical engagement for evolving authorial strategy during Elaboration?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Verification",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Creative-Process.ME.6.1",
+                      "question": "How can Verification be understood as a meta-cognitive process reconciling creative vision with epistemic rigor?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.2",
+                      "question": "What analytic and interpretive frameworks best support verification of complex, multi-layered creative works?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.3",
+                      "question": "How does focused attention during Verification reveal emergent subtleties that reshape interpretive meaning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.4",
+                      "question": "In what ways can collaborative critique during Verification enhance creative legitimacy without undermining authorial autonomy?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.5",
+                      "question": "How can artists strategically manage emotional responses to Verification outcomes to sustain creative resilience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.6",
+                      "question": "What approaches can address significant disruptions uncovered during Verification while preserving creative integrity?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.7",
+                      "question": "How does Verification facilitate catharsis and closure while simultaneously opening pathways for future creativity?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.8",
+                      "question": "What is the cyclical relationship between Verification and subsequent creative renewal in long-term artistic practice?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.9",
+                      "question": "How can memory and reflective learning from Verification inform evolving creative paradigms?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.10",
+                      "question": "Why is perspective shifting essential in the Verification phase for deepening artistic insight?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.11",
+                      "question": "How might Verification outcomes shape an artist’s meta-narrative and authorial strategy moving forward?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Creative-Process.ME.6.12",
+                      "question": "What next-level creative choices emerge from Verification that influence future cycles of innovation?",
+                      "concept": "Choice"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2221 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Dan-Harmon-Story-Circle",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. You → 2. Need → 3. Go → 4. Search → 5. Find → 6. Take → 7. Return → 8. Change"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. You"
+                },
+                {
+                  "structure_part": "[2/8] 2. Need"
+                },
+                {
+                  "structure_part": "[3/8] 3. Go"
+                },
+                {
+                  "structure_part": "[4/8] 4. Search"
+                },
+                {
+                  "structure_part": "[5/8] 5. Find"
+                },
+                {
+                  "structure_part": "[6/8] 6. Take"
+                },
+                {
+                  "structure_part": "[7/8] 7. Return"
+                },
+                {
+                  "structure_part": "[8/8] 8. Change"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Rick and Morty, The Matrix, Moana, Breaking Bad"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. You → Establish character and comfort zone"
+            },
+            {
+              "terminology": "2. Need → Introduce desire or flaw"
+            },
+            {
+              "terminology": "3. Go → Cross threshold into unfamiliar situation"
+            },
+            {
+              "terminology": "4. Search → Struggle, adapt, explore"
+            },
+            {
+              "terminology": "5. Find → Discover what was wanted"
+            },
+            {
+              "terminology": "6. Take → Pay a price, confrontation or consequence"
+            },
+            {
+              "terminology": "7. Return → Journey back to the old world"
+            },
+            {
+              "terminology": "8. Change → Character transformation"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. You",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.1",
+                      "question": "Who is the main character and what is their normal world like?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.2",
+                      "question": "What kind of habits, routines, or beliefs define the starting point?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.3",
+                      "question": "How does the story introduce comfort and stability?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.4",
+                      "question": "What initial tone is set by the setting and environment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.5",
+                      "question": "Why might this beginning feel safe or familiar to the character?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.6",
+                      "question": "What is missing from the character’s life at this point?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.7",
+                      "question": "What makes this character relatable or understandable to the audience?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.8",
+                      "question": "How does the story cue us to care about this character’s situation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.9",
+                      "question": "What if the character never left this initial world — what would they risk losing or never discovering?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.10",
+                      "question": "How might the story’s opening frame a problem without directly stating it?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.11",
+                      "question": "In what ways does the opening mood shape our expectations for the journey ahead?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.1.12",
+                      "question": "How do authors use the ordinary world to reflect deeper questions of identity or meaning?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Need",
+                  "part_concept": "Desire",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.1",
+                      "question": "What does the character want that disrupts their ordinary life?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.2",
+                      "question": "How is this need or desire introduced to the audience?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.3",
+                      "question": "What causes the character to feel a sense of lack or urgency?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.4",
+                      "question": "Why is this moment emotionally important for the journey ahead?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.5",
+                      "question": "What risks are involved in pursuing this need?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.6",
+                      "question": "How does this stage create tension between staying and leaving?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.7",
+                      "question": "What internal flaws or pressures are hinted at here?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.8",
+                      "question": "What if the character ignored the call to change—how might the story differ?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.9",
+                      "question": "How does this need prepare the audience for emotional investment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.10",
+                      "question": "In what ways is this desire a mirror of universal human questions or drives?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.11",
+                      "question": "How does the story use contrast between comfort and longing to set things in motion?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.2.12",
+                      "question": "Why might the author delay or obscure the full nature of the character’s need?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Go",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.1",
+                      "question": "What event or decision pushes the character out of their comfort zone?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.2",
+                      "question": "How does the story signal the crossing into a new world or state?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.3",
+                      "question": "Why is this threshold moment essential for the structure of the story?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.4",
+                      "question": "What new environment, rules, or forces are introduced here?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.5",
+                      "question": "How does this step create emotional disorientation or excitement?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.6",
+                      "question": "What symbolic or literal boundaries are crossed in this stage?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.7",
+                      "question": "What consequences begin to emerge from stepping into the unknown?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.8",
+                      "question": "What if the character failed at the threshold — what structural effect would that have?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.9",
+                      "question": "How does this stage clarify the stakes or increase tension for the audience?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.10",
+                      "question": "What makes this new situation unfamiliar or dangerous compared to the beginning?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.11",
+                      "question": "How does this step raise questions of identity or agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.3.12",
+                      "question": "Why might authors design this transition to feel abrupt or jarring?",
+                      "concept": "Discontinuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Search",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.1",
+                      "question": "What kinds of problems or obstacles does the character face after crossing into the new world?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.2",
+                      "question": "How does the character react when things don’t go as planned?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.3",
+                      "question": "What forces are working against the character’s goal here?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.4",
+                      "question": "Why is struggle necessary in this part of the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.5",
+                      "question": "How does this phase test the character’s motivation and resolve?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.6",
+                      "question": "What emotional shifts happen as the character explores the unknown?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.7",
+                      "question": "How does the search stage build tension or uncertainty?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.8",
+                      "question": "What if the character gave up here — what would the story lose?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.9",
+                      "question": "What tools or allies appear, and how do they change the situation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.10",
+                      "question": "How does this stage deepen the audience’s emotional investment in the character?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.11",
+                      "question": "In what ways might this stage reflect an inner search as well as an outer one?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.4.12",
+                      "question": "What emotional tone defines the search phase — anxiety, hope, confusion, or something else?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Find",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.1",
+                      "question": "What does the character discover or achieve in this moment?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.2",
+                      "question": "Why is this discovery important to the story’s direction?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.3",
+                      "question": "How is this moment different from what the character expected to find?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.4",
+                      "question": "What emotional impact does this realization have on the character?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.5",
+                      "question": "How might the discovery reshape the original goal or desire?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.6",
+                      "question": "What does the audience learn about the character through this discovery?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.7",
+                      "question": "What internal change is hinted at in this stage?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.8",
+                      "question": "What if the character misunderstood what they found — how would that affect the story?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.9",
+                      "question": "How does the environment or supporting characters react to the discovery?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.10",
+                      "question": "How does this moment begin to close the gap between desire and reality?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.11",
+                      "question": "In what ways is the “find” a turning point for both action and meaning?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.5.12",
+                      "question": "What tone shift might accompany the character’s discovery or success?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Take",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.1",
+                      "question": "What price does the character pay for what they have found?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.2",
+                      "question": "How does this moment introduce sacrifice, loss, or risk?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.3",
+                      "question": "Why must the character face a confrontation or crisis here?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.4",
+                      "question": "How does this step reveal the cost of change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.5",
+                      "question": "What decisions or moral questions are at stake in this moment?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.6",
+                      "question": "What if the character refused to act — how would the story break or stall?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.7",
+                      "question": "How does this stage heighten emotional pressure or stakes for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.8",
+                      "question": "What systems or forces oppose the character’s progress here?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.9",
+                      "question": "How does this moment test the limits of the character’s previous self?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.10",
+                      "question": "How might the tone shift from hope to pain or uncertainty in this moment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.11",
+                      "question": "What kind of internal or external confrontation defines this stage?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.6.12",
+                      "question": "What emotional payoff or catharsis does the story aim to create here?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.1",
+                      "question": "How does the character begin to make their way back to their original world or context?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.2",
+                      "question": "What has changed about the character's attitude or perception on the return journey?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.3",
+                      "question": "Why is the return necessary even after finding what was sought?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.4",
+                      "question": "What obstacles or resistance might still remain on the return path?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.5",
+                      "question": "How does this stage reflect the story’s rhythm of departure and return?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.6",
+                      "question": "What feelings might the audience experience watching the character return changed?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.7",
+                      "question": "What does the return journey reveal about the journey itself?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.8",
+                      "question": "What if the character refused to return — how would that disrupt the narrative arc?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.9",
+                      "question": "How does this moment help prepare for closure and resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.10",
+                      "question": "In what ways does the setting or tone shift as the return begins?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.11",
+                      "question": "What emotions or regrets might follow the character back across the threshold?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.7.12",
+                      "question": "How can the return mark both an ending and a beginning?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.1",
+                      "question": "What permanent change has occurred in the character by the end of the story?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.2",
+                      "question": "How is this change shown through action, dialogue, or choice?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.3",
+                      "question": "Why does the change matter — to the character, to the world, or to the audience?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.4",
+                      "question": "What symbols or gestures signal the resolution of the character arc?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.5",
+                      "question": "How does this transformation resolve the original conflict or need?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.6",
+                      "question": "What if the change was only temporary or superficial — how would that affect the meaning of the story?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.7",
+                      "question": "What emotional tone lingers after the story ends?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.8",
+                      "question": "How do we know the character has grown, rather than just completed a task?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.9",
+                      "question": "How might this story’s final transformation echo a cycle or return in real life?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.10",
+                      "question": "What lesson, insight, or principle is left behind — explicitly or implicitly?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.11",
+                      "question": "How does the audience’s understanding of the character evolve in this final moment?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.B.8.12",
+                      "question": "Why do stories often end with transformation — what makes that satisfying or complete?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. You",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.1",
+                      "question": "How does the opening frame the protagonist’s worldview or assumptions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.2",
+                      "question": "What subtle cues suggest that the “ordinary world” is incomplete or unsustainable?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.3",
+                      "question": "How do setting, tone, and pace signal the story’s initial equilibrium?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.4",
+                      "question": "Why might the story begin in a place of routine or familiarity before introducing change?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.5",
+                      "question": "How is the character’s identity mirrored or challenged by their environment?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.6",
+                      "question": "What interpretive choices does the author make in establishing normalcy or balance?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.7",
+                      "question": "How might the framing of the opening encourage audience trust or sympathy?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.8",
+                      "question": "What systems or power structures are implicitly present in the character’s starting world?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.9",
+                      "question": "What if the character was introduced from someone else’s perspective—how would that alter our understanding?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.10",
+                      "question": "How does the emotional tone of the opening shape what we expect the character to learn or lose?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.11",
+                      "question": "How might the ordinary world serve as a control or baseline for later comparisons in the story?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.1.12",
+                      "question": "In what ways does the story's beginning already suggest its end, whether through contrast or foreshadowing?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Need",
+                  "part_concept": "Desire",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.1",
+                      "question": "How is the character’s desire constructed through conflict, lack, or contradiction?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.2",
+                      "question": "What narrative tools are used to build tension around this emerging need?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.3",
+                      "question": "Why might the character’s desire contain elements of both clarity and confusion?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.4",
+                      "question": "How does the articulation of “need” shift the story’s structure and tempo?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.5",
+                      "question": "What social or relational dynamics fuel this desire, even if unspoken?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.6",
+                      "question": "How does the gap between desire and reality serve as a thematic driver?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.7",
+                      "question": "What kinds of desire (e.g., material, emotional, moral) are most at stake in this structure stage?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.8",
+                      "question": "What if the need the character feels is actually inherited from another person or system—what structural effects might that create?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.9",
+                      "question": "What rhetorical strategies help the audience align with or question the character’s desire?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.10",
+                      "question": "How is this moment shaped by choices the character has not yet made?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.11",
+                      "question": "What conflicting emotions might arise for both character and audience in this moment of desire?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.2.12",
+                      "question": "How does the character’s initial need reflect larger social or cultural themes?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Go",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.1",
+                      "question": "What visible or invisible threshold does the character cross at this point?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.2",
+                      "question": "How does the “go” moment dramatize the tension between safety and growth?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.3",
+                      "question": "What narrative pacing choices increase the impact of this transition?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.4",
+                      "question": "What changes in tone or aesthetic signal the beginning of a new reality?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.5",
+                      "question": "How might this moment of departure be reframed as a kind of loss as well as possibility?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.6",
+                      "question": "How does this step confirm or challenge the genre’s conventions of change and movement?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.7",
+                      "question": "What if the threshold was entered unconsciously or by mistake — how would that affect the logic of the story?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.8",
+                      "question": "How does the new setting impose new limits, possibilities, or rules of action?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.9",
+                      "question": "What visual or structural symmetry links this moment with the return phase later in the circle?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.10",
+                      "question": "In what ways is the crossing shaped more by inner change than external action?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.11",
+                      "question": "How might this stage engage the audience’s sense of anticipation or dread?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.3.12",
+                      "question": "Why might some characters resist or minimize the significance of this departure moment?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Search",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.1",
+                      "question": "How does the character’s struggle reflect both external conflict and internal uncertainty?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.2",
+                      "question": "What systems or forces are revealed as the character searches for resolution?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.3",
+                      "question": "How do failures and setbacks define this stage structurally and emotionally?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.4",
+                      "question": "What new tensions emerge that complicate the original desire or need?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.5",
+                      "question": "Why is this phase essential for exploring the limits of agency and control?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.6",
+                      "question": "How does the environment act as a mirror or obstacle for the character’s growth?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.7",
+                      "question": "What kinds of improvisation or adaptation are required in this uncertain terrain?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.8",
+                      "question": "What if the obstacles were designed to reveal the character’s unconscious patterns?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.9",
+                      "question": "How does the audience’s emotional alignment shift during this stage?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.10",
+                      "question": "In what ways does the search reinforce the complexity of the central theme?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.11",
+                      "question": "What structural functions do delays, confusion, or reversals play in this stage?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.4.12",
+                      "question": "How might this part of the story metaphorically represent learning, trial, or transformation in other fields?",
+                      "concept": "Analogy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Find",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.1",
+                      "question": "What is discovered or achieved that changes the trajectory of the narrative?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.2",
+                      "question": "How is the character’s original need clarified or redefined through this moment?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.3",
+                      "question": "Why is this stage often linked to insight, recognition, or revelation?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.4",
+                      "question": "What emotional or thematic contrasts shape the significance of this discovery?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.5",
+                      "question": "How does this moment serve as a structural hinge in the story’s rhythm or cycle?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.6",
+                      "question": "How do tone and pacing shift after the “find” is made?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.7",
+                      "question": "What does this stage reveal about the gap between knowledge and change?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.8",
+                      "question": "What if the thing found was a false or temporary resolution — how would that affect the arc?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.9",
+                      "question": "In what ways does the find stage reflect a turning point in tone, ethics, or intention?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.10",
+                      "question": "How do external reactions to the find reinforce or complicate its meaning?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.11",
+                      "question": "What deeper conflicts or questions are activated by this moment of gain?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.5.12",
+                      "question": "How might this stage be interpreted as a metaphor for insight, innovation, or creative discovery?",
+                      "concept": "Metaphor"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Take",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.1",
+                      "question": "What must the character sacrifice or risk to claim what has been found?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.2",
+                      "question": "How does this stage balance gain with cost or danger?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.3",
+                      "question": "What internal contradiction is exposed as the character confronts the consequences of change?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.4",
+                      "question": "How is tension escalated through timing, stakes, or pressure at this point?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.5",
+                      "question": "What does this moment reveal about the character’s evolving sense of agency or identity?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.6",
+                      "question": "Why is this phase often accompanied by confrontation, pain, or symbolic death?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.7",
+                      "question": "How does the environment or other characters enforce the cost of transformation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.8",
+                      "question": "What if the character rejects the price — how would this decision alter the narrative arc?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.9",
+                      "question": "How does tone in this stage shift to reflect burden, fear, or courage?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.10",
+                      "question": "In what ways does the take phase reflect deeper philosophical or ethical dilemmas?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.11",
+                      "question": "How might this stage symbolize the limits of power or control in any system?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.6.12",
+                      "question": "What emotional or moral effects are intended for the audience in this high-stakes moment?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.1",
+                      "question": "How does the protagonist’s return change the story’s direction?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.2",
+                      "question": "What challenges might the protagonist face when returning to their starting point?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.3",
+                      "question": "How does the return create opportunities for resolution or new conflict?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.4",
+                      "question": "Why is the return an important moment for the audience’s understanding of the story’s message?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.5",
+                      "question": "What changes in the protagonist are most visible during the return stage?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.6",
+                      "question": "How can the tone during the return affect audience emotions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.7",
+                      "question": "What if the protagonist resists returning—how would that affect the story’s flow?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.8",
+                      "question": "How does the return connect to the earlier stages of the story circle?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.9",
+                      "question": "In what ways does the return reflect the protagonist’s growth or setbacks?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.10",
+                      "question": "How can the return reveal deeper layers of meaning in the narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.11",
+                      "question": "What role does pacing play during the return to sustain audience interest?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.7.12",
+                      "question": "How might secondary characters influence the protagonist’s return?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.1",
+                      "question": "What key changes define the protagonist’s transformation at the story’s end?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.2",
+                      "question": "How does the change affect the protagonist’s relationship with their world?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.3",
+                      "question": "Why is the final transformation critical for the story’s overall message?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.4",
+                      "question": "How can ambiguity in the protagonist’s change create lasting audience engagement?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.5",
+                      "question": "What emotions does the ending transformation evoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.6",
+                      "question": "How might the change reflect or challenge cultural values presented earlier in the story?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.7",
+                      "question": "What if the protagonist’s change was incomplete—how would that alter the story’s impact?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.8",
+                      "question": "How does the pacing of the final stage influence audience satisfaction?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.9",
+                      "question": "How can metaphor be used to symbolize the protagonist’s transformation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.10",
+                      "question": "In what ways does the protagonist’s change resolve or complicate earlier conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.11",
+                      "question": "How does the final change reflect the protagonist’s growth in agency or understanding?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.I.8.12",
+                      "question": "What new questions might the ending raise for the audience to ponder?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. You",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.1",
+                      "question": "How does the initial depiction of the protagonist’s world establish the narrative frame?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.2",
+                      "question": "What key elements of the protagonist’s identity are introduced in this stage, and why are they significant?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.3",
+                      "question": "How does the setting in ‘You’ influence audience expectations about the story’s direction?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.4",
+                      "question": "Why is clarity about the protagonist’s starting point important for narrative coherence?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.5",
+                      "question": "How can ambiguity in the initial world serve to create narrative tension or curiosity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.6",
+                      "question": "What role does tone play in shaping the emotional atmosphere of the ‘You’ stage?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.7",
+                      "question": "How does the protagonist’s ordinary world reflect larger thematic concerns?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.8",
+                      "question": "What if the story began with the protagonist already in crisis—how would that change the framing?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.9",
+                      "question": "How might the initial ‘You’ stage engage with genre conventions to set audience expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.10",
+                      "question": "How does the framing at this stage prepare for future transformations?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.11",
+                      "question": "In what ways does this stage establish boundaries that the narrative will later challenge or cross?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.1.12",
+                      "question": "How can the protagonist’s initial situation be seen as a system with interacting parts?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Need",
+                  "part_concept": "Desire",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.1",
+                      "question": "How does the protagonist’s need function as the primary motivator for the narrative’s progression?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.2",
+                      "question": "What internal and external forces shape the protagonist’s need at this stage?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.3",
+                      "question": "How does the articulation of need establish the stakes for the story?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.4",
+                      "question": "Why is it important for the need to be clear yet open to interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.5",
+                      "question": "How might the protagonist’s desire reflect broader cultural or psychological themes?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.6",
+                      "question": "What role does tension play in developing the protagonist’s need?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.7",
+                      "question": "How does the need phase interact with audience empathy and identification?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.8",
+                      "question": "What if the protagonist’s need conflicts with their previously established identity—how does this create narrative complexity?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.9",
+                      "question": "How does the narrative foreshadow potential transformations through the expression of need?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.10",
+                      "question": "How might the articulation of need influence pacing and escalation in the story?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.11",
+                      "question": "How can the need stage be a site for exploring ambiguity and multiple interpretations?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.2.12",
+                      "question": "In what ways does the protagonist’s need challenge or reinforce genre expectations?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Go",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.1",
+                      "question": "How does crossing the threshold mark a significant turning point in the narrative’s structure?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.2",
+                      "question": "What narrative techniques emphasize the protagonist’s commitment to the journey at this stage?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.3",
+                      "question": "How does the ‘Go’ phase create tension between the familiar and the unknown?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.4",
+                      "question": "Why is the threshold crossing pivotal for character development?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.5",
+                      "question": "How might the narrative use pacing and discontinuity to heighten the impact of this stage?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.6",
+                      "question": "What metaphors are effective in conveying the significance of this transition?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.7",
+                      "question": "How does this stage set up future conflicts and challenges within the story system?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.8",
+                      "question": "What if the protagonist hesitates or fails to cross the threshold—how would that alter the narrative trajectory?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.9",
+                      "question": "How can the ‘Go’ phase reflect psychological or symbolic rites of passage?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.10",
+                      "question": "How does the crossing of the threshold engage audience focus and emotional investment?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.11",
+                      "question": "In what ways does the ‘Go’ stage highlight the paradox between risk and necessity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.3.12",
+                      "question": "How does this stage illustrate the interplay between choice and circumstance in the protagonist’s journey?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Search",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.1",
+                      "question": "How does the ‘Search’ stage escalate narrative tension through the protagonist’s active pursuit of goals?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.2",
+                      "question": "In what ways do the obstacles encountered during the search reveal underlying thematic conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.3",
+                      "question": "How does the protagonist’s changing perspective during the search drive the story’s complexity?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.4",
+                      "question": "What narrative techniques effectively portray the protagonist’s struggle and resilience in this phase?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.5",
+                      "question": "How does pacing influence the audience’s perception of the search’s intensity and duration?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.6",
+                      "question": "Why is ambiguity valuable in maintaining suspense during the search phase?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.7",
+                      "question": "How can iterative challenges in this stage mirror cognitive processes of problem-solving?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.8",
+                      "question": "What role do secondary characters play in complicating or aiding the protagonist’s search?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.9",
+                      "question": "How does the search phase contribute to the overall narrative structure’s cause and effect chain?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.10",
+                      "question": "What emotional tones are most effective during the search to engage the audience’s empathy?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.11",
+                      "question": "How might the search stage be disrupted or subverted to create unexpected narrative outcomes?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.4.12",
+                      "question": "How can metaphors deepen the audience’s understanding of the protagonist’s search?",
+                      "concept": "Metaphor"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Find",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.1",
+                      "question": "How does the ‘Find’ stage serve as a pivotal moment of recognition for both protagonist and audience?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.2",
+                      "question": "What are the narrative implications of the protagonist’s discovery on their goals and identity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.3",
+                      "question": "How can the ‘Find’ moment challenge or reaffirm prior narrative expectations and assumptions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.4",
+                      "question": "In what ways does ambiguity in the discovery enhance thematic depth and audience engagement?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.5",
+                      "question": "How does the protagonist’s recognition affect their agency moving forward in the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.6",
+                      "question": "What cognitive and emotional processes are reflected in the protagonist’s moment of finding?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.7",
+                      "question": "How might the ‘Find’ stage embody cultural or symbolic meanings beyond the immediate narrative?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.8",
+                      "question": "How can pacing during the find heighten its impact on the story’s rhythm and emotional arc?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.9",
+                      "question": "What role do secondary revelations or twists play in complicating the ‘Find’ phase?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.10",
+                      "question": "How can metaphorical language enrich the protagonist’s experience and the audience’s understanding of the find?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.11",
+                      "question": "In what ways does the find stage function as a catalyst for subsequent narrative transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.5.12",
+                      "question": "How does the find influence the thematic coherence of the overall story?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Take",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.1",
+                      "question": "How does the ‘Take’ stage dramatize the protagonist’s confrontation with the consequences of their choices?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.2",
+                      "question": "In what ways does this phase explore the moral and ethical tensions arising from the protagonist’s actions?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.3",
+                      "question": "How does the ‘Take’ stage reflect cause and effect relationships within the narrative system?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.4",
+                      "question": "What narrative techniques are used to convey the stakes and sacrifices involved in this phase?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.5",
+                      "question": "How can ambiguity complicate the interpretation of what the protagonist has taken or lost?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.6",
+                      "question": "How does the pacing of this stage influence audience perception of urgency and consequence?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.7",
+                      "question": "What role do secondary characters play in highlighting the costs of the protagonist’s choices?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.8",
+                      "question": "How does the ‘Take’ phase prepare the narrative for the protagonist’s eventual return?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.9",
+                      "question": "What metaphors effectively illustrate the emotional and thematic weight of the protagonist’s actions?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.10",
+                      "question": "How might the ‘Take’ stage serve as a moment of transformation or reversal within the story’s trajectory?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.11",
+                      "question": "How does the protagonist’s agency shift as a result of the choices made in this phase?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.6.12",
+                      "question": "In what ways does this stage challenge or reinforce genre conventions related to sacrifice and gain?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.1",
+                      "question": "How does the character’s return signify the completion of a narrative cycle?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.2",
+                      "question": "In what ways does the return challenge or reinforce the character’s original worldview?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.3",
+                      "question": "What obstacles or internal conflicts persist as the character reintegrates into their original world?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.4",
+                      "question": "How does the return create opportunities for reflection and insight within the narrative?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.5",
+                      "question": "Why is the timing of the return critical to the story’s emotional impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.6",
+                      "question": "How does the return illustrate the interplay between change and continuity?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.7",
+                      "question": "What narrative techniques highlight the contrast between the character’s past and present selves?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.8",
+                      "question": "How might the return be used to deepen audience empathy or understanding?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.9",
+                      "question": "What if the character’s return was delayed or incomplete—how would that affect the story’s resolution?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.10",
+                      "question": "So what does the return reveal about the character’s journey as a whole?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.11",
+                      "question": "How does the character’s agency evolve during the return phase?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.7.12",
+                      "question": "What emotional tone is typically evoked during the return, and how does it shape audience response?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.1",
+                      "question": "How does the final transformation resolve the core conflict presented earlier?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.2",
+                      "question": "In what ways does the character’s change reflect both internal growth and external consequences?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.3",
+                      "question": "How does the story use closure to provide a sense of completeness or catharsis?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.4",
+                      "question": "Why might an ambiguous or partial resolution be more powerful than a fully closed ending?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.5",
+                      "question": "How does the change stage challenge or confirm audience expectations about the story’s message?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.6",
+                      "question": "What role does the character’s new understanding play in shaping the narrative’s final meaning?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.7",
+                      "question": "How can the change be interpreted differently from various cultural or ideological perspectives?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.8",
+                      "question": "What narrative devices emphasize the significance of the character’s transformation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.9",
+                      "question": "What if the change had unintended negative consequences—how would that reshape the story’s moral?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.10",
+                      "question": "So what does the character’s change suggest about human potential for growth and adaptation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.11",
+                      "question": "How does the emotional tone of this stage affect the audience’s lasting impression?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.A.8.12",
+                      "question": "How might the story’s resolution inspire new questions or future narratives?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. You",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.1",
+                      "question": "How does the initial framing establish the narrative’s thematic boundaries and set audience expectations?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.2",
+                      "question": "In what ways can the protagonist’s ordinary world be read as a symbolic construct reflecting broader cultural or psychological paradigms?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.3",
+                      "question": "How does the portrayal of the 'You' stage interact with genre conventions to challenge or uphold audience assumptions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.4",
+                      "question": "What is the significance of ambiguity in the characterization at this stage for the story’s interpretive openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.5",
+                      "question": "How might the representation of the character’s identity here be employed to engage reflexivity or meta-narrative commentary?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.6",
+                      "question": "What role does pacing and tonal modulation in the opening contribute to the cognitive framing of the narrative?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.7",
+                      "question": "How can the ‘You’ stage serve as a locus for exploring cultural memory or collective archetypes?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.8",
+                      "question": "In what ways does the initial setting function as a boundary that both constrains and enables narrative possibility?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.9",
+                      "question": "What are the implications of introducing paradox or duality in the protagonist’s starting situation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.10",
+                      "question": "How does the opening stage prepare the groundwork for transformative feedback loops in the story’s system?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.11",
+                      "question": "How might this stage’s structure be inverted or subverted to produce new narrative effects?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.1.12",
+                      "question": "How does the 'You' stage strategically position the audience’s focus to maximize later emotional and thematic resonance?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Need",
+                  "part_concept": "Desire",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.1",
+                      "question": "How does the articulation of ‘Need’ function as a driver for both plot momentum and character psychology at a meta-narrative level?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.2",
+                      "question": "In what ways can the character’s desire be read as a reflection of cultural anxieties or ideological tensions?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.3",
+                      "question": "How does the ‘Need’ stage negotiate the balance between agency and external compulsion within narrative systems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.4",
+                      "question": "What theoretical frameworks best explain the emergence of desire as a catalyst in storytelling?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.5",
+                      "question": "How might the expression of need destabilize established genre conventions or expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.6",
+                      "question": "What role does ambiguity play in defining the character’s need and its narrative consequences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.7",
+                      "question": "How does this stage reflect the dialectic between conscious intention and unconscious motivation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.8",
+                      "question": "How can narrative feedback mechanisms reinforce or complicate the character’s emerging need?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.9",
+                      "question": "What interpretive strategies allow for multiple readings of the character’s desire at this stage?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.10",
+                      "question": "How might cultural transformation shape or reshape the nature of ‘need’ in contemporary storytelling?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.11",
+                      "question": "What metaphoric structures underlie the portrayal of need, and how do they influence audience reception?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.2.12",
+                      "question": "How does the ‘Need’ phase serve as a hinge point for narrative pacing and thematic escalation?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Go",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.1",
+                      "question": "How does crossing the ‘Go’ threshold function as a structural rupture that redefines narrative boundaries?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.2",
+                      "question": "In what ways can the threshold crossing be interpreted as a symbolic rite of passage within different cultural frameworks?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.3",
+                      "question": "How does the ‘Go’ stage embody the tension between risk and reward, and how is this tension encoded narratively?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.4",
+                      "question": "What are the cognitive and emotional effects on the audience of the protagonist’s departure from the familiar?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.5",
+                      "question": "How can the narrative use discontinuity and discontinuous pacing to heighten the impact of the ‘Go’ stage?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.6",
+                      "question": "What reflexive strategies might a narrative employ to highlight or problematize the act of threshold crossing?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.7",
+                      "question": "How does this stage negotiate the paradox of simultaneously leaving and remaining connected to the origin?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.8",
+                      "question": "What metaphors best encapsulate the significance of ‘Go’ as a transformative juncture?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.9",
+                      "question": "How might the concept of scale influence the narrative’s depiction of the threshold crossing?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.10",
+                      "question": "What implications does the ‘Go’ stage have for the system dynamics within the story’s narrative ecosystem?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.11",
+                      "question": "How can the stage’s structural function be inverted or disrupted to produce postmodern narrative effects?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.3.12",
+                      "question": "How does the ‘Go’ phase reposition audience expectations and recalibrate narrative focus?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Search",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.1",
+                      "question": "How does the ‘Search’ stage operationalize narrative tension through the protagonist’s active pursuit of goals?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.2",
+                      "question": "In what ways do trials and challenges in this phase reflect larger systemic conflicts within the story’s world?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.3",
+                      "question": "How can the narrative structure use feedback loops during the ‘Search’ to escalate complexity and stakes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.4",
+                      "question": "What role does ambiguity play in sustaining audience engagement through uncertain or conflicting challenges?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.5",
+                      "question": "How might iterative problem-solving in the ‘Search’ stage illustrate cognitive learning models within narrative form?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.6",
+                      "question": "How can the ‘Search’ be interpreted as a metaphor for internal psychological conflict or growth?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.7",
+                      "question": "What narrative devices effectively depict the protagonist’s shifting perspective during this stage?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.8",
+                      "question": "How does pacing influence the audience’s perception of struggle and progression in the ‘Search’ phase?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.9",
+                      "question": "In what ways does the ‘Search’ embody the paradox of perseverance despite uncertainty?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.10",
+                      "question": "How might disruptions or unexpected events during ‘Search’ challenge traditional narrative expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.11",
+                      "question": "How does the ‘Search’ stage engage with themes of agency versus structural constraint?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.4.12",
+                      "question": "What emotional tones are typically cultivated in the ‘Search’, and how do they affect audience investment?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Find",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.1",
+                      "question": "How does the moment of ‘Find’ function as an epiphany or critical recognition within narrative structure?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.2",
+                      "question": "In what ways can the discovery subvert or confirm prior narrative assumptions and audience expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.3",
+                      "question": "How does the ‘Find’ stage deepen the thematic complexity through reframing of the protagonist’s goals or identity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.4",
+                      "question": "What cognitive processes are mirrored in the narrative through the character’s recognition or revelation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.5",
+                      "question": "How might multiple layers of metaphor operate simultaneously within the ‘Find’ moment?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.6",
+                      "question": "What role does ambiguity play in the protagonist’s understanding of what they have found?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.7",
+                      "question": "How can the ‘Find’ be positioned as a moment of both closure and opening within the story’s narrative cycle?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.8",
+                      "question": "In what ways does the ‘Find’ challenge the protagonist’s agency or perceived control?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.9",
+                      "question": "How does this stage contribute to audience cognitive engagement and emotional investment?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.10",
+                      "question": "What structural patterns emerge around the ‘Find’ phase across different narrative genres?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.11",
+                      "question": "How can cultural or ideological perspectives influence the interpretation of the protagonist’s discovery?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.5.12",
+                      "question": "How might the ‘Find’ be disrupted or inverted to produce unconventional narrative effects?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Take",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.1",
+                      "question": "How does the ‘Take’ stage dramatize the protagonist’s confrontation with the costs or consequences of their choices?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.2",
+                      "question": "In what ways does this phase explore the tension between sacrifice and gain within narrative causality?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.3",
+                      "question": "How does the ‘Take’ moment embody narrative feedback, where actions trigger new cycles of conflict or transformation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.4",
+                      "question": "What ethical or moral dilemmas emerge for the protagonist during this stage?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.5",
+                      "question": "How can the portrayal of loss or cost in ‘Take’ amplify emotional resonance and thematic depth?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.6",
+                      "question": "What narrative strategies emphasize the irreversible nature of the protagonist’s decision?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.7",
+                      "question": "How might ambiguity complicate the interpretation of what has been ‘taken’ or lost?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.8",
+                      "question": "What role does tension play in the unfolding of consequences in this phase?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.9",
+                      "question": "How does the ‘Take’ phase function as a pivot for the protagonist’s evolving agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.10",
+                      "question": "How do pacing and narrative timing influence the impact of this stage’s dramatic turning point?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.11",
+                      "question": "How can the ‘Take’ stage be viewed through the lens of system theory, highlighting emergent consequences?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.6.12",
+                      "question": "What metaphors encapsulate the protagonist’s experience of loss or gain in the ‘Take’ stage?",
+                      "concept": "Metaphor"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.1",
+                      "question": "How does the ‘Return’ stage function as a narrative cycle closure while simultaneously opening new interpretive possibilities?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.2",
+                      "question": "In what ways does the protagonist’s reintegration disrupt or reaffirm established thematic frameworks?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.3",
+                      "question": "How can the tension between the familiar and the transformed be articulated to deepen narrative complexity?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.4",
+                      "question": "What reflexive strategies can a story employ during the return to comment on its own narrative construction?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.5",
+                      "question": "How does the ‘Return’ phase engage with audience expectations about closure and continuity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.6",
+                      "question": "What metaphors best capture the paradoxical nature of returning changed yet seemingly unchanged?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.7",
+                      "question": "How can pacing and tonal shifts during the return modulate audience emotional engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.8",
+                      "question": "In what ways does the protagonist’s agency evolve or recede upon returning to their origin?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.9",
+                      "question": "How does this stage function within larger systems of narrative feedback and transformation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.10",
+                      "question": "What role does cultural context play in shaping the significance of the protagonist’s return?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.11",
+                      "question": "How can ambiguity in the return stage enhance interpretive richness and narrative openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.7.12",
+                      "question": "What emotional or cognitive tones are typically evoked during the return, and how do these influence audience reception?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.1",
+                      "question": "How does the final ‘Change’ stage encapsulate the synthesis of narrative transformation and thematic resolution?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.2",
+                      "question": "In what ways can the protagonist’s change serve as a metacommentary on the storytelling process itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.3",
+                      "question": "How might the change stage be employed to challenge or reaffirm genre conventions and audience expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.4",
+                      "question": "What narrative techniques best convey the paradoxes inherent in transformation and closure?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.5",
+                      "question": "How does ambiguity in the resolution impact the interpretive possibilities and lasting significance of the story?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.6",
+                      "question": "What is the role of metaphor in articulating the protagonist’s ultimate transformation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.7",
+                      "question": "How can the emotional catharsis elicited by this stage be analyzed across different cultural contexts?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.8",
+                      "question": "In what ways does the change phase generate emergent meanings that transcend the immediate narrative?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.9",
+                      "question": "How does this stage integrate narrative closure with open-endedness to foster ongoing audience reflection?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.10",
+                      "question": "What insights into human agency and transformation can be derived from the protagonist’s final change?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.11",
+                      "question": "How can pacing and tonal modulation during the final change influence the story’s thematic impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Dan-Harmon-Story-Circle.ME.8.12",
+                      "question": "What new narrative or cultural questions might arise from the story’s conclusion at this stage?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Freytags-Pyramid",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Exposition → 2. Rising Action → 3. Climax → 4. Falling Action → 5. Denouement"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Exposition"
+                },
+                {
+                  "structure_part": "[2/5] 2. Rising Action"
+                },
+                {
+                  "structure_part": "[3/5] 3. Climax"
+                },
+                {
+                  "structure_part": "[4/5] 4. Falling Action"
+                },
+                {
+                  "structure_part": "[5/5] 5. Denouement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Romeo and Juliet, Macbeth, The Great Gatsby"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Exposition → Introduction / Background / Context"
+            },
+            {
+              "terminology": "2. Rising Action → Conflict / Complication / Development"
+            },
+            {
+              "terminology": "3. Climax → Turning Point / Crisis / Peak"
+            },
+            {
+              "terminology": "4. Falling Action → Consequences / Decline"
+            },
+            {
+              "terminology": "5. Denouement → Resolution / Conclusion / Closure"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Exposition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.1",
+                      "question": "Who are the main characters introduced in the exposition?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.2",
+                      "question": "How does the exposition establish the setting of the story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.3",
+                      "question": "What background information is provided to help understand the story?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.4",
+                      "question": "Why is the exposition important for setting the tone of the narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.5",
+                      "question": "How does the exposition hint at upcoming conflicts or challenges?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.6",
+                      "question": "What mood does the exposition create for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.7",
+                      "question": "What is the initial situation or status quo in the story?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.8",
+                      "question": "How are the protagonist’s goals or desires introduced?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.9",
+                      "question": "What role does the exposition play in framing the narrative perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.10",
+                      "question": "How might the exposition influence the audience’s expectations?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.11",
+                      "question": "Why is it important to understand the exposition before the conflict begins?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.1.12",
+                      "question": "What if the exposition was omitted or shortened—how would that affect understanding?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Rising Action",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.1",
+                      "question": "What events escalate the conflict during the rising action?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.2",
+                      "question": "How do the characters respond to increasing challenges?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.3",
+                      "question": "Why does tension build during the rising action?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.4",
+                      "question": "How does the rising action develop the story’s central problem?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.5",
+                      "question": "What new information is revealed that complicates the plot?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.6",
+                      "question": "How do secondary characters influence the rising action?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.7",
+                      "question": "What choices do characters face during this stage?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.8",
+                      "question": "How does the rising action maintain audience interest and suspense?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.9",
+                      "question": "What if the rising action were slower or faster—how would that change the story’s impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.10",
+                      "question": "Why is the rising action necessary for the story’s transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.11",
+                      "question": "How does this stage prepare the audience for the climax?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.2.12",
+                      "question": "What emotions are typically evoked during the rising action?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Climax",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.1",
+                      "question": "What event marks the climax of the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.2",
+                      "question": "How does the climax change the protagonist’s situation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.3",
+                      "question": "Why is the climax considered the turning point of the narrative?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.4",
+                      "question": "What choices or actions define the climax?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.5",
+                      "question": "How does the climax resolve or heighten the central conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.6",
+                      "question": "What emotions does the climax typically evoke in the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.7",
+                      "question": "How does the climax affect the story’s pace or tension?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.8",
+                      "question": "What if the climax happened earlier or later in the story—how would that alter its effect?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.9",
+                      "question": "How does the climax demonstrate the protagonist’s agency or transformation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.10",
+                      "question": "Why might the climax be ambiguous or open to interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.11",
+                      "question": "How does the climax contribute to the story’s overall meaning or theme?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.3.12",
+                      "question": "What if the climax resolved the conflict differently—how would that affect the resolution?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Falling Action",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.1",
+                      "question": "What events occur during the falling action after the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.2",
+                      "question": "How do the consequences of the climax affect the characters?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.3",
+                      "question": "Why does tension decrease during the falling action?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.4",
+                      "question": "How are loose ends or subplots addressed in this stage?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.5",
+                      "question": "What choices do characters make as a result of the climax’s outcome?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.6",
+                      "question": "How does the falling action prepare the audience for the story’s closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.7",
+                      "question": "What mood or tone typically dominates the falling action?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.8",
+                      "question": "How might the falling action vary in length or intensity across different stories?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.9",
+                      "question": "What if the falling action was omitted—how would that affect the audience’s understanding?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.10",
+                      "question": "Why is the falling action important for narrative coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.11",
+                      "question": "How do the characters’ transformations continue during the falling action?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.4.12",
+                      "question": "What emotions might the falling action evoke differently than the climax?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Denouement",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.1",
+                      "question": "What defines the denouement stage of the story?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.2",
+                      "question": "How are conflicts finally resolved during the denouement?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.3",
+                      "question": "Why is the denouement important for providing narrative closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.4",
+                      "question": "How does the denouement reflect changes in the characters or setting?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.5",
+                      "question": "What questions remain unanswered or ambiguous in the denouement?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.6",
+                      "question": "How might the denouement influence the audience’s final emotional response?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.7",
+                      "question": "What choices do storytellers make about how much to reveal in the denouement?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.8",
+                      "question": "How does the denouement connect to the story’s beginning or themes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.9",
+                      "question": "Why might some stories have a brief versus extended denouement?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.10",
+                      "question": "What if the story ended without a clear denouement—how would that change its meaning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.11",
+                      "question": "How can the denouement suggest new beginnings or cycles beyond the story?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.B.5.12",
+                      "question": "What mood or tone is most common in the denouement stage?",
+                      "concept": "Tone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Exposition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.1",
+                      "question": "How does the exposition establish the initial worldview of the story?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.2",
+                      "question": "In what ways does the exposition introduce potential sources of conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.3",
+                      "question": "How can the exposition create expectations about the narrative’s themes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.4",
+                      "question": "What strategies does the exposition use to engage the audience early on?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.5",
+                      "question": "Why is the balance between information and mystery important in exposition?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.6",
+                      "question": "How does the exposition shape the protagonist’s motivations and desires?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.7",
+                      "question": "What role does setting play in framing the narrative’s conflict?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.8",
+                      "question": "How might the exposition use foreshadowing to influence audience anticipation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.9",
+                      "question": "What if key background details were withheld in the exposition—how would that impact comprehension?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.10",
+                      "question": "How can the exposition’s pacing affect the story’s overall rhythm?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.11",
+                      "question": "How does the exposition set up the thematic stakes of the narrative?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.1.12",
+                      "question": "Why might different genres approach exposition differently?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Rising Action",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.1",
+                      "question": "How do the rising complications intensify the central conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.2",
+                      "question": "In what ways do character choices during rising action shape the story’s direction?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.3",
+                      "question": "How does the rising action create a sense of urgency or momentum?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.4",
+                      "question": "What patterns emerge from the sequence of events in the rising action?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.5",
+                      "question": "Why is the introduction of obstacles important for character development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.6",
+                      "question": "How can subplots during rising action enhance or complicate the main conflict?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.7",
+                      "question": "What role does foreshadowing play in building suspense in this stage?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.8",
+                      "question": "How might the rising action reflect thematic tensions within the story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.9",
+                      "question": "What if the rising action included a false climax—how would that affect audience expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.10",
+                      "question": "How does rising action illustrate cause and effect relationships?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.11",
+                      "question": "How do emotional stakes evolve throughout the rising action?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.2.12",
+                      "question": "Why is maintaining narrative coherence challenging during rising action?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Climax",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.1",
+                      "question": "How does the climax redefine the protagonist’s goals or identity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.2",
+                      "question": "What structural elements signal the arrival of the climax?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.3",
+                      "question": "Why is the climax pivotal for resolving or intensifying thematic conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.4",
+                      "question": "How do narrative stakes peak at the climax",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.5",
+                      "question": "In what ways can the climax be ambiguous or multi-layered?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.6",
+                      "question": "How does the protagonist’s agency manifest at the climax?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.7",
+                      "question": "What if the climax subverts audience expectations—how does this affect interpretation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.8",
+                      "question": "How does pacing change as the story reaches the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.9",
+                      "question": "What emotional responses does the climax typically elicit and why?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.10",
+                      "question": "How does the climax connect to earlier foreshadowing or narrative cues?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.11",
+                      "question": "Why is the climax often viewed as a narrative threshold or turning point?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.3.12",
+                      "question": "How does the climax affect the subsequent falling action and denouement?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Falling Action",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.1",
+                      "question": "How do the events in the falling action reflect the consequences of the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.2",
+                      "question": "In what ways does the falling action reduce narrative tension while maintaining interest?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.3",
+                      "question": "How are character arcs further developed during the falling action?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.4",
+                      "question": "Why is it important for the falling action to address unresolved plot threads?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.5",
+                      "question": "How does the falling action prepare the audience emotionally for the denouement?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.6",
+                      "question": "What role does pacing play in the effectiveness of the falling action?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.7",
+                      "question": "How might the falling action reveal new insights or reversals?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.8",
+                      "question": "What if the falling action were extended or shortened—how would that affect the story’s closure?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.9",
+                      "question": "How does the falling action contribute to the story’s overall thematic coherence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.10",
+                      "question": "Why might some stories minimize the falling action, and what effects does this create?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.11",
+                      "question": "How do characters’ choices in the falling action reflect their development?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.4.12",
+                      "question": "What emotions are commonly evoked during the falling action, and how are they achieved?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Denouement",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.1",
+                      "question": "How does the denouement provide final closure to the narrative’s conflicts?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.2",
+                      "question": "In what ways can the denouement reflect broader themes or messages of the story?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.3",
+                      "question": "Why might some denouements be ambiguous or open-ended?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.4",
+                      "question": "How does the denouement impact the audience’s lasting impression of the story?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.5",
+                      "question": "What narrative techniques are commonly used in denouements to achieve resolution?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.6",
+                      "question": "How might the denouement suggest future possibilities or cycles beyond the story’s end?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.7",
+                      "question": "What role does the denouement play in reinforcing or subverting genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.8",
+                      "question": "How does the pacing of the denouement affect the sense of closure?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.9",
+                      "question": "Why is it important for the denouement to connect back to the exposition or earlier story elements?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.10",
+                      "question": "What if the story concluded without a denouement—how would that change audience interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.11",
+                      "question": "How do emotional tones in the denouement influence the story’s overall impact?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.I.5.12",
+                      "question": "How can the denouement reflect transformation not only in characters but in the narrative world itself?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Exposition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.1",
+                      "question": "How does the exposition strategically establish the narrative’s ideological framework?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.2",
+                      "question": "In what ways does the exposition use subtle cues to foreshadow thematic and structural tensions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.3",
+                      "question": "How does the exposition manipulate temporal and spatial continuity to shape audience perception?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.4",
+                      "question": "Why is the exposition’s pacing critical for balancing exposition and narrative propulsion?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.5",
+                      "question": "How does the exposition construct the protagonist’s initial agency within existing power hierarchies?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.6",
+                      "question": "What rhetorical strategies are employed in the exposition to evoke specific audience moods or tones?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.7",
+                      "question": "How might the exposition’s framing reflect or disrupt conventional genre expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.8",
+                      "question": "What is the role of selective ambiguity in the exposition to generate interpretive openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.9",
+                      "question": "How does the exposition establish narrative boundaries and system parameters for story logic?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.10",
+                      "question": "Why is the interplay between character memory and audience memory significant in the exposition?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.11",
+                      "question": "How does the exposition position the narrative’s ethical or moral tensions?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.1.12",
+                      "question": "What effects arise when the exposition challenges the audience’s initial perspective or biases?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Rising Action",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.1",
+                      "question": "How does the rising action intricately layer multiple conflicts to deepen narrative complexity?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.2",
+                      "question": "In what ways do character decisions during rising action reflect emergent patterns of agency and constraint?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.3",
+                      "question": "How is narrative tension systematically escalated through feedback loops and pacing adjustments?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.4",
+                      "question": "Why is the manipulation of audience expectations crucial during the rising action?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.5",
+                      "question": "How do secondary narrative threads contribute to thematic and structural complexity in this stage?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.6",
+                      "question": "What role does ambiguity play in sustaining suspense and interpretive engagement during rising action?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.7",
+                      "question": "How can the rising action reflect broader cultural or ideological transformations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.8",
+                      "question": "How are choices and dilemmas in the rising action indicative of underlying thematic tensions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.9",
+                      "question": "What if the rising action’s escalation were nonlinear—how would this affect narrative coherence and audience reception?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.10",
+                      "question": "How does the rising action utilize narrative thresholds to signify transformative moments?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.11",
+                      "question": "In what ways does the rising action foreshadow the climax’s thematic and emotional payoff?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.2.12",
+                      "question": "How does the rising action balance entropy and order within the story’s narrative system?",
+                      "concept": "Entropy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Climax",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.1",
+                      "question": "How does the climax function as a systemic pivot that reconfigures narrative trajectories?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.2",
+                      "question": "What narrative devices intensify the climax’s emotional and thematic impact?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.3",
+                      "question": "How does ambiguity within the climax contribute to layered meanings and interpretive complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.4",
+                      "question": "In what ways does the climax manifest a threshold crossing for the protagonist and the narrative world?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.5",
+                      "question": "How do character agency and choice converge at the climax to drive resolution?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.6",
+                      "question": "Why might the climax simultaneously resolve some conflicts while intensifying others?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.7",
+                      "question": "How does pacing and structural rhythm shift to highlight the climax’s significance?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.8",
+                      "question": "What role does the climax play in the overall narrative cycle and thematic emergence?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.9",
+                      "question": "How can the climax serve as a moment of both closure and disruption within the narrative?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.10",
+                      "question": "How does the climax engage the audience’s interpretive faculties to invite multiple readings?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.11",
+                      "question": "What if the climax deviates from traditional narrative expectations—how does this affect the story’s coherence?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.3.12",
+                      "question": "How does the climax prepare the groundwork for the falling action and denouement?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Falling Action",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.1",
+                      "question": "How does the falling action systematically unravel the consequences established at the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.2",
+                      "question": "In what ways does the falling action negotiate between closure and residual tension within the narrative system?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.3",
+                      "question": "How are character transformations further elaborated or complicated during the falling action?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.4",
+                      "question": "Why is the modulation of pacing critical to maintaining audience engagement in the falling action?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.5",
+                      "question": "How does the falling action reflect or challenge established thematic motifs?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.6",
+                      "question": "What narrative strategies are used to manage audience expectations as the story winds down?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.7",
+                      "question": "How might disruptions or reversals within the falling action reframe the narrative’s meaning?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.8",
+                      "question": "What role does the falling action play in preparing the cognitive and emotional readiness of the audience for the denouement?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.9",
+                      "question": "How does the falling action balance entropy and order in the narrative’s system dynamics?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.10",
+                      "question": "In what ways can the falling action extend or contract the narrative’s temporal scale to affect impact?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.11",
+                      "question": "How do character agency and choice manifest during the falling action to resolve or complicate plot threads?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.4.12",
+                      "question": "What emotions and tonal shifts characterize the falling action in relation to the climax’s catharsis?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Denouement",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.1",
+                      "question": "How does the denouement enact final closure while allowing for interpretive openness?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.2",
+                      "question": "In what ways can the denouement function as a metanarrative commentary on the story itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.3",
+                      "question": "Why might ambiguity be a deliberate strategy in the denouement to provoke ongoing reflection?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.4",
+                      "question": "How does the denouement engage with cultural or ideological transformations implied throughout the narrative?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.5",
+                      "question": "What role does pacing play in shaping the emotional resonance of the denouement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.6",
+                      "question": "How can the denouement signal narrative cycles beyond the immediate story world?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.7",
+                      "question": "How does the denouement reconcile or complicate earlier thematic contradictions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.8",
+                      "question": "What authorial strategies influence the degree of closure or openness in the denouement?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.9",
+                      "question": "How might the denouement’s tone alter the audience’s ultimate interpretation of the narrative’s message?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.10",
+                      "question": "What if the story’s denouement were displaced or fragmented—how would this affect coherence and meaning?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.11",
+                      "question": "How can the denouement reflect transformations not only in characters but in narrative perspective itself?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.A.5.12",
+                      "question": "Why is the denouement critical for synthesizing narrative elements into a unified whole?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Exposition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.1",
+                      "question": "How does the exposition function as a metacognitive frame that guides audience interpretation across diverse contexts?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.2",
+                      "question": "In what ways can the exposition be deconstructed to reveal ideological biases embedded in narrative framing?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.3",
+                      "question": "How might the exposition's use of temporal and spatial discontinuities challenge conventional narrative coherence?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.4",
+                      "question": "Why is the negotiation of ambiguity within the exposition essential for complex narrative reflexivity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.5",
+                      "question": "How does the exposition establish systemic boundaries that influence emergent narrative properties?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.6",
+                      "question": "What is the role of memory, both narrative and cultural, in constructing exposition's layered meanings?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.7",
+                      "question": "How can the exposition be analyzed as a site of power relations shaping protagonist agency and audience alignment?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.8",
+                      "question": "How does the exposition interact with genre conventions to both fulfill and subvert audience expectations at a meta-level?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.9",
+                      "question": "In what ways does the exposition's pacing contribute to a metanarrative rhythm that anticipates narrative disruptions?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.10",
+                      "question": "How might the exposition's framing be employed to induce cognitive dissonance and critical engagement?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.11",
+                      "question": "What methodologies can be used to interpret the exposition’s role in constructing multiple interpretive layers?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.1.12",
+                      "question": "How does the exposition set the stage for iterative narrative cycles that resonate across cultural contexts?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Rising Action",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.1",
+                      "question": "How does the rising action embody systemic feedback mechanisms that escalate narrative complexity?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.2",
+                      "question": "In what ways do character choices during rising action reflect dialectical tensions within the narrative system?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.3",
+                      "question": "How does the rising action negotiate entropy and order to maintain narrative momentum and thematic coherence?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.4",
+                      "question": "Why is the management of ambiguity crucial for sustaining interpretive plurality during the rising action?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.5",
+                      "question": "How do subplots in the rising action function as emergent systems contributing to overall narrative dynamics?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.6",
+                      "question": "What is the meta-narrative significance of thresholds crossed during the rising action?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.7",
+                      "question": "How can disruptions within the rising action be interpreted as deliberate authorial strategies for reflexivity?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.8",
+                      "question": "In what ways does the rising action reflect broader cultural transformations and ideological shifts?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.9",
+                      "question": "How do choices made during the rising action illustrate paradoxical tensions inherent in human agency?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.10",
+                      "question": "What methodologies best capture the interplay of cause and effect within complex rising action sequences?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.11",
+                      "question": "How does pacing in the rising action serve as a metacognitive tool influencing audience engagement and interpretation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.2.12",
+                      "question": "What role does power dynamics play in shaping conflict escalation during the rising action at a meta-level?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Climax",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.1",
+                      "question": "How does the climax act as a systemic transformation point that redefines narrative and thematic trajectories?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.2",
+                      "question": "In what ways does the climax embody narrative paradoxes that complicate resolution and closure?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.3",
+                      "question": "How does the emotional catharsis at the climax engage with cultural and psychological layers of audience reception?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.4",
+                      "question": "What is the significance of threshold crossings in the climax for protagonist development and narrative shift?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.5",
+                      "question": "How do agency and choice converge and conflict at the climax to produce transformative outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.6",
+                      "question": "Why might the climax purposefully disrupt conventional genre expectations to provoke critical reflection?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.7",
+                      "question": "How does pacing during the climax modulate interpretive tension and audience affect at a meta-narrative level?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.8",
+                      "question": "What is the role of ambiguity and open-endedness in the climax for sustaining narrative reflexivity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.9",
+                      "question": "How can the climax be analyzed as a moment of both disruption and integration within the narrative system?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.10",
+                      "question": "What interpretive frameworks best capture the multifaceted meanings generated by the climax?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.11",
+                      "question": "How does the climax prepare the narrative for subsequent cycles of iteration and transformation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.3.12",
+                      "question": "What are the implications of climax structure for understanding narrative as a dynamic, emergent system?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Falling Action",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.1",
+                      "question": "How does the falling action serve as a complex feedback loop, modulating narrative consequences and audience expectations?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.2",
+                      "question": "In what ways does the falling action negotiate the dialectic between closure and ongoing ambiguity within the narrative system?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.3",
+                      "question": "How can the modulation of entropy during the falling action influence the story’s thematic resolution?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.4",
+                      "question": "Why might strategic pacing shifts in the falling action function as metanarrative devices shaping audience cognition?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.5",
+                      "question": "How does the falling action reflect or disrupt emergent narrative patterns established earlier in the story?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.6",
+                      "question": "What is the role of character agency and choice in reconfiguring plot trajectories during the falling action?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.7",
+                      "question": "How does the falling action’s tonal shift influence the narrative’s overall affective architecture?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.8",
+                      "question": "In what ways does the falling action prepare the narrative system for cyclical iteration or thematic renewal?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.9",
+                      "question": "How might disruptions within the falling action serve as deliberate authorial strategies for reflexivity and re-interpretation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.10",
+                      "question": "What methodologies can best analyze the falling action’s role in sustaining narrative complexity while moving toward closure?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.11",
+                      "question": "How does the falling action balance narrative system boundaries to maintain coherence and thematic depth?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.4.12",
+                      "question": "What if the falling action is omitted or radically altered—how would this impact the narrative’s emergent properties and audience reception?",
+                      "concept": "Discontinuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Denouement",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.1",
+                      "question": "How does the denouement enact closure while simultaneously opening interpretive possibilities at a meta-narrative level?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.2",
+                      "question": "In what ways can the denouement function as a reflexive commentary on the story’s cultural and ideological contexts?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.3",
+                      "question": "Why might deliberate ambiguity in the denouement serve to sustain critical audience engagement beyond narrative conclusion?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.4",
+                      "question": "How does the denouement integrate cyclical narrative patterns that suggest transformation beyond the immediate story?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.5",
+                      "question": "What is the significance of pacing and tonal modulation in shaping the denouement’s lasting affect?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.6",
+                      "question": "How can the denouement reconcile paradoxical thematic elements to produce a coherent yet complex closure?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.7",
+                      "question": "What authorial strategies influence the balance between resolution and openness in the denouement?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.8",
+                      "question": "How does the denouement engage audience memory and interpretive faculties to reinforce or question prior narrative understanding?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.9",
+                      "question": "In what ways does the denouement reflect transformations in narrative perspective or system boundaries?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.10",
+                      "question": "What if the denouement were fragmented or nonlinear—how would this affect narrative coherence and thematic resolution?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.11",
+                      "question": "How can the denouement be interpreted as an emergent phenomenon within the overall narrative system?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Freytags-Pyramid.ME.5.12",
+                      "question": "Why is the denouement pivotal in synthesizing narrative elements into an integrated thematic and emotional whole?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

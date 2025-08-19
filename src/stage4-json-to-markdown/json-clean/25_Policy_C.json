@@ -1,0 +1,1951 @@
+{
+  "discipline": "Political Science",
+  "children": [
+    {
+      "structure_name": "Policy-Cycle",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": "1. Problem Identification → 2. Agenda Setting → 3. Policy Formulation → 4. Policy Legitimation → 5. Policy Implementation → 6. Policy Evaluation → 7. Policy Maintenance, Succession or Termination"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Problem Identification"
+                },
+                {
+                  "structure_part": "[2/7] 2. Agenda Setting"
+                },
+                {
+                  "structure_part": "[3/7] 3. Policy Formulation"
+                },
+                {
+                  "structure_part": "[4/7] 4. Policy Legitimation"
+                },
+                {
+                  "structure_part": "[5/7] 5. Policy Implementation"
+                },
+                {
+                  "structure_part": "[6/7] 6. Policy Evaluation"
+                },
+                {
+                  "structure_part": "[7/7] 7. Policy Maintenance, Succession or Termination"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Affordable Care Act, New Deal Programs, Paris Climate Agreement"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Problem Identification → Issue Recognition / Public Concern"
+            },
+            {
+              "terminology": "2. Agenda Setting → Prioritization / Framing / Stakeholder Influence"
+            },
+            {
+              "terminology": "3. Policy Formulation → Proposal Development / Strategy Crafting"
+            },
+            {
+              "terminology": "4. Policy Legitimation → Institutional Approval / Legal Validation"
+            },
+            {
+              "terminology": "5. Policy Implementation → Execution / Administration"
+            },
+            {
+              "terminology": "6. Policy Evaluation → Monitoring / Assessment / Feedback"
+            },
+            {
+              "terminology": "7. Policy Maintenance, Succession or Termination → Continuation / Adaptation / Discontinuation"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Problem Identification",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.1.1",
+                      "question": "What kinds of problems typically trigger policy responses in society?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.2",
+                      "question": "How does a private issue become a public concern needing policy attention?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.3",
+                      "question": "Why is it important to clearly define a policy problem before acting?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.4",
+                      "question": "What are common signs that a situation has become a policy problem?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.5",
+                      "question": "How might different groups disagree on whether something is a problem?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.6",
+                      "question": "What role do media or public discourse play in identifying problems?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.7",
+                      "question": "What criteria help determine whether a problem is policy-relevant?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.8",
+                      "question": "What if a real issue is never recognized as a policy problem—what happens then?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.9",
+                      "question": "How does identifying a problem shape the tone of future policy debate?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.10",
+                      "question": "What emotions might people feel when a personal issue becomes a national policy topic?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.11",
+                      "question": "So what makes one problem \"urgent\" and another one \"invisible\"?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.1.12",
+                      "question": "How can the act of labeling something a 'problem' already imply a solution?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Agenda Setting",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.2.1",
+                      "question": "What is an agenda in the context of policy making?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.2",
+                      "question": "How does a policy issue rise to the top of a political agenda?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.3",
+                      "question": "Why do some problems get attention while others are ignored?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.4",
+                      "question": "Who decides what gets on the agenda—and who is left out?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.5",
+                      "question": "What if two equally urgent problems compete for the same agenda space?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.6",
+                      "question": "How does political timing affect what gets prioritized?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.7",
+                      "question": "What strategies do advocates use to keep an issue on the agenda?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.8",
+                      "question": "Why might some stakeholders try to delay or bury a policy issue?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.9",
+                      "question": "How can framing affect whether an issue seems urgent or trivial?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.10",
+                      "question": "What emotions do people feel when their issue is excluded from the agenda?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.11",
+                      "question": "How might agenda setting influence how the public understands the issue?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.2.12",
+                      "question": "So what role do public protests or petitions play in shaping agendas?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Policy Formulation",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.3.1",
+                      "question": "What does policy formulation involve?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.2",
+                      "question": "How are ideas turned into draft policies or proposals?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.3",
+                      "question": "Why do policymakers need to weigh trade-offs when designing policy?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.4",
+                      "question": "What kinds of evidence or expertise inform policy proposals?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.5",
+                      "question": "How do different values shape what a “good” policy looks like?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.6",
+                      "question": "What happens if too many conflicting interests influence the proposal?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.7",
+                      "question": "What role does compromise play in policy design?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.8",
+                      "question": "What if the policy is too vague or too detailed?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.9",
+                      "question": "How does the policy’s framing affect how it will be received later?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.10",
+                      "question": "What emotions or public reactions should be anticipated when designing a policy?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.11",
+                      "question": "How might the tone of a policy proposal influence trust or resistance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.3.12",
+                      "question": "So what makes a policy proposal clear, fair, and convincing?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Policy Legitimation",
+                  "part_concept": "Power",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.4.1",
+                      "question": "What does policy legitimation mean in political decision-making?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.2",
+                      "question": "How do institutions approve or validate policies?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.3",
+                      "question": "Why is legal approval important for policy effectiveness?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.4",
+                      "question": "What are common challenges during the legitimation stage?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.5",
+                      "question": "How do political debates shape policy approval?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.6",
+                      "question": "What role does public opinion play in legitimation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.7",
+                      "question": "What if a policy passes formal approval but lacks popular support?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.8",
+                      "question": "How might the tone of political discourse affect policy legitimation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.9",
+                      "question": "What emotions do stakeholders experience during policy approval battles?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.10",
+                      "question": "How does legitimation contribute to the authority of a policy?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.11",
+                      "question": "So what happens when legitimation processes are bypassed or weak?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.4.12",
+                      "question": "How does legitimation connect to the overall success of a policy?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Policy Implementation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.5.1",
+                      "question": "What does policy implementation involve?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.2",
+                      "question": "How are policies put into action by government agencies?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.3",
+                      "question": "Why can implementation be more difficult than policy design?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.4",
+                      "question": "What challenges might arise when executing a policy?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.5",
+                      "question": "How do resources and capacity affect implementation success?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.6",
+                      "question": "What role does communication play in policy implementation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.7",
+                      "question": "What if local actors resist or adapt the policy differently?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.8",
+                      "question": "How can implementation processes generate new problems or conflicts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.9",
+                      "question": "How does the tone of those implementing policy influence outcomes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.10",
+                      "question": "What emotions do frontline workers experience during implementation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.11",
+                      "question": "So what does successful implementation look like in practice?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.5.12",
+                      "question": "How can feedback from implementation inform future policy cycles?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Policy Evaluation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.6.1",
+                      "question": "What is the purpose of policy evaluation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.2",
+                      "question": "How do policymakers measure the effectiveness of a policy?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.3",
+                      "question": "Why is it important to assess both intended and unintended consequences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.4",
+                      "question": "What methods are commonly used in policy evaluation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.5",
+                      "question": "How do values and priorities influence evaluation criteria?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.6",
+                      "question": "What if evaluation results show a policy is failing—what next?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.7",
+                      "question": "How does evaluation feedback affect stakeholders’ trust in government?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.8",
+                      "question": "What emotions are involved in communicating evaluation results?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.9",
+                      "question": "How can evaluation lead to policy learning and improvement?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.10",
+                      "question": "So what challenges exist in making evaluation findings credible and useful?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.11",
+                      "question": "How does timing of evaluation influence its impact on policy decisions?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.6.12",
+                      "question": "Why might different groups interpret evaluation results differently?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Policy Maintenance, Succession or Termination",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.B.7.1",
+                      "question": "What does policy maintenance involve in the policy cycle?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.2",
+                      "question": "How do policymakers decide whether to continue, modify, or end a policy?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.3",
+                      "question": "Why might a policy need to be adapted over time?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.4",
+                      "question": "What are common reasons for policy termination or replacement?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.5",
+                      "question": "How does policy succession ensure stability in governance?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.6",
+                      "question": "What role does public feedback play in deciding policy maintenance or termination?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.7",
+                      "question": "What if a terminated policy leaves unresolved problems—what happens next?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.8",
+                      "question": "How might emotions influence decisions to keep or end policies?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.9",
+                      "question": "How does the tone of political debate affect policy continuation or ending?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.10",
+                      "question": "What challenges arise in communicating policy termination to stakeholders?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.11",
+                      "question": "So what are the consequences of poor policy maintenance or abrupt termination?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.B.7.12",
+                      "question": "How does this final stage connect back to problem identification in a new cycle?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Problem Identification",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.1.1",
+                      "question": "How do different political actors influence the recognition of policy problems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.2",
+                      "question": "What mechanisms transform social issues into formal policy problems?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.3",
+                      "question": "Why is the framing of a problem crucial for subsequent policy debates?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.4",
+                      "question": "How can the ambiguity of a problem affect the policymaking process?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.5",
+                      "question": "What role do interest groups and media play in amplifying certain problems?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.6",
+                      "question": "How does the problem identification stage set boundaries for policy solutions?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.7",
+                      "question": "What if competing definitions of a problem coexist—how is consensus achieved?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.8",
+                      "question": "How might cognitive biases shape the perception of policy problems?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.9",
+                      "question": "What emotions typically emerge in public debates around problem identification?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.10",
+                      "question": "How does problem identification influence the power dynamics among stakeholders?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.11",
+                      "question": "So what are the consequences of misidentifying a policy problem early on?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.1.12",
+                      "question": "How can reflexivity improve the accuracy of problem identification?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Agenda Setting",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.2.1",
+                      "question": "How do institutional structures shape agenda-setting processes?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.2",
+                      "question": "What feedback loops exist between public opinion and political agendas?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.3",
+                      "question": "Why might some policy issues be systematically excluded from agendas?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.4",
+                      "question": "How do competing agendas reflect broader societal conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.5",
+                      "question": "What strategies do political actors use to frame issues for agenda inclusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.6",
+                      "question": "How does timing and political opportunity affect agenda setting?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.7",
+                      "question": "What role do policy entrepreneurs play in agenda setting?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.8",
+                      "question": "How can agenda setting create or reinforce power imbalances?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.9",
+                      "question": "What emotional dynamics influence public support during agenda setting?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.10",
+                      "question": "How might agenda setting impact long-term policy trajectories?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.11",
+                      "question": "So what challenges arise in balancing multiple competing agendas?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.2.12",
+                      "question": "How does agenda setting reflect broader cultural or ideological frames?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Policy Formulation",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.3.1",
+                      "question": "How do policymakers integrate diverse knowledge sources in formulating policy?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.2",
+                      "question": "What are the trade-offs inherent in balancing technical feasibility and political acceptability?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.3",
+                      "question": "How does the negotiation process shape the final policy design?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.4",
+                      "question": "Why is it important to consider unintended consequences during formulation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.5",
+                      "question": "How do power relations influence which policy options advance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.6",
+                      "question": "What role does evidence-based policy making play in formulation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.7",
+                      "question": "How can framing of policy options affect stakeholder support?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.8",
+                      "question": "What happens when conflicting values make consensus difficult?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.9",
+                      "question": "How does policy formulation balance short-term needs with long-term goals?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.10",
+                      "question": "What emotions might influence the willingness to compromise during formulation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.11",
+                      "question": "How does the tone of discussions affect policy design quality?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.3.12",
+                      "question": "So what strategies help improve clarity and fairness in policy proposals?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Policy Legitimation",
+                  "part_concept": "Power",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.4.1",
+                      "question": "How do formal institutions shape the process of policy legitimation?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.2",
+                      "question": "What political forces influence the acceptance or rejection of a policy?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.3",
+                      "question": "Why is legitimacy critical for the implementation and sustainability of policy?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.4",
+                      "question": "How can public opinion and legitimacy interact during this stage?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.5",
+                      "question": "What challenges arise when there is a legitimacy gap between policymakers and the public?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.6",
+                      "question": "How do legal frameworks support or constrain policy legitimation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.7",
+                      "question": "What if political actors use legitimation processes strategically to delay or alter policies?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.8",
+                      "question": "How does framing impact the perceived legitimacy of policy?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.9",
+                      "question": "What emotional responses accompany debates on policy legitimacy?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.10",
+                      "question": "How does tone in political communication affect legitimacy perceptions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.11",
+                      "question": "So what are the consequences of weak or contested policy legitimation?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.4.12",
+                      "question": "How can legitimation processes reinforce or disrupt power structures?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Policy Implementation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.5.1",
+                      "question": "What systemic factors affect the success of policy implementation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.2",
+                      "question": "How do bureaucratic structures influence the execution of policy?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.3",
+                      "question": "Why do implementation gaps often occur between policy design and practice?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.4",
+                      "question": "How can conflicting interests among implementers affect outcomes?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.5",
+                      "question": "What role does resource allocation play in effective implementation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.6",
+                      "question": "How does communication flow impact coordination during implementation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.7",
+                      "question": "What if local contexts require adaptations to national policies during implementation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.8",
+                      "question": "How do implementers’ attitudes and motivation influence policy success?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.9",
+                      "question": "What emotional challenges do frontline workers face in policy implementation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.10",
+                      "question": "How does the tone of leadership affect implementation morale and effectiveness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.11",
+                      "question": "So what mechanisms help bridge gaps between policy intention and implementation reality?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.5.12",
+                      "question": "How can feedback loops during implementation improve policy outcomes?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Policy Evaluation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.6.1",
+                      "question": "How do evaluation methods capture the complexity of policy impacts?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.2",
+                      "question": "What challenges arise in measuring both quantitative and qualitative outcomes?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.3",
+                      "question": "Why is stakeholder involvement important in policy evaluation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.4",
+                      "question": "How can evaluation findings influence political support for policies?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.5",
+                      "question": "What role do values and biases play in interpreting evaluation data?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.6",
+                      "question": "How might conflicting interpretations of results affect policy learning?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.7",
+                      "question": "What strategies help ensure evaluation credibility and transparency?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.8",
+                      "question": "How does the timing of evaluation influence its utility for policymakers?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.9",
+                      "question": "What emotional reactions can evaluation results provoke among stakeholders?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.10",
+                      "question": "How does feedback from evaluation contribute to policy adaptation or termination?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.11",
+                      "question": "So what are the risks of ignoring evaluation findings in the policy cycle?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.6.12",
+                      "question": "How can reflexivity improve the quality of policy evaluation processes?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Policy Maintenance, Succession or Termination",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.I.7.1",
+                      "question": "How do policymakers determine whether to maintain, modify, or terminate a policy?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.2",
+                      "question": "What factors influence the sustainability of policies over time?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.3",
+                      "question": "Why is policy succession important for political stability and institutional memory?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.4",
+                      "question": "How do political, social, and economic changes trigger policy termination or reform?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.5",
+                      "question": "What challenges arise in communicating policy termination to affected stakeholders?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.6",
+                      "question": "How can public feedback and evaluation findings guide decisions about policy continuation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.7",
+                      "question": "What are the consequences of abrupt or poorly managed policy termination?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.8",
+                      "question": "How does the tone of political discourse shape perceptions of policy endings?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.9",
+                      "question": "What emotional responses do communities experience when policies are ended or replaced?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.10",
+                      "question": "How does policy maintenance contribute to the legitimacy and effectiveness of governance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.11",
+                      "question": "So what lessons can be drawn from policy termination for future cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.I.7.12",
+                      "question": "How can reflexivity and learning improve the management of policy succession or termination?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Problem Identification",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.1.1",
+                      "question": "How do epistemological frameworks influence the recognition and definition of policy problems?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.2",
+                      "question": "In what ways do power asymmetries shape which issues become defined as problems in the policy arena?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.3",
+                      "question": "How does the social construction of problems affect policy priorities and resource allocation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.4",
+                      "question": "What role do competing paradigms play in the contestation of problem definitions?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.5",
+                      "question": "How can cognitive biases and heuristics distort policy problem identification at institutional levels?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.6",
+                      "question": "What methodologies can improve the accuracy and inclusiveness of problem identification?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.7",
+                      "question": "Why is it important to critically examine the boundaries set around policy problems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.8",
+                      "question": "How does problem identification interact with agenda-setting processes at systemic scales?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.9",
+                      "question": "What are the implications of problem ambiguity for democratic legitimacy and policy effectiveness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.10",
+                      "question": "How do affective dimensions influence the framing and salience of policy problems?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.11",
+                      "question": "What strategies can be employed to manage conflicting stakeholder interpretations of policy problems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.1.12",
+                      "question": "So what are the consequences of failing to reframe or update problem definitions over time?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Agenda Setting",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.2.1",
+                      "question": "How do institutional veto points and agenda-setting biases shape policy issue prioritization?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.2",
+                      "question": "What role do policy networks and epistemic communities play in agenda formulation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.3",
+                      "question": "How do media framing and public discourse influence agenda dynamics in pluralistic societies?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.4",
+                      "question": "In what ways do agenda-setting processes reproduce or challenge existing power structures?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.5",
+                      "question": "How can agenda setting be theorized as a feedback loop within complex political systems?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.6",
+                      "question": "Why is timing (punctuated equilibrium) critical in shifting policy agendas?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.7",
+                      "question": "What strategies do policy entrepreneurs use to exploit windows of opportunity for agenda advancement?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.8",
+                      "question": "How does agenda setting reflect cultural paradigms and ideological frames?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.9",
+                      "question": "What are the emotional and rhetorical mechanisms that mobilize public attention in agenda setting?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.10",
+                      "question": "How do competing agendas coexist and interact within multilevel governance systems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.11",
+                      "question": "So what are the systemic consequences of agenda exclusion or marginalization for policy innovation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.2.12",
+                      "question": "How can reflexive governance improve transparency and fairness in agenda-setting processes?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Policy Formulation",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.3.1",
+                      "question": "How do normative frameworks and ethical considerations shape policy option development?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.2",
+                      "question": "What is the role of evidence synthesis and uncertainty management in advanced policy formulation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.3",
+                      "question": "How do power dynamics and coalition-building influence policy design outcomes?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.4",
+                      "question": "In what ways can policy formulation incorporate scenario planning and foresight techniques?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.5",
+                      "question": "How does framing of policy alternatives affect stakeholder engagement and support?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.6",
+                      "question": "What challenges arise in balancing competing values and interests during formulation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.7",
+                      "question": "How can complexity theory inform the design of adaptive and resilient policies?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.8",
+                      "question": "Why is interdisciplinarity critical in addressing wicked policy problems at formulation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.9",
+                      "question": "What emotional and cognitive biases must be mitigated to enhance policy rationality?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.10",
+                      "question": "How does narrative construction influence the persuasiveness of policy proposals?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.11",
+                      "question": "What role does negotiation theory play in resolving conflicts during policy formulation?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.3.12",
+                      "question": "So what methods improve precision and clarity in communicating complex policy options?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Policy Legitimation",
+                  "part_concept": "Power",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.4.1",
+                      "question": "How do legal and institutional frameworks interact to establish policy legitimacy?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.2",
+                      "question": "In what ways do democratic norms influence the legitimation process of policies?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.3",
+                      "question": "How can legitimacy be theorized as a social construct within political systems?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.4",
+                      "question": "What mechanisms enable contested policies to gain broad-based acceptance?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.5",
+                      "question": "How do symbolic politics and rhetorical strategies shape perceptions of legitimacy?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.6",
+                      "question": "What role does public trust play in sustaining policy legitimation over time?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.7",
+                      "question": "How does the legitimation stage mediate tensions between bureaucratic authority and public accountability?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.8",
+                      "question": "Why is transparency critical to the legitimation process, and how is it operationalized?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.9",
+                      "question": "What emotional and cultural factors contribute to perceptions of policy legitimacy?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.10",
+                      "question": "How do crises and scandals affect the legitimation of policies and institutions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.11",
+                      "question": "So what are the long-term consequences of eroded policy legitimacy for governance?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.4.12",
+                      "question": "How can reflexive governance frameworks enhance the legitimacy of evolving policies?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Policy Implementation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.5.1",
+                      "question": "How do organizational theories explain variations in policy implementation success?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.2",
+                      "question": "What are the implications of principal-agent dynamics for policy execution?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.3",
+                      "question": "How do contextual factors mediate the translation of policy goals into outcomes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.4",
+                      "question": "What role do street-level bureaucrats play in shaping the realities of policy implementation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.5",
+                      "question": "How can implementation failures be analyzed through the lens of complexity theory?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.6",
+                      "question": "How does inter-organizational coordination affect policy coherence and adaptability?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.7",
+                      "question": "What challenges arise in balancing standardization and local adaptation during implementation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.8",
+                      "question": "How do power relations influence resource distribution and enforcement in implementation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.9",
+                      "question": "What emotional labor do frontline implementers engage in, and how does it affect policy delivery?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.10",
+                      "question": "How does leadership tone and communication style impact implementation outcomes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.11",
+                      "question": "So what mechanisms support learning and adaptation during implementation cycles?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.5.12",
+                      "question": "How can feedback loops be institutionalized to improve policy responsiveness?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Policy Evaluation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.6.1",
+                      "question": "How do epistemological debates shape the design and interpretation of policy evaluations?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.2",
+                      "question": "What methodological challenges exist in evaluating complex, adaptive policies?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.3",
+                      "question": "How can mixed-methods approaches enhance the validity of policy evaluations?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.4",
+                      "question": "What role do stakeholder values and ethical considerations play in evaluation processes?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.5",
+                      "question": "How do evaluation outcomes influence power relations among policy actors?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.6",
+                      "question": "How can conflicting interpretations of evaluation data be managed to inform policy learning?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.7",
+                      "question": "What strategies promote transparency and accountability in policy evaluations?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.8",
+                      "question": "How does timing and political context affect the use of evaluation findings?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.9",
+                      "question": "What emotional responses can evaluations provoke, and how do they affect policy discourse?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.10",
+                      "question": "How does iterative feedback from evaluations support adaptive governance?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.11",
+                      "question": "So what are the risks of politicizing policy evaluation processes?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.6.12",
+                      "question": "How can reflexivity improve the legitimacy and utility of policy evaluations?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Policy Maintenance, Succession or Termination",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.A.7.1",
+                      "question": "How do theories of institutional change explain the processes of policy maintenance and termination?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.2",
+                      "question": "What factors contribute to path dependency in policy persistence over time?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.3",
+                      "question": "How does policy succession ensure continuity while enabling adaptation in changing political contexts?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.4",
+                      "question": "In what ways do political power struggles influence decisions to reform or terminate policies?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.5",
+                      "question": "How can communication strategies mitigate resistance during policy termination or reform?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.6",
+                      "question": "What role does stakeholder feedback play in shaping policy lifecycle decisions?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.7",
+                      "question": "What are the systemic risks associated with abrupt policy termination?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.8",
+                      "question": "How does the emotional tone of political discourse affect public acceptance of policy endings?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.9",
+                      "question": "What emotional impacts do communities experience in response to policy succession or termination?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.10",
+                      "question": "How can adaptive governance frameworks facilitate effective policy transitions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.11",
+                      "question": "So what lessons can be learned from past policy terminations to improve future governance cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.A.7.12",
+                      "question": "How does reflexivity contribute to more resilient and responsive policy lifecycle management?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Problem Identification",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.1.1",
+                      "question": "How do meta-theoretical perspectives shape the conceptualization of policy problems across diverse contexts?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.2",
+                      "question": "In what ways do power-knowledge relations influence the ontology of policy problems in governance systems?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.3",
+                      "question": "How can critical discourse analysis uncover underlying assumptions in problem framing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.4",
+                      "question": "What role does reflexivity play in challenging dominant problem definitions within policy studies?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.5",
+                      "question": "How do systemic biases and institutional path dependencies perpetuate exclusionary problem identification?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.6",
+                      "question": "How might embracing epistemic pluralism transform traditional policy problem identification?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.7",
+                      "question": "What are the implications of deconstructing problem boundaries for interdisciplinary policy research?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.8",
+                      "question": "How does the dialectic between structure and agency manifest in the emergence of policy problems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.9",
+                      "question": "What affective dimensions shape stakeholder engagement with complex policy problems?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.10",
+                      "question": "How can meta-narratives influence the trajectory of problem identification in policy cycles?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.11",
+                      "question": "What methodological innovations enable critical interrogation of policy problematization processes?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.1.12",
+                      "question": "So what transformative potentials arise from reimagining problem identification in policy science?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Agenda Setting",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.2.1",
+                      "question": "How do multi-scalar governance frameworks complicate agenda-setting dynamics in contemporary politics?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.2",
+                      "question": "What role do networked epistemic communities play in shaping transnational policy agendas?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.3",
+                      "question": "How can agenda-setting theories be expanded to account for digital media’s influence on public discourse?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.4",
+                      "question": "In what ways do power asymmetries and ideological hegemonies shape agenda inclusion and exclusion?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.5",
+                      "question": "How can critical theories reveal hidden biases in agenda-setting mechanisms within democratic institutions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.6",
+                      "question": "What are the implications of punctuated equilibrium and agenda disruption for policy innovation cycles?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.7",
+                      "question": "How do affective and rhetorical strategies mobilize collective attention in competing agendas?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.8",
+                      "question": "What challenges arise when agendas are contested across multiple governance layers and jurisdictions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.9",
+                      "question": "How might emergent phenomena in complex adaptive systems transform traditional agenda-setting models?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.10",
+                      "question": "What meta-cognitive approaches facilitate reflexive agenda management among policymakers?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.11",
+                      "question": "So what lessons can be drawn from analyzing agenda-setting failures for improving democratic responsiveness?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.2.12",
+                      "question": "How can interdisciplinary frameworks enrich understanding of agenda-setting as a socio-political process?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Policy Formulation",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.3.1",
+                      "question": "How can post-structuralist approaches critique conventional models of policy formulation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.2",
+                      "question": "In what ways do normative ethics and meta-ethics intersect in the development of policy alternatives?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.3",
+                      "question": "How does the interplay between evidence-based policy and value-laden decision-making complicate formulation processes?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.4",
+                      "question": "What role does strategic framing play in aligning diverse stakeholder interests during formulation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.5",
+                      "question": "How can complexity theory inform the design of adaptive policy solutions in volatile environments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.6",
+                      "question": "What methodological innovations enhance the integration of interdisciplinary knowledge in policy design?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.7",
+                      "question": "How do power relations and hegemonic discourses shape the legitimacy of proposed policies?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.8",
+                      "question": "What are the implications of narrative construction and metaphor for policy persuasion and acceptance?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.9",
+                      "question": "How can critical reflexivity mitigate cognitive biases and enhance policy rationality?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.10",
+                      "question": "What strategies foster negotiation and conflict resolution among polarized stakeholders during formulation?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.11",
+                      "question": "How might foresight and scenario planning transform anticipatory governance in policy formulation?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.3.12",
+                      "question": "So what transformative impacts can emerge from rethinking policy formulation through a meta-critical lens?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Policy Legitimation",
+                  "part_concept": "Power",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.4.1",
+                      "question": "How do theories of legitimacy evolve to accommodate pluralistic and contested political environments?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.2",
+                      "question": "In what ways do symbolic politics and performative acts shape the legitimation of policies?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.3",
+                      "question": "How can discourse analysis reveal hidden power dynamics in policy legitimation processes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.4",
+                      "question": "What role does public trust play as a form of social capital in sustaining policy legitimacy?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.5",
+                      "question": "How do crises and scandals disrupt legitimation, and what mechanisms enable recovery?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.6",
+                      "question": "What ethical considerations arise in the use of legitimacy-enhancing strategies?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.7",
+                      "question": "How does legitimation interplay with democratic accountability and governance transparency?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.8",
+                      "question": "What affective and cultural factors underpin the public’s acceptance of policy decisions?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.9",
+                      "question": "How can reflexive governance frameworks transform traditional legitimation practices?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.10",
+                      "question": "What are the implications of competing legitimacies within multi-level governance systems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.11",
+                      "question": "So what lessons can be drawn from comparative analyses of legitimation failures for policy resilience?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.4.12",
+                      "question": "How might emergent governance models redefine concepts of policy legitimacy in the future?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Policy Implementation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.5.1",
+                      "question": "How do complex adaptive systems theory and network governance inform contemporary implementation challenges?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.2",
+                      "question": "In what ways do principal-agent problems manifest in multi-level policy implementation contexts?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.3",
+                      "question": "How can institutional ethnography reveal everyday practices shaping implementation outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.4",
+                      "question": "What role does inter-organizational learning play in adaptive implementation strategies?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.5",
+                      "question": "How can implementation science integrate power analyses to address inequities in policy delivery?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.6",
+                      "question": "How do emotional labor and frontline discretion impact policy fidelity and adaptation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.7",
+                      "question": "What mechanisms facilitate feedback loops between implementers and policymakers for continuous improvement?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.8",
+                      "question": "How can boundary-spanning roles mitigate conflicts and foster collaboration during implementation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.9",
+                      "question": "What challenges arise in balancing local context sensitivity with overarching policy mandates?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.10",
+                      "question": "How does leadership rhetoric influence organizational culture and motivation during implementation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.11",
+                      "question": "So what strategies best support resilience and innovation in complex implementation environments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.5.12",
+                      "question": "How might reflexive practices improve accountability and responsiveness in implementation processes?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Policy Evaluation",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.6.1",
+                      "question": "How do philosophical debates about evidence and truth influence policy evaluation paradigms?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.2",
+                      "question": "What innovations in evaluation methodology address complexity and nonlinearity in policy outcomes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.3",
+                      "question": "How can participatory evaluation approaches enhance legitimacy and inclusiveness?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.4",
+                      "question": "What ethical dilemmas arise in balancing objectivity and advocacy during policy evaluation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.5",
+                      "question": "How do evaluators negotiate competing stakeholder interests and conflicting data interpretations?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.6",
+                      "question": "What role do meta-evaluations play in advancing evaluation theory and practice?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.7",
+                      "question": "How can emotions and cultural contexts shape the reception and use of evaluation findings?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.8",
+                      "question": "How does timing and political environment influence the impact of evaluation reports on policy cycles?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.9",
+                      "question": "What challenges exist in maintaining evaluation independence within politicized contexts?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.10",
+                      "question": "How can reflexive evaluation frameworks promote adaptive learning in governance systems?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.11",
+                      "question": "So what systemic changes might improve the integration of evaluation into policy cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.6.12",
+                      "question": "How do interdisciplinary approaches enrich the conceptualization and practice of policy evaluation?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Policy Maintenance, Succession or Termination",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Policy-Cycle.ME.7.1",
+                      "question": "How do theoretical frameworks of institutional resilience inform understanding of policy maintenance and termination?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.2",
+                      "question": "In what ways do path dependency and critical junctures shape the lifecycle of policies within complex governance systems?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.3",
+                      "question": "How can governance theories reconcile the tensions between policy stability and necessary innovation during succession?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.4",
+                      "question": "What role do power relations and stakeholder coalitions play in decisions to maintain, reform, or terminate policies?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.5",
+                      "question": "How can discourse analysis reveal the narratives used to justify policy termination or continuation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.6",
+                      "question": "What ethical considerations arise when terminating policies that have significant social impacts?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.7",
+                      "question": "How do emotional and cultural dimensions influence public acceptance or resistance to policy endings?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.8",
+                      "question": "How can adaptive governance and reflexivity be integrated to support resilient policy transitions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.9",
+                      "question": "What systemic risks emerge from abrupt policy termination and how can they be mitigated through governance design?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.10",
+                      "question": "How do multi-level governance structures complicate the processes of policy succession and termination?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.11",
+                      "question": "So what transformative opportunities arise from rethinking policy lifecycle management through a meta-critical perspective?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Policy-Cycle.ME.7.12",
+                      "question": "How can interdisciplinary and meta-reflexive approaches improve the sustainability and responsiveness of policy cycles?",
+                      "concept": "System"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

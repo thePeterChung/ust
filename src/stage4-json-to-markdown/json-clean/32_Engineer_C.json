@@ -1,0 +1,2491 @@
+{
+  "discipline": "Engineering",
+  "children": [
+    {
+      "structure_name": "Engineering-Design-Process",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Define the Problem → 2. Research → 3. Specify Requirements → 4. Brainstorm Solutions → 5. Choose Best Solution → 6. Develop Prototype → 7. Test and Evaluate → 8. Improve and Redesign → 9. Communicate Results"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Define Problem"
+                },
+                {
+                  "structure_part": "[2/9] 2. Research and Gather Information"
+                },
+                {
+                  "structure_part": "[3/9] 3. Specify Requirements"
+                },
+                {
+                  "structure_part": "[4/9] 4. Brainstorm Solutions"
+                },
+                {
+                  "structure_part": "[5/9] 5. Choose Best Solution"
+                },
+                {
+                  "structure_part": "[6/9] 6. Develop Prototype"
+                },
+                {
+                  "structure_part": "[7/9] 7. Test and Evaluate"
+                },
+                {
+                  "structure_part": "[8/9] 8. Improve Design"
+                },
+                {
+                  "structure_part": "[9/9] 9. Communicate Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Designing a water filtration system, Building a robotic arm, Developing a bridge structure"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Define the Problem → Identify Needs / Clarify Challenge"
+            },
+            {
+              "terminology": "2. Research → Gather Data / Learn from Existing Solutions"
+            },
+            {
+              "terminology": "3. Specify Requirements → Set Goals / Define Constraints"
+            },
+            {
+              "terminology": "4. Brainstorm Solutions → Generate Ideas / Explore Options"
+            },
+            {
+              "terminology": "5. Choose Best Solution → Decision Making / Feasibility Analysis"
+            },
+            {
+              "terminology": "6. Develop Prototype → Create Model / Construct Design"
+            },
+            {
+              "terminology": "7. Test and Evaluate → Assess Functionality / Identify Flaws"
+            },
+            {
+              "terminology": "8. Improve and Redesign → Refine / Iterate Based on Feedback"
+            },
+            {
+              "terminology": "9. Communicate Results → Present Findings / Share Process"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Define Problem",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.1",
+                      "question": "What is the core problem we are trying to solve?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.2",
+                      "question": "Why is this problem important to address?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.3",
+                      "question": "How can we clearly define the needs of the user or client?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.4",
+                      "question": "What assumptions are we making at the start?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.5",
+                      "question": "What boundaries shape this challenge?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.6",
+                      "question": "How does identifying the problem affect all later steps?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.7",
+                      "question": "What are the visible and hidden parts of this problem?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.8",
+                      "question": "What if the problem is framed too narrowly?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.9",
+                      "question": "How might this stage influence the emotional investment of a team?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.10",
+                      "question": "Why might a vague problem statement lead to poor solutions?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.11",
+                      "question": "What role does intention play in defining engineering problems?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.1.12",
+                      "question": "How can student teams agree on a shared understanding of the problem?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Research and Gather Information",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.1",
+                      "question": "What kinds of sources or data should we look for?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.2",
+                      "question": "How does past work influence our direction?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.3",
+                      "question": "What existing solutions could inform our design?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.4",
+                      "question": "How can we judge the quality of our research findings?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.5",
+                      "question": "Why is diverse research important in technical design?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.6",
+                      "question": "What patterns emerge from our findings?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.7",
+                      "question": "How does research connect to user needs?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.8",
+                      "question": "What if the data conflicts or is unclear?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.9",
+                      "question": "How does deep research affect our confidence or mood in proceeding?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.10",
+                      "question": "What emotional tone is created by feeling well-informed—or uninformed?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.11",
+                      "question": "Why might teams neglect the research phase, and what are the consequences?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.2.12",
+                      "question": "How do we know when we’ve researched enough to move on?",
+                      "concept": "Inference"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Specify Requirements",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.1",
+                      "question": "What are the essential goals the design must meet?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.2",
+                      "question": "How can we translate user needs into technical criteria?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.3",
+                      "question": "What constraints (e.g., time, cost, materials) shape our options?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.4",
+                      "question": "Why are clear requirements necessary for team alignment?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.5",
+                      "question": "What happens if we overlook key constraints early on?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.6",
+                      "question": "What if we have to prioritize one requirement over another?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.7",
+                      "question": "How does requirement setting shape creative freedom later?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.8",
+                      "question": "How might requirements evolve as we learn more?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.9",
+                      "question": "Why might the process of setting limits actually foster innovation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.10",
+                      "question": "How does negotiating requirements affect team dynamics and ownership?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.11",
+                      "question": "What tone or emotional response do rigid constraints evoke in designers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.3.12",
+                      "question": "In what ways do requirements reflect the values of the broader system or society?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Brainstorm Solutions",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.1",
+                      "question": "What different approaches could solve the problem?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.2",
+                      "question": "How can we encourage creativity while brainstorming?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.3",
+                      "question": "Why is it helpful to avoid judging ideas too early?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.4",
+                      "question": "What role does group diversity play in idea generation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.5",
+                      "question": "What if we combined multiple weak ideas into a strong one?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.6",
+                      "question": "How can visual thinking (e.g. sketches, diagrams) support brainstorming?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.7",
+                      "question": "What constraints should we temporarily ignore during this phase?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.8",
+                      "question": "Why is volume of ideas often more valuable than initial quality?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.9",
+                      "question": "What if the best idea comes from outside the team?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.10",
+                      "question": "How does the mood of a group affect the range of ideas shared?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.11",
+                      "question": "What emotional tone helps people feel safe to share risky ideas?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.4.12",
+                      "question": "What tools or environments support better idea flow in teams?",
+                      "concept": "Pattern"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Choose Best Solution",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.1",
+                      "question": "What criteria can help us compare possible solutions?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.2",
+                      "question": "How do we test feasibility before committing?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.3",
+                      "question": "What trade-offs are involved in selecting one solution over another?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.4",
+                      "question": "Why might the best solution change over time?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.5",
+                      "question": "What if the best idea doesn’t meet all original requirements?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.6",
+                      "question": "How can we balance intuition with data in decision-making?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.7",
+                      "question": "How do we make sure all voices are heard before finalizing a decision?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.8",
+                      "question": "What happens if team members strongly disagree on the best choice?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.9",
+                      "question": "What if a technically inferior solution is more sustainable or ethical?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.10",
+                      "question": "How does committing to one solution change team dynamics or motivation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.11",
+                      "question": "What emotions often come with final decision-making in groups?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.5.12",
+                      "question": "How can uncertainty be handled constructively in this phase?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Develop Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.1",
+                      "question": "What materials, tools, or software are needed to prototype our idea?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.2",
+                      "question": "How can we simplify the prototype to test key functions?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.3",
+                      "question": "What are the main risks during early development?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.4",
+                      "question": "What kinds of feedback should we expect from the first prototype?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.5",
+                      "question": "Why is speed often more important than perfection at this stage?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.6",
+                      "question": "How can building something physical change how we understand the idea?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.7",
+                      "question": "What does the prototype reveal that sketches or plans do not?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.8",
+                      "question": "What if our prototype challenges our assumptions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.9",
+                      "question": "How does prototyping affect confidence or group morale?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.10",
+                      "question": "What tone does the look and feel of the prototype communicate?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.11",
+                      "question": "Why is iteration more than just redoing—what makes it creative?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.6.12",
+                      "question": "How do practical limits (time, tools) shape what we prototype first?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Test and Evaluate",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.1",
+                      "question": "What specific features or functions should we test first?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.2",
+                      "question": "How do we know if the prototype works as intended?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.3",
+                      "question": "Why is testing essential before moving to final implementation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.4",
+                      "question": "How should we record and interpret test results?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.5",
+                      "question": "What if the prototype fails a key test unexpectedly?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.6",
+                      "question": "What patterns or trends should we look for during evaluation?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.7",
+                      "question": "How can user feedback be turned into design improvements?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.8",
+                      "question": "Why might test results challenge team assumptions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.9",
+                      "question": "What emotions can arise when testing reveals flaws or failures?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.10",
+                      "question": "How can teams maintain a constructive tone during failure analysis?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.11",
+                      "question": "What role does iteration play in interpreting test feedback?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.7.12",
+                      "question": "How can evaluation link back to original design requirements?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Improve Design",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.1",
+                      "question": "What are the most critical problems we discovered during testing?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.2",
+                      "question": "How can we turn feedback into actionable changes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.3",
+                      "question": "Why is redesign not the same as starting over?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.4",
+                      "question": "What aspects of the prototype are working and should be kept?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.5",
+                      "question": "What happens if we overcorrect or introduce new issues in the redesign?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.6",
+                      "question": "How can redesigns increase sustainability, accessibility, or usability?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.7",
+                      "question": "How might a redesign alter the tone or appearance of the solution?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.8",
+                      "question": "What if user feedback conflicts with engineering feasibility?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.9",
+                      "question": "How does redesign help the team grow in confidence or clarity?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.10",
+                      "question": "Why is transformation a key goal of this stage, not just correction?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.11",
+                      "question": "How does emotion affect how teams approach redesigning?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.8.12",
+                      "question": "What helps teams avoid fatigue or frustration in repeated redesign cycles?",
+                      "concept": "Entropy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Communicate Results",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.1",
+                      "question": "What is the most important outcome we need to communicate?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.2",
+                      "question": "How should we adapt our communication for different audiences (e.g., clients, funders, peers)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.3",
+                      "question": "What role does visual representation (e.g., diagrams, prototypes) play in explaining results?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.4",
+                      "question": "Why is clear and honest communication vital at the end of a design process?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.5",
+                      "question": "What if the design didn’t fully succeed—how should we present that?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.6",
+                      "question": "How can a final report show both process and learning, not just outcomes?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.7",
+                      "question": "How does sharing results invite further collaboration or refinement?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.8",
+                      "question": "What strategies can help make complex results more engaging or persuasive?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.9",
+                      "question": "What tone should we aim for when discussing setbacks or limitations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.10",
+                      "question": "How might the audience’s mood affect how they receive our conclusions?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.11",
+                      "question": "What role does storytelling play in technical communication?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.B.9.12",
+                      "question": "What makes a conclusion feel complete and satisfying to others?",
+                      "concept": "Closure"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Define Problem",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.1",
+                      "question": "How can we distinguish between symptoms and root causes in a problem definition?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.2",
+                      "question": "What methods can help clarify ambiguous or competing needs?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.3",
+                      "question": "Why might different stakeholders define the same problem differently?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.4",
+                      "question": "How do values or cultural assumptions shape what counts as a “problem”?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.5",
+                      "question": "What strategies can reveal hidden constraints early in the process?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.6",
+                      "question": "How does the scope of the problem influence project complexity?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.7",
+                      "question": "What’s the risk of defining the problem too broadly or too narrowly?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.8",
+                      "question": "What if a problem is inherently political, ethical, or value-laden?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.9",
+                      "question": "How does clearly framing a problem create emotional clarity or team alignment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.10",
+                      "question": "What emotional tensions emerge when problem definitions are contested?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.11",
+                      "question": "How can critical reflection reshape our understanding of what problem we’re solving?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.1.12",
+                      "question": "Why is it important to revisit the problem definition after later stages?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Research and Gather Information",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.1",
+                      "question": "What heuristics can help filter useful vs. irrelevant research early on?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.2",
+                      "question": "How does historical or precedent-based knowledge shape design expectations?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.3",
+                      "question": "Why should designers actively seek out failures in past solutions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.4",
+                      "question": "What’s the relationship between research scope and innovation potential?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.5",
+                      "question": "How might confirmation bias distort research conclusions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.6",
+                      "question": "How can competing sources or models be reconciled into a working foundation?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.7",
+                      "question": "What happens when research reveals a fundamentally new way of thinking about the problem?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.8",
+                      "question": "What if no prior solutions exist for the problem—how should the team proceed?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.9",
+                      "question": "What emotional responses might arise when research contradicts a team’s initial idea?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.10",
+                      "question": "How can research uncertainty impact team cohesion or decision-making tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.11",
+                      "question": "In what ways can research shape or limit creative exploration later in the process?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.2.12",
+                      "question": "How can analogical thinking from other disciplines deepen our research insights?",
+                      "concept": "Analogy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Specify Requirements",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.1",
+                      "question": "How can we balance competing priorities when setting design requirements?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.2",
+                      "question": "What tools (e.g. matrices, scoring systems) help structure requirement decisions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.3",
+                      "question": "Why is testability a critical aspect of a good requirement?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.4",
+                      "question": "How do legal, environmental, or social constraints alter requirement framing?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.5",
+                      "question": "How should requirements evolve when new data or needs arise?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.6",
+                      "question": "What are the risks of over-specifying or under-specifying early constraints?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.7",
+                      "question": "How can requirement-setting processes be made more transparent and inclusive?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.8",
+                      "question": "What if user needs and technical feasibility are in conflict?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.9",
+                      "question": "How does setting requirements affect the mood and motivation of the design team?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.10",
+                      "question": "How can tone be adjusted to gain stakeholder buy-in for difficult tradeoffs?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.11",
+                      "question": "How does the hierarchy of needs and constraints influence requirement prioritization?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.3.12",
+                      "question": "How might requirements express a deeper social or disciplinary worldview?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Brainstorm Solutions",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.1",
+                      "question": "How can structured techniques (like SCAMPER or mind maps) improve ideation quality?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.2",
+                      "question": "What’s the value of wild or unconventional ideas in a brainstorming session?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.3",
+                      "question": "How can premature judgment or groupthink harm the brainstorming process?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.4",
+                      "question": "How might metaphor or analogy open up new creative paths?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.5",
+                      "question": "What role do constraints play in enhancing or limiting creativity?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.6",
+                      "question": "How can a team balance divergent thinking with respect for feasibility?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.7",
+                      "question": "What if a dominant voice in the group unintentionally narrows the idea space?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.8",
+                      "question": "How can humor, emotion, or play enhance the brainstorming environment?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.9",
+                      "question": "How might ideation tone affect openness to unexpected or risky solutions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.10",
+                      "question": "What techniques help capture and organize a flood of ideas during ideation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.11",
+                      "question": "How can brainstorming methods shift between individual and group modes effectively?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.4.12",
+                      "question": "What emotional or intellectual habits foster strong generative design thinking?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Choose Best Solution",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.1",
+                      "question": "What evaluation criteria are most relevant to our design goals?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.2",
+                      "question": "How can we balance risk, cost, and innovation in selecting a solution?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.3",
+                      "question": "What role do scoring systems or decision matrices play in fair selection?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.4",
+                      "question": "How can bias or favoritism distort solution selection?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.5",
+                      "question": "What tradeoffs are we making between short-term feasibility and long-term impact?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.6",
+                      "question": "How does group decision-making affect emotional commitment to a solution?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.7",
+                      "question": "What happens if no solution satisfies all core requirements?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.8",
+                      "question": "What emotional pressures can arise during high-stakes decision points?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.9",
+                      "question": "How can we ensure our decision remains flexible as the process evolves?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.10",
+                      "question": "How can visualizing tradeoffs improve group clarity during selection?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.11",
+                      "question": "What should we do if team values conflict during solution selection?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.5.12",
+                      "question": "How does solution choice reflect the worldview or values of the designers?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Develop Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.1",
+                      "question": "What’s the purpose of prototyping at this stage—proof of concept, usability, or technical validation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.2",
+                      "question": "How do material choice and resource limits shape prototype fidelity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.3",
+                      "question": "What forms of prototyping (physical, digital, conceptual) best match our goals?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.4",
+                      "question": "What if time or cost limits force compromise in prototype quality?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.5",
+                      "question": "How might rapid prototyping accelerate or distort user feedback loops?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.6",
+                      "question": "What risks arise from over-investing emotionally or financially in a single prototype?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.7",
+                      "question": "How does the tactile or visual presence of a prototype change how others perceive the idea?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.8",
+                      "question": "What mood or tone should the prototype evoke in its presentation context?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.9",
+                      "question": "How do technical limitations encountered in prototyping shape final design scope?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.10",
+                      "question": "What techniques help keep prototypes focused, testable, and low-cost?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.11",
+                      "question": "How might user reactions during prototyping alter team expectations or confidence?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.6.12",
+                      "question": "What emotional or intellectual shifts occur when ideas become physically real?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Test and Evaluate",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.1",
+                      "question": "How can we design tests that reveal both strengths and weaknesses of the prototype?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.2",
+                      "question": "What’s the role of controlled vs. real-world testing environments?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.3",
+                      "question": "How might confirmation bias affect interpretation of test results?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.4",
+                      "question": "How do we determine whether test failures reflect design flaws or test flaws?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.5",
+                      "question": "How can unexpected test results lead to productive design pivots?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.6",
+                      "question": "What emotional reactions can arise when a design underperforms expectations?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.7",
+                      "question": "How should evaluation criteria evolve as we learn more about performance limits?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.8",
+                      "question": "How might feedback be synthesized across user, technical, and business domains?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.9",
+                      "question": "How can tone and framing of evaluation results affect team motivation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.10",
+                      "question": "When is a test “good enough” to move forward despite partial validation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.11",
+                      "question": "How can we embed equity and inclusivity in evaluation protocols?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.7.12",
+                      "question": "What role does emotional resilience play in learning from test failures?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Improve Design",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.1",
+                      "question": "What signals tell us a design is ready vs. still evolving?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.2",
+                      "question": "How can we distinguish between valuable revisions and endless tweaking?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.3",
+                      "question": "What tools or mindsets help teams embrace iteration without burnout?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.4",
+                      "question": "How do iteration cycles change depending on time, budget, or audience context?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.5",
+                      "question": "How might a single critical insight lead to disproportionate design improvement?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.6",
+                      "question": "What emotional responses accompany the tension between perfection and progress?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.7",
+                      "question": "How can early feedback be prioritized without stalling innovation later on?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.8",
+                      "question": "How do versioning tools or frameworks support coherent iteration cycles?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.9",
+                      "question": "What’s the difference between superficial improvement and meaningful refinement?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.10",
+                      "question": "How can tone or team culture affect willingness to revise difficult sections?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.11",
+                      "question": "How does iteration foster emotional attachment or detachment from a design?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.8.12",
+                      "question": "What habits help designers learn from each cycle rather than repeat mistakes?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Communicate Results",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.1",
+                      "question": "How should we tailor communication for different audiences (technical, investor, user)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.2",
+                      "question": "What formats (reports, visuals, demos) best match the project’s complexity and goals?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.3",
+                      "question": "How do rhetorical devices help explain difficult design tradeoffs?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.4",
+                      "question": "How can storytelling enhance the clarity and emotional resonance of a design narrative?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.5",
+                      "question": "What ethical considerations arise in selectively emphasizing design features?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.6",
+                      "question": "How can design visuals create misunderstanding as easily as clarity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.7",
+                      "question": "What tone should a design presentation strike—humble, confident, critical?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.8",
+                      "question": "How do live demos or simulations affect credibility and user engagement?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.9",
+                      "question": "How might post-launch communication help build long-term trust with users?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.10",
+                      "question": "How do team dynamics affect who gets credit in public-facing communication?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.11",
+                      "question": "How can communication act as both reflection and celebration of design thinking?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.I.9.12",
+                      "question": "How might cross-cultural communication norms shape how solutions are received?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Define Problem",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.1",
+                      "question": "How can the act of defining a problem shape the possible space of solutions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.2",
+                      "question": "What assumptions often go unnoticed in early problem definitions—and how can we surface them?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.3",
+                      "question": "How do stakeholder values, biases, and goals influence the articulation of a problem?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.4",
+                      "question": "How might language and terminology subtly constrain the way a design problem is understood?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.5",
+                      "question": "When is a problem ‘too well defined’—and how might that hinder innovation?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.6",
+                      "question": "How can designers identify whether the true challenge lies upstream or downstream of the stated problem?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.7",
+                      "question": "What methods help reframe an initial problem into a deeper or broader opportunity?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.8",
+                      "question": "How can conflicting definitions of a problem be reconciled without oversimplifying it?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.9",
+                      "question": "What tone should a design problem evoke—urgency, curiosity, compassion—and why?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.10",
+                      "question": "How does the way a problem is defined reflect deeper cultural, social, or disciplinary worldviews?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.11",
+                      "question": "How can emotional distance or attachment impact the fidelity of the problem definition?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.1.12",
+                      "question": "What habits or practices help a team remain critical and open-minded at the problem-framing stage?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Research and Gather Information",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.1",
+                      "question": "How can we design a research process that uncovers both conventional and non-obvious sources of insight?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.2",
+                      "question": "What role does cross-disciplinary research play in enriching engineering design understanding?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.3",
+                      "question": "How can gaps, contradictions, or silences in the literature inform what we investigate further?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.4",
+                      "question": "What distinguishes a question that deserves deep research from one that’s merely interesting?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.5",
+                      "question": "How might historical solutions to similar problems illuminate design pathways or blind spots?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.6",
+                      "question": "How does confirmation bias threaten research objectivity, and how can it be mitigated?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.7",
+                      "question": "What emotional or intellectual stance is most productive during research—skeptical, curious, reverent?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.8",
+                      "question": "How can uncertainty and ambiguity during research be made intellectually generative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.9",
+                      "question": "What’s the difference between background research and inquiry that reshapes the problem definition itself?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.10",
+                      "question": "How can the research phase become a process of discovering values, not just facts?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.11",
+                      "question": "How does tone (e.g., skeptical, enthusiastic) in existing sources shape how we receive knowledge?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.2.12",
+                      "question": "What practices help ensure ongoing research beyond the ‘official’ research phase?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Specify Requirements",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.1",
+                      "question": "How do requirements serve as both enablers and limiters of creativity in design?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.2",
+                      "question": "How can ambiguous requirements be resolved without prematurely narrowing the solution space?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.3",
+                      "question": "What ethical dilemmas might arise in choosing which user needs to prioritize in requirements?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.4",
+                      "question": "How can conflicting stakeholder requirements be made productive rather than obstructive?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.5",
+                      "question": "What happens when quantitative performance metrics obscure qualitative human values?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.6",
+                      "question": "How might the emotional tone of a requirement document affect how a team engages with it?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.7",
+                      "question": "How do evolving requirements reflect the iterative nature of modern engineering projects?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.8",
+                      "question": "What methods help translate implicit design goals into explicit requirements?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.9",
+                      "question": "How does the act of writing a requirement shape how seriously it is taken later in the process?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.10",
+                      "question": "How might legal, environmental, or cultural constraints be embedded within requirement language?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.11",
+                      "question": "What mindset best serves the negotiation between flexibility and precision in defining specs?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.3.12",
+                      "question": "How does working with hard constraints cultivate design resilience or ingenuity?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Brainstorm Solutions",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.1",
+                      "question": "How can design teams foster radical ideation while remaining anchored to core constraints?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.2",
+                      "question": "What conditions support the emergence of 'generative conflict' during brainstorming?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.3",
+                      "question": "How do status hierarchies within teams inhibit or enable divergent thinking?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.4",
+                      "question": "How can analogy or metaphor open up new design possibilities during ideation?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.5",
+                      "question": "What’s the difference between creative chaos and dysfunctional noise in early ideation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.6",
+                      "question": "How do time constraints paradoxically enhance or suppress idea generation?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.7",
+                      "question": "What emotional tone (playful, intense, skeptical) best supports breakthrough ideation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.8",
+                      "question": "How can fear of failure or judgment be reduced during early-stage design discussion?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.9",
+                      "question": "How can teams distinguish ideas with long-term transformative potential from those with short-term appeal?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.10",
+                      "question": "How might silence, hesitation, or pause be harnessed as signals during team ideation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.11",
+                      "question": "What implicit cultural biases shape what kinds of ideas are welcomed or excluded?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.4.12",
+                      "question": "What role does humor or absurdity play in unlocking novel solution pathways?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Choose Best Solution",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.1",
+                      "question": "How do selection criteria reflect deeper values and assumptions about 'success'?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.2",
+                      "question": "What is the risk of premature convergence when narrowing design options too quickly?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.3",
+                      "question": "How can teams evaluate solutions under conditions of deep uncertainty or incomplete data?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.4",
+                      "question": "What frameworks help weigh trade-offs across competing stakeholder needs?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.5",
+                      "question": "When might emotional resonance be a more valid selection criterion than technical superiority?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.6",
+                      "question": "How do dominant narratives (e.g., ‘disruptive,’ ‘efficient,’ ‘elegant’) bias judgment during selection?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.7",
+                      "question": "What’s the ethical responsibility of designers when the “best” solution has unequal impacts?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.8",
+                      "question": "How can emotional cues like enthusiasm or hesitation guide intuitive decisions during selection?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.9",
+                      "question": "How might focusing on a 'best' solution inadvertently foreclose hybrid or layered approaches?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.10",
+                      "question": "What methods ensure marginalized voices influence the choice of final design?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.11",
+                      "question": "How does the tone of discussion (defensive vs. exploratory) affect the final decision quality?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.5.12",
+                      "question": "What practices help teams commit to a decision while remaining open to future revision?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Develop Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.1",
+                      "question": "How do material and technical constraints shape the evolution of a conceptual solution?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.2",
+                      "question": "What is the role of ‘design intuition’ in bridging the gap between sketch and system?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.3",
+                      "question": "How can unresolved ambiguity during development lead to either innovation or breakdown?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.4",
+                      "question": "What social or institutional forces (e.g., deadlines, funding) accelerate or distort development cycles?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.5",
+                      "question": "How can the emotional arc of a team during development affect quality and cohesion of the solution?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.6",
+                      "question": "How might user feedback during development require a fundamental rethinking of the solution?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.7",
+                      "question": "How do agile, iterative approaches differ emotionally and structurally from waterfall approaches?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.8",
+                      "question": "What unspoken decisions shape the form and functionality of the developing design?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.9",
+                      "question": "How can the physical prototyping process itself become a site of insight, not just execution?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.10",
+                      "question": "What role does tone play in internal communication during development—urgent, optimistic, skeptical?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.11",
+                      "question": "How does documentation during development serve both technical and narrative purposes?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.6.12",
+                      "question": "How can emotional burnout be anticipated and mitigated across a long development arc?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Test and Evaluate",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.1",
+                      "question": "How can testing protocols be designed to reveal hidden weaknesses without biasing outcomes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.2",
+                      "question": "What role does iterative feedback play in transforming failures into innovation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.3",
+                      "question": "How might confirmation bias be mitigated when evaluating test results?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.4",
+                      "question": "In what ways can ambiguous or unexpected results deepen understanding of system behavior?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.5",
+                      "question": "How do emotional responses to test outcomes influence subsequent design decisions?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.6",
+                      "question": "What ethical considerations arise when tests reveal safety or environmental risks?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.7",
+                      "question": "How can multi-disciplinary perspectives improve evaluation robustness?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.8",
+                      "question": "What strategies help balance quantitative metrics with qualitative insights in testing?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.9",
+                      "question": "How might test results inform both immediate fixes and long-term design evolution?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.10",
+                      "question": "How does the tone of communication around test failures impact team resilience and learning?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.11",
+                      "question": "What role does uncertainty play in interpreting evaluation data?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.7.12",
+                      "question": "How can transparency in testing build stakeholder trust and buy-in?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Improve Design",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.1",
+                      "question": "How do iteration cycles balance the need for refinement with the risk of diminishing returns?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.2",
+                      "question": "What techniques facilitate meaningful learning from each refinement stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.3",
+                      "question": "How can emotional fatigue be recognized and managed during iterative improvements?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.4",
+                      "question": "In what ways can iteration promote both stability and innovation simultaneously?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.5",
+                      "question": "How does documenting changes during refinement support collective memory and knowledge sharing?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.6",
+                      "question": "What role does team culture play in encouraging or resisting refinement feedback?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.7",
+                      "question": "How can refinement processes be adapted to different project scales or complexities?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.8",
+                      "question": "What emotional tone best supports constructive critique during improvement cycles?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.9",
+                      "question": "How do we know when to stop refining and move toward finalization?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.10",
+                      "question": "What strategies ensure that refinement includes consideration of diverse user needs?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.11",
+                      "question": "How can iteration cycles reveal deeper systemic issues beyond surface problems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.8.12",
+                      "question": "What is the impact of iterative refinement on designer identity and creative ownership?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Communicate Results",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.1",
+                      "question": "How can communication strategies be tailored to align with different stakeholder epistemologies?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.2",
+                      "question": "What role does storytelling play in making complex engineering solutions accessible?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.3",
+                      "question": "How can visual rhetoric enhance understanding and persuasion in design presentations?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.4",
+                      "question": "What ethical responsibilities do communicators have when representing design trade-offs?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.5",
+                      "question": "How can the tone of communication influence stakeholder trust and engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.6",
+                      "question": "What are the challenges of communicating uncertainty and risk transparently?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.7",
+                      "question": "How might cross-cultural differences affect the reception of engineering communications?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.8",
+                      "question": "What role does multimodal communication (e.g., text, visuals, demos) play in effective solution presentation?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.9",
+                      "question": "How can feedback from communication inform future design iterations?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.10",
+                      "question": "What rhetorical strategies help balance technical detail with audience comprehension?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.11",
+                      "question": "How does public communication of engineering solutions affect societal perception of technology?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.A.9.12",
+                      "question": "How can communicators ethically manage the tension between advocacy and objectivity?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/9] 1. Define Problem",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.1",
+                      "question": "How does problem framing influence the epistemological boundaries of engineering inquiry?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.2",
+                      "question": "In what ways can problem definitions embed or challenge systemic power dynamics?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.3",
+                      "question": "How might reflexivity alter the designer’s role in problem construction and solution?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.4",
+                      "question": "What cultural or historical narratives shape prevailing definitions of ‘problems’ in engineering?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.5",
+                      "question": "How can ambiguity in problem definition be strategically employed for innovation without sacrificing clarity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.6",
+                      "question": "How does problem definition intersect with ethical frameworks and responsibility in design?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.7",
+                      "question": "In what ways do language and metaphor limit or expand possible solution spaces?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.8",
+                      "question": "How can designers balance competing stakeholder epistemologies when defining complex problems?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.9",
+                      "question": "What role does temporal framing (short-term vs long-term) play in shaping the problem’s scope?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.10",
+                      "question": "How might designers critically engage with their own cognitive biases during problem framing?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.11",
+                      "question": "What strategies facilitate disruptive redefinition of entrenched engineering problems?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.1.12",
+                      "question": "How does the affective tone set in problem definition influence downstream design dynamics?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/9] 2. Research and Gather Information",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.1",
+                      "question": "How can meta-analysis and systemic synthesis deepen insight beyond individual studies in background research?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.2",
+                      "question": "What epistemological challenges arise when integrating interdisciplinary knowledge in design research?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.3",
+                      "question": "How can researchers maintain critical distance while engaging empathetically with domain-specific knowledge?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.4",
+                      "question": "In what ways does the socio-technical context shape the selection and interpretation of background research?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.5",
+                      "question": "How can latent contradictions within research literature be harnessed productively in design?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.6",
+                      "question": "What role do narrative structures play in organizing and communicating complex research findings?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.7",
+                      "question": "How does reflexivity manifest in the iterative updating of research focus and scope?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.8",
+                      "question": "What are the implications of research silos for holistic design problem solving?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.9",
+                      "question": "How can critical theory inform the evaluation of existing knowledge in engineering contexts?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.10",
+                      "question": "What strategies help transcend disciplinary jargon to foster genuine interdisciplinary dialogue?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.11",
+                      "question": "How do affective responses shape the interpretation of complex or conflicting data during research?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.2.12",
+                      "question": "How can research transparency influence the ethical standing of engineering design projects?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/9] 3. Specify Requirements",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.1",
+                      "question": "How do requirements articulate and enforce boundaries within complex socio-technical systems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.2",
+                      "question": "What tensions arise when balancing prescriptive specifications with emergent system properties?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.3",
+                      "question": "How can requirements reflect and mediate power asymmetries among stakeholders?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.4",
+                      "question": "In what ways do requirements shape the ethical landscape of engineering design?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.5",
+                      "question": "How can ambiguity in requirements be strategically leveraged for adaptive design?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.6",
+                      "question": "What role does negotiation play in evolving requirements throughout the project lifecycle?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.7",
+                      "question": "How do requirements function as boundary objects that enable collaboration across disciplines?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.8",
+                      "question": "How might emergent user needs challenge initially specified requirements?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.9",
+                      "question": "What are the implications of formal vs informal requirements on design flexibility and control?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.10",
+                      "question": "How do requirements documents mediate between technical rigor and rhetorical persuasion?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.11",
+                      "question": "How can the affective tone of requirements influence team motivation and interpretation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.3.12",
+                      "question": "What mechanisms exist to ensure requirements remain dynamic rather than static artifacts?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/9] 4. Brainstorm Solutions",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.1",
+                      "question": "How does the principle of emergence inform the generation of innovative design concepts beyond initial constraints?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.2",
+                      "question": "In what ways can divergent ideation processes disrupt established paradigms within engineering design?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.3",
+                      "question": "How can the interplay of individual creativity and collective cognition foster breakthrough solutions?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.4",
+                      "question": "What mechanisms allow for the balancing of chaos and order during ideation to maximize productive emergence?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.5",
+                      "question": "How can iterative feedback loops be structured to capture unforeseen opportunities during brainstorming?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.6",
+                      "question": "What role does cultural context play in shaping the boundaries of acceptable ideas in brainstorming sessions?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.7",
+                      "question": "How can emotional and affective dynamics within teams enhance or inhibit emergent creativity?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.8",
+                      "question": "In what ways can technology-mediated brainstorming alter traditional dynamics of idea generation?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.9",
+                      "question": "How might metaphorical thinking catalyze emergent design concepts that transcend literal problem constraints?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.10",
+                      "question": "What ethical considerations arise in promoting radical ideas that challenge existing norms during brainstorming?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.11",
+                      "question": "How can power dynamics within teams be navigated to ensure equitable participation in idea generation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.4.12",
+                      "question": "How does the affective tone of brainstorming sessions influence risk-taking and openness to novel ideas?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/9] 5. Choose Best Solution",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.1",
+                      "question": "How can meta-cognitive strategies improve critical judgment in selecting design solutions?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.2",
+                      "question": "In what ways do cognitive biases affect decision-making processes during solution selection, and how can they be mitigated?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.3",
+                      "question": "How can multi-criteria decision analysis be adapted to incorporate ethical and social considerations alongside technical factors?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.4",
+                      "question": "What role does stakeholder theory play in balancing competing interests during solution selection?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.5",
+                      "question": "How can dissent and constructive conflict be managed to enrich the selection process rather than derail it?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.6",
+                      "question": "What frameworks support transparency and accountability in high-stakes design decisions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.7",
+                      "question": "How does the affective tone of the decision-making environment influence group consensus and innovation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.8",
+                      "question": "In what ways can scenario planning enhance robustness and resilience in solution selection?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.9",
+                      "question": "How might post-decision reflection contribute to learning and continuous improvement in design practice?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.10",
+                      "question": "What ethical dilemmas arise when trade-offs prioritize efficiency over equity in solution selection?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.11",
+                      "question": "How can power imbalances be identified and addressed to ensure inclusive decision-making?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.5.12",
+                      "question": "How do implicit narratives shape perceived ‘best’ solutions within professional design cultures?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/9] 6. Develop Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.1",
+                      "question": "How do tacit knowledge and embodied cognition influence the translation of abstract concepts into tangible solutions?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.2",
+                      "question": "In what ways does technological mediation reshape the creative process during solution development?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.3",
+                      "question": "How can ambiguity and uncertainty be productively maintained during development to foster innovation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.4",
+                      "question": "What role do socio-institutional pressures play in shaping the pace and direction of solution realization?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.5",
+                      "question": "How might affective dynamics within development teams impact creativity, collaboration, and resilience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.6",
+                      "question": "What strategies enable agile responsiveness to emergent challenges during development?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.7",
+                      "question": "How does documentation serve as both a technical and rhetorical tool throughout development?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.8",
+                      "question": "How do invisible labor and power relations manifest in the processes of solution development?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.9",
+                      "question": "What are the ethical implications of ‘design debt’ accumulated during rapid development cycles?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.10",
+                      "question": "How can emotional intelligence be cultivated to sustain team well-being in high-pressure development contexts?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.11",
+                      "question": "In what ways can prototyping itself become a site of epistemic discovery and learning?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.6.12",
+                      "question": "How do iterative cycles of development reflect broader systems logic beyond isolated design tasks?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/9] 7. Test and Evaluate",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.1",
+                      "question": "How can the integration of quantitative and qualitative feedback deepen systemic understanding of design efficacy?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.2",
+                      "question": "In what ways can evaluation frameworks be designed to accommodate emergent, unanticipated outcomes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.3",
+                      "question": "How might recursive feedback loops contribute to both learning and potential entrapment within design processes?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.4",
+                      "question": "What are the epistemic limits of testing methodologies in capturing complex socio-technical interactions?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.5",
+                      "question": "How does the affective tone of critique sessions influence receptivity and innovation in evaluation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.6",
+                      "question": "What ethical challenges arise when evaluation outcomes impact stakeholder livelihoods or environmental justice?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.7",
+                      "question": "How can power asymmetries distort feedback mechanisms and the incorporation of diverse perspectives?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.8",
+                      "question": "In what ways can transparency and reflexivity be embedded within evaluation to enhance trustworthiness?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.9",
+                      "question": "How might ambiguity in test results be reframed as productive uncertainty rather than failure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.10",
+                      "question": "What role does temporal pacing play in balancing rapid iteration with thorough evaluation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.11",
+                      "question": "How can evaluation foster transformative learning within both design teams and wider stakeholder communities?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.7.12",
+                      "question": "How do narrative framing and rhetorical strategies influence the communication of evaluation findings?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/9] 8. Improve Design",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.1",
+                      "question": "How does iterative refinement embody principles of adaptive systems within engineering design?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.2",
+                      "question": "In what ways can iteration cycles be strategically disrupted to avoid local maxima and encourage radical innovation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.3",
+                      "question": "How can reflective practices be institutionalized to support continuous improvement and knowledge retention?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.4",
+                      "question": "What ethical considerations arise in balancing speed of refinement with thoroughness and safety?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.5",
+                      "question": "How might the affective environment influence creativity and resilience during refinement cycles?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.6",
+                      "question": "What role do boundary objects and shared languages play in coordinating iterative improvements across diverse teams?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.7",
+                      "question": "How can refinement processes integrate stakeholder feedback while maintaining design coherence?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.8",
+                      "question": "How does scale affect the feasibility and impact of iterative design improvements?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.9",
+                      "question": "What mechanisms ensure that iteration cycles remain open to emergent learning rather than rigid routines?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.10",
+                      "question": "How can power relations be navigated to democratize decision-making during refinement stages?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.11",
+                      "question": "How do narrative and metaphor shape the perception of ‘progress’ in iterative design?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.8.12",
+                      "question": "How can designers cultivate a tone of constructive critique that fosters psychological safety during improvement?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/9] 9. Communicate Results",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.1",
+                      "question": "How can strategic rhetorical framing influence public perception and acceptance of engineering solutions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.2",
+                      "question": "In what ways can communication serve as a form of boundary work bridging technical and social domains?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.3",
+                      "question": "How might multimodal narratives enhance the accessibility and impact of technical communications?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.4",
+                      "question": "What ethical responsibilities accompany the communication of uncertainty and risk to diverse audiences?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.5",
+                      "question": "How do cultural narratives and values shape stakeholder interpretations of engineering messages?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.6",
+                      "question": "What role does emotional intelligence play in tailoring communication to varied stakeholder needs?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.7",
+                      "question": "How can rhetorical strategies be employed to balance advocacy with transparency in technical communication?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.8",
+                      "question": "In what ways can feedback loops between communicators and audiences improve future design and communication efforts?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.9",
+                      "question": "How might narratives of success and failure be constructed rhetorically to influence funding and policy decisions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.10",
+                      "question": "What challenges arise in communicating complex systems thinking to non-expert audiences?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.11",
+                      "question": "How can tone and mood be calibrated to foster trust without oversimplifying technical content?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Engineering-Design-Process.ME.9.12",
+                      "question": "What are the implications of digital communication platforms for democratizing or gatekeeping engineering knowledge?",
+                      "concept": "Analogy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1951 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Fichtean-Curve",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Inciting Incident → 2. Rising Crisis 1 → 3. Rising Crisis 2 → 4. Rising Crisis 3 → 5. Climax → 6. Falling Action → 7. Resolution"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Inciting Incident"
+                },
+                {
+                  "structure_part": "[2/7] 2. Rising Crisis 1"
+                },
+                {
+                  "structure_part": "[3/7] 3. Rising Crisis 2"
+                },
+                {
+                  "structure_part": "[4/7] 4. Rising Crisis 3"
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax"
+                },
+                {
+                  "structure_part": "[6/7] 6. Falling Action"
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Breaking Bad, The Hunger Games, Whiplash"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Inciting Incident → Catalyst / Disruption / Trigger Event"
+            },
+            {
+              "terminology": "2. Rising Crisis 1 → Initial Complication / First Obstacle"
+            },
+            {
+              "terminology": "3. Rising Crisis 2 → Escalation / Midpoint Crisis"
+            },
+            {
+              "terminology": "4. Rising Crisis 3 → Penultimate Challenge / Final Test Before Climax"
+            },
+            {
+              "terminology": "5. Climax → Turning Point / Peak Conflict"
+            },
+            {
+              "terminology": "6. Falling Action → Consequence / Fallout"
+            },
+            {
+              "terminology": "7. Resolution → Final Image / Closure"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Inciting Incident",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.1.1",
+                      "question": "What specific event sets the story into motion?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.2",
+                      "question": "Who or what causes the disruption to the status quo?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.3",
+                      "question": "How does the inciting incident affect the protagonist’s world?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.4",
+                      "question": "What options does the protagonist have at this moment?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.5",
+                      "question": "How does this event create a sense of urgency or tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.6",
+                      "question": "Why might this moment be emotionally gripping for an audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.7",
+                      "question": "What happens if the inciting incident had not occurred?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.8",
+                      "question": "How clear is the protagonist’s goal at this point?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.9",
+                      "question": "What feelings or themes are introduced here that shape the story’s tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.10",
+                      "question": "What if the inciting event happened to a different character instead?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.11",
+                      "question": "So what does this moment suggest about the story’s direction?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.1.12",
+                      "question": "Why does the story need an inciting incident at all?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Rising Crisis 1",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.2.1",
+                      "question": "What problem or obstacle first blocks the protagonist?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.2",
+                      "question": "How does this crisis escalate the tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.3",
+                      "question": "What actions does the protagonist take in response?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.4",
+                      "question": "What emotions does this event likely evoke in the character and audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.5",
+                      "question": "Why is this moment harder than the previous one?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.6",
+                      "question": "What does this first crisis reveal about the protagonist’s strengths or weaknesses?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.7",
+                      "question": "What would change if the character had failed here?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.8",
+                      "question": "How does this step reinforce or disrupt our expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.9",
+                      "question": "What new questions arise for the audience after this moment?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.10",
+                      "question": "What patterns of conflict begin to emerge here?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.11",
+                      "question": "How might this scene be used to build sympathy or suspense?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.2.12",
+                      "question": "What if this moment had been delayed until later in the story?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Rising Crisis 2",
+                  "part_concept": "Escalation",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.3.1",
+                      "question": "What makes this second crisis more intense than the first?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.2",
+                      "question": "How do the stakes increase here?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.3",
+                      "question": "What new complications are introduced?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.4",
+                      "question": "Why is the protagonist still struggling despite earlier action?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.5",
+                      "question": "What internal conflict is beginning to emerge in the character?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.6",
+                      "question": "How might the audience’s sympathy be shifting at this point?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.7",
+                      "question": "What resources or allies are gained or lost during this stage?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.8",
+                      "question": "What if the protagonist had responded differently—what would have changed?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.9",
+                      "question": "How does this scene reflect growing pressure on all sides?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.10",
+                      "question": "So what does this moment show us about the cost of the journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.11",
+                      "question": "How might this part set up an emotional payoff later?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.3.12",
+                      "question": "What audience expectation might be deliberately misdirected here?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Rising Crisis 3",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.4.1",
+                      "question": "How does this third crisis raise the stakes higher than before?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.2",
+                      "question": "What new obstacles make the protagonist’s path more difficult?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.3",
+                      "question": "How is the protagonist’s resolve tested in this moment?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.4",
+                      "question": "Why might this crisis feel like a turning point to the audience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.5",
+                      "question": "What emotions are heightened here for the main character?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.6",
+                      "question": "How does this crisis prepare the story for the climax?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.7",
+                      "question": "What could happen if the protagonist fails at this stage?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.8",
+                      "question": "How does this moment build anticipation for the climax?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.9",
+                      "question": "What new questions does this crisis raise for the audience?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.10",
+                      "question": "How might the protagonist’s strategy change after this challenge?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.11",
+                      "question": "What if this crisis had been less intense—how would that affect the story?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.4.12",
+                      "question": "How does this stage deepen the story’s emotional impact?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.5.1",
+                      "question": "What is the defining moment of conflict resolution?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.2",
+                      "question": "How does the protagonist confront their greatest challenge?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.3",
+                      "question": "Why is this moment the peak of tension in the story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.4",
+                      "question": "What choices must the protagonist make here?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.5",
+                      "question": "How does the climax transform the protagonist or situation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.6",
+                      "question": "What feelings does the climax aim to evoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.7",
+                      "question": "What would happen if the climax failed to resolve the main conflict?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.8",
+                      "question": "How does the climax reflect the story’s main themes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.9",
+                      "question": "What if the climax had occurred earlier or later in the story?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.10",
+                      "question": "How does this moment provide closure or leave questions open?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.11",
+                      "question": "Why is the climax necessary for the overall story arc?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.5.12",
+                      "question": "How might the audience’s understanding of the protagonist change here?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Falling Action",
+                  "part_concept": "Consequence",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.6.1",
+                      "question": "What immediate effects follow the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.2",
+                      "question": "How do the characters respond to the climax’s outcome?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.3",
+                      "question": "Why is it important to show consequences after the climax?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.4",
+                      "question": "What unresolved tensions remain during the falling action?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.5",
+                      "question": "How does the falling action help transition the story towards resolution?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.6",
+                      "question": "What changes have occurred in the protagonist’s world at this stage?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.7",
+                      "question": "How might the audience feel during the falling action compared to earlier stages?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.8",
+                      "question": "What would happen if the falling action was omitted or shortened?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.9",
+                      "question": "How does this part reflect the story’s thematic consequences?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.10",
+                      "question": "What if a new complication arose during the falling action?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.11",
+                      "question": "How does the falling action set up the final resolution?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.6.12",
+                      "question": "Why might the falling action be crucial for audience satisfaction?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.B.7.1",
+                      "question": "How does the story finally come to a close?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.2",
+                      "question": "What changes have been made in the protagonist’s world?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.3",
+                      "question": "Why is it important for the audience to see the outcome after the conflict?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.4",
+                      "question": "How are any remaining questions or tensions resolved or left open?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.5",
+                      "question": "What emotions does the resolution aim to evoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.6",
+                      "question": "How does the final image or scene reinforce the story’s main themes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.7",
+                      "question": "What does the protagonist learn or realize by the end?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.8",
+                      "question": "Why might the story choose to end on a hopeful or ambiguous note?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.9",
+                      "question": "How does the resolution relate back to the inciting incident?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.10",
+                      "question": "What if the resolution had been drastically different—how would that change the story’s meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.11",
+                      "question": "How might the resolution affect the audience’s overall satisfaction with the story?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.B.7.12",
+                      "question": "What lessons or messages does the resolution convey implicitly or explicitly?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Inciting Incident",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.1.1",
+                      "question": "How does the inciting incident disrupt the established order of the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.2",
+                      "question": "Why is the inciting incident essential for initiating the protagonist’s journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.3",
+                      "question": "How might different interpretations of this event affect the story’s meaning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.4",
+                      "question": "What narrative techniques emphasize the importance of the inciting incident?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.5",
+                      "question": "How does the inciting incident foreshadow future conflicts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.6",
+                      "question": "What role does the protagonist’s initial reaction play in shaping the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.7",
+                      "question": "How might the audience’s emotional engagement begin here?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.8",
+                      "question": "What alternative inciting incidents could have led to a different story trajectory?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.9",
+                      "question": "Why might an author choose to delay or reveal the inciting incident gradually?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.10",
+                      "question": "How does the inciting incident establish the stakes for the protagonist?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.11",
+                      "question": "What cultural or thematic frameworks influence how the inciting incident is perceived?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.1.12",
+                      "question": "How does the inciting incident relate to the story’s broader social or psychological context?",
+                      "concept": "Context"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Rising Crisis 1",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.2.1",
+                      "question": "How does the first rising crisis complicate the protagonist’s goals?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.2",
+                      "question": "What narrative devices heighten the tension during this crisis?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.3",
+                      "question": "How does the protagonist’s response reveal character development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.4",
+                      "question": "Why is it important for the rising crisis to challenge the protagonist’s assumptions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.5",
+                      "question": "How does this crisis affect the story’s pacing and momentum?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.6",
+                      "question": "What emotional shifts occur in the audience during this stage?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.7",
+                      "question": "What if the rising crisis introduced conflicting goals or moral dilemmas?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.8",
+                      "question": "How do secondary characters influence the unfolding crisis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.9",
+                      "question": "What feedback mechanisms escalate or moderate the crisis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.10",
+                      "question": "How does the crisis deepen the thematic concerns of the story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.11",
+                      "question": "What if the protagonist’s failure here redefines their motivations?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.2.12",
+                      "question": "How might this crisis serve as a threshold moment for the protagonist’s transformation?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Rising Crisis 2",
+                  "part_concept": "Escalation",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.3.1",
+                      "question": "How does the second rising crisis escalate the conflict introduced earlier?",
+                      "concept": "Escalation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.2",
+                      "question": "What new stakes or consequences emerge in this stage?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.3",
+                      "question": "How do competing forces or perspectives add complexity to the crisis?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.4",
+                      "question": "Why might ambiguity or uncertainty increase here?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.5",
+                      "question": "How does the protagonist’s internal conflict mirror external challenges?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.6",
+                      "question": "What strategies does the protagonist employ to manage escalating pressures?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.7",
+                      "question": "How might the audience’s expectations be challenged or subverted in this crisis?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.8",
+                      "question": "What role does pacing play in sustaining engagement during escalation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.9",
+                      "question": "How do secondary plotlines intersect with the main crisis here?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.10",
+                      "question": "What if the protagonist’s choices here have unintended consequences?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.11",
+                      "question": "How does this stage set up thematic or emotional payoffs later in the story?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.3.12",
+                      "question": "Why is it important to balance escalation with moments of relief or reflection?",
+                      "concept": "Balance"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Rising Crisis 3",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.4.1",
+                      "question": "How does the third rising crisis intensify the protagonist’s challenges compared to earlier crises?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.2",
+                      "question": "What narrative techniques heighten suspense during this penultimate crisis?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.3",
+                      "question": "How do the protagonist’s decisions here reflect their growth or limitations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.4",
+                      "question": "Why is this stage crucial for building momentum toward the climax?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.5",
+                      "question": "What emotional states are predominant for the protagonist and audience in this moment?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.6",
+                      "question": "How might this crisis complicate or deepen the story’s themes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.7",
+                      "question": "What if the protagonist’s failure here had irreversible consequences?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.8",
+                      "question": "How do secondary characters influence the outcomes of this crisis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.9",
+                      "question": "In what ways does this crisis test the protagonist’s core values?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.10",
+                      "question": "How does this moment challenge the audience’s expectations or assumptions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.11",
+                      "question": "What feedback loops emerge from the consequences of this crisis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.4.12",
+                      "question": "How might this stage set up a meaningful climax emotionally and thematically?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.5.1",
+                      "question": "How does the climax resolve or transform the central conflict?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.2",
+                      "question": "What critical choices does the protagonist make at the climax?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.3",
+                      "question": "How is tension maximized in this pivotal moment?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.4",
+                      "question": "Why is the protagonist’s agency most evident during the climax?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.5",
+                      "question": "How does the climax reflect broader thematic or symbolic meanings?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.6",
+                      "question": "What emotional responses does the climax aim to elicit from the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.7",
+                      "question": "What would be the impact of an ambiguous or unresolved climax?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.8",
+                      "question": "How does the climax integrate narrative threads developed earlier in the story?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.9",
+                      "question": "In what ways does the climax challenge or reinforce genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.10",
+                      "question": "What role does pacing play in the effectiveness of the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.11",
+                      "question": "How might the protagonist’s transformation be represented visually or symbolically here?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.5.12",
+                      "question": "Why is the climax a turning point for both story and character development?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Falling Action",
+                  "part_concept": "Consequence",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.6.1",
+                      "question": "How does the falling action depict the immediate consequences of the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.2",
+                      "question": "In what ways do characters process the outcomes of the climax during this stage?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.3",
+                      "question": "Why is pacing important in transitioning from climax to resolution?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.4",
+                      "question": "How does the falling action maintain audience engagement after the peak tension?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.5",
+                      "question": "What unresolved issues may linger during the falling action?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.6",
+                      "question": "How does this stage reflect changes in the protagonist’s internal and external world?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.7",
+                      "question": "What thematic reflections or motifs are reinforced here?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.8",
+                      "question": "How might the falling action foreshadow the final resolution or closure?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.9",
+                      "question": "What if unexpected complications arise during the falling action—how does that affect the story’s tone?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.10",
+                      "question": "How does the emotional tone shift from climax to falling action?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.11",
+                      "question": "Why is the falling action necessary for audience processing of the story’s events?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.6.12",
+                      "question": "How can the falling action deepen the story’s overall impact or message?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.I.7.1",
+                      "question": "How does the resolution provide closure to the narrative and character arcs?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.2",
+                      "question": "In what ways does the protagonist’s transformation become evident by the end?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.3",
+                      "question": "Why might some tensions remain unresolved in the resolution, and what effect does this have?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.4",
+                      "question": "How does the resolution connect back to the story’s inciting incident or main themes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.5",
+                      "question": "What emotional tone does the resolution set for the audience’s final experience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.6",
+                      "question": "How might the resolution reflect the author’s strategic choices or message?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.7",
+                      "question": "What narrative devices are used to signal the story’s conclusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.8",
+                      "question": "How does the resolution influence the audience’s interpretation of the story as a whole?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.9",
+                      "question": "What if the resolution had taken an unexpected or unconventional form—how would this affect the story’s impact?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.10",
+                      "question": "How does the resolution satisfy or challenge genre expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.11",
+                      "question": "Why is the resolution important for the story’s overall coherence and meaning?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.I.7.12",
+                      "question": "How might the resolution inspire further reflection or discussion among the audience?",
+                      "concept": "Reflection"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Inciting Incident",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.1.1",
+                      "question": "How does the inciting incident function as a catalyst within the broader narrative system?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.2",
+                      "question": "In what ways does the inciting incident embody thematic tensions central to the story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.3",
+                      "question": "How might varying perspectives on the inciting incident reveal multiple layers of ambiguity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.4",
+                      "question": "What role does temporal framing play in presenting the inciting incident effectively?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.5",
+                      "question": "How does the protagonist’s initial agency or passivity at this stage influence subsequent events?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.6",
+                      "question": "Why might the inciting incident be strategically obscured or delayed to affect audience interpretation?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.7",
+                      "question": "How does the inciting incident align or conflict with genre conventions and expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.8",
+                      "question": "What systems or structural forces beyond the protagonist are implicated by the inciting incident?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.9",
+                      "question": "How can the inciting incident be analyzed as an emergent property within the story’s causal network?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.10",
+                      "question": "In what ways does the inciting incident set the stage for the protagonist’s transformative arc?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.11",
+                      "question": "How might cultural or ideological frameworks shape the interpretation of the inciting incident?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.1.12",
+                      "question": "What cognitive processes do audiences engage in when recognizing the significance of the inciting incident?",
+                      "concept": "Inference"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Rising Crisis 1",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.2.1",
+                      "question": "How does the first rising crisis function as a system of feedback amplifying narrative tension?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.2",
+                      "question": "In what ways does this crisis complicate the protagonist’s agency and decision-making?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.3",
+                      "question": "How does the narrative employ structural devices to modulate audience engagement during the crisis?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.4",
+                      "question": "Why is ambiguity important in shaping the interpretive openness of this crisis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.5",
+                      "question": "How does the crisis reflect underlying thematic dualities or paradoxes within the story?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.6",
+                      "question": "What role do secondary systems or characters play in escalating or mitigating the crisis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.7",
+                      "question": "How might this crisis be read as a threshold moment in the protagonist’s psychological or moral development?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.8",
+                      "question": "How does the crisis engage cognitive and emotional patterns to sustain narrative tension?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.9",
+                      "question": "What strategies are evident in the crisis to balance escalation with necessary narrative relief?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.10",
+                      "question": "How does this rising crisis contribute to the emergent complexity of the story’s conflict system?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.11",
+                      "question": "What interpretive frameworks might reveal ideological subtexts within this crisis?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.2.12",
+                      "question": "How does the protagonist’s choice architecture evolve in response to escalating pressures?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Rising Crisis 2",
+                  "part_concept": "Escalation",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.3.1",
+                      "question": "How does the second rising crisis exemplify structural escalation within the narrative system?",
+                      "concept": "Escalation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.2",
+                      "question": "In what ways does the crisis introduce paradoxical or contradictory elements to challenge linear causality?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.3",
+                      "question": "How do narrative scale and scope shift during this stage to affect thematic resonance?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.4",
+                      "question": "Why is the increase in ambiguity and uncertainty critical to sustaining dramatic tension?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.5",
+                      "question": "How does the protagonist’s internal conflict mirror or diverge from external pressures?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.6",
+                      "question": "What role does reflexivity play in complicating the narrative during this crisis?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.7",
+                      "question": "How are pacing and repetition strategically used to deepen audience engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.8",
+                      "question": "What emergent narrative patterns arise from intersecting plotlines at this stage?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.9",
+                      "question": "How might the protagonist’s choices here reflect broader cultural or ideological tensions?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.10",
+                      "question": "What cognitive and emotional mechanisms does the story leverage to heighten suspense?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.11",
+                      "question": "How does this crisis function as a liminal space for transformation within the narrative?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.3.12",
+                      "question": "Why is it significant that the rising crisis balances disruption with narrative coherence?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Rising Crisis 3",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.4.1",
+                      "question": "How does the third rising crisis amplify systemic conflicts and deepen narrative complexity?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.2",
+                      "question": "In what ways do hierarchical structures within the story influence the protagonist’s options during this crisis?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.3",
+                      "question": "How does the narrative pacing here create a balance between escalation and reflection?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.4",
+                      "question": "What role does agency play as the protagonist confronts increasingly constrained choices?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.5",
+                      "question": "How do thematic motifs evolve or intensify during this penultimate crisis?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.6",
+                      "question": "Why might the crisis incorporate paradox or ambiguity to unsettle audience expectations?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.7",
+                      "question": "How do secondary characters or systems modulate the stakes of this crisis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.8",
+                      "question": "What feedback loops emerge from decisions made during this stage and how do they affect narrative trajectory?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.9",
+                      "question": "How might this crisis serve as a threshold for significant transformation in the protagonist or story?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.10",
+                      "question": "In what ways does this stage prepare the audience emotionally and cognitively for the climax?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.11",
+                      "question": "How does this crisis embody a disruption within the established narrative flow?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.4.12",
+                      "question": "Why is it essential for this crisis to contribute to narrative closure despite its ambiguity?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.5.1",
+                      "question": "How does the climax resolve conflicting narrative forces while maintaining thematic coherence?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.2",
+                      "question": "What critical decision-making processes define the protagonist’s agency at the climax?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.3",
+                      "question": "How does the climax serve as a point of narrative and emotional catharsis for the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.4",
+                      "question": "In what ways does the climax reflect or subvert genre expectations and conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.5",
+                      "question": "How is pacing manipulated to heighten tension and focus during the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.6",
+                      "question": "What metaphorical or symbolic elements underscore the protagonist’s transformation in the climax?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.7",
+                      "question": "How does the climax integrate multiple narrative threads into a coherent resolution?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.8",
+                      "question": "Why might ambiguity or open-endedness be employed in the climax for greater interpretive depth?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.9",
+                      "question": "What emotional dynamics between characters come to a head during the climax?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.10",
+                      "question": "How does the climax illustrate the interplay of tension and release within narrative structure?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.11",
+                      "question": "How can audience expectations be disrupted productively through the climax’s resolution?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.5.12",
+                      "question": "What role does the protagonist’s recognition or insight play in the climax’s effectiveness?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Falling Action",
+                  "part_concept": "Consequence",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.6.1",
+                      "question": "How does the falling action illustrate the causal consequences of the climax within the narrative system?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.2",
+                      "question": "In what ways do characters’ transformations manifest during this stage?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.3",
+                      "question": "How does the narrative pacing transition from heightened tension to gradual resolution?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.4",
+                      "question": "What narrative and thematic functions does the falling action serve in relation to closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.5",
+                      "question": "How does ambiguity in the falling action complicate or enrich audience interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.6",
+                      "question": "How do feedback mechanisms within the story world influence the trajectory toward resolution?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.7",
+                      "question": "Why might the falling action revisit earlier motifs or themes to enhance narrative cohesion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.8",
+                      "question": "How can the falling action serve as a reflective space for both characters and audience?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.9",
+                      "question": "What role do secondary characters or subplots play in shaping the falling action’s dynamics?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.10",
+                      "question": "How might narrative continuity or disruption during the falling action affect the story’s emotional impact?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.11",
+                      "question": "How does the falling action prepare the audience for the resolution’s thematic and emotional closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.6.12",
+                      "question": "In what ways might the falling action provoke critical reflection on the story’s underlying messages?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.A.7.1",
+                      "question": "How does the resolution integrate thematic closure with narrative coherence across the story?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.2",
+                      "question": "In what ways does the protagonist’s transformation culminate and resonate in the resolution?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.3",
+                      "question": "How might unresolved tensions or ambiguities be purposefully maintained to enrich interpretive complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.4",
+                      "question": "What causal relationships established earlier are reinforced or subverted in the resolution?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.5",
+                      "question": "How does the emotional tone of the resolution shape the audience’s lasting impression?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.6",
+                      "question": "What authorial strategies are evident in how the resolution frames the story’s final meaning?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.7",
+                      "question": "How are narrative devices such as metaphor or framing employed to signal closure?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.8",
+                      "question": "In what ways does the resolution invite audience reflection or reinterpretation beyond the story’s end?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.9",
+                      "question": "How might disruption or genre subversion within the resolution challenge traditional narrative expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.10",
+                      "question": "How does the resolution balance continuity with transformation to provide a satisfying conclusion?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.11",
+                      "question": "What role does recognition or insight play in the protagonist’s final state within the resolution?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.A.7.12",
+                      "question": "Why is the resolution critical for synthesizing narrative, thematic, and emotional elements into a coherent whole?",
+                      "concept": "Closure"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Inciting Incident",
+                  "part_concept": "Transformation (Cultural)",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.1",
+                      "question": "How does the inciting incident function as a cultural catalyst reshaping narrative paradigms?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.2",
+                      "question": "In what ways does the inciting incident challenge or reinforce dominant ideological frameworks within the story?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.3",
+                      "question": "How can the inciting incident be interpreted as a reflexive commentary on genre conventions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.4",
+                      "question": "What meta-narrative functions does the inciting incident perform in destabilizing audience expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.5",
+                      "question": "How does the inciting incident engage with and subvert traditional narrative authority?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.6",
+                      "question": "What role does ambiguity within the inciting incident play in enabling multiple interpretive horizons?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.7",
+                      "question": "How might the inciting incident be analyzed through the lens of cultural memory and collective cognition?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.8",
+                      "question": "In what ways does the inciting incident act as a threshold for transformative narrative discourse?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.9",
+                      "question": "How can the inciting incident be reframed as an emergent system property within complex storytelling?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.10",
+                      "question": "What cognitive and affective responses does the inciting incident provoke at a meta-narrative level?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.11",
+                      "question": "How does the inciting incident complicate traditional notions of linear temporality and causality?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.1.12",
+                      "question": "Why is understanding the inciting incident’s meta-textual significance crucial for advanced narrative analysis?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Rising Crisis 1",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.1",
+                      "question": "How does the first rising crisis enact a meta-narrative disruption that reconfigures audience engagement?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.2",
+                      "question": "In what ways does this crisis reflect cultural tensions and ideological contestations within the narrative?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.3",
+                      "question": "How might reflexivity within this crisis interrogate or destabilize established narrative hierarchies?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.4",
+                      "question": "What role do feedback loops play in generating emergent complexity during this stage?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.5",
+                      "question": "How does ambiguity function strategically to open multiple interpretive pathways in the crisis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.6",
+                      "question": "In what manner does the crisis serve as a liminal threshold between narrative stability and chaos?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.7",
+                      "question": "How does the crisis exemplify paradoxical tensions inherent in complex storytelling systems?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.8",
+                      "question": "What cognitive dissonances are elicited in the audience as a result of this crisis’s structural dynamics?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.9",
+                      "question": "How might the crisis be understood as a site of cultural memory negotiation within the narrative?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.10",
+                      "question": "What meta-critical frameworks best illuminate the ideological subtexts active in this rising crisis?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.11",
+                      "question": "How does the protagonist’s agency become problematized in light of systemic forces during this crisis?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.2.12",
+                      "question": "Why is the crisis essential for the narrative’s transformational trajectory at a meta-narrative level?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Rising Crisis 2",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.1",
+                      "question": "How does the second rising crisis demonstrate emergent properties within the story’s complex system?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.2",
+                      "question": "In what ways does this crisis exemplify the paradoxes and dualities fundamental to meta-narrative structures?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.3",
+                      "question": "How is the narrative scale manipulated to foreground cognitive and affective thresholds during this crisis?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.4",
+                      "question": "What is the significance of pacing and repetition in reinforcing thematic motifs at this stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.5",
+                      "question": "How does reflexivity disrupt conventional narrative flow to challenge audience expectations?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.6",
+                      "question": "How does uncertainty function as a deliberate strategy to heighten meta-narrative tension?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.7",
+                      "question": "What cognitive and emotional patterns emerge from intersecting plotlines here?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.8",
+                      "question": "In what ways does the protagonist’s evolving agency reflect larger cultural transformations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.9",
+                      "question": "How can this crisis be read as a meta-textual commentary on genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.10",
+                      "question": "Why is the liminal nature of this stage critical for the narrative’s transformative arc?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.11",
+                      "question": "How does this crisis challenge linear notions of causality and temporality within the story?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.3.12",
+                      "question": "What interpretive insights are unlocked by viewing this crisis through a meta-critical lens?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Rising Crisis 3",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.1",
+                      "question": "How does the third rising crisis heighten narrative tension through conflicting systemic forces?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.2",
+                      "question": "In what ways does hierarchical power dynamics complicate the protagonist’s decision-making in this stage?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.3",
+                      "question": "How does the pacing and rhythm of this crisis reflect the story’s escalating emotional stakes?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.4",
+                      "question": "What paradoxes emerge within the narrative structure that challenge linear progression?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.5",
+                      "question": "How do feedback loops within the narrative system intensify the complexity of this crisis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.6",
+                      "question": "What role does ambiguity play in destabilizing audience expectations during this stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.7",
+                      "question": "How are secondary characters or systemic forces instrumental in shaping the crisis’s trajectory?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.8",
+                      "question": "In what ways does this crisis act as a threshold for profound transformation within the narrative?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.9",
+                      "question": "How does reflexivity operate to challenge conventional narrative closure possibilities?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.10",
+                      "question": "Why is maintaining interpretive openness crucial in this crisis for meta-narrative engagement?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.11",
+                      "question": "How do emotional and cognitive patterns interact to sustain dramatic tension here?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.4.12",
+                      "question": "What meta-critical insights arise from analyzing this crisis within a complex storytelling framework?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Climax",
+                  "part_concept": "Catharsis",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.1",
+                      "question": "How does the climax function as a cathartic release within the narrative’s complex emotional architecture?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.2",
+                      "question": "In what ways does the protagonist’s agency culminate in a decisive act that reshapes the story’s power dynamics?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.3",
+                      "question": "How does the climax subvert or uphold genre conventions to produce transformative audience effects?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.4",
+                      "question": "What symbolic or metaphorical dimensions are activated at the climax to deepen thematic resonance?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.5",
+                      "question": "How does pacing intensify focus and emotional investment during the climax’s critical moments?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.6",
+                      "question": "What paradoxical elements within the climax complicate straightforward resolution?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.7",
+                      "question": "How does reflexivity at the climax engage the audience in meta-narrative self-awareness?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.8",
+                      "question": "In what ways does the climax articulate emergent narrative patterns that redefine story meaning?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.9",
+                      "question": "How is ambiguity employed to foster multiple layers of interpretation at the story’s peak?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.10",
+                      "question": "What role does recognition play in the protagonist’s transformational insight during the climax?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.11",
+                      "question": "How does the climax mediate between tension and release to achieve emotional coherence?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.5.12",
+                      "question": "Why is the climax pivotal for synthesizing narrative, thematic, and affective elements in meta-narrative analysis?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Falling Action",
+                  "part_concept": "Reflection",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.1",
+                      "question": "How does the falling action serve as a space for meta-narrative reflection and thematic synthesis?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.2",
+                      "question": "In what ways do characters’ transformed states manifest and influence narrative closure?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.3",
+                      "question": "How does pacing shift to accommodate cognitive processing and emotional resolution in this stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.4",
+                      "question": "What ambiguities persist and how do they contribute to open-ended interpretive possibilities?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.5",
+                      "question": "How do feedback mechanisms reflect on prior narrative events and prepare the audience for closure?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.6",
+                      "question": "What meta-critical perspectives emerge when analyzing the falling action’s narrative function?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.7",
+                      "question": "How are framing devices utilized to reinforce or challenge the story’s thematic architecture?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.8",
+                      "question": "In what ways does the falling action disrupt or maintain narrative continuity in service of closure?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.9",
+                      "question": "How do systemic elements and secondary narratives influence the resolution of thematic tensions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.10",
+                      "question": "What role does audience cognition play in processing the falling action’s layered meanings?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.11",
+                      "question": "How might the falling action invite ongoing cultural or ideological reflection beyond the story’s end?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.6.12",
+                      "question": "Why is the falling action essential for bridging climax and resolution within a meta-narrative framework?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution",
+                  "part_concept": "Transformation (Cultural)",
+                  "children": [
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.1",
+                      "question": "How does the resolution enact a profound cultural transformation that redefines narrative meaning?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.2",
+                      "question": "In what ways does the resolution challenge or reaffirm dominant ideological narratives within the story?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.3",
+                      "question": "How does ambiguity in the resolution serve to expand interpretive possibilities beyond traditional closure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.4",
+                      "question": "What meta-narrative strategies does the resolution employ to engage audience reflexivity and critique?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.5",
+                      "question": "How is the protagonist’s final recognition framed as a symbolic threshold in the narrative’s cultural discourse?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.6",
+                      "question": "What role does pacing and narrative rhythm play in facilitating cognitive and emotional integration at resolution?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.7",
+                      "question": "How does the resolution balance continuity and disruption to create a transformative storytelling experience?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.8",
+                      "question": "In what ways does the resolution invite ongoing interpretation and critical discourse beyond the text itself?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.9",
+                      "question": "How does the resolution function as a system within the broader narrative, integrating thematic and emotional elements?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.10",
+                      "question": "Why is the resolution essential for synthesizing narrative closure with cultural transformation at a meta-critical level?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.11",
+                      "question": "How might the resolution disrupt conventional genre expectations to provoke critical reflection?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Fichtean-Curve.ME.7.12",
+                      "question": "What cognitive and affective effects does the resolution have in shaping the audience’s long-term understanding of the story?",
+                      "concept": "Inference"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

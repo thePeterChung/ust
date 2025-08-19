@@ -1,0 +1,1951 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "In-Media-Res",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Opening In the Middle of Action → 2. Immediate Conflict Escalation → 3. Flashback/Context Introduction → 4. Rising Complications → 5. Climax / Turning Point → 6. Resolution Begins → 7. Full Resolution / Denouement"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/7] Opening In the Middle of Action"
+                },
+                {
+                  "structure_part": "[2/7] Immediate Conflict Escalation"
+                },
+                {
+                  "structure_part": "[3/7] Flashback/Context Introduction"
+                },
+                {
+                  "structure_part": "[4/7] Rising Complications"
+                },
+                {
+                  "structure_part": "[5/7] Climax / Turning Point"
+                },
+                {
+                  "structure_part": "[6/7] Resolution Begins"
+                },
+                {
+                  "structure_part": "[7/7] Full Resolution / Denouement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Apocalypse Now, Breaking Bad, The Odyssey"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Opening In the Middle of Action → In Medias Res / Immediate Immersion"
+            },
+            {
+              "terminology": "2. Immediate Conflict Escalation → Rising Action / Tension Increase"
+            },
+            {
+              "terminology": "3. Flashback/Context Introduction → Exposition / Backstory"
+            },
+            {
+              "terminology": "4. Rising Complications → Escalation / Obstacles"
+            },
+            {
+              "terminology": "5. Climax / Turning Point → Crisis / Peak Conflict"
+            },
+            {
+              "terminology": "6. Resolution Begins → Falling Action / Unraveling"
+            },
+            {
+              "terminology": "7. Full Resolution / Denouement → Closure / Final Outcome"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/7] Opening In the Middle of Action",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.1.1",
+                      "question": "How does starting in the middle of action affect your initial interest?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.2",
+                      "question": "What is happening at the very beginning of the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.3",
+                      "question": "Why might an author choose to open here rather than at the story’s start?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.4",
+                      "question": "How does this opening create tension or excitement?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.5",
+                      "question": "What questions do you have after this opening scene?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.6",
+                      "question": "How do characters act or react at this point?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.7",
+                      "question": "What emotions might this opening evoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.8",
+                      "question": "What information is missing that you want to learn later?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.9",
+                      "question": "How does the story’s timeline feel because of this late start?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.10",
+                      "question": "What if the story began with background instead of action—how would that change the effect?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.11",
+                      "question": "Why is this type of opening effective for capturing attention?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.1.12",
+                      "question": "How does this scene set the tone for what follows?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] Immediate Conflict Escalation",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.2.1",
+                      "question": "How does the conflict increase soon after the opening?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.2",
+                      "question": "What actions raise the stakes in the story’s early moments?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.3",
+                      "question": "Why is escalating conflict important right after starting in the middle?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.4",
+                      "question": "How do characters respond to rising challenges here?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.5",
+                      "question": "What new questions about the conflict emerge during escalation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.6",
+                      "question": "What emotions build as the conflict escalates?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.7",
+                      "question": "How does the escalation affect your expectations for the story’s outcome?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.8",
+                      "question": "What if the conflict did not escalate—how would the story feel different?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.9",
+                      "question": "How does this stage maintain or increase the audience’s engagement?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.10",
+                      "question": "Why might the author choose to escalate conflict at this point?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.11",
+                      "question": "What role does uncertainty play during conflict escalation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.2.12",
+                      "question": "How does escalating conflict help define characters’ goals or motivations?",
+                      "concept": "Desire"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] Flashback/Context Introduction",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.3.1",
+                      "question": "Why does the story provide background or flashbacks after opening in action?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.2",
+                      "question": "How does the flashback change your understanding of current events?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.3",
+                      "question": "What key information does the flashback reveal about characters or setting?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.4",
+                      "question": "How is the flashback presented within the story’s timeline?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.5",
+                      "question": "What emotions arise during the flashback or background scenes?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.6",
+                      "question": "Why might the author choose to delay this context until after action begins?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.7",
+                      "question": "How does the flashback help explain characters’ motivations or intentions?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.8",
+                      "question": "What if the story never revealed this context—how would that affect understanding?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.9",
+                      "question": "How does the pacing of flashback sections affect audience attention?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.10",
+                      "question": "What narrative techniques signal the shift to flashback scenes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.11",
+                      "question": "How does the flashback section balance with ongoing present-time events?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.3.12",
+                      "question": "What new questions or mysteries does the flashback raise for the story?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] Rising Complications",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.4.1",
+                      "question": "How do new problems make the story more difficult for the characters?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.2",
+                      "question": "What kinds of obstacles appear after the initial action?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.3",
+                      "question": "Why is it important to add more challenges as the story moves forward?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.4",
+                      "question": "How do these complications change what characters want or need?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.5",
+                      "question": "What emotions do rising problems create for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.6",
+                      "question": "How do characters try to overcome these new challenges?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.7",
+                      "question": "What new questions do these complications raise about the story’s outcome?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.8",
+                      "question": "How does adding complications keep the story interesting?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.9",
+                      "question": "What might happen if the story did not include rising complications?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.10",
+                      "question": "How do these complications prepare the story for the climax?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.11",
+                      "question": "Why do complications often increase uncertainty for characters and audience?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.4.12",
+                      "question": "How does the tone change as complications increase?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] Climax / Turning Point",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.5.1",
+                      "question": "What is the most important decision the protagonist makes at the climax?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.2",
+                      "question": "How does this turning point change the direction of the story?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.3",
+                      "question": "Why is the climax usually the most intense moment in the story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.4",
+                      "question": "How do characters show their true motives at this point?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.5",
+                      "question": "What emotions does the climax create for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.6",
+                      "question": "How does the climax help to answer questions raised earlier in the story?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.7",
+                      "question": "What if the protagonist made a different choice at this moment?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.8",
+                      "question": "Why is the climax important for the story’s message or theme?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.9",
+                      "question": "How does the climax affect the relationships between characters?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.10",
+                      "question": "How might the story be different if there was no clear climax?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.11",
+                      "question": "What does the climax reveal about the protagonist’s growth?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.5.12",
+                      "question": "How does tension resolve or change after the climax?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] Resolution Begins",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.6.1",
+                      "question": "How do events start to calm down after the climax?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.2",
+                      "question": "What are the results of the protagonist’s choices?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.3",
+                      "question": "How do characters deal with the consequences of the climax?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.4",
+                      "question": "What feelings does this part of the story create for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.5",
+                      "question": "Why is this stage important for wrapping up loose ends?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.6",
+                      "question": "How does the resolution beginning prepare the story’s ending?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.7",
+                      "question": "What questions remain unanswered during this stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.8",
+                      "question": "How might the pace of the story change during the early resolution?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.9",
+                      "question": "What new insights about characters emerge here?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.10",
+                      "question": "How does this stage help prepare for final closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.11",
+                      "question": "What if the resolution started immediately after the climax—how would that affect the story’s impact?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.6.12",
+                      "question": "How does tension change as resolution begins?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] Full Resolution / Denouement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.B.7.1",
+                      "question": "How does the story bring all the main conflicts to an end?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.2",
+                      "question": "What feelings does the ending create for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.3",
+                      "question": "Why is it important to tie up loose ends in the conclusion?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.4",
+                      "question": "How might the ending change if some questions remain unanswered?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.5",
+                      "question": "What does the resolution reveal about the protagonist’s journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.6",
+                      "question": "How does the tone at the end compare with the tone at the beginning?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.7",
+                      "question": "What new understanding does the audience gain from the conclusion?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.8",
+                      "question": "Why might an author choose a peaceful ending versus a dramatic one?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.9",
+                      "question": "How does the denouement affect your overall impression of the story?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.10",
+                      "question": "What if the story ended immediately after the climax—how would that change the impact?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.11",
+                      "question": "How does the ending invite the audience to reflect on the story’s themes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.B.7.12",
+                      "question": "What narrative techniques are used to signal the story’s ending?",
+                      "concept": "Framing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/7] Opening In the Middle of Action",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.1.1",
+                      "question": "How does opening in the middle of action disrupt traditional narrative expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.2",
+                      "question": "What techniques help orient the audience despite the lack of initial context?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.3",
+                      "question": "Why might beginning in medias res intensify narrative tension from the outset?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.4",
+                      "question": "How does the cause and effect relationship unfold when the story starts mid-action?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.5",
+                      "question": "What narrative risks and benefits arise from starting a story in medias res?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.6",
+                      "question": "How does this opening influence audience engagement and curiosity?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.7",
+                      "question": "How might the absence of exposition at the start affect character understanding?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.8",
+                      "question": "What if the story included a traditional chronological opening instead—how would that alter impact?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.9",
+                      "question": "How does the opening’s pacing set the tone for the rest of the story?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.10",
+                      "question": "What emotional tone is established through this immediate immersion?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.11",
+                      "question": "How does the story balance disorientation and clarity in this opening?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.1.12",
+                      "question": "Why is the timing of revealing background information crucial after this opening?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] Immediate Conflict Escalation",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.2.1",
+                      "question": "How does rapid conflict escalation affect character development early in the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.2",
+                      "question": "What strategies do writers use to maintain tension during early conflict escalation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.3",
+                      "question": "How do escalating conflicts reflect underlying themes or motifs?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.4",
+                      "question": "Why is it important to balance conflict intensity with audience comprehension?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.5",
+                      "question": "How might escalating conflict expose or deepen character flaws?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.6",
+                      "question": "What role does uncertainty play in sustaining engagement during conflict escalation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.7",
+                      "question": "How can rising conflict create opportunities for thematic exploration?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.8",
+                      "question": "What if the conflict escalated more gradually—how might that change narrative effect?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.9",
+                      "question": "How does conflict escalation interact with narrative structure and pacing?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.10",
+                      "question": "Why might an author deliberately withhold full conflict details early on?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.11",
+                      "question": "How does early conflict escalation affect audience expectations for resolution?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.2.12",
+                      "question": "What emotional responses does the immediate escalation tend to provoke?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] Flashback/Context Introduction",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.3.1",
+                      "question": "How does the introduction of flashbacks reshape narrative perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.2",
+                      "question": "What techniques effectively integrate flashbacks without disrupting narrative flow?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.3",
+                      "question": "Why is the timing of flashbacks critical for maintaining suspense?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.4",
+                      "question": "How do flashbacks contribute to character motivation and backstory depth?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.5",
+                      "question": "What is the impact of non-linear storytelling on audience comprehension?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.6",
+                      "question": "How might delaying exposition through flashbacks influence thematic development?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.7",
+                      "question": "What if flashbacks revealed conflicting information—how would that affect interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.8",
+                      "question": "How do flashbacks create opportunities for symbolic or metaphorical meaning?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.9",
+                      "question": "How does the use of flashbacks affect narrative scale and scope?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.10",
+                      "question": "Why is framing important when transitioning between present action and flashbacks?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.11",
+                      "question": "How do flashbacks impact the story’s emotional tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.3.12",
+                      "question": "How can flashbacks invite deeper audience reflection on character choices?",
+                      "concept": "Reflection"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] Rising Complications",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.4.1",
+                      "question": "How do rising complications deepen the central conflict beyond initial appearances?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.2",
+                      "question": "In what ways do new obstacles challenge the protagonist’s existing goals or beliefs?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.3",
+                      "question": "How does escalating tension influence narrative pacing and audience engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.4",
+                      "question": "Why is it important for complications to create both external and internal conflicts?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.5",
+                      "question": "How do rising complications reveal deeper themes or subtexts within the story?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.6",
+                      "question": "What narrative techniques are used to maintain suspense as complications increase?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.7",
+                      "question": "How might complications foreshadow the impending climax?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.8",
+                      "question": "What if rising complications were minimized—how would this affect character development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.9",
+                      "question": "How do complications contribute to the overall structural coherence of the story?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.10",
+                      "question": "How does the interplay between tension and resolution evolve during this stage?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.11",
+                      "question": "How do rising complications affect the emotional tone and mood of the narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.4.12",
+                      "question": "How do complications test the protagonist’s agency and decision-making under pressure?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] Climax / Turning Point",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.5.1",
+                      "question": "How does the climax function as a decisive moment for character transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.2",
+                      "question": "What are the narrative consequences of the protagonist’s key choice at the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.3",
+                      "question": "How does the climax resolve or complicate the central conflict?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.4",
+                      "question": "In what ways does the climax challenge audience expectations or genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.5",
+                      "question": "How does tension peak and release during the climax?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.6",
+                      "question": "Why is the timing of the turning point critical within the overall narrative structure?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.7",
+                      "question": "How might alternative choices at the climax create different story outcomes?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.8",
+                      "question": "What does the climax reveal about the protagonist’s true desires or flaws?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.9",
+                      "question": "How does the climax engage with the story’s thematic concerns?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.10",
+                      "question": "How does the protagonist’s agency manifest most strongly at this moment?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.11",
+                      "question": "What emotional shifts occur during the climax for both characters and audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.5.12",
+                      "question": "How can the climax’s ambiguity enhance or complicate narrative closure?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] Resolution Begins",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.6.1",
+                      "question": "How does the beginning of the resolution address the fallout from the climax?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.2",
+                      "question": "What narrative strategies help transition from climax to resolution?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.3",
+                      "question": "How do characters adapt or change as the story moves toward closure?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.4",
+                      "question": "What unresolved tensions linger at the start of the resolution?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.5",
+                      "question": "How does the pacing typically shift during this stage and why?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.6",
+                      "question": "How are thematic questions explored or answered as resolution begins?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.7",
+                      "question": "What role does audience expectation play in shaping the resolution’s opening?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.8",
+                      "question": "How does the resolution beginning balance closure and open questions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.9",
+                      "question": "How do narrative cycles or feedback loops manifest in this stage?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.10",
+                      "question": "Why might some stories delay full resolution beyond this point?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.11",
+                      "question": "How does this stage set up emotional catharsis for the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.6.12",
+                      "question": "How do characters’ choices here reflect their growth or regression?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] Full Resolution / Denouement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.I.7.1",
+                      "question": "How does the denouement provide closure while allowing for interpretive openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.2",
+                      "question": "What narrative techniques are employed to signal the story’s final closure?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.3",
+                      "question": "How does the resolution reflect or contrast with the story’s opening tone and themes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.4",
+                      "question": "Why might an author choose to subvert traditional closure expectations in the denouement?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.5",
+                      "question": "What emotional impact does the ending have on the audience, and how is it achieved?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.6",
+                      "question": "How does the protagonist’s final state reveal their transformational journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.7",
+                      "question": "In what ways does the ending invite reflection on the story’s broader themes or social commentary?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.8",
+                      "question": "How does closure balance between resolving plotlines and leaving thematic questions open?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.9",
+                      "question": "What role does audience expectation play in shaping the effectiveness of the denouement?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.10",
+                      "question": "How might an ambiguous or open ending affect the story’s lasting impact?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.11",
+                      "question": "How do final narrative choices reflect the author’s strategy and intention?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.I.7.12",
+                      "question": "What narrative patterns emerge in the denouement that echo earlier story elements?",
+                      "concept": "Pattern"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/7] Opening In the Middle of Action",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.1.1",
+                      "question": "How does the choice to open in medias res disrupt traditional narrative causality and chronology?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.2",
+                      "question": "In what ways does this disruption challenge audience expectations and require active interpretation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.3",
+                      "question": "How can an author strategically use disorientation to enhance thematic depth?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.4",
+                      "question": "What cognitive processes do audiences engage in to reconstruct context from limited initial information?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.5",
+                      "question": "How does the immediate immersion into action affect the emotional pacing and intensity of the narrative?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.6",
+                      "question": "Why might starting in medias res be particularly effective for stories exploring chaos or uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.7",
+                      "question": "How does the disruption of linear time impact the narrative’s scale and scope?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.8",
+                      "question": "What are the potential risks and rewards for narrative coherence when employing in medias res?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.9",
+                      "question": "How does the author balance ambiguity and clarity to maintain engagement without confusion?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.10",
+                      "question": "What role does framing play in helping audiences navigate a story beginning in medias res?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.11",
+                      "question": "How can thematic motifs be introduced or reinforced through a non-linear opening?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.1.12",
+                      "question": "How does opening in medias res relate to broader narrative forms such as cyclical or fragmented storytelling?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] Immediate Conflict Escalation",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.2.1",
+                      "question": "How does rapid conflict escalation function to sustain narrative momentum in a disjointed timeline?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.2",
+                      "question": "In what ways can escalating conflict serve as a catalyst for thematic exploration in an in medias res narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.3",
+                      "question": "How might conflicting timelines affect audience perception of causality within escalating conflict?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.4",
+                      "question": "What narrative devices help reconcile disjointed conflict escalation with coherent character arcs?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.5",
+                      "question": "How does conflict escalation expose underlying power dynamics or psychological tensions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.6",
+                      "question": "Why is the management of pacing critical during rapid conflict escalation in non-linear narratives?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.7",
+                      "question": "How do tension and uncertainty interplay to maintain audience engagement through conflict escalation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.8",
+                      "question": "What risks arise from rapid conflict escalation when background context is withheld or delayed?",
+                      "concept": "Risk"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.9",
+                      "question": "How can escalating conflict be used to subvert or reinforce genre conventions within in medias res?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.10",
+                      "question": "How does the narrative balance between revealing and concealing information during conflict escalation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.11",
+                      "question": "What emotional or psychological effects does immediate conflict escalation have on audience empathy?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.2.12",
+                      "question": "How might early conflict escalation foreshadow or thematically prefigure later resolution?",
+                      "concept": "Foreshadowing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] Flashback/Context Introduction",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.3.1",
+                      "question": "How do flashbacks serve as a framing device to realign audience understanding within a non-linear narrative?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.2",
+                      "question": "What are the cognitive challenges and rewards of integrating flashbacks in medias res narratives?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.3",
+                      "question": "How does timing and placement of flashbacks influence thematic depth and narrative coherence?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.4",
+                      "question": "In what ways can flashbacks destabilize or enrich character motivation and identity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.5",
+                      "question": "How might conflicting flashback information create narrative ambiguity or irony?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.6",
+                      "question": "What role do flashbacks play in the audience’s emotional engagement and memory of the story?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.7",
+                      "question": "How can the interplay between past and present narratives generate emergent meanings?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.8",
+                      "question": "How do flashbacks affect the story’s pacing and audience’s cognitive load?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.9",
+                      "question": "How do flashbacks interact with thematic motifs to deepen narrative complexity?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.10",
+                      "question": "What framing techniques can authors use to signal shifts between timeframes clearly?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.11",
+                      "question": "How do flashbacks influence audience interpretation and emotional tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.3.12",
+                      "question": "How does the integration of flashbacks reflect broader meta-narrative or reflexive strategies?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] Rising Complications",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.4.1",
+                      "question": "How do rising complications complicate the interplay between external plot events and internal character dynamics?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.2",
+                      "question": "In what ways do escalating obstacles challenge the narrative’s thematic coherence and character agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.3",
+                      "question": "How does the increasing tension modulate narrative pacing and audience emotional response?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.4",
+                      "question": "Why is the balance between predictable and unpredictable complications crucial in this stage?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.5",
+                      "question": "How do rising complications serve as a crucible for character transformation and thematic revelation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.6",
+                      "question": "What narrative strategies effectively maintain suspense while deepening conflict complexity?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.7",
+                      "question": "How might the layering of complications foreshadow the climax or subvert audience expectations?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.8",
+                      "question": "What if rising complications were presented non-linearly—how would this affect narrative coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.9",
+                      "question": "How do rising complications contribute to the story’s emergent meaning and thematic density?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.10",
+                      "question": "How do the tensions created in this stage interact with larger systemic or cultural forces within the story?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.11",
+                      "question": "How can rising complications reveal paradoxes or dualities within character motivations or plot development?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.4.12",
+                      "question": "How does this stage negotiate the balance between narrative closure and open-ended tension?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] Climax / Turning Point",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.5.1",
+                      "question": "How does the climax crystallize the protagonist’s core choices and their consequences within a fragmented timeline?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.2",
+                      "question": "What narrative techniques emphasize the significance of the turning point amidst temporal disruption?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.3",
+                      "question": "How does the climax reconcile or deepen existing thematic tensions and conflicts?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.4",
+                      "question": "In what ways can the climax subvert genre conventions to challenge audience expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.5",
+                      "question": "How does the narrative structure manipulate pacing and tension to maximize emotional impact at the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.6",
+                      "question": "What role does ambiguity play in interpreting the protagonist’s choice and its aftermath?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.7",
+                      "question": "How might alternative narrative pathways at the climax affect overall story meaning?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.8",
+                      "question": "How do power dynamics and desire influence decision-making at the turning point?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.9",
+                      "question": "How does the climax serve as a fulcrum for thematic and narrative transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.10",
+                      "question": "How can the climax’s structure mirror or disrupt narrative cycles established earlier?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.11",
+                      "question": "What emotional and cognitive effects does the climax aim to provoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.5.12",
+                      "question": "How does the climax balance resolution and ambiguity to sustain audience engagement?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] Resolution Begins",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.6.1",
+                      "question": "How does the initial resolution phase negotiate the aftermath of the climax within a disrupted temporal framework?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.2",
+                      "question": "What narrative devices smooth the transition from climax to resolution in non-linear storytelling?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.3",
+                      "question": "How do characters’ evolving motivations reflect broader thematic resolutions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.4",
+                      "question": "How does the resolution begin to address unresolved tensions without fully closing the narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.5",
+                      "question": "What pacing shifts characterize the start of the resolution, and how do they affect audience experience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.6",
+                      "question": "In what ways does the opening of the resolution reframe or challenge prior audience interpretations?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.7",
+                      "question": "How do feedback loops or narrative echoes reinforce thematic closure or ongoing tension?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.8",
+                      "question": "Why might a narrative delay full closure, and how does this impact narrative meaning?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.9",
+                      "question": "How does this stage prepare the audience emotionally for final catharsis or reflection?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.10",
+                      "question": "How do character decisions during the resolution beginning illustrate growth or regression?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.11",
+                      "question": "What role do thematic motifs play in shaping the unfolding resolution?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.6.12",
+                      "question": "How does the resolution beginning balance between narrative closure and open-ended questions?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] Full Resolution / Denouement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.A.7.1",
+                      "question": "How does the denouement negotiate closure while maintaining interpretive openness within a fragmented narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.2",
+                      "question": "What framing devices guide the audience’s understanding of the story’s final meaning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.3",
+                      "question": "In what ways does the denouement reflect or contrast thematic and tonal elements introduced earlier?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.4",
+                      "question": "Why might an author employ a disruptive or non-traditional ending, and what effects does this produce?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.5",
+                      "question": "How does the emotional resonance of the ending engage audience memory and reflection?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.6",
+                      "question": "How is the protagonist’s arc fully or partially resolved, and what implications does this have for narrative closure?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.7",
+                      "question": "What broader cultural or meta-narrative commentaries might the denouement suggest?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.8",
+                      "question": "How does the balance between closure and ambiguity influence the story’s lasting impact?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.9",
+                      "question": "How do audience expectations shape interpretations of the denouement’s effectiveness?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.10",
+                      "question": "In what ways can an ambiguous ending function as a form of narrative disruption or reflexivity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.11",
+                      "question": "How do narrative patterns from earlier stages re-emerge to create thematic cohesion in the denouement?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.A.7.12",
+                      "question": "What role does pacing play in delivering an impactful and coherent final resolution?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/7] Opening In the Middle of Action",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.1.1",
+                      "question": "How does opening in medias res function as a deliberate disruption of classical narrative temporality and what implications does this have for narrative authority?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.2",
+                      "question": "In what ways does this structural disruption engage with postmodern critiques of linearity and coherence in storytelling?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.3",
+                      "question": "How does the initial narrative disorientation activate meta-cognitive audience strategies for meaning-making?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.4",
+                      "question": "What role does authorial strategy play in balancing chaos and clarity in a non-linear opening?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.5",
+                      "question": "How can the use of in medias res interrogate or subvert traditional genre conventions and cultural expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.6",
+                      "question": "What philosophical tensions between order and disorder emerge in opening a narrative mid-action?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.7",
+                      "question": "How does the choice of opening moment reflect cultural or ideological perspectives embedded within the narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.8",
+                      "question": "How might the initial narrative disruption mirror systemic or cyclical forms beyond individual storytelling?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.9",
+                      "question": "What are the implications of fragmentary beginnings for audience reception theory and participatory interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.10",
+                      "question": "How does the interplay between absence and presence in the opening shape emergent narrative meanings?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.11",
+                      "question": "In what ways does the opening challenge or reinforce epistemological assumptions about narrative truth?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.1.12",
+                      "question": "How might this form of narrative beginning relate to broader cultural or historical disruptions in storytelling traditions?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] Immediate Conflict Escalation",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.2.1",
+                      "question": "How does immediate conflict escalation function as a driver of narrative tension within fragmented temporal structures?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.2",
+                      "question": "What meta-narrative functions does conflict escalation serve in destabilizing or reconstructing narrative coherence?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.3",
+                      "question": "How can escalating conflict be read as an expression of deeper systemic or cultural anxieties embedded in the narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.4",
+                      "question": "In what ways do non-linear conflict dynamics affect notions of causality and moral responsibility?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.5",
+                      "question": "How does the interplay between power and desire manifest in early conflict escalation within an in medias res framework?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.6",
+                      "question": "What are the implications of pacing choices on audience engagement and cognitive processing during rapid conflict escalation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.7",
+                      "question": "How might uncertainty and ambiguity be strategically employed to deepen narrative complexity in this stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.8",
+                      "question": "What theoretical frameworks best explain audience reception to conflict presented without chronological context?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.9",
+                      "question": "How do narrative tension and conflict escalation interact with cultural narratives of crisis or transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.10",
+                      "question": "How can conflict escalation in medias res be used to critique or destabilize dominant genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.11",
+                      "question": "What emotional or ethical responses does rapid conflict escalation provoke in audiences and how are these responses framed?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.2.12",
+                      "question": "How does conflict escalation foreshadow larger thematic arcs or narrative disruptions in the story’s trajectory?",
+                      "concept": "Foreshadowing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] Flashback/Context Introduction",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.3.1",
+                      "question": "How do flashbacks operate as meta-narrative devices to reframe and question audience perceptions in a fragmented timeline?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.2",
+                      "question": "What cognitive and interpretive challenges do flashbacks pose for maintaining narrative coherence and engagement?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.3",
+                      "question": "How can the timing and fragmentation of flashbacks create reflexive awareness of storytelling artifice?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.4",
+                      "question": "In what ways do flashbacks destabilize traditional character development and complicate identity formation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.5",
+                      "question": "How might contradictory or unreliable flashbacks challenge epistemological certainty within the narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.6",
+                      "question": "What role do memory and trauma play in shaping the form and function of flashbacks in medias res?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.7",
+                      "question": "How do flashbacks generate emergent meanings that transcend linear causality?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.8",
+                      "question": "How does the interplay of past and present narratives challenge audience focus and interpretive strategies?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.9",
+                      "question": "What patterns or motifs emerge through flashback sequences that contribute to thematic complexity?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.10",
+                      "question": "How can authors use framing techniques to clearly delineate temporal shifts and enhance narrative clarity?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.11",
+                      "question": "In what ways do flashbacks contribute to the tonal and emotional texture of the narrative’s unfolding?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.3.12",
+                      "question": "How do reflexive flashbacks invite meta-critical engagement with the nature of storytelling itself?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] Rising Complications",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.4.1",
+                      "question": "How do rising complications in an in medias res narrative expose underlying systemic tensions within the story’s structure?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.2",
+                      "question": "In what ways do escalating conflicts interact with cultural or ideological frameworks embedded in the narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.3",
+                      "question": "How can rising complications be analyzed as feedback loops that intensify both plot and thematic development?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.4",
+                      "question": "What role does uncertainty play in complicating narrative expectations during this stage?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.5",
+                      "question": "How do the narrative’s pacing and temporal shifts in rising complications affect audience cognitive engagement and emotional response?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.6",
+                      "question": "How might paradoxical or dualistic elements within complications deepen thematic complexity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.7",
+                      "question": "What narrative strategies allow for simultaneous escalation and thematic layering without sacrificing coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.8",
+                      "question": "How do rising complications generate emergent narrative meanings beyond the sum of individual plot points?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.9",
+                      "question": "How can rising complications be framed to reflect or critique cultural disruptions or transformations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.10",
+                      "question": "In what ways do rising complications reveal tensions between individual agency and systemic forces within the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.11",
+                      "question": "How does the layering of complications engage audience interpretive agency and reflexivity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.4.12",
+                      "question": "How might an author use ambiguity and tension in rising complications to sustain narrative suspense while inviting critical reflection?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] Climax / Turning Point",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.5.1",
+                      "question": "How does the climax in an in medias res narrative function as a decisive moment that reconfigures narrative temporality and thematic trajectory?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.2",
+                      "question": "What meta-critical insights can be drawn from the protagonist’s decisions at the climax within a fragmented storyline?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.3",
+                      "question": "How do pacing and narrative rhythm during the climax influence audience perception of urgency and significance?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.4",
+                      "question": "In what ways does the climax disrupt or uphold genre conventions, and how does this affect audience expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.5",
+                      "question": "How can the climax be understood as a site of paradoxical tensions between closure and openness?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.6",
+                      "question": "What role do power relations and desire play in shaping the narrative choices at the turning point?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.7",
+                      "question": "How might alternative narrative pathways at the climax invite multiple interpretive possibilities?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.8",
+                      "question": "How does the climax reflect or challenge broader cultural or ideological narratives embedded within the story?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.9",
+                      "question": "How does the protagonist’s agency during the climax inform audience ethical and emotional engagement?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.10",
+                      "question": "What cognitive effects does the climax seek to provoke in terms of interpretation and reflection?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.11",
+                      "question": "How does the climax serve as a fulcrum for narrative transformation and thematic synthesis?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.5.12",
+                      "question": "How might pacing and narrative discontinuity during the climax enhance or complicate audience understanding?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] Resolution Begins",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.6.1",
+                      "question": "How does the beginning of resolution in an in medias res narrative navigate the aftermath of climax while maintaining temporal fragmentation?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.2",
+                      "question": "What narrative techniques facilitate coherence and closure during this phase without erasing ambiguity?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.3",
+                      "question": "How do evolving character motivations during resolution reflect complex thematic interplay?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.4",
+                      "question": "In what ways does the resolution beginning invite or resist traditional notions of narrative closure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.5",
+                      "question": "How does pacing in the early resolution phase influence audience emotional and cognitive recalibration?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.6",
+                      "question": "How can feedback mechanisms within the narrative reinforce or challenge thematic closure?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.7",
+                      "question": "What role do threshold moments play in transitioning from climax to resolution in fragmented narratives?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.8",
+                      "question": "How does this stage engage with audience expectations of catharsis and narrative satisfaction?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.9",
+                      "question": "How do character agency and ethical complexity manifest in the resolution’s early stages?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.10",
+                      "question": "In what ways do thematic motifs re-emerge or transform during the beginning of resolution?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.11",
+                      "question": "How does the resolution beginning sustain critical ambiguity while offering narrative progress?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.6.12",
+                      "question": "What implications does the balance between closure and openness have for the story’s meta-critical dimensions?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] Full Resolution / Denouement",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "In-Media-Res.ME.7.1",
+                      "question": "How does the denouement balance the need for narrative closure with the preservation of interpretive ambiguity in a fragmented timeline?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.2",
+                      "question": "In what ways does the final resolution engage with meta-narrative strategies to challenge traditional storytelling forms?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.3",
+                      "question": "How does the emotional tone of the denouement influence audience memory and long-term reflection on the narrative?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.4",
+                      "question": "What role do cultural or ideological frameworks play in shaping interpretations of the story’s final moments?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.5",
+                      "question": "How can the denouement serve as a site for narrative transformation or cultural commentary beyond the plot’s resolution?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.6",
+                      "question": "What narrative patterns re-emerge or are subverted in the closing stage to create thematic cohesion or disruption?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.7",
+                      "question": "How does pacing in the denouement affect the audience’s emotional and intellectual processing of the story’s conclusion?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.8",
+                      "question": "In what ways can an ambiguous or open ending function as a deliberate disruption of narrative expectations and genre conventions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.9",
+                      "question": "How does the protagonist’s final state reflect broader themes of agency, choice, or transformation within the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.10",
+                      "question": "What interpretive challenges does the denouement pose for audiences, and how might these invite ongoing critical engagement?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.11",
+                      "question": "How do closure and ambiguity interact to shape the narrative’s lasting cultural and intellectual impact?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "In-Media-Res.ME.7.12",
+                      "question": "What authorial strategies are employed in the denouement to guide or unsettle audience understanding and expectations?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

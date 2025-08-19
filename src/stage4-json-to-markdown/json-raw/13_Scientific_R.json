@@ -1,0 +1,2221 @@
+{
+  "discipline": "Science",
+  "children": [
+    {
+      "structure_name": "Scientific-Method",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Observation → 2. Question → 3. Research → 4. Hypothesis → 5. Experiment → 6. Analysis → 7. Conclusion → 8. Communication"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Observation"
+                },
+                {
+                  "structure_part": "[2/8] 2. Question"
+                },
+                {
+                  "structure_part": "[3/8] 3. Research"
+                },
+                {
+                  "structure_part": "[4/8] 4. Hypothesis"
+                },
+                {
+                  "structure_part": "[5/8] 5. Experiment"
+                },
+                {
+                  "structure_part": "[6/8] 6. Analysis"
+                },
+                {
+                  "structure_part": "[7/8] 7. Conclusion"
+                },
+                {
+                  "structure_part": "[8/8] 8. Communication"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Darwin’s finch studies, Mendel’s pea experiments, Pasteur’s germ theory"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Observation → Sensory noticing or data logging from the natural world"
+            },
+            {
+              "terminology": "2. Question → Scientific query or focus inquiry based on initial patterns"
+            },
+            {
+              "terminology": "3. Research → Background gathering, literature review, precedent check"
+            },
+            {
+              "terminology": "4. Hypothesis → Tentative explanation or prediction to be tested"
+            },
+            {
+              "terminology": "5. Experiment → Controlled test to assess hypothesis against data"
+            },
+            {
+              "terminology": "6. Analysis → Interpretation of data results, patterns, statistics"
+            },
+            {
+              "terminology": "7. Conclusion → Outcome summary and logical closure based on evidence"
+            },
+            {
+              "terminology": "8. Communication → Reporting findings to scientific or general audience"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Observation",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.1.1",
+                      "question": "What is being noticed in the natural world?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.2",
+                      "question": "How does careful observation begin the process of science?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.3",
+                      "question": "Why is it important to separate observation from interpretation at this stage?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.4",
+                      "question": "What kinds of tools help extend human observation in science?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.5",
+                      "question": "How do scientists document what they observe to ensure accuracy later?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.6",
+                      "question": "What happens if observations are overlooked or biased?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.7",
+                      "question": "How can observational habits differ across disciplines like biology and physics?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.8",
+                      "question": "What if the observer is influencing the thing observed?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.9",
+                      "question": "Why might observation be considered an act of focus and discipline?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.10",
+                      "question": "What emotional tone does the act of observing often evoke—curiosity, awe, detachment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.11",
+                      "question": "How might the audience's perception of objectivity be affected by how observations are presented?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.1.12",
+                      "question": "What role does patience play in high-quality scientific observation?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.2.1",
+                      "question": "What kind of question typically follows an observation in science?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.2",
+                      "question": "How do scientists turn complex observations into testable questions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.3",
+                      "question": "Why is it important to phrase scientific questions precisely?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.4",
+                      "question": "What distinguishes a scientific question from a philosophical or ethical one?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.5",
+                      "question": "What happens if the question is too broad or vague to be tested?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.6",
+                      "question": "How do different disciplines refine their central questions (e.g., physics vs psychology)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.7",
+                      "question": "What are some common patterns in the kinds of questions that lead to discoveries?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.8",
+                      "question": "How does framing affect the kind of answer the scientist is likely to pursue?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.9",
+                      "question": "What tone or mindset often accompanies the formulation of a scientific question?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.10",
+                      "question": "How might a poorly framed question mislead both the scientist and the audience?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.11",
+                      "question": "Why does the formulation of the question often determine the method used later?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.2.12",
+                      "question": "What if a scientific question challenges the assumptions of a whole field?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Research",
+                  "part_concept": "Memory",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.3.1",
+                      "question": "What kinds of sources do scientists consult during background research?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.2",
+                      "question": "Why is reviewing past work essential before forming a hypothesis?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.3",
+                      "question": "How does existing knowledge shape what kind of questions are asked?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.4",
+                      "question": "What tools or methods help organize prior research effectively?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.5",
+                      "question": "How might the interpretation of earlier research introduce bias into the current study?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.6",
+                      "question": "What role does citation play in science’s shared memory system?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.7",
+                      "question": "What happens when no relevant prior research exists—how do scientists proceed?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.8",
+                      "question": "How does disciplinary perspective influence what counts as relevant research?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.9",
+                      "question": "What mood or cognitive energy does background research usually require—patience, skepticism, ambition?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.10",
+                      "question": "Why might an audience be more persuaded when research is thoroughly grounded in prior work?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.11",
+                      "question": "What if the research reveals contradictions between sources—how should that shape next steps?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.3.12",
+                      "question": "How do we know when we’ve done enough background research to move forward?",
+                      "concept": "Scale"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Hypothesis",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.4.1",
+                      "question": "What is a hypothesis, and how does it differ from a guess?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.2",
+                      "question": "How is a hypothesis connected to both observation and question?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.3",
+                      "question": "Why does a good hypothesis need to be testable?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.4",
+                      "question": "What kind of language do scientists use to phrase a hypothesis?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.5",
+                      "question": "How does forming a hypothesis focus the direction of future research?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.6",
+                      "question": "What might happen if a hypothesis is too complex to test directly?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.7",
+                      "question": "What are common patterns in the types of predictions made by beginners versus experts?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.8",
+                      "question": "What if two scientists form different hypotheses from the same data?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.9",
+                      "question": "Why does forming a hypothesis require creative thinking as well as logical reasoning?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.10",
+                      "question": "How might the tone of a hypothesis affect its perceived objectivity or seriousness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.11",
+                      "question": "Why is it important for the audience to understand the reasoning behind a hypothesis?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.4.12",
+                      "question": "How does a hypothesis act as a bridge between theory and data?",
+                      "concept": "Inference"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Experiment",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.5.1",
+                      "question": "What makes an experiment scientific rather than just a trial and error test?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.2",
+                      "question": "Why is it important to control variables in an experiment?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.3",
+                      "question": "What tools and materials are often used to carry out experiments in different sciences?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.4",
+                      "question": "How do scientists record what happens during an experiment, and why?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.5",
+                      "question": "What happens if a result doesn’t match what the hypothesis predicted?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.6",
+                      "question": "Why do scientists repeat experiments or run them in multiple trials?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.7",
+                      "question": "How can human error or equipment flaws affect experimental results?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.8",
+                      "question": "How is an experiment designed to be fair and unbiased?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.9",
+                      "question": "What if unexpected patterns emerge during the experiment?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.10",
+                      "question": "What mood or tension might a scientist feel while waiting for experimental results?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.11",
+                      "question": "How does an experiment shape the audience’s trust in the scientific process?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.5.12",
+                      "question": "Why is repeatability a central standard in evaluating scientific experiments?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Analysis",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.6.1",
+                      "question": "What does it mean to analyze data in science?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.2",
+                      "question": "How do scientists decide which data is important and which is noise?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.3",
+                      "question": "Why are charts, graphs, or tables often used to show experimental results?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.4",
+                      "question": "What kinds of patterns do scientists look for when analyzing data?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.5",
+                      "question": "How do scientists check if their data supports the hypothesis or not?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.6",
+                      "question": "What happens if the data contradicts the expectations from earlier stages?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.7",
+                      "question": "How do statistical tools help make sense of large amounts of data?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.8",
+                      "question": "Why is it important to avoid jumping to conclusions during analysis?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.9",
+                      "question": "What emotional tone might accompany the process of analyzing ambiguous or messy results?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.10",
+                      "question": "How might different audiences interpret the same data in different ways?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.11",
+                      "question": "What if new questions emerge during the data analysis phase?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.6.12",
+                      "question": "How do scientists guard against misinterpreting the data due to bias or overconfidence?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.7.1",
+                      "question": "What is the purpose of a scientific conclusion?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.2",
+                      "question": "How does a conclusion connect back to the original hypothesis?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.3",
+                      "question": "Why is it important to be honest about whether the hypothesis was supported or not?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.4",
+                      "question": "What kinds of statements are typically included in a conclusion?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.5",
+                      "question": "What happens if the results don’t clearly support or refute the hypothesis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.6",
+                      "question": "How do scientists express uncertainty in their conclusions?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.7",
+                      "question": "How might a strong conclusion lead to new experiments or ideas?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.8",
+                      "question": "What role does logic play in writing a clear scientific conclusion?",
+                      "concept": "Logical coherence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.9",
+                      "question": "How does tone affect how a conclusion is received by an audience—confident, cautious, speculative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.10",
+                      "question": "What kind of closure does a conclusion provide for the reader or listener?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.11",
+                      "question": "Why is it important to consider alternative explanations in the conclusion?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.7.12",
+                      "question": "What if the conclusion challenges popular or long-standing beliefs in the field?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Communication",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.B.8.1",
+                      "question": "What does it mean to communicate scientific findings?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.2",
+                      "question": "How do scientists choose the right format for sharing their results (e.g., report, article, presentation)?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.3",
+                      "question": "Why is it important to share results with others, even if the experiment failed?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.4",
+                      "question": "What audiences might benefit from the communication of findings—other scientists, public, policy-makers?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.5",
+                      "question": "How does clear communication help build trust in science?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.6",
+                      "question": "What are some common tools scientists use to present data visually?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.7",
+                      "question": "What challenges might arise when translating technical results into everyday language?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.8",
+                      "question": "Why might some scientific findings be controversial or resisted when communicated to the public?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.9",
+                      "question": "How does the tone of the communication affect the audience’s response—enthusiastic, urgent, uncertain?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.10",
+                      "question": "What ethical responsibilities do scientists have when sharing results with the world?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.11",
+                      "question": "What role does recognition or credit play in the scientific community’s motivation to share findings?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.B.8.12",
+                      "question": "What if the communication of results leads to unexpected political, economic, or social consequences?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Observation",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.1.1",
+                      "question": "How does the framing of an observation influence the scientific process that follows?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.2",
+                      "question": "What implicit assumptions might be present in what is noticed or not noticed?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.3",
+                      "question": "Why is the distinction between raw observation and inference crucial in science?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.4",
+                      "question": "How do cultural or disciplinary lenses shape what scientists observe?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.5",
+                      "question": "What happens when an observation contradicts prevailing theories?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.6",
+                      "question": "In what ways do instruments extend or distort human perception during observation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.7",
+                      "question": "How does repeated observation across time or systems enhance scientific understanding?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.8",
+                      "question": "What if seemingly insignificant details turn out to be central to a discovery?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.9",
+                      "question": "How do mood, expectation, or confirmation bias affect initial observations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.10",
+                      "question": "Why might the audience’s trust in the scientific process depend on the neutrality of the observations shared?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.11",
+                      "question": "What challenges arise in documenting and communicating complex or dynamic observations accurately?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.1.12",
+                      "question": "How can training observation skills alter how students see the world across disciplines?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.2.1",
+                      "question": "How does forming a scientific question mark a threshold between noticing and investigating?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.2",
+                      "question": "What criteria make a question scientifically valuable or testable?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.3",
+                      "question": "What are the risks of framing a question too narrowly or too broadly in scientific inquiry?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.4",
+                      "question": "How can one question shift or reframe a whole research program?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.5",
+                      "question": "What if two questions emerge from the same observation—how do scientists decide which to pursue?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.6",
+                      "question": "In what ways does the discipline (e.g., chemistry vs psychology) shape what kinds of questions are asked?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.7",
+                      "question": "How do unresolved questions from earlier studies shape current scientific directions?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.8",
+                      "question": "What emotional or intellectual response can a well-formed question evoke in a researcher or audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.9",
+                      "question": "Why do some scientific questions generate controversy or resistance when posed to the public?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.10",
+                      "question": "What happens when a question cannot be addressed with current methods—how do scientists adapt?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.11",
+                      "question": "How does the perceived significance of a question affect funding, collaboration, or publication?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.2.12",
+                      "question": "What makes a scientific question enduring or foundational across generations of research?",
+                      "concept": "Scale"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Research",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.3.1",
+                      "question": "How is the research phase structured as a system for filtering and prioritizing prior knowledge?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.2",
+                      "question": "Why is citation not just academic formality, but essential to scientific ethics and method?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.3",
+                      "question": "What different types of sources and data count as legitimate in scientific research?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.4",
+                      "question": "How do literature reviews shape the trajectory of a new scientific investigation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.5",
+                      "question": "What systems do scientists use to track, organize, and recall complex research materials?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.6",
+                      "question": "How might over-reliance on established sources limit innovation or reinforce blind spots?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.7",
+                      "question": "What if the background research reveals contradictions between foundational studies?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.8",
+                      "question": "In what ways do disciplinary silos impact what research is included or ignored?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.9",
+                      "question": "What role does research play in shaping a scientific community’s collective memory and progress?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.10",
+                      "question": "How does tone—neutral, critical, admiring—shape how research is interpreted and passed on?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.11",
+                      "question": "Why might recognizing and citing conflicting views increase a study’s credibility to its audience?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.3.12",
+                      "question": "How can research from outside science—history, philosophy, art—contribute to the scientific method?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Hypothesis",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.4.1",
+                      "question": "How is hypothesis formation an act of abstraction from observed patterns?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.2",
+                      "question": "Why must a hypothesis be falsifiable, and what does that mean in practice?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.3",
+                      "question": "What factors influence the precision or vagueness of a scientific hypothesis?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.4",
+                      "question": "How do analogies or metaphors shape how hypotheses are formed and understood?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.5",
+                      "question": "What are the risks of forming a hypothesis that fits too neatly with prior expectations?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.6",
+                      "question": "How do collaborative or interdisciplinary teams influence hypothesis generation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.7",
+                      "question": "What happens when multiple plausible hypotheses compete—how is one chosen to test first?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.8",
+                      "question": "How can exploring an unlikely or unpopular hypothesis lead to breakthroughs?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.9",
+                      "question": "What tone should a well-constructed hypothesis convey: certainty, curiosity, skepticism?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.10",
+                      "question": "How does a hypothesis function rhetorically to organize and direct an audience’s thinking?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.11",
+                      "question": "How do the assumptions embedded in a hypothesis affect its interpretation by others?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.4.12",
+                      "question": "What distinguishes a scientific hypothesis from pseudoscientific or speculative claims?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Experiment",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.5.1",
+                      "question": "How is an experiment a system designed to isolate cause and effect?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.2",
+                      "question": "What role do controls and constants play in experimental reliability?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.3",
+                      "question": "How do the structure and sequence of steps in an experiment shape the data that results?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.4",
+                      "question": "What distinguishes experimental error from unexpected discovery?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.5",
+                      "question": "Why is reproducibility critical to evaluating experimental results across time and teams?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.6",
+                      "question": "How do practical constraints (time, funding, tools) influence experimental design?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.7",
+                      "question": "How does uncertainty shape decisions in planning and adjusting experimental variables?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.8",
+                      "question": "In what ways might an experiment unintentionally reinforce a flawed hypothesis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.9",
+                      "question": "How can the tone of presentation affect how an experiment is perceived as rigorous or biased?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.10",
+                      "question": "What ethical considerations arise in designing experiments involving people, animals, or ecosystems?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.11",
+                      "question": "How does audience recognition of careful experimental design increase credibility of findings?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.5.12",
+                      "question": "What happens when the experiment produces no clear or usable results—what’s next?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Analysis",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.6.1",
+                      "question": "How do scientists move from raw data to reasoned inference in analysis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.2",
+                      "question": "What kinds of logical errors or biases threaten the validity of scientific analysis?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.3",
+                      "question": "How does statistical reasoning support or limit the conclusions that can be drawn from data?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.4",
+                      "question": "What role does data visualization play in enabling or distorting understanding of results?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.5",
+                      "question": "How do scientists determine whether a correlation suggests causation or coincidence?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.6",
+                      "question": "What happens when data seems internally contradictory—how is that resolved or interpreted?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.7",
+                      "question": "How do prior expectations shape interpretation of analysis, even unintentionally?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.8",
+                      "question": "Why is it necessary to separate significant patterns from statistical noise?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.9",
+                      "question": "What tone should be used when presenting complex or tentative analysis to a non-specialist audience?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.10",
+                      "question": "How can analytical transparency build trust in the results for peer and public audiences?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.11",
+                      "question": "What if the analysis generates new questions that reshape the original research direction?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.6.12",
+                      "question": "How does the act of analysis connect back to—and potentially revise—the initial hypothesis?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.7.1",
+                      "question": "How does drawing a conclusion transform the experiment from data into insight?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.2",
+                      "question": "What rhetorical strategies make a scientific conclusion more persuasive or defensible?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.3",
+                      "question": "Why must conclusions acknowledge limitations, uncertainties, or alternative interpretations?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.4",
+                      "question": "How do strong or weak conclusions affect the credibility of the research process as a whole?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.5",
+                      "question": "What risks arise if conclusions overstate the certainty or impact of the findings?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.6",
+                      "question": "When might a conclusion point away from a hypothesis yet still be valuable?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.7",
+                      "question": "How can the tone of a conclusion (e.g., confident, cautious, skeptical) shape audience interpretation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.8",
+                      "question": "What distinguishes a conclusion that closes inquiry from one that invites further exploration?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.9",
+                      "question": "How does a conclusion function differently in public science communication vs. academic publication?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.10",
+                      "question": "What ethical responsibilities come with writing a conclusion that may influence public behavior or policy?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.11",
+                      "question": "How does the conclusion reflect the original hypothesis, and what does that reveal about scientific thinking?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.7.12",
+                      "question": "How can comparing multiple studies’ conclusions lead to more robust scientific consensus?",
+                      "concept": "Connection"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Communication",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.I.8.1",
+                      "question": "Why is sharing findings considered an essential part of the scientific method, not just an afterthought?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.2",
+                      "question": "How do different forms of communication (journal article, press release, public talk) alter how science is perceived?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.3",
+                      "question": "What strategies help scientists make their work accessible without oversimplifying?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.4",
+                      "question": "How do scientists adjust tone and technicality for different audiences (peers, funders, public)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.5",
+                      "question": "Why might some scientists be reluctant to communicate results openly or quickly?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.6",
+                      "question": "What are the consequences of misinformation or miscommunication in science sharing?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.7",
+                      "question": "How can storytelling enhance the effectiveness of communicating complex scientific findings?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.8",
+                      "question": "What role does recognition and credit play in motivating researchers to publish?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.9",
+                      "question": "How do communication choices affect public trust in science during crises or controversies?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.10",
+                      "question": "What ethical boundaries guide how scientists communicate uncertain or preliminary results?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.11",
+                      "question": "In what ways can the communication of science influence education, politics, or culture?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.I.8.12",
+                      "question": "How can engaging with criticism and dialogue improve future scientific communication?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Observation",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.1.1",
+                      "question": "How do implicit assumptions shape what scientists observe first?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.2",
+                      "question": "What mechanisms allow us to distinguish between relevant and irrelevant data during observation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.3",
+                      "question": "In what ways can observation be structured to minimize bias?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.4",
+                      "question": "How do different fields define and qualify reliable observations?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.5",
+                      "question": "Why is repetition important in observational processes across disciplines?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.6",
+                      "question": "What limits does human perception impose on scientific observation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.7",
+                      "question": "What if the same phenomena yield different observations in different contexts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.8",
+                      "question": "How might observation be used not just to identify patterns but also to disrupt them?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.9",
+                      "question": "What role does emotion or expectation play in shaping initial observations in research?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.10",
+                      "question": "What emotional tone is set by how or where the observation begins in an inquiry process?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.11",
+                      "question": "How does the act of observing relate to systems thinking and emergent understanding?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.1.12",
+                      "question": "What historical shifts have altered the meaning or method of scientific observation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.2.1",
+                      "question": "How does the framing of a scientific question shape its possible answers?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.2",
+                      "question": "What characteristics make a scientific question productive rather than trivial?",
+                      "concept": "Significance"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.3",
+                      "question": "How does the specificity of a question impact its testability?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.4",
+                      "question": "Why is identifying causality central to formulating good scientific questions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.5",
+                      "question": "What are the consequences of poorly formed scientific questions in real-world contexts?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.6",
+                      "question": "How might social or political forces shape the kinds of questions science chooses to ask?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.7",
+                      "question": "What if two competing questions frame the same data in different ways—how do we choose between them?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.8",
+                      "question": "What mental models are used to translate observations into questions?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.9",
+                      "question": "How can questioning be used to reframe disciplinary norms or challenge dominant paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.10",
+                      "question": "How does the tone or urgency of a question affect the emotional engagement of its audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.11",
+                      "question": "How do scientific questions evolve through iteration and feedback from failed attempts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.2.12",
+                      "question": "What strategies can help identify hidden assumptions embedded in seemingly neutral scientific questions?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Research",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.3.1",
+                      "question": "How does existing research constrain or expand future lines of inquiry?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.2",
+                      "question": "Why is understanding the system of prior knowledge crucial before designing a hypothesis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.3",
+                      "question": "How does literature review help identify contradictions or gaps in current models?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.4",
+                      "question": "How do different disciplines prioritize sources when conducting research?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.5",
+                      "question": "What if two authoritative sources contradict each other—how can researchers navigate such conflicts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.6",
+                      "question": "What role does analogy play in bridging findings across disciplines during research?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.7",
+                      "question": "How does cumulative research create emergent understanding or systems-level insight?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.8",
+                      "question": "What ethical considerations arise in selecting and citing prior research?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.9",
+                      "question": "How might the research process shape emotional engagement or detachment in the scientific process?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.10",
+                      "question": "How does research methodology vary depending on whether one seeks confirmation or contradiction of previous work?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.11",
+                      "question": "Why is the feedback loop between research and hypothesis formulation essential to the scientific process?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.3.12",
+                      "question": "How can overlooked or marginal research disrupt dominant paradigms in a field?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Hypothesis",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.4.1",
+                      "question": "How does a well-formed hypothesis abstract complex patterns into a testable claim?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.2",
+                      "question": "What makes a hypothesis falsifiable, and why is falsifiability critical to scientific rigor?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.3",
+                      "question": "How does a hypothesis function as a bridge between theory and experimentation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.4",
+                      "question": "Why must a hypothesis be both specific and provisional in its claim?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.5",
+                      "question": "How do competing hypotheses reveal different interpretive boundaries around the same data?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.6",
+                      "question": "What role does disciplinary culture play in determining what counts as a 'good' hypothesis?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.7",
+                      "question": "How does the formulation of a hypothesis reflect intention and disciplinary values?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.8",
+                      "question": "What if hypotheses are constructed to confirm bias rather than explore truth—how can this be identified and avoided?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.9",
+                      "question": "What kinds of emotional investment do researchers develop in their hypotheses, and how might this affect objectivity?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.10",
+                      "question": "How does the tone of a hypothesis (e.g., cautious, confident, speculative) influence its rhetorical power?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.11",
+                      "question": "How do hypotheses evolve over time through feedback from prior experiments and failed tests?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.4.12",
+                      "question": "In what ways do hypotheses both constrain and open up new research pathways?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Experiment",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.5.1",
+                      "question": "What makes an experiment valid and reliable across repeated trials?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.2",
+                      "question": "How do experimental controls preserve the integrity of cause and effect relationships?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.3",
+                      "question": "Why is replication a cornerstone of experimental methodology?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.4",
+                      "question": "How can experimental design reveal or obscure significant outcomes depending on structure?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.5",
+                      "question": "What if an experiment yields ambiguous or contradictory data—how should researchers respond?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.6",
+                      "question": "How do practical limitations (time, cost, ethics) affect the design of scientific experiments?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.7",
+                      "question": "How does the act of designing an experiment demonstrate systems thinking and intentionality?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.8",
+                      "question": "How do experimental methods change across disciplines while still fulfilling the same logical function?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.9",
+                      "question": "How does failure in experimentation lead to deeper insight or refined inquiry?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.10",
+                      "question": "What mood or emotional tone might be generated by different types of experimental design (exploratory, confirmatory, destructive)?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.11",
+                      "question": "Why might experimental process be just as important as experimental results in certain contexts?",
+                      "concept": "Process"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.5.12",
+                      "question": "What forms of power operate in determining which experiments are funded, performed, or published?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Analysis",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.6.1",
+                      "question": "How do scientists distinguish between correlation and causation during analysis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.2",
+                      "question": "Why is statistical literacy essential to meaningful scientific analysis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.3",
+                      "question": "How can visual data representations alter the interpretation of results?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.4",
+                      "question": "What role do assumptions play in modeling and interpreting data patterns?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.5",
+                      "question": "How can feedback from initial findings influence subsequent analytical approaches?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.6",
+                      "question": "What makes an analysis transparent, replicable, and open to challenge?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.7",
+                      "question": "How might overfitting or data dredging distort analytical validity?",
+                      "concept": "Accuracy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.8",
+                      "question": "What happens when data resists clear interpretation—how should ambiguity be handled analytically?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.9",
+                      "question": "How do disciplinary norms shape what counts as convincing analysis?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.10",
+                      "question": "What emotional responses can analysis produce—certainty, doubt, curiosity—and how do these impact future inquiry?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.11",
+                      "question": "How does analytical method evolve in response to complex, nonlinear datasets?",
+                      "concept": "Complexity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.6.12",
+                      "question": "What cultural or historical moments have transformed the practice of scientific analysis?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.7.1",
+                      "question": "How does a strong conclusion synthesize evidence without overstating findings?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.2",
+                      "question": "Why is it important to distinguish between data-supported claims and speculative interpretations in a conclusion?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.3",
+                      "question": "How can a conclusion reflect both the success and limitations of the inquiry process?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.4",
+                      "question": "What makes a conclusion meaningful across multiple disciplinary or practical contexts?",
+                      "concept": "Significance"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.5",
+                      "question": "What happens when a conclusion fails to resolve the initial question—can that still be valuable?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.6",
+                      "question": "How does drawing a conclusion relate to intellectual responsibility and fairness in science?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.7",
+                      "question": "What if the conclusion contradicts the initial hypothesis—how should that shift the research agenda?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.8",
+                      "question": "How does the process of concluding differ when addressing complex systems vs. isolated variables?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.9",
+                      "question": "How can a conclusion generate new pathways for inquiry through paradox or contradiction?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.10",
+                      "question": "What tone should a conclusion strike to balance confidence with humility in presenting findings?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.11",
+                      "question": "How might the structure of a conclusion mirror or invert the logic of the initial hypothesis?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.7.12",
+                      "question": "How does a compelling conclusion deepen recognition of unresolved questions or disciplinary tensions?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Communication",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.A.8.1",
+                      "question": "How does the mode of communication (journal, lecture, visual) alter the impact of scientific findings?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.2",
+                      "question": "Why is communication considered a critical part of the scientific process, not a separate step?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.3",
+                      "question": "How can scientific communication be adapted to different audiences without compromising accuracy?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.4",
+                      "question": "What makes communication ethically responsible in the face of uncertainty or contested results?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.5",
+                      "question": "How might the emotional tone of communication influence public trust in science?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.6",
+                      "question": "How do metaphors and narrative techniques shape the perception of scientific validity?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.7",
+                      "question": "How does disciplinary jargon act as both a precision tool and a barrier to understanding?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.8",
+                      "question": "What if science prioritized storytelling as highly as technical reporting—what might change?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.9",
+                      "question": "How can open-access and collaborative platforms transform the future of science communication?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.10",
+                      "question": "What rhetorical strategies enhance clarity and reduce misinterpretation in scientific writing?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.11",
+                      "question": "How does the act of communicating scientific findings reinforce or challenge the authority of the scientist?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.A.8.12",
+                      "question": "How might scientific communication become more reflexive—acknowledging its own limitations and assumptions?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Observation",
+                  "part_concept": "Reflexivity",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.1.1",
+                      "question": "How does the act of observation construct the very phenomena it seeks to describe?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.2",
+                      "question": "In what ways has the epistemological status of observation changed across scientific paradigms (e.g., positivism, post-empiricism)?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.3",
+                      "question": "How can technologies of observation encode assumptions that remain invisible to practitioners?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.4",
+                      "question": "What philosophical tensions exist between observation as discovery versus observation as interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.5",
+                      "question": "How does the observer effect destabilize the objectivity premise in empirical science?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.6",
+                      "question": "To what extent is 'raw data' a fiction—how is data always already mediated by theory?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.7",
+                      "question": "What role does disciplinary memory play in selecting what is seen or ignored during observation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.8",
+                      "question": "How might the emotional conditions of the observer shape what becomes visible or intelligible?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.9",
+                      "question": "What ethical commitments underlie the very act of looking, recording, or defining 'natural' phenomena?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.10",
+                      "question": "How has the democratization of observation (e.g., citizen science, open sensors) altered knowledge hierarchies?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.11",
+                      "question": "What would it mean to treat observation not as a beginning but as an ongoing recursive process?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.1.12",
+                      "question": "Can observation be decolonized—what would non-Western modes of scientific seeing entail?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.2.1",
+                      "question": "How do scientific questions act as instruments of disciplinary disruption or reinforcement?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.2",
+                      "question": "How is the act of questioning an expression of cultural, institutional, or ideological power?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.3",
+                      "question": "What makes a question paradigmatic—that is, capable of initiating a scientific revolution?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.4",
+                      "question": "How do constraints of language, metaphor, or funding limit what questions are thinkable in science?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.5",
+                      "question": "How might one design questions that subvert the epistemic norms of a given scientific discipline?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.6",
+                      "question": "What would a meta-questioning practice look like—how does one question the nature of scientific questions themselves?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.7",
+                      "question": "What forms of tension emerge when interdisciplinary questions destabilize method or domain boundaries?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.8",
+                      "question": "To what extent is every scientific question also a political act—what remains unasked and why?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.9",
+                      "question": "How might a shift in affect (e.g., curiosity, urgency, fear) influence the shaping of scientific questions?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.10",
+                      "question": "What epistemological consequences follow from reclassifying a 'problem' as a 'question'?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.11",
+                      "question": "How does the grammar of a question (e.g., who, what, how) encode a disciplinary logic of inquiry?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.2.12",
+                      "question": "What ethical or ecological implications arise from neglecting to ask certain kinds of questions?",
+                      "concept": "Significance"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Research",
+                  "part_concept": "Genre",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.3.1",
+                      "question": "How does the structure of the research review reflect disciplinary genre norms and exclusions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.2",
+                      "question": "In what ways does the research process act as a selective filter for what counts as valid knowledge?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.3",
+                      "question": "How do citation practices establish intellectual lineage and shape the evolution of ideas?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.4",
+                      "question": "What implicit values or assumptions shape what gets included or excluded in a literature review?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.5",
+                      "question": "How might digital archives and algorithmic search functions reshape what research becomes visible?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.6",
+                      "question": "To what extent is research a process of disciplinary memory—and what are the risks of forgetting?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.7",
+                      "question": "How does the form of a research document encode power relations between disciplines or institutions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.8",
+                      "question": "How might research practices shift if they prioritized ecological or communal knowledge over individual innovation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.9",
+                      "question": "What does it mean to remix or recompose knowledge across genre boundaries in scientific research?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.10",
+                      "question": "What if the research phase were treated as a collaborative dialogue rather than a solitary search?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.11",
+                      "question": "How can research processes be made reflexive—aware of their cultural, political, and epistemic framing?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.3.12",
+                      "question": "What forms of knowledge escape the net of traditional research methods, and how might we reach them?",
+                      "concept": "Discontinuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Hypothesis",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.4.1",
+                      "question": "How is the act of hypothesizing a rhetorical and strategic choice rather than a neutral step in inquiry?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.2",
+                      "question": "In what ways do hypotheses reflect the epistemological stance of their authors or disciplines?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.3",
+                      "question": "How does the hypothesis encode implicit models of causality, linearity, and determinism?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.4",
+                      "question": "What might it mean to formulate a hypothesis using non-Western, cyclical, or relational logics?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.5",
+                      "question": "How do competing hypotheses not only contest content but also frame different worldviews or paradigms?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.6",
+                      "question": "What tensions arise between the desire to simplify a problem into a single hypothesis and the complexity of real-world systems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.7",
+                      "question": "How does the grammar and modality of a hypothesis (e.g., will, may, must) alter its rhetorical authority?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.8",
+                      "question": "What if a hypothesis were treated as an aesthetic, philosophical, or ethical statement rather than a testable claim?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.9",
+                      "question": "How do historical examples of failed or rejected hypotheses reshape our understanding of scientific progress?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.10",
+                      "question": "What epistemic risks and benefits are involved in formulating bold vs. cautious hypotheses?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.11",
+                      "question": "How can meta-hypotheses—hypotheses about how hypotheses are formed—reveal the architecture of inquiry itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.4.12",
+                      "question": "Can a hypothesis itself generate feedback loops within the research process, shaping what data is pursued or ignored?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Experiment",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.5.1",
+                      "question": "How does experimental design reflect the ontological and epistemological assumptions of a system of thought?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.2",
+                      "question": "What does it mean to 'control' variables within a complex or adaptive system—what is gained or lost?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.3",
+                      "question": "How might traditional notions of control, repeatability, and isolation be rethought for nonlinear or chaotic phenomena?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.4",
+                      "question": "What does it reveal about science that the experiment is its most ritualized and institutionalized phase?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.5",
+                      "question": "In what ways can experimentation function as both knowledge production and performance of authority?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.6",
+                      "question": "How do automated and AI-driven experiments shift the locus of agency and intention in scientific design?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.7",
+                      "question": "How has the role of failure in experimentation evolved from error to necessary step to generative insight?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.8",
+                      "question": "What alternative methodologies could decenter the experiment as the dominant mode of scientific proof?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.9",
+                      "question": "How do experimental protocols reinforce or challenge the values of objectivity, detachment, and reproducibility?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.10",
+                      "question": "How does experiment design influence the aesthetic experience of inquiry (e.g., elegance, symmetry, surprise)?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.11",
+                      "question": "What if we treated the experiment not as a test of truth but as a generative act of world-building?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.5.12",
+                      "question": "How might experimental practice evolve in a world increasingly shaped by hybrid human-machine cognition?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Analysis",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.6.1",
+                      "question": "What philosophical frameworks govern the interpretation of data in analysis (e.g., Bayesian, frequentist, post-positivist)?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.2",
+                      "question": "How does the use of code, models, and algorithms mediate the distance between raw data and human judgment?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.3",
+                      "question": "What constitutes ‘valid’ interpretation, and who decides what counts as a meaningful result?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.4",
+                      "question": "How does the narrative structure imposed during analysis shape what is made visible, credible, or legible?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.5",
+                      "question": "How do errors and noise in data complicate the pursuit of objectivity or truth in analysis?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.6",
+                      "question": "To what extent does every analysis embed a theory of causation, even when not made explicit?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.7",
+                      "question": "What emotional or aesthetic experiences are involved in analytical insight—satisfaction, dissonance, awe?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.8",
+                      "question": "How does scientific analysis negotiate between pattern recognition and overfitting—when does clarity become illusion?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.9",
+                      "question": "Can analysis ever be culturally neutral, or is it always shaped by embedded logics of value and relevance?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.10",
+                      "question": "How do disciplinary traditions handle ambiguity or contradiction in analysis—through omission, rationalization, or embrace?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.11",
+                      "question": "How might we imagine analytic practice as a kind of storytelling or interpretive art?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.6.12",
+                      "question": "How could analysis be restructured to acknowledge its speculative, creative, or narrative dimensions?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Conclusion",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.7.1",
+                      "question": "How do scientific conclusions reflect acts of narrative closure rather than purely logical deduction?",
+                      "concept": "Synthesis"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.2",
+                      "question": "To what extent are conclusions provisional performances of certainty rather than endpoints of inquiry?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.3",
+                      "question": "How does the act of drawing a conclusion shape future inquiry, institutional funding, and social perception of knowledge?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.4",
+                      "question": "In what ways do conclusions construct consensus or exclude alternative interpretations or voices?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.5",
+                      "question": "What rhetorical moves make a conclusion ‘compelling’ even when data is inconclusive or contradictory?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.6",
+                      "question": "How does the language of scientific conclusion (e.g., 'supports', 'suggests', 'proves') mask or reveal epistemic risk?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.7",
+                      "question": "What ethical obligations emerge when a conclusion has unintended real-world effects or public uptake?",
+                      "concept": "Consequence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.8",
+                      "question": "How might conclusions serve as ideological affirmations, reinforcing dominant paradigms under the guise of neutrality?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.9",
+                      "question": "What are the implications of framing conclusions as invitations to further questioning rather than as answers?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.10",
+                      "question": "How does the performance of certainty in conclusion-writing affect scientific credibility across disciplines?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.11",
+                      "question": "Can a scientific conclusion itself be a form of storytelling—what plot structures or tropes does it rely on?",
+                      "concept": "Narrative"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.7.12",
+                      "question": "What happens when conclusions are iteratively revised—how does science treat instability and flux within synthesis?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Communication",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Scientific-Method.ME.8.1",
+                      "question": "How do scientific findings transform when communicated across different audiences—academic, political, public, digital?",
+                      "concept": "Audience"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.2",
+                      "question": "To what extent does the medium (paper, TED talk, policy brief) alter the meaning and epistemic weight of science?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.3",
+                      "question": "How does communication act not just as a translation of findings but as a rhetorical construction of authority?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.4",
+                      "question": "What narratives or metaphors are used to make scientific ideas accessible—what is gained or lost in this reframing?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.5",
+                      "question": "How does the social performance of scientific communication—presentation, tone, confidence—shape reception?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.6",
+                      "question": "What role does trust play in scientific communication, especially in contested or politicized domains?",
+                      "concept": "Credibility"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.7",
+                      "question": "How can visual or aesthetic forms of communication (e.g., diagrams, infographics) carry or distort epistemic meaning?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.8",
+                      "question": "How might we rethink communication as a dialogic and participatory act, not a unidirectional transmission?",
+                      "concept": "Dialogue"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.9",
+                      "question": "How do power dynamics shape whose voices are amplified or silenced in scientific discourse?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.10",
+                      "question": "What ethical responsibilities do scientists bear when communicating results to vulnerable or misinformed publics?",
+                      "concept": "Consequence"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.11",
+                      "question": "How has digital culture transformed expectations of speed, accessibility, and interactivity in science communication?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Scientific-Method.ME.8.12",
+                      "question": "Can the communication of science itself be treated as a kind of experimental, artistic, or political practice?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

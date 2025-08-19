@@ -1,0 +1,1681 @@
+{
+  "discipline": "Rhetoric",
+  "children": [
+    {
+      "structure_name": "Classical-Rhetoric",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Exordium → 2. Narratio → 3. Partition"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Exordium"
+                },
+                {
+                  "structure_part": "[2/6] 2. Narratio"
+                },
+                {
+                  "structure_part": "[3/6] 3. Partition"
+                },
+                {
+                  "structure_part": "[4/6] 4. Confirmatio"
+                },
+                {
+                  "structure_part": "[5/6] 5. Refutatio"
+                },
+                {
+                  "structure_part": "[6/6] 6. Peroratio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Cicero's speeches, Aristotle's Rhetoric, Martin Luther King Jr.'s 'I Have a Dream' speech"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Exordium → Introduction / Opening / Attention Getter"
+            },
+            {
+              "terminology": "2. Narratio → Statement of Facts / Background Information"
+            },
+            {
+              "terminology": "3. Partition → Outline / Thesis / Plan of Argument"
+            },
+            {
+              "terminology": "4. Confirmatio → Proof / Supporting Arguments"
+            },
+            {
+              "terminology": "5. Refutatio → Conflict / Counterargument Handling"
+            },
+            {
+              "terminology": "6. Peroratio → Conclusion / Emotional Appeal / Summary"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Exordium",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.1",
+                      "question": "What is the purpose of the exordium in a rhetorical argument?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.2",
+                      "question": "How does the exordium seek to engage the audience’s attention?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.3",
+                      "question": "Why is establishing credibility important in the exordium?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.4",
+                      "question": "What tone is typically set in the exordium and why?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.5",
+                      "question": "How does the exordium prepare the audience for the argument to come?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.6",
+                      "question": "What if the exordium fails to connect with the audience? What might happen?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.7",
+                      "question": "What techniques can be used in the exordium to establish rapport?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.8",
+                      "question": "How can a rhetorical question function effectively in the exordium?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.9",
+                      "question": "What emotions might the exordium evoke to open the discourse?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.10",
+                      "question": "Why is it important to frame the topic clearly in the exordium?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.11",
+                      "question": "How does the exordium establish the speaker’s relationship to the subject?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.1.12",
+                      "question": "So what if the exordium is too long or too brief? How does length impact audience engagement?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Narratio",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.1",
+                      "question": "What information is essential to include in the narratio?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.2",
+                      "question": "How does the narratio provide context for the argument?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.3",
+                      "question": "Why is clarity important when stating the facts in the narratio?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.4",
+                      "question": "What if important facts are omitted from the narratio? How could this affect the argument?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.5",
+                      "question": "How can the narratio influence audience perception before the argument develops?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.6",
+                      "question": "What role does objectivity play in the narratio?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.7",
+                      "question": "How can storytelling techniques enhance the narratio’s effectiveness?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.8",
+                      "question": "What emotions might be elicited during the narratio and why?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.9",
+                      "question": "How does the narratio set up cause and effect relationships for the argument?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.10",
+                      "question": "Why might the narratio be challenging for a speaker to balance detail and conciseness?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.11",
+                      "question": "What if the narratio contradicts later arguments? How should this be managed?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.2.12",
+                      "question": "How does the narratio help the audience remember key facts?",
+                      "concept": "Memory"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Partition",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.1",
+                      "question": "What is the purpose of the partition in classical rhetoric?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.2",
+                      "question": "How does the partition clarify the structure of the argument for the audience?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.3",
+                      "question": "Why is it important to outline the main points at this stage?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.4",
+                      "question": "What if the partition is vague or incomplete? How might that affect understanding?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.5",
+                      "question": "How does the partition prepare the audience to follow complex reasoning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.6",
+                      "question": "What rhetorical strategies can be used to emphasize key points in the partition?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.7",
+                      "question": "How does clearly defining the thesis in the partition affect the argument’s strength?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.8",
+                      "question": "What emotions might arise from a well-structured partition?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.9",
+                      "question": "How does the partition establish expectations for what follows?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.10",
+                      "question": "Why is it significant to differentiate between main and supporting points here?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.11",
+                      "question": "How might a speaker use the partition to address potential objections early?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.3.12",
+                      "question": "So what if the partition breaks the flow? How can balance be maintained?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Confirmatio",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.1",
+                      "question": "What is the role of the confirmatio in a rhetorical argument?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.2",
+                      "question": "How does the confirmatio provide evidence to support the thesis?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.3",
+                      "question": "Why is logical reasoning important in the confirmatio?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.4",
+                      "question": "How can examples or data strengthen the confirmatio?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.5",
+                      "question": "What if the confirmatio lacks sufficient support? How might this affect persuasion?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.6",
+                      "question": "How does the confirmatio build on the facts presented in the narratio?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.7",
+                      "question": "What strategies can a speaker use to make the confirmatio convincing?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.8",
+                      "question": "How does the confirmatio maintain audience interest through clarity and organization?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.9",
+                      "question": "What emotions might the confirmatio evoke to reinforce the argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.10",
+                      "question": "Why is it important to address complexity and nuance in the confirmatio?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.11",
+                      "question": "How can the confirmatio create a sense of inevitability about the argument’s conclusion?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.4.12",
+                      "question": "So what if evidence in the confirmatio contradicts earlier points? How should this be handled?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Refutatio",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.1",
+                      "question": "What is the purpose of the refutatio in classical rhetoric?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.2",
+                      "question": "How does the refutatio address opposing arguments or objections?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.3",
+                      "question": "Why is it important to anticipate counterarguments in the refutatio?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.4",
+                      "question": "How can a speaker respectfully weaken opposing viewpoints in the refutatio?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.5",
+                      "question": "What if the refutatio fails to adequately challenge objections? What risks does this pose?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.6",
+                      "question": "How does acknowledging valid points in the refutatio impact credibility?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.7",
+                      "question": "What rhetorical techniques are effective in delivering the refutatio?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.8",
+                      "question": "How can the refutatio be structured to reinforce the main argument?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.9",
+                      "question": "What emotions might the refutatio evoke in the audience?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.10",
+                      "question": "Why is timing and placement of the refutatio important in the overall argument?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.11",
+                      "question": "How does the refutatio contribute to the overall coherence of the argument?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.5.12",
+                      "question": "So what if the refutatio introduces new evidence? How should this be handled?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Peroratio",
+                  "part_concept": "Catharsis",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.1",
+                      "question": "What is the function of the peroratio in a rhetorical speech?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.2",
+                      "question": "How does the peroratio summarize and reinforce the argument’s key points?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.3",
+                      "question": "Why is an emotional appeal often used in the peroratio?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.4",
+                      "question": "How can a speaker inspire action or change through the peroratio?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.5",
+                      "question": "What if the peroratio is too weak or too forceful? How might that affect the audience’s response?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.6",
+                      "question": "How does the peroratio create a sense of closure for the audience?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.7",
+                      "question": "What rhetorical devices can enhance the effectiveness of the peroratio?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.8",
+                      "question": "How does the peroratio connect back to the exordium for a unified speech?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.9",
+                      "question": "What emotions might the peroratio evoke to leave a lasting impression?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.10",
+                      "question": "Why is pacing important in delivering the peroratio?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.11",
+                      "question": "How can the peroratio balance reason and emotion effectively?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.B.6.12",
+                      "question": "So what if the conclusion introduces new arguments? How does this affect the overall rhetoric?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Exordium",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.1",
+                      "question": "How does the exordium strategically frame the topic to influence audience expectations?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.2",
+                      "question": "In what ways can the speaker establish ethos through the exordium beyond simple introduction?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.3",
+                      "question": "Why might varying the emotional tone in the exordium be critical for different audiences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.4",
+                      "question": "How can the exordium incorporate cultural context to increase relevance and impact?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.5",
+                      "question": "What if the exordium deliberately challenges audience biases? How might this affect engagement?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.6",
+                      "question": "How does the pacing of the exordium affect the audience’s initial receptiveness?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.7",
+                      "question": "How can the exordium use rhetorical devices such as analogy or metaphor effectively?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.8",
+                      "question": "What role does audience segmentation play in tailoring the exordium?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.9",
+                      "question": "How might a speaker balance clarity and complexity in the exordium to maintain interest?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.10",
+                      "question": "What emotions are most effective to evoke in the exordium for persuasive impact and why?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.11",
+                      "question": "How can the exordium establish a sense of urgency without overwhelming the audience?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.1.12",
+                      "question": "So what if the exordium is perceived as manipulative? How can a speaker avoid this risk?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Narratio",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.1",
+                      "question": "How does the narratio structure cause and effect to clarify the background of the argument?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.2",
+                      "question": "Why is maintaining objectivity in the narratio essential for credibility?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.3",
+                      "question": "How can the narratio incorporate multiple perspectives without losing focus?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.4",
+                      "question": "What if the narratio introduces ambiguity? How can this be used rhetorically?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.5",
+                      "question": "How does the narratio prepare the audience for the logical progression of the argument?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.6",
+                      "question": "What narrative techniques can improve memorability of facts in the narratio?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.7",
+                      "question": "How can emotional tone in the narratio influence audience perception of facts?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.8",
+                      "question": "Why is the balance between detail and conciseness critical in the narratio?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.9",
+                      "question": "How might a speaker use repetition or emphasis to highlight key facts in the narratio?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.10",
+                      "question": "What are the risks of oversimplifying complex facts in the narratio?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.11",
+                      "question": "How does the narratio function as a bridge between introduction and argument development?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.2.12",
+                      "question": "So what if the narratio conflicts with audience prior knowledge? How should this be addressed?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Partition",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.1",
+                      "question": "How does the partition establish a clear hierarchy of ideas for the audience?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.2",
+                      "question": "Why is it important to explicitly state the thesis and structure of the argument here?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.3",
+                      "question": "How can the partition manage audience expectations and enhance understanding?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.4",
+                      "question": "What rhetorical methods can clarify complex argument structures in the partition?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.5",
+                      "question": "How does the partition function as a roadmap for both speaker and audience?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.6",
+                      "question": "What if the partition is overly detailed or too vague? How can this affect comprehension?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.7",
+                      "question": "How can the partition anticipate potential objections or complexities in the argument?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.8",
+                      "question": "How does the partition help maintain logical coherence throughout the speech?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.9",
+                      "question": "What emotions might a clear partition evoke to support audience engagement?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.10",
+                      "question": "How can the partition be adapted for different audience knowledge levels?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.11",
+                      "question": "Why is pacing important when outlining the argument in the partition?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.3.12",
+                      "question": "So what if the partition contradicts parts of the narratio? How should this be handled?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Confirmatio",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.1",
+                      "question": "How does the confirmatio systematically develop proof to support the thesis?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.2",
+                      "question": "In what ways can evidence be organized to maximize its persuasive impact in the confirmatio?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.3",
+                      "question": "Why is addressing potential counterarguments within the confirmatio important for credibility?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.4",
+                      "question": "How can the confirmatio balance emotional appeal and logical reasoning effectively?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.5",
+                      "question": "What if evidence presented in the confirmatio conflicts with audience beliefs? How should a speaker respond?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.6",
+                      "question": "How does the confirmatio build on the facts and framework established in previous stages?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.7",
+                      "question": "What rhetorical strategies can be used to emphasize key proofs in the confirmatio?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.8",
+                      "question": "How can the speaker maintain clarity while presenting complex evidence in the confirmatio?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.9",
+                      "question": "What role does pacing play in delivering the confirmatio to sustain audience engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.10",
+                      "question": "How can the confirmatio anticipate and address logical fallacies or weaknesses in the argument?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.11",
+                      "question": "What emotional responses might the confirmatio aim to evoke and why?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.4.12",
+                      "question": "So what if the confirmatio introduces new evidence late in the speech? How might this affect the argument’s coherence?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Refutatio",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.1",
+                      "question": "How does the refutatio function to strengthen the speaker’s position by engaging with opposing views?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.2",
+                      "question": "Why is the tone important in the refutatio when addressing counterarguments?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.3",
+                      "question": "How can acknowledging valid points in the refutatio enhance the speaker’s credibility?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.4",
+                      "question": "What strategies can be employed in the refutatio to dismantle weak or flawed arguments?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.5",
+                      "question": "What if the refutatio alienates the audience? How can this risk be minimized?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.6",
+                      "question": "How does the refutatio contribute to the overall logical coherence of the argument?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.7",
+                      "question": "How can rhetorical questions be effectively used in the refutatio?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.8",
+                      "question": "Why is it important to prioritize which opposing arguments to refute?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.9",
+                      "question": "What role does evidence play in the refutatio compared to the confirmatio?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.10",
+                      "question": "How can humor or irony be used strategically in the refutatio?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.11",
+                      "question": "What emotional effect does a strong refutatio have on the audience?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.5.12",
+                      "question": "So what if new objections arise after the refutatio? How should a speaker prepare for this possibility?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Peroratio",
+                  "part_concept": "Catharsis",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.1",
+                      "question": "How does the peroratio effectively synthesize and emphasize the argument’s core message?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.2",
+                      "question": "In what ways can emotional appeals in the peroratio reinforce the logical argument presented earlier?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.3",
+                      "question": "Why is the peroratio critical for inspiring audience action or change?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.4",
+                      "question": "How can repetition and parallelism enhance the memorability of the peroratio?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.5",
+                      "question": "What if the peroratio introduces new ideas or evidence? How might this affect the speech’s effectiveness?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.6",
+                      "question": "How does the peroratio connect rhetorically back to the exordium for a sense of unity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.7",
+                      "question": "What rhetorical devices are most effective in creating a powerful peroratio?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.8",
+                      "question": "How can a speaker balance tone to avoid alienating the audience in the peroratio?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.9",
+                      "question": "What role does pacing play in delivering a memorable peroratio?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.10",
+                      "question": "How can the peroratio provide closure while leaving room for reflection or action?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.11",
+                      "question": "What emotional responses should the peroratio aim to evoke for lasting impact?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.I.6.12",
+                      "question": "So what if the peroratio contradicts earlier parts of the argument? How does this influence audience trust?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Exordium",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.1",
+                      "question": "How does the exordium function to strategically frame the argument within its cultural and historical context?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.2",
+                      "question": "In what ways can the exordium establish nuanced ethos that anticipates audience biases and preconceptions?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.3",
+                      "question": "How might the deliberate modulation of tone in the exordium influence complex emotional responses in diverse audiences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.4",
+                      "question": "Why is the interplay between pathos and logos crucial in crafting an effective exordium?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.5",
+                      "question": "How can rhetorical framing in the exordium disrupt conventional perspectives to provoke critical reflection?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.6",
+                      "question": "What role does pacing and rhythmic variation play in sustaining audience attention during the exordium?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.7",
+                      "question": "How can metaphor and analogy be employed in the exordium to create layered meanings and conceptual depth?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.8",
+                      "question": "What strategies can be used in the exordium to ethically engage audiences while asserting authority?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.9",
+                      "question": "How might a speaker navigate the tension between clarity and complexity in the exordium to challenge yet not alienate the audience?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.10",
+                      "question": "What effects arise from varying degrees of ambiguity in the exordium, and how can this serve persuasive goals?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.11",
+                      "question": "How can the exordium be designed to establish a meta-critical awareness in the audience about the forthcoming discourse?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.1.12",
+                      "question": "So what are the risks and rewards of employing disruptive rhetorical tactics in the exordium?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Narratio",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.1",
+                      "question": "How does the narratio intricately map cause and effect to establish a coherent and persuasive narrative foundation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.2",
+                      "question": "In what ways can the narratio incorporate polyphonic perspectives without sacrificing argumentative coherence?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.3",
+                      "question": "Why is maintaining epistemic humility in the narratio essential for enhancing audience trust?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.4",
+                      "question": "How can ambiguity within the narratio be leveraged to stimulate critical inquiry rather than confusion?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.5",
+                      "question": "What narrative devices enable the narratio to function as a cognitive scaffold for complex argument structures?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.6",
+                      "question": "How can strategic pacing and emphasis in the narratio enhance memorability and retention of key information?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.7",
+                      "question": "How might emotional undertones in the narratio subtly influence audience perception while preserving factual integrity?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.8",
+                      "question": "What are the risks and benefits of deploying repetition and variation within the narratio for rhetorical effect?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.9",
+                      "question": "How does the narratio balance abstraction and concreteness to appeal to diverse cognitive styles?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.10",
+                      "question": "How can the narratio preemptively address potential epistemological objections to strengthen the argument’s foundation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.11",
+                      "question": "In what ways does the narratio facilitate audience alignment with the speaker’s interpretive framework?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.2.12",
+                      "question": "So what if the narratio conflicts with deeply held audience beliefs? How should a rhetor navigate this challenge?",
+                      "concept": "Conflict"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Partition",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.1",
+                      "question": "How does the partition articulate a hierarchical structure that clarifies complex argument pathways for diverse audiences?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.2",
+                      "question": "Why is explicit articulation of argument scope and limits critical in the partition to avoid overgeneralization?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.3",
+                      "question": "How can the partition preemptively frame potential objections to enhance dialectical rigor?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.4",
+                      "question": "In what ways can the partition serve as a meta-structural device to orient both speaker and audience cognitively?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.5",
+                      "question": "How might the partition negotiate the tension between specificity and generality to optimize persuasive clarity?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.6",
+                      "question": "What rhetorical strategies can be employed in the partition to signal transitions and maintain logical continuity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.7",
+                      "question": "How can the partition adapt to varying audience expertise levels without compromising argumentative precision?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.8",
+                      "question": "What role does pacing play in the presentation of the partition to maximize comprehension and engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.9",
+                      "question": "How can the partition integrate elements of reflexivity to encourage audience critical thinking?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.10",
+                      "question": "How does the partition balance the needs of clarity and intellectual depth in structuring the argument?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.11",
+                      "question": "What emotional or cognitive responses might a well-crafted partition evoke to prepare the audience for complex reasoning?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.3.12",
+                      "question": "So what if the partition’s roadmap conflicts with elements of the narratio? How should this be resolved rhetorically?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Confirmatio",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.1",
+                      "question": "How does the confirmatio leverage complex cause and effect relationships to construct robust proofs?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.2",
+                      "question": "In what ways can evidence be hierarchically structured to enhance the confirmatio’s persuasive power?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.3",
+                      "question": "How can the confirmatio preemptively address counterevidence while maintaining argumentative cohesion?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.4",
+                      "question": "What balance between logos and pathos is most effective in the confirmatio to sustain audience engagement?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.5",
+                      "question": "How might the confirmatio incorporate iterative evidence evaluation to refine argument strength?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.6",
+                      "question": "What rhetorical devices can be employed to highlight emergent patterns in the confirmatio’s evidence?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.7",
+                      "question": "How does the confirmatio negotiate the tension between depth and accessibility in complex arguments?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.8",
+                      "question": "How can strategic pacing and emphasis in the confirmatio maximize the audience’s absorption of evidence?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.9",
+                      "question": "What role does audience cognition and prior knowledge play in shaping confirmatio strategies?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.10",
+                      "question": "How can the confirmatio’s structure facilitate transformative shifts in audience understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.11",
+                      "question": "What ethical considerations arise when selectively presenting evidence in the confirmatio?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.4.12",
+                      "question": "So what if new contradictory evidence emerges post-confirmatio? How should a rhetor adapt their argument?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Refutatio",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.1",
+                      "question": "How does the refutatio utilize dialectical engagement to strengthen the overall argument?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.2",
+                      "question": "In what ways can the tone of the refutatio modulate to balance assertiveness and respectfulness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.3",
+                      "question": "How can acknowledgement of partial truths in counterarguments enhance rhetorical ethos in the refutatio?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.4",
+                      "question": "What rhetorical strategies are most effective in dismantling complex opposing arguments in the refutatio?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.5",
+                      "question": "How can humor or irony be ethically deployed in the refutatio without alienating the audience?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.6",
+                      "question": "What role does strategic pacing play in maintaining audience engagement during the refutatio?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.7",
+                      "question": "How does the refutatio anticipate and counteract logical fallacies within opposing views?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.8",
+                      "question": "How can the refutatio maintain coherence with the confirmatio and broader argument structure?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.9",
+                      "question": "What emotional effects can be strategically induced during the refutatio to influence audience perception?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.10",
+                      "question": "How can the refutatio balance comprehensive coverage of objections with focus and clarity?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.11",
+                      "question": "What are the risks and rewards of conceding certain points during the refutatio?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.5.12",
+                      "question": "So what if new objections arise after the refutatio? How can the speaker prepare for ongoing dialectic?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Peroratio",
+                  "part_concept": "Catharsis",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.1",
+                      "question": "How does the peroratio synthesize and amplify argumentative elements to create a compelling closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.2",
+                      "question": "In what ways can emotional appeals in the peroratio facilitate catharsis while reinforcing logos?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.3",
+                      "question": "How can the peroratio inspire transformative audience agency beyond mere agreement?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.4",
+                      "question": "What rhetorical devices, such as parallelism or crescendo, heighten the impact of the peroratio?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.5",
+                      "question": "How can the peroratio strategically revisit key motifs introduced in the exordium to reinforce thematic unity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.6",
+                      "question": "What risks accompany introducing new arguments or evidence in the peroratio, and how can these be mitigated?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.7",
+                      "question": "How does tone modulation in the peroratio affect audience reception and long-term impact?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.8",
+                      "question": "What pacing strategies can ensure the peroratio leaves a memorable and motivational impression?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.9",
+                      "question": "How can the peroratio balance closure with openness to encourage ongoing reflection or action?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.10",
+                      "question": "How might the peroratio evoke catharsis in ways that align with the audience’s cultural and emotional frameworks?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.11",
+                      "question": "What are effective strategies to avoid alienation when delivering a passionate peroratio?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.A.6.12",
+                      "question": "So what if the peroratio contradicts earlier parts of the argument? How can this affect rhetorical trustworthiness?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Exordium",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.1",
+                      "question": "How can the exordium be used as a strategic site for authorial intervention to shape discourse norms?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.2",
+                      "question": "In what ways does the exordium engage metanarrative techniques to position the speaker within a broader rhetorical tradition?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.3",
+                      "question": "How might the exordium manipulate audience expectations to disrupt habitual interpretive frames?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.4",
+                      "question": "What role does the exordium play in constructing intertextual resonance that informs ethical and epistemic stances?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.5",
+                      "question": "How can nuanced tone modulation in the exordium serve as a form of strategic ethos performance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.6",
+                      "question": "How does the exordium act as a boundary-setting mechanism that delineates inclusion and exclusion within the rhetorical situation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.7",
+                      "question": "What are the implications of deploying ambiguity in the exordium for polysemous audience interpretations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.8",
+                      "question": "How can the exordium’s pacing be choreographed to perform rhetorical rhythm that guides audience cognition?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.9",
+                      "question": "How does the exordium integrate and transform prior genre conventions to craft novel rhetorical openings?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.10",
+                      "question": "In what ways does the exordium facilitate the emergence of a shared interpretive horizon between speaker and audience?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.11",
+                      "question": "What ethical tensions arise in the exordium’s manipulation of audience emotion and cognition?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.1.12",
+                      "question": "So what are the risks and potentials of radical disruption in the exordium for destabilizing dominant rhetorical paradigms?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Narratio",
+                  "part_concept": "Interpretation",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.1",
+                      "question": "How does the narratio function as a site for contested interpretation and narrative authority within rhetorical discourse?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.2",
+                      "question": "In what ways can the narratio enact cognitive reframing to challenge dominant epistemologies?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.3",
+                      "question": "How might the narratio embody paradox to unsettle simplistic cause and effect assumptions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.4",
+                      "question": "What is the role of ambiguity and uncertainty in fostering critical engagement within the narratio?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.5",
+                      "question": "How does the narratio mobilize systemic perspectives to reveal hidden power structures?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.6",
+                      "question": "What reflexive strategies within the narratio expose the rhetorical construction of ‘facts’ and ‘truths’?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.7",
+                      "question": "How can the narratio’s pacing and iteration be employed to cultivate deep audience memory and insight?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.8",
+                      "question": "How does the narratio balance multiple perspectives to avoid reductive interpretations while maintaining persuasive coherence?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.9",
+                      "question": "What ethical responsibilities does the rhetor have when crafting contested narratives in the narratio?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.10",
+                      "question": "How can the narratio be designed to foreground the audience’s role in meaning-making processes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.11",
+                      "question": "What are the implications of narratio-driven transformations for cultural rhetorical norms?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.2.12",
+                      "question": "So what if the narratio destabilizes audience consensus? How might this foster productive disruption?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Partition",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.1",
+                      "question": "How does the partition act as a meta-structural system organizing argumentative elements into a coherent whole?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.2",
+                      "question": "In what ways does the partition negotiate boundary setting to manage inclusion and exclusion of ideas?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.3",
+                      "question": "How can the partition embody and resolve paradoxes inherent in complex rhetorical arguments?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.4",
+                      "question": "What reflexive practices within the partition reveal the constructed nature of argument divisions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.5",
+                      "question": "How does the partition’s hierarchical logic facilitate or constrain transformative interpretive possibilities?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.6",
+                      "question": "How might the partition’s pacing influence cognitive load and audience processing of complex arguments?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.7",
+                      "question": "What role does audience anticipation play in shaping the rhetorical effectiveness of the partition?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.8",
+                      "question": "How can the partition strategically frame subsequent stages to maximize argumentative impact?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.9",
+                      "question": "How does the partition integrate multiple scales of argument from micro to macro levels?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.10",
+                      "question": "What ethical considerations arise when structuring arguments to include or exclude contentious ideas?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.11",
+                      "question": "How does the partition encourage iterative refinement and evolution of the rhetorical argument?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.3.12",
+                      "question": "So what if the partition disrupts expected argumentative sequences? How might this provoke deeper audience engagement?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Confirmatio",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.1",
+                      "question": "How does the confirmatio enact transformational shifts in audience understanding through complex evidence synthesis?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.2",
+                      "question": "In what ways can the confirmatio integrate emergent patterns from disparate data to construct novel argumentative frameworks?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.3",
+                      "question": "How does the confirmatio navigate the ethical tensions inherent in selective evidence presentation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.4",
+                      "question": "What role does feedback play in refining the confirmatio’s argument structure during iterative revisions?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.5",
+                      "question": "How can hierarchical organization within the confirmatio balance depth and accessibility for diverse audiences?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.6",
+                      "question": "How might the confirmatio employ paradoxical reasoning to anticipate and preempt counterarguments?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.7",
+                      "question": "How does pacing influence the rhetorical impact of layered evidence within the confirmatio?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.8",
+                      "question": "What strategies enable the confirmatio to sustain audience engagement amidst complex or dense information?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.9",
+                      "question": "How does the confirmatio embody a system perspective to integrate micro and macro-level evidence coherently?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.10",
+                      "question": "In what ways does the confirmatio’s structure facilitate cognitive transformation through analogy and abstraction?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.11",
+                      "question": "How can the confirmatio’s rhetorical design promote reflexivity both in the speaker and the audience?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.4.12",
+                      "question": "So what if new evidence undermines the confirmatio post-delivery? How should a rhetor ethically and strategically respond?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Refutatio",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.1",
+                      "question": "How does the refutatio function as a deliberate site of disruption to challenge and reshape audience assumptions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.2",
+                      "question": "In what ways can the refutatio embody ethical dialectics that respect opposing views while dismantling their logic?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.3",
+                      "question": "How might the tone modulation in refutatio navigate power dynamics to sustain rhetorical credibility?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.4",
+                      "question": "What reflexive techniques within the refutatio expose the constructedness of both supporting and opposing arguments?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.5",
+                      "question": "How can paradox and ambiguity be strategically employed in the refutatio to provoke critical audience reflection?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.6",
+                      "question": "What role does pacing play in managing cognitive and emotional tension during the refutatio?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.7",
+                      "question": "How can the refutatio balance comprehensive rebuttal with rhetorical economy to maintain audience focus?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.8",
+                      "question": "How might the refutatio serve as a meta-argument about the nature of truth and belief within the rhetorical context?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.9",
+                      "question": "How can humor or irony in refutatio be ethically calibrated to disrupt without alienating?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.10",
+                      "question": "What cognitive effects arise from strategic use of repetition and inversion within the refutatio?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.11",
+                      "question": "How does the refutatio prepare the audience for the final peroratio by managing unresolved tensions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.5.12",
+                      "question": "So what if the refutatio inadvertently reinforces opposing views? How can this risk be mitigated rhetorically?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Peroratio",
+                  "part_concept": "Catharsis",
+                  "children": [
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.1",
+                      "question": "How does the peroratio orchestrate catharsis to transform audience emotion and cognition simultaneously?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.2",
+                      "question": "In what ways can the peroratio synthesize rhetorical appeals to produce a resonant and lasting closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.3",
+                      "question": "How can the peroratio balance the dual imperatives of emotional appeal and logical rigor to maximize persuasive impact?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.4",
+                      "question": "What rhetorical devices can be innovatively employed in the peroratio to evoke transformational agency in the audience?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.5",
+                      "question": "How might the peroratio’s pacing and tonal shifts facilitate a layered, dynamic audience response?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.6",
+                      "question": "What are the ethical challenges in crafting a peroratio that seeks to emotionally move an audience without manipulation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.7",
+                      "question": "How can the peroratio function as a reflexive moment, inviting audiences to reconsider their own interpretive roles?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.8",
+                      "question": "How does revisiting motifs from earlier stages in the peroratio enhance thematic unity and audience retention?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.9",
+                      "question": "What strategies can ensure the peroratio leaves an open-ended invitation for ongoing dialogue and reflection?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.10",
+                      "question": "How might the peroratio’s emotional climax differ across cultural contexts, and what implications does this have for rhetorical adaptation?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.11",
+                      "question": "How can speakers ethically balance passion and reason in the peroratio to maintain credibility?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Classical-Rhetoric.ME.6.12",
+                      "question": "So what if the peroratio contradicts earlier arguments? How might this affect the overall rhetorical integrity?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

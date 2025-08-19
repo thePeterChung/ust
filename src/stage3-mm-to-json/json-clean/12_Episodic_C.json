@@ -1,0 +1,1681 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Episodic-Structure",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " Episodic-Structure is composed of discrete episodes or scenes linked by a loose thematic or narrative thread rather than a tightly knit plot"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Episode Introduction"
+                },
+                {
+                  "structure_part": "[2/6] 2. Development of Episode"
+                },
+                {
+                  "structure_part": "[3/6] 3. Episode Climax"
+                },
+                {
+                  "structure_part": "[4/6] 4. Transition or Linking Sequence"
+                },
+                {
+                  "structure_part": "[5/6] 5. New Episode Introduction"
+                },
+                {
+                  "structure_part": "[6/6] 6. Episode Resolution / Closure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "The Twilight Zone, Black Mirror, Fargo (TV series)"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "Episode Introduction → Setting and context for the scene"
+            },
+            {
+              "terminology": "Development of Episode → Action and interaction within the episode"
+            },
+            {
+              "terminology": "Episode Climax → Peak moment or conflict of the episode"
+            },
+            {
+              "terminology": "Transition or Linking Sequence → Bridge connecting episodes"
+            },
+            {
+              "terminology": "New Episode Introduction → Start of next distinct episode"
+            },
+            {
+              "terminology": "Episode Resolution / Closure → Ending or conclusion of an episode"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.B.1.1",
+                      "question": "How does the episode introduction establish the setting?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.2",
+                      "question": "What characters or elements are introduced in the episode introduction?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.3",
+                      "question": "Why is it important to understand the context at the beginning of an episode?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.4",
+                      "question": "What mood or tone does the episode introduction create?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.5",
+                      "question": "How does the introduction prepare the audience for what is to come?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.6",
+                      "question": "What if the episode started without a clear introduction? How would that affect understanding?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.7",
+                      "question": "What clues in the introduction hint at the episode’s main theme or conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.8",
+                      "question": "How does the episode introduction relate to the overall series theme?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.9",
+                      "question": "What emotions might viewers feel during the episode introduction?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.10",
+                      "question": "Why might an episode introduction vary in length or detail across different series?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.11",
+                      "question": "How does the framing of the episode introduction influence audience expectations?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.1.12",
+                      "question": "What effect does the episode introduction have on audience engagement?",
+                      "concept": "Desire"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Development of Episode",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.B.2.1",
+                      "question": "How does the episode develop the main actions or conflicts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.2",
+                      "question": "What choices do characters make during the episode development?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.3",
+                      "question": "Why is the development phase crucial for building tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.4",
+                      "question": "How do different events in the episode development connect logically?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.5",
+                      "question": "What new information is revealed during the episode development?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.6",
+                      "question": "How does the development maintain audience interest across an episode?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.7",
+                      "question": "What if the development lacked clear cause and effect relationships? How would that affect coherence?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.8",
+                      "question": "How do interactions between characters shape the development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.9",
+                      "question": "What role does pacing play in the episode development?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.10",
+                      "question": "How might the emotional tone shift during the episode development?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.11",
+                      "question": "Why does the development phase often prepare the audience for the episode climax?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.2.12",
+                      "question": "What effect does the episode development have on the overall story’s momentum?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Episode Climax",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.B.3.1",
+                      "question": "What defines the climax of an episode?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.2",
+                      "question": "How does the climax affect the characters involved?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.3",
+                      "question": "Why is the climax often the most intense moment in an episode?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.4",
+                      "question": "How does the episode climax contribute to the overall narrative or theme?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.5",
+                      "question": "What if the climax was omitted or weakened? How would that impact the episode’s effectiveness?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.6",
+                      "question": "How is the climax linked to the earlier development of the episode?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.7",
+                      "question": "What emotions does the climax aim to evoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.8",
+                      "question": "How does the climax create a turning point in the episode’s story?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.9",
+                      "question": "What strategies might a writer use to heighten the climax’s impact?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.10",
+                      "question": "How does the climax affect audience desire for the next episode?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.11",
+                      "question": "Why is resolution often postponed after the climax in episodic structures?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.3.12",
+                      "question": "How does the climax balance surprise and inevitability?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Transition or Linking Sequence",
+                  "part_concept": "Continuity",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.B.4.1",
+                      "question": "How does the transition link one episode to the next?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.2",
+                      "question": "What narrative techniques are used to connect episodes smoothly?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.3",
+                      "question": "Why are transitions important in episodic storytelling?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.4",
+                      "question": "How might a weak transition affect audience understanding?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.5",
+                      "question": "What if the transition introduced new themes or questions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.6",
+                      "question": "How does pacing influence the effectiveness of transitions?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.7",
+                      "question": "What role does emotional tone play during transitions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.8",
+                      "question": "How can transitions provide a moment of reflection or pause?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.9",
+                      "question": "Why might some transitions be abrupt or jarring by design?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.10",
+                      "question": "How do transitions affect audience anticipation for the next episode?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.11",
+                      "question": "What if an episode had no transition at all? How would that change the structure?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.4.12",
+                      "question": "How do transitions support the episodic structure’s overall coherence?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. New Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.B.5.1",
+                      "question": "How does the new episode introduction reset the audience’s attention?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.2",
+                      "question": "What elements reappear or change in a new episode introduction?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.3",
+                      "question": "Why is it important to clearly mark the start of a new episode?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.4",
+                      "question": "How does the new introduction connect to previous episodes?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.5",
+                      "question": "What if the new episode introduction subverted expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.6",
+                      "question": "How can a new introduction create anticipation for new conflicts or themes?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.7",
+                      "question": "What role does setting play in the new episode introduction?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.8",
+                      "question": "How does the introduction influence the mood of the new episode?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.9",
+                      "question": "Why might character focus shift in a new episode introduction?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.10",
+                      "question": "How does framing the new episode introduction affect audience engagement?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.11",
+                      "question": "What if the new episode introduction was ambiguous or open-ended?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.5.12",
+                      "question": "How does the new episode introduction balance familiarity and novelty?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Episode Resolution / Closure",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.B.6.1",
+                      "question": "How is the episode resolution different from a traditional story ending?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.2",
+                      "question": "What conflicts or questions are typically resolved at the episode’s end?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.3",
+                      "question": "Why might some resolutions be partial or ambiguous in episodic structures?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.4",
+                      "question": "How does the resolution influence audience satisfaction or reflection?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.5",
+                      "question": "What if the episode ended without any resolution? How would that impact the audience?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.6",
+                      "question": "How does the resolution prepare the audience for the next episode or theme?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.7",
+                      "question": "What narrative techniques are used to create a sense of closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.8",
+                      "question": "How do characters change or grow by the resolution of the episode?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.9",
+                      "question": "Why might an episode resolution emphasize mood or tone over plot resolution?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.10",
+                      "question": "How does the resolution balance finality and openness in episodic stories?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.11",
+                      "question": "What emotions does the resolution aim to leave the audience with?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.B.6.12",
+                      "question": "How can the episode resolution serve as a commentary or reflection on the overall series theme?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.I.1.1",
+                      "question": "How does the episode introduction establish narrative framing beyond setting and characters?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.2",
+                      "question": "In what ways does the introduction signal thematic concerns for the episode?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.3",
+                      "question": "How does the episode introduction shape audience expectations for narrative progression?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.4",
+                      "question": "Why might the introduction emphasize certain sensory or emotional details?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.5",
+                      "question": "How can the framing of the episode introduction reflect broader series-level patterns?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.6",
+                      "question": "What effect does the introduction’s point of view have on audience alignment?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.7",
+                      "question": "How does the introduction engage with cultural or genre expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.8",
+                      "question": "What if the introduction subverts typical framing conventions? How does that influence interpretation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.9",
+                      "question": "How do emotional tone and atmosphere work together in the episode introduction?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.10",
+                      "question": "Why is clarity important in establishing the episode’s context at this stage?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.11",
+                      "question": "How does the introduction balance exposition with narrative momentum?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.1.12",
+                      "question": "What role does memory or prior knowledge play in understanding the episode introduction?",
+                      "concept": "Memory"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Development of Episode",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.I.2.1",
+                      "question": "How does the development stage employ cause and effect to advance the episode narrative?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.2",
+                      "question": "What complexities arise in character choices during the episode development?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.3",
+                      "question": "How does tension build through iterative interactions in the episode development?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.4",
+                      "question": "Why is it important to maintain logical coherence while introducing new elements in this stage?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.5",
+                      "question": "How does the development phase enable emergence of new themes or conflicts?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.6",
+                      "question": "In what ways do pacing and timing affect audience engagement during development?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.7",
+                      "question": "What if contradictions or paradoxes appear during development? How should they be addressed?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.8",
+                      "question": "How do power dynamics evolve during the episode development?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.9",
+                      "question": "How does the development phase interact with prior episodes in an episodic series?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.10",
+                      "question": "Why might ambiguity be intentionally introduced during episode development?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.11",
+                      "question": "How can the writer balance predictability and surprise in this stage?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.2.12",
+                      "question": "What role does audience inference play in interpreting the development phase?",
+                      "concept": "Inference"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Episode Climax",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.I.3.1",
+                      "question": "How does the episode climax crystallize underlying conflicts introduced earlier?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.2",
+                      "question": "What narrative strategies heighten the emotional intensity of the climax?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.3",
+                      "question": "How can the climax function as a threshold moment for character transformation?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.4",
+                      "question": "Why is pacing critical in delivering an effective climax in episodic storytelling?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.5",
+                      "question": "How does the climax negotiate audience expectations and subvert them?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.6",
+                      "question": "What role does ambiguity or unresolved tension play in the climax?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.7",
+                      "question": "How does the climax balance closure with openness in an episodic format?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.8",
+                      "question": "What if the climax shifts focus away from the protagonist? How does that affect the narrative?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.9",
+                      "question": "How does the climax’s mood influence the audience’s emotional response?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.10",
+                      "question": "Why might the climax serve as a commentary on larger thematic concerns?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.11",
+                      "question": "How do authorial strategies shape the climax’s structure and effect?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.3.12",
+                      "question": "How can the climax set up transitions or links to subsequent episodes?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Transition or Linking Sequence",
+                  "part_concept": "Continuity",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.I.4.1",
+                      "question": "How do transitions maintain narrative coherence between discrete episodes?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.2",
+                      "question": "What techniques are effective in bridging thematic or tonal shifts across episodes?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.3",
+                      "question": "How can transitions serve as moments of reflection or foreshadowing?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.4",
+                      "question": "Why might deliberate disruption be used in transitions within episodic structures?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.5",
+                      "question": "How does pacing influence the impact of transitions between episodes?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.6",
+                      "question": "What role do emotional tone and mood play in the effectiveness of transitions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.7",
+                      "question": "How do transitions negotiate audience expectations in an episodic series?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.8",
+                      "question": "What if transitions introduced new narrative threads? How would that affect the episodic structure?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.9",
+                      "question": "How can transitions highlight or obscure boundaries between episodes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.10",
+                      "question": "Why is it important for transitions to balance continuity and change?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.11",
+                      "question": "How might transitions reflect or disrupt series-level patterns or cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.4.12",
+                      "question": "In what ways can authorial strategy shape the form and function of transitions?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. New Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.I.5.1",
+                      "question": "How does a new episode introduction reframe narrative focus and audience engagement?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.2",
+                      "question": "What narrative or thematic shifts are typically signaled in new episode introductions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.3",
+                      "question": "How does the new introduction negotiate familiarity and novelty?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.4",
+                      "question": "Why is establishing clear boundaries important at the start of a new episode?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.5",
+                      "question": "How can disruptions in framing affect audience interpretation of the new episode?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.6",
+                      "question": "What role does pacing play in re-engaging the audience at the episode’s start?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.7",
+                      "question": "How might changes in perspective or point of view impact the new episode introduction?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.8",
+                      "question": "How can the introduction of new characters or settings shift thematic emphasis?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.9",
+                      "question": "What emotional tone is typically set in a new episode introduction, and why?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.10",
+                      "question": "How does the framing of the new introduction influence audience desire for narrative continuation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.11",
+                      "question": "Why might ambiguity be employed in new episode introductions to create intrigue?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.5.12",
+                      "question": "How does authorial strategy guide the balance between exposition and action in new introductions?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Episode Resolution / Closure",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.I.6.1",
+                      "question": "How does the episode resolution differ in episodic structure compared to traditional narrative closure?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.2",
+                      "question": "What types of closure are typically achieved at the end of an episode?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.3",
+                      "question": "Why might ambiguity or unresolved tensions be retained in episodic resolutions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.4",
+                      "question": "How does the resolution contribute to catharsis or emotional release for the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.5",
+                      "question": "What are the effects of postponing resolution until future episodes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.6",
+                      "question": "How does the episode resolution prepare narrative or thematic ground for subsequent episodes?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.7",
+                      "question": "What narrative devices are used to create satisfying yet open-ended resolutions?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.8",
+                      "question": "How do character transformations manifest by the resolution of an episode?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.9",
+                      "question": "Why might mood and tone be emphasized over plot resolution in episodic endings?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.10",
+                      "question": "How does the resolution balance the paradox of finality and ongoing narrative in episodic form?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.11",
+                      "question": "What emotions are typically evoked by episodic resolutions, and why?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.I.6.12",
+                      "question": "How can episode resolutions function as thematic reflections on the broader series?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.A.1.1",
+                      "question": "How does the episode introduction manipulate framing to challenge audience preconceptions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.2",
+                      "question": "In what ways does the introduction set up meta-narrative elements or reflexivity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.3",
+                      "question": "How can subtle shifts in framing within the introduction foreshadow later thematic developments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.4",
+                      "question": "Why might an introduction employ layered perspectives to deepen narrative complexity?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.5",
+                      "question": "How does the introduction negotiate the tension between exposition and narrative momentum at an advanced level?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.6",
+                      "question": "What role does authorial strategy play in the epistemological framing of the episode’s opening?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.7",
+                      "question": "How does the introduction employ ambiguity as a deliberate device to engage interpretive effort?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.8",
+                      "question": "What are the implications of disrupting traditional framing conventions in the episode introduction?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.9",
+                      "question": "How does the episode introduction utilize pacing and rhythm to establish a cognitive framework for the audience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.10",
+                      "question": "How might intertextual references within the introduction influence thematic interpretation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.11",
+                      "question": "What is the relationship between framing in the episode introduction and memory activation in viewers?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.1.12",
+                      "question": "How does the introduction's tone shape complex emotional landscapes for the episode?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Development of Episode",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.A.2.1",
+                      "question": "How can the development stage integrate multi-layered cause and effect relationships to enrich narrative depth?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.2",
+                      "question": "In what ways do character choices reflect systemic interactions and emergent properties during development?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.3",
+                      "question": "How does iterative conflict escalation during development contribute to narrative complexity?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.4",
+                      "question": "Why is managing paradoxical elements crucial for maintaining coherence in episode development?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.5",
+                      "question": "How does the development phase negotiate ambiguity to sustain audience engagement?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.6",
+                      "question": "What role does pacing variation play in modulating audience emotional response during development?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.7",
+                      "question": "How are power dynamics subtly encoded and transformed through episode development?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.8",
+                      "question": "In what ways can disruptions within development challenge or reinforce thematic motifs?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.9",
+                      "question": "How does the episode development contribute to emergent narrative patterns at the series level?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.10",
+                      "question": "How might advanced audience inference shape the interpretation of cause and effect in this stage?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.11",
+                      "question": "What strategies can writers use to balance predictability and surprise during episode development?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.2.12",
+                      "question": "How does the development phase reflect or disrupt established hierarchies within the narrative system?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Episode Climax",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.A.3.1",
+                      "question": "How does the episode climax embody the resolution of layered conflicts introduced earlier?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.2",
+                      "question": "In what ways does the climax challenge traditional expectations of narrative closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.3",
+                      "question": "How can the climax serve as a transformative threshold for character and theme?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.4",
+                      "question": "What role does pacing play in modulating tension and release at the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.5",
+                      "question": "How does the climax use ambiguity and paradox to deepen interpretive complexity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.6",
+                      "question": "Why might a climax deliberately maintain unresolved tensions to support episodic structure?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.7",
+                      "question": "How does the climax integrate emotional tone to evoke a nuanced audience response?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.8",
+                      "question": "In what ways does authorial strategy shape the narrative and affective impact of the climax?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.9",
+                      "question": "How does the climax interact with audience desire and anticipation for subsequent episodes?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.10",
+                      "question": "What techniques enable the climax to function simultaneously as a narrative peak and a point of transition?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.11",
+                      "question": "How does the climax’s mood and atmosphere contribute to thematic resonance?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.3.12",
+                      "question": "What implications does the climax have for the episodic series’ overarching narrative architecture?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Transition or Linking Sequence",
+                  "part_concept": "Continuity",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.A.4.1",
+                      "question": "How do transitions function as narrative pivots to sustain episodic coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.2",
+                      "question": "In what ways can transitions disrupt established narrative expectations to provoke reinterpretation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.3",
+                      "question": "How can transitions be crafted to serve both as closure and anticipation within episodic form?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.4",
+                      "question": "Why might an author employ paradoxical elements in transitions to enrich narrative complexity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.5",
+                      "question": "How does pacing modulation during transitions influence audience cognitive and emotional processing?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.6",
+                      "question": "What is the role of emotional tone in managing audience reception during transitions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.7",
+                      "question": "How do transitions negotiate thematic continuity and transformation across episodes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.8",
+                      "question": "What interpretive strategies can audiences employ to decode complex transitions?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.9",
+                      "question": "How might transitions reflect or subvert series-level hierarchical narrative structures?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.10",
+                      "question": "In what ways do authorial choices shape the formal and affective qualities of transitions?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.11",
+                      "question": "How can transitions invoke emergent narrative properties that challenge linearity?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.4.12",
+                      "question": "What implications do transitions have for the cyclical nature of episodic storytelling?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. New Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.A.5.1",
+                      "question": "How does the new episode introduction reframe narrative elements to reset audience engagement?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.2",
+                      "question": "In what ways does the introduction signal shifts in thematic or conceptual focus?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.3",
+                      "question": "How can the new introduction negotiate tension between continuity and innovation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.4",
+                      "question": "Why is boundary-setting critical for maintaining episodic clarity and interpretive possibilities?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.5",
+                      "question": "How do disruptions in framing influence audience expectations and narrative complexity?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.6",
+                      "question": "What pacing strategies effectively reorient the audience at the beginning of a new episode?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.7",
+                      "question": "How does shifting perspective or focalization deepen the narrative architecture in new introductions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.8",
+                      "question": "What role do scale and setting changes play in thematic development at episode beginnings?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.9",
+                      "question": "How can tone modulation in new introductions shape complex emotional responses?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.10",
+                      "question": "How does the framing of new episodes stimulate audience desire and anticipation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.11",
+                      "question": "What interpretive challenges arise from ambiguity in new episode introductions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.5.12",
+                      "question": "How do authorial strategies balance exposition and narrative propulsion in episode openings?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Episode Resolution / Closure",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.A.6.1",
+                      "question": "How does episodic resolution negotiate between closure and open-endedness to sustain series momentum?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.2",
+                      "question": "What types of narrative closure are uniquely effective within episodic formats?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.3",
+                      "question": "How can unresolved tensions or ambiguities enhance thematic depth in episodic resolutions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.4",
+                      "question": "In what ways does catharsis function differently in episodic endings compared to traditional narratives?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.5",
+                      "question": "How does postponing resolution impact audience uncertainty and narrative engagement?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.6",
+                      "question": "How does resolution at the episode level contribute to cyclical narrative patterns in series?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.7",
+                      "question": "What narrative devices create satisfying yet thematically open episode endings?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.8",
+                      "question": "How do character transformations manifest and complicate thematic interpretation in episode resolutions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.9",
+                      "question": "Why might mood and tone be foregrounded over plot resolution to evoke complex audience emotions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.10",
+                      "question": "How does episodic resolution embody the paradox of finality and ongoing narrative tension?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.11",
+                      "question": "What emotional responses are cultivated through episodic closures, and how are they sustained?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.A.6.12",
+                      "question": "How can episode resolutions serve as critical reflections on the series’ overarching themes and structures?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.ME.1.1",
+                      "question": "How does the episode introduction function as a meta-framing device that interrogates the nature of episodic storytelling itself?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.2",
+                      "question": "In what ways can the introduction destabilize traditional narrative authority through reflexive techniques?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.3",
+                      "question": "How does the introduction strategically employ multi-layered perspectives to challenge ontological assumptions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.4",
+                      "question": "What role does ambiguity play in fostering critical audience engagement from the outset?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.5",
+                      "question": "How can pacing in the introduction be used to manipulate temporal perception and cognitive focus?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.6",
+                      "question": "How do authorial strategies in the introduction subvert or redefine genre conventions?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.7",
+                      "question": "In what ways does the introduction activate intertextual and cultural memory to deepen thematic resonance?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.8",
+                      "question": "How does the tonal architecture of the introduction contribute to the dialectical tension between familiarity and innovation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.9",
+                      "question": "What interpretive frameworks best illuminate the complexities of the episode’s opening framing?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.10",
+                      "question": "How does the introduction function within the broader semiotic system of episodic narrative?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.11",
+                      "question": "How might the introduction’s framing strategies contribute to emergent narrative properties at the series level?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.1.12",
+                      "question": "What cognitive learning processes are engaged through complex framing in the episode introduction?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Development of Episode",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.ME.2.1",
+                      "question": "How does the development stage synthesize multi-dimensional cause and effect relationships to challenge linear causality?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.2",
+                      "question": "In what ways do emergent systemic properties redefine character agency during episode development?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.3",
+                      "question": "How does iterative narrative structure facilitate recursive tension and thematic deepening?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.4",
+                      "question": "What role do paradoxes play in destabilizing conventional narrative coherence in this stage?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.5",
+                      "question": "How does ambiguity function as a strategic narrative device to promote multi-layered interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.6",
+                      "question": "How can pacing and temporal discontinuity be manipulated to affect audience cognitive and emotional engagement?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.7",
+                      "question": "How are power relations deconstructed and reconfigured through episode development?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.8",
+                      "question": "In what ways do disruptions serve as critical interventions within episodic narrative systems?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.9",
+                      "question": "How does development contribute to emergent thematic and structural properties at the macro-narrative level?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.10",
+                      "question": "How does advanced audience inference engage with the complex causal web presented in development?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.11",
+                      "question": "What narrative strategies reconcile uncertainty and coherence in episodic development?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.2.12",
+                      "question": "How does hierarchical narrative logic adapt to accommodate episodic multiplicity and complexity?",
+                      "concept": "Hierarchy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Episode Climax",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.ME.3.1",
+                      "question": "How does the climax operate as a nexus for resolving and complicating intersecting conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.2",
+                      "question": "In what ways does the climax deconstruct traditional notions of narrative resolution and closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.3",
+                      "question": "How can the climax function as a transformative threshold that redefines character and thematic trajectories?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.4",
+                      "question": "What advanced pacing techniques are employed to orchestrate tension and release at the climax?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.5",
+                      "question": "How does the climax leverage paradox and ambiguity to expand interpretive possibilities?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.6",
+                      "question": "Why might the climax intentionally resist resolution to maintain episodic narrative dynamism?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.7",
+                      "question": "How does tonal complexity at the climax shape sophisticated emotional responses?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.8",
+                      "question": "What role does authorial strategy play in balancing narrative closure and openness at the climax?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.9",
+                      "question": "How does the climax interact with audience anticipation and desire within the episodic series framework?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.10",
+                      "question": "What narrative and thematic functions does the climax serve as a pivot within the series architecture?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.11",
+                      "question": "How does the mood at the climax encapsulate broader dialectical tensions in the narrative?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.3.12",
+                      "question": "How might the climax’s semiotic complexity invite multiple interpretive strategies?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Transition or Linking Sequence",
+                  "part_concept": "Continuity",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.ME.4.1",
+                      "question": "How do transitions function as meta-narrative devices that both sustain and interrogate episodic continuity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.2",
+                      "question": "In what ways can transitional sequences destabilize narrative coherence to invite critical reflection?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.3",
+                      "question": "How does the interplay of closure and anticipation in transitions serve as a dialectical engine within episodic form?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.4",
+                      "question": "Why might paradoxical structures in transitions be essential for sustaining episodic narrative complexity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.5",
+                      "question": "How can pacing shifts in transitions be used to manipulate temporal experience and audience engagement at a meta-level?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.6",
+                      "question": "What is the function of emotional tone modulation in transitions to shape interpretive openness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.7",
+                      "question": "How do transitions negotiate thematic transformation and systemic integration across episodes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.8",
+                      "question": "What advanced interpretive frameworks can decode the semiotic density of complex transitions?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.9",
+                      "question": "How might transitions reflect or challenge hierarchical narrative architectures at the series scale?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.10",
+                      "question": "In what ways do authorial strategies in transitions foreground narrative reflexivity and self-awareness?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.11",
+                      "question": "How can transitions evoke emergent narrative qualities that disrupt linear storytelling expectations?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.4.12",
+                      "question": "What implications do cyclical narrative patterns have for the formal design of episodic transitions?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. New Episode Introduction",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.ME.5.1",
+                      "question": "How does the new episode introduction function as a re-framing act that challenges previous narrative assumptions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.2",
+                      "question": "In what ways does the introduction negotiate the dialectic between continuity and innovation at a meta-narrative level?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.3",
+                      "question": "How does tension between boundary maintenance and boundary crossing manifest in new episode openings?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.4",
+                      "question": "Why are disruptions in framing essential for sustaining interpretive multiplicity in episodic narratives?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.5",
+                      "question": "How do pacing strategies in new episode introductions recalibrate audience focus and expectation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.6",
+                      "question": "What is the role of shifting perspectives in constructing complex narrative architectures within episode beginnings?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.7",
+                      "question": "How do scale and setting function as thematic and conceptual tools in framing new episodes?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.8",
+                      "question": "In what ways does tone modulation in episode introductions facilitate nuanced audience engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.9",
+                      "question": "How does the introduction activate audience desire and anticipation while complicating narrative expectations?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.10",
+                      "question": "What challenges does ambiguity present in the interpretive strategies for new episode openings?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.11",
+                      "question": "How do authorial strategies balance exposition with narrative propulsion in new episode framing?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.5.12",
+                      "question": "How might the new episode introduction serve as a site for cultural transformation within the series?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Episode Resolution / Closure",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Episodic-Structure.ME.6.1",
+                      "question": "How does episodic resolution function as a site of negotiation between narrative finality and ongoing series dynamics?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.2",
+                      "question": "What forms of closure uniquely characterize episodic endings and how do they engage audience expectations?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.3",
+                      "question": "How can unresolved tensions in episode resolutions catalyze thematic and structural complexity across a series?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.4",
+                      "question": "In what ways does catharsis in episodic narratives differ in function and effect from traditional story arcs?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.5",
+                      "question": "How does the strategic deployment of uncertainty at episode endings influence audience engagement and interpretive activity?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.6",
+                      "question": "How do cyclical narrative patterns shape the design and impact of episodic closures?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.7",
+                      "question": "What narrative devices create a balance between satisfaction and openness in episodic resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.8",
+                      "question": "How do character transformations at episode closure complicate series-level thematic interpretation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.9",
+                      "question": "Why might mood and tone be foregrounded over plot resolution to cultivate complex emotional responses at episode end?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.10",
+                      "question": "How does episodic closure embody paradoxical tensions between conclusion and narrative continuation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.11",
+                      "question": "What complex emotional dynamics are evoked through episodic closure, and how are these sustained across the series?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Episodic-Structure.ME.6.12",
+                      "question": "How can episode resolutions serve as reflective nodes that interrogate and redefine the series’ overarching narrative and thematic structures?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

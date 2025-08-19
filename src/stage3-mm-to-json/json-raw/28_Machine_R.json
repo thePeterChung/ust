@@ -1,0 +1,2740 @@
+{
+  "discipline": "Artificial Intel.",
+  "children": [
+    {
+      "structure_name": "Machine-Learning-Loop",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": "1. Problem Definition → 2. Data Collection → 3. Data Preparation → 4. Model Selection → 5. Training → 6. Evaluation → 7. Tuning → 8. Deployment → 9. Monitoring → 10. Feedback and Iteration"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/10] 1. Problem Definition"
+                },
+                {
+                  "structure_part": "[2/10] 2. Data Collection"
+                },
+                {
+                  "structure_part": "[3/10] 3. Data Preparation"
+                },
+                {
+                  "structure_part": "[4/10] 4. Model Selection"
+                },
+                {
+                  "structure_part": "[5/10] 5. Training"
+                },
+                {
+                  "structure_part": "[6/10] 6. Evaluation"
+                },
+                {
+                  "structure_part": "[7/10] 7. Tuning"
+                },
+                {
+                  "structure_part": "[8/10] 8. Deployment"
+                },
+                {
+                  "structure_part": "[9/10] 9. Monitoring"
+                },
+                {
+                  "structure_part": "[10/10] 10. Feedback and Iteration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Spam Detection System, Image Recognition for Medical Diagnosis, Recommendation Engines"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Problem Definition → Identify the task to be solved, often framed as a predictive or classification problem"
+            },
+            {
+              "terminology": "2. Data Collection → Gathering raw data from various sources relevant to the defined problem"
+            },
+            {
+              "terminology": "3. Data Preparation → Cleaning, formatting, and structuring data for modeling"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/10] 1. Problem Definition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.1",
+                      "question": "What is the specific task or question the system is trying to answer?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.2",
+                      "question": "How does defining the problem shape the rest of the machine learning process?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.3",
+                      "question": "Why is it important to frame the problem before collecting data?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.4",
+                      "question": "What assumptions are being made about the nature of the problem?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.5",
+                      "question": "How does the problem type (e.g., classification, regression) affect design choices?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.6",
+                      "question": "What could go wrong if the problem is poorly defined?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.7",
+                      "question": "What real-world constraints might influence how the problem is framed?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.8",
+                      "question": "What if two teams define the same problem differently—how might their solutions diverge?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.9",
+                      "question": "How might the problem definition affect the user’s experience or trust in the system?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.10",
+                      "question": "What emotions or ethical concerns might arise when framing machine learning problems involving humans?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.11",
+                      "question": "How does the choice of performance metric reflect assumptions about what matters?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.1.12",
+                      "question": "What makes a machine learning problem definition clear and actionable?",
+                      "concept": "Clarity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/10] 2. Data Collection",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.1",
+                      "question": "Where does the data come from and how is it gathered?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.2",
+                      "question": "What types of data are most relevant to the problem definition?",
+                      "concept": "Relevance"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.3",
+                      "question": "How do we know if we have enough data to work with?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.4",
+                      "question": "What makes some data sources more reliable than others?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.5",
+                      "question": "How does data bias enter the system during this phase?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.6",
+                      "question": "Why is it important to document how and where the data was collected?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.7",
+                      "question": "What could happen if critical populations or examples are underrepresented in the data?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.8",
+                      "question": "What if real-time data collection contradicts previously gathered datasets?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.9",
+                      "question": "How does the source of data affect public perception of legitimacy or bias?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.10",
+                      "question": "What role does tone or framing in the data source (e.g., social media posts) play in training models?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.11",
+                      "question": "How might automated scraping or sensors alter what counts as 'real' data?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.2.12",
+                      "question": "What makes a dataset ethically and practically usable in ML systems?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/10] 3. Data Preparation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.1",
+                      "question": "What steps are needed to clean and format data for modeling?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.2",
+                      "question": "How do missing values or inconsistencies affect model performance?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.3",
+                      "question": "Why is normalization or scaling necessary in many ML problems?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.4",
+                      "question": "What are some strategies for dealing with outliers or noise in the data?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.5",
+                      "question": "How does feature engineering enhance the signal in raw data?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.6",
+                      "question": "What risks arise from over-preprocessing or manipulating data?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.7",
+                      "question": "How can we test whether data preparation improved the dataset?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.8",
+                      "question": "What if we prepared the data using different tools or rules—how might the model change?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.9",
+                      "question": "How does data preparation reflect the values or goals of the team preparing it?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.10",
+                      "question": "What feelings of confidence or uncertainty might data preparation elicit in human reviewers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.11",
+                      "question": "What kinds of preparation make data more reusable for future projects?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.3.12",
+                      "question": "What counts as ‘clean’ data, and who decides?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/10] 4. Model Selection",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.1",
+                      "question": "What are some common types of models used in machine learning?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.2",
+                      "question": "How does the problem type influence the choice of model?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.3",
+                      "question": "What are the trade-offs between simple and complex models?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.4",
+                      "question": "Why might one choose a model that is less accurate but easier to interpret?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.5",
+                      "question": "How can past experience with similar problems guide model choice?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.6",
+                      "question": "What could happen if the model chosen is poorly matched to the data?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.7",
+                      "question": "How does the idea of “bias and variance” help us think about model selection?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.8",
+                      "question": "What if two teams pick different models for the same task—how might their results differ?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.9",
+                      "question": "How does the selected model shape the audience’s trust or expectations?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.10",
+                      "question": "What tone or attitude does a model’s complexity suggest about its creators’ goals?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.11",
+                      "question": "What resources (e.g., time, computing power) affect which model is chosen?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.4.12",
+                      "question": "How do we define a “good” model in context—not just technically, but socially or ethically?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/10] 5. Training",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.1",
+                      "question": "What does it mean to “train” a model in machine learning?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.2",
+                      "question": "Why is it important to divide data into training and test sets?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.3",
+                      "question": "How does the model improve as it sees more data?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.4",
+                      "question": "What factors can cause a model to underfit or overfit the training data?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.5",
+                      "question": "What role do algorithms play during training?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.6",
+                      "question": "What if the training process takes too long or never converges?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.7",
+                      "question": "How can we tell whether training is going well before evaluation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.8",
+                      "question": "What emotions or expectations might developers experience during model training?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.9",
+                      "question": "How does the training phase reflect the intentions or biases of the team?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.10",
+                      "question": "What could change if training data was reordered, relabeled, or revised mid-process?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.11",
+                      "question": "How does the training process prepare a model for real-world input it hasn’t seen before?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.5.12",
+                      "question": "What makes the training process interpretable or obscure to observers?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/10] 6. Evaluation",
+                  "part_concept": "Evaluation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.1",
+                      "question": "How do we measure whether a model is performing well?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.2",
+                      "question": "What are some common metrics used for evaluating ML models (e.g., accuracy, precision, recall)?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.3",
+                      "question": "Why is it useful to test models on data they haven’t seen before?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.4",
+                      "question": "How does evaluation connect back to the original problem definition?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.5",
+                      "question": "What could happen if evaluation is only based on a single metric?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.6",
+                      "question": "How do evaluation results influence what happens next in the ML loop?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.7",
+                      "question": "What are the dangers of “over-evaluating” or over-interpreting small differences in scores?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.8",
+                      "question": "What if a model scores well on metrics but produces unfair or biased results?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.9",
+                      "question": "How might stakeholders (e.g., users, clients) react to the model’s evaluation scores?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.10",
+                      "question": "How does evaluation affect the tone of how a model is communicated to non-experts?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.11",
+                      "question": "How can we explain evaluation metrics to someone without a technical background?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.6.12",
+                      "question": "What makes an evaluation both fair and useful for future tuning or deployment?",
+                      "concept": "Fairness"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/10] 7. Tuning",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.1",
+                      "question": "What is the purpose of tuning a machine learning model?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.2",
+                      "question": "How do hyperparameters differ from model parameters?",
+                      "concept": "Conceptual_Tools"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.3",
+                      "question": "Why might small changes in tuning significantly affect model performance?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.4",
+                      "question": "What methods are commonly used to find optimal tuning settings?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.5",
+                      "question": "How does tuning relate to avoiding overfitting or underfitting?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.6",
+                      "question": "What are the risks of excessive tuning or “over-tuning”?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.7",
+                      "question": "How might tuning choices reflect the priorities or biases of the team?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.8",
+                      "question": "What if tuning parameters are optimized for one dataset but fail on others?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.9",
+                      "question": "How does the tuning phase influence user confidence in model reliability?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.10",
+                      "question": "What tone is conveyed when presenting a finely tuned versus a default model to stakeholders?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.11",
+                      "question": "How can automated tuning tools change the role of human expertise in ML?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.7.12",
+                      "question": "What makes tuning a creative as well as a technical process?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/10] 8. Deployment",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.1",
+                      "question": "What does it mean to deploy a machine learning model?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.2",
+                      "question": "How does deployment affect who can access or use the model’s outputs?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.3",
+                      "question": "What technical challenges arise during model deployment?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.4",
+                      "question": "Why is deployment a critical step for delivering real-world value?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.5",
+                      "question": "How might deployment environments (e.g., cloud, edge devices) influence model design?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.6",
+                      "question": "What are some social or ethical considerations when deploying models in sensitive contexts?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.7",
+                      "question": "What risks exist if a model is deployed without sufficient testing or safeguards?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.8",
+                      "question": "How can deployment affect user trust or adoption of a machine learning system?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.9",
+                      "question": "What tone should teams adopt when communicating deployment successes or failures to stakeholders?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.10",
+                      "question": "What if deployment reveals unexpected behaviors not seen during training or evaluation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.11",
+                      "question": "How does deployment illustrate the connection between machine learning and real-world systems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.8.12",
+                      "question": "What makes a deployment sustainable and maintainable over time?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/10] 9. Monitoring",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.1",
+                      "question": "Why is ongoing monitoring important after deploying a machine learning model?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.2",
+                      "question": "What kinds of data or signals are typically monitored to assess model health?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.3",
+                      "question": "How can monitoring detect model drift or degradation over time?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.4",
+                      "question": "What actions might be triggered by monitoring alerts or anomalies?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.5",
+                      "question": "How does feedback from users or stakeholders factor into monitoring processes?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.6",
+                      "question": "What challenges arise in balancing false positives and false negatives in monitoring?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.7",
+                      "question": "How can monitoring maintain ethical standards and fairness post-deployment?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.8",
+                      "question": "What emotions or tensions can emerge among teams when monitoring reveals problems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.9",
+                      "question": "What if monitoring data contradicts initial evaluation results?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.10",
+                      "question": "How does effective monitoring contribute to continuous improvement in machine learning?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.11",
+                      "question": "What tone or messaging best supports transparency in monitoring reports?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.9.12",
+                      "question": "How does monitoring create a feedback loop that impacts future problem definitions?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/10] 10. Feedback and Iteration",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.1",
+                      "question": "What is the role of feedback in improving machine learning systems?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.2",
+                      "question": "How does iteration help address errors or shortcomings found during monitoring?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.3",
+                      "question": "Why is it important to revisit earlier stages based on new insights?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.4",
+                      "question": "What challenges can arise when implementing iterative changes in deployed systems?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.5",
+                      "question": "How can feedback loops enhance the accuracy and fairness of models over time?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.6",
+                      "question": "What are the risks of repeating the same mistakes during iteration?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.7",
+                      "question": "How do teams prioritize which feedback to act on in the iteration process?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.8",
+                      "question": "What emotions or motivations drive teams to continuously improve ML systems?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.9",
+                      "question": "What if iteration leads to unexpected new problems or trade-offs?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.10",
+                      "question": "How does iterative improvement reflect broader cycles in technological development?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.11",
+                      "question": "What tone is effective when communicating iterative changes to users or stakeholders?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.B.10.12",
+                      "question": "How does iteration encourage reflexivity and learning within machine learning teams?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/10] 1. Problem Definition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.1",
+                      "question": "How does a precise problem definition guide the selection of data and models?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.2",
+                      "question": "Why is it critical to consider stakeholder needs when framing the problem?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.3",
+                      "question": "How can ambiguous problem definitions lead to unintended consequences in ML outcomes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.4",
+                      "question": "What frameworks or methodologies help clarify complex machine learning problems?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.5",
+                      "question": "How does framing the problem impact ethical considerations and fairness?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.6",
+                      "question": "What if the problem definition evolves during the project—how should the team adapt?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.7",
+                      "question": "How does the problem definition interact with assumptions about data quality and availability?",
+                      "concept": "Assumption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.8",
+                      "question": "Why might different disciplines interpret the same ML problem differently?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.9",
+                      "question": "How can problem definition influence the perceived power dynamics between developers and users?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.10",
+                      "question": "What role does clarity play in communicating the problem to non-technical stakeholders?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.11",
+                      "question": "How can problem framing incorporate future scalability or adaptability concerns?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.1.12",
+                      "question": "What tensions arise between technical feasibility and ideal problem definitions?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/10] 2. Data Collection",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.1",
+                      "question": "How can data provenance affect the trustworthiness of machine learning outcomes?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.2",
+                      "question": "What strategies can mitigate biases introduced during data collection?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.3",
+                      "question": "How does the scale and diversity of data impact model generalization?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.4",
+                      "question": "Why is understanding the system generating the data important for collection?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.5",
+                      "question": "What ethical dilemmas can arise from collecting sensitive or personal data?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.6",
+                      "question": "How do feedback mechanisms in data collection affect ongoing ML performance?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.7",
+                      "question": "What methods ensure that data collected remains relevant as the problem evolves?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.8",
+                      "question": "How might data collection processes differ across domains like healthcare versus finance?",
+                      "concept": "Context"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.9",
+                      "question": "What role does framing play in deciding what data to collect or exclude?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.10",
+                      "question": "How can data collection influence power relations between subjects and analysts?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.11",
+                      "question": "What challenges arise when integrating multiple heterogeneous data sources?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.2.12",
+                      "question": "How does uncertainty in data collection affect downstream modeling choices?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/10] 3. Data Preparation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.1",
+                      "question": "How does iterative data cleaning improve model robustness over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.2",
+                      "question": "What trade-offs exist between preserving raw data and transforming it for modeling?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.3",
+                      "question": "How do feature engineering choices reflect the underlying problem framing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.4",
+                      "question": "Why is transparency in data preparation important for reproducibility?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.5",
+                      "question": "What are the risks of introducing bias during data transformation?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.6",
+                      "question": "How does the preparation process influence the balance between signal and noise?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.7",
+                      "question": "What if different preparation methods lead to divergent model outcomes?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.8",
+                      "question": "How can documentation of preparation steps support collaboration and auditability?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.9",
+                      "question": "What emotional responses might data scientists experience during extensive data preparation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.10",
+                      "question": "How do the goals of the ML team shape data transformation priorities?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.11",
+                      "question": "How does data preparation reflect broader systems of knowledge and power?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.3.12",
+                      "question": "Why is iteration in data preparation essential for adapting to new data or problems?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/10] 4. Model Selection",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.1",
+                      "question": "How can understanding the problem domain improve model selection?",
+                      "concept": "Context"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.2",
+                      "question": "What are the implications of model complexity on interpretability and performance?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.3",
+                      "question": "How do different model types handle various data structures and noise?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.4",
+                      "question": "Why is considering bias-variance tradeoff crucial during model selection?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.5",
+                      "question": "How can past model performance guide future selection choices?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.6",
+                      "question": "What ethical factors should influence the choice of model in sensitive applications?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.7",
+                      "question": "How might resource constraints shape the feasible set of models?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.8",
+                      "question": "What if a model chosen is optimal in theory but impractical in deployment?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.9",
+                      "question": "How does the choice of model affect user trust and acceptance?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.10",
+                      "question": "What tone is conveyed when presenting different model choices to stakeholders?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.11",
+                      "question": "How do regulatory or compliance requirements influence model selection?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.4.12",
+                      "question": "How can interdisciplinary collaboration enhance model selection decisions?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/10] 5. Training",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.1",
+                      "question": "How does iterative training refine model accuracy over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.2",
+                      "question": "What role do optimization algorithms play in shaping training outcomes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.3",
+                      "question": "How can the choice of training data affect generalization to new cases?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.4",
+                      "question": "Why is it important to monitor training for signs of overfitting or underfitting?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.5",
+                      "question": "How can early stopping techniques improve training efficiency?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.6",
+                      "question": "What challenges arise when training on imbalanced datasets?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.7",
+                      "question": "How does data augmentation contribute to more robust training?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.8",
+                      "question": "What emotional or cognitive factors might influence team decisions during training?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.9",
+                      "question": "How can transparency in training processes foster stakeholder trust?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.10",
+                      "question": "What if training reveals data quality issues that require returning to earlier stages?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.11",
+                      "question": "How do feedback loops during training improve model resilience?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.5.12",
+                      "question": "How does the training phase reflect the intentions and goals of the ML team?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/10] 6. Evaluation",
+                  "part_concept": "Evaluation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.1",
+                      "question": "How can multiple evaluation metrics provide a more comprehensive model assessment?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.2",
+                      "question": "What are the limitations of relying solely on accuracy as an evaluation metric?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.3",
+                      "question": "How does cross-validation improve the reliability of evaluation results?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.4",
+                      "question": "Why is it important to evaluate models on data representative of real-world conditions?",
+                      "concept": "Context"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.5",
+                      "question": "How can evaluation reveal ethical issues such as bias or unfairness?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.6",
+                      "question": "What challenges exist in balancing precision and recall for different applications?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.7",
+                      "question": "How do evaluation outcomes inform decisions about deployment readiness?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.8",
+                      "question": "What if evaluation metrics conflict—how should the team prioritize them?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.9",
+                      "question": "How can evaluation results affect stakeholder perceptions and confidence?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.10",
+                      "question": "What tone is appropriate when communicating evaluation weaknesses or limitations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.11",
+                      "question": "How does evaluation contribute to the transparency and accountability of ML systems?",
+                      "concept": "Accountability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.6.12",
+                      "question": "How can continuous evaluation support long-term model maintenance?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/10] 7. Tuning",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.1",
+                      "question": "How does tuning hyperparameters transform model behavior and performance?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.2",
+                      "question": "What strategies help balance tuning efforts between model accuracy and computational cost?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.3",
+                      "question": "How can automated tuning tools influence human decision-making in the tuning process?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.4",
+                      "question": "Why is it important to validate tuning results on independent datasets?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.5",
+                      "question": "How does tuning address the risk of overfitting or underfitting?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.6",
+                      "question": "What ethical considerations arise when tuning models for biased or sensitive applications?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.7",
+                      "question": "How might tuning choices reflect the priorities or biases of development teams?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.8",
+                      "question": "What if tuning leads to improvements on training data but degrades real-world performance?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.9",
+                      "question": "How does tuning impact stakeholder confidence and perception of model reliability?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.10",
+                      "question": "What tone should teams adopt when reporting tuning outcomes, especially if results are inconclusive?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.11",
+                      "question": "How can iterative tuning contribute to model evolution over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.7.12",
+                      "question": "In what ways does tuning exemplify the intersection of art and science in machine learning?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/10] 8. Deployment",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.1",
+                      "question": "How does deployment integrate machine learning models into broader socio-technical systems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.2",
+                      "question": "What challenges arise in maintaining model performance across diverse deployment environments?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.3",
+                      "question": "How can deployment decisions reflect organizational values and power structures?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.4",
+                      "question": "Why is monitoring crucial immediately following deployment?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.5",
+                      "question": "How might deployment expose models to adversarial or unexpected inputs?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.6",
+                      "question": "What ethical responsibilities do developers have when deploying models in sensitive contexts?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.7",
+                      "question": "How can user feedback during deployment improve model effectiveness?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.8",
+                      "question": "What are the risks and benefits of continuous deployment strategies?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.9",
+                      "question": "How does the tone of communication during deployment affect stakeholder trust?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.10",
+                      "question": "What if deployment uncovers systemic biases or unintended harms not seen in testing?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.11",
+                      "question": "How does deployment illustrate the dynamic boundary between technical and social systems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.8.12",
+                      "question": "What measures ensure sustainable and ethical deployment practices over time?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/10] 9. Monitoring",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.1",
+                      "question": "How does monitoring provide continuous feedback to maintain model performance?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.2",
+                      "question": "What indicators signal model drift or performance degradation during monitoring?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.3",
+                      "question": "How can monitoring balance responsiveness with avoiding false alarms?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.4",
+                      "question": "Why is stakeholder involvement important in interpreting monitoring results?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.5",
+                      "question": "How does monitoring help ensure compliance with regulatory and ethical standards?",
+                      "concept": "Accountability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.6",
+                      "question": "What challenges exist in scaling monitoring systems for complex or large-scale deployments?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.7",
+                      "question": "How do monitoring tools support proactive rather than reactive maintenance?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.8",
+                      "question": "What emotional impacts can arise among teams when monitoring reveals unexpected issues?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.9",
+                      "question": "What if monitoring uncovers conflicts between user expectations and model behavior?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.10",
+                      "question": "How does effective communication of monitoring data foster trust and transparency?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.11",
+                      "question": "What tone is most effective when reporting negative findings from monitoring?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.9.12",
+                      "question": "How can monitoring feedback loops stimulate ongoing learning and system adaptation?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/10] 10. Feedback and Iteration",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.1",
+                      "question": "How does integrating feedback into the loop drive continuous model improvement?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.2",
+                      "question": "What mechanisms ensure that feedback leads to effective iteration rather than repetitive errors?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.3",
+                      "question": "How can teams prioritize which feedback to act upon during iterative cycles?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.4",
+                      "question": "Why might some feedback be resisted or ignored in the iteration process?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.5",
+                      "question": "How does iteration help adapt models to changing environments or user needs?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.6",
+                      "question": "What risks are associated with rapid iteration without thorough evaluation?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.7",
+                      "question": "How can iterative feedback cycles enhance transparency and accountability in ML systems?",
+                      "concept": "Accountability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.8",
+                      "question": "What emotional and motivational factors influence the effectiveness of iterative feedback?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.9",
+                      "question": "What if iteration introduces new biases or unintended consequences—how should teams respond?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.10",
+                      "question": "How does the tone of communication impact collaboration during iterative feedback cycles?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.11",
+                      "question": "How does iterative feedback exemplify the cyclical nature of learning and adaptation in AI development?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.I.10.12",
+                      "question": "In what ways does iteration foster reflexivity and meta-cognition within ML teams?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/10] 1. Problem Definition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.1",
+                      "question": "How can subtle shifts in problem framing influence the entire machine learning pipeline's direction?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.2",
+                      "question": "In what ways can the interplay between societal context and technical goals complicate problem definition?",
+                      "concept": "Context"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.3",
+                      "question": "How might competing stakeholder interests be reconciled within a coherent problem statement?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.4",
+                      "question": "Why is it important to critically examine implicit assumptions embedded in the problem definition?",
+                      "concept": "Assumption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.5",
+                      "question": "How does problem definition reflect power structures within AI development and deployment?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.6",
+                      "question": "What if re-framing the problem leads to entirely different ethical or practical priorities?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.7",
+                      "question": "How can meta-cognitive awareness enhance clarity and precision in problem formulation?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.8",
+                      "question": "What role does abstraction play in bridging technical specifics with broader societal concerns?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.9",
+                      "question": "How can conflicting definitions of success impact downstream ML decisions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.10",
+                      "question": "How does effective problem framing enable adaptive and flexible ML system design?",
+                      "concept": "Adaptability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.11",
+                      "question": "What methodologies support rigorous and iterative refinement of problem definitions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.1.12",
+                      "question": "How might problem definition be leveraged to foster inclusivity and fairness in AI projects?",
+                      "concept": "Fairness"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/10] 2. Data Collection",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.1",
+                      "question": "How can the epistemological foundations of data collection methods influence ML outcomes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.2",
+                      "question": "What strategies exist for identifying and mitigating systemic biases in large-scale data sets?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.3",
+                      "question": "How does the interplay between data heterogeneity and representativeness affect model generalizability?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.4",
+                      "question": "In what ways can ethical frameworks guide decisions about data privacy and consent?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.5",
+                      "question": "How do power asymmetries manifest in data collection and influence ML applications?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.6",
+                      "question": "What role does data provenance play in assessing reliability and reproducibility?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.7",
+                      "question": "How can multi-modal data integration challenge traditional system boundaries?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.8",
+                      "question": "What are the consequences of feedback loops embedded in data generation processes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.9",
+                      "question": "How can uncertainty in data sources be rigorously quantified and managed?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.10",
+                      "question": "How might advances in sensor technology reshape paradigms of data collection?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.11",
+                      "question": "How can interdisciplinary collaboration enhance data collection strategies for complex problems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.2.12",
+                      "question": "What tensions arise between data accessibility and security in contemporary ML ecosystems?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/10] 3. Data Preparation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.1",
+                      "question": "How does iterative data preparation influence model bias and variance trade-offs?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.2",
+                      "question": "In what ways can data transformation obscure or reveal critical patterns within datasets?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.3",
+                      "question": "How can abstraction in feature engineering balance complexity and interpretability?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.4",
+                      "question": "What are the epistemic risks of over-processing data before modeling?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.5",
+                      "question": "How can documentation practices during preparation enhance reproducibility and transparency?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.6",
+                      "question": "What challenges arise in maintaining data integrity across iterative preparation cycles?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.7",
+                      "question": "How do preparation choices impact downstream interpretability and user trust?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.8",
+                      "question": "What ethical considerations should guide decisions about imputing or discarding missing data?",
+                      "concept": "Fairness"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.9",
+                      "question": "How does iterative feedback during preparation support adaptive ML workflows?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.10",
+                      "question": "What role does emotional resilience play in managing the complexity of data preparation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.11",
+                      "question": "How might preparation reflect or reinforce existing social biases embedded in data?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.3.12",
+                      "question": "How can meta-reflection improve practices in data preparation for emerging ML challenges?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/10] 4. Model Selection",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.1",
+                      "question": "How do different model architectures embody varying assumptions about data and learning processes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.2",
+                      "question": "What trade-offs emerge between model interpretability and predictive power during selection?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.3",
+                      "question": "How can ensemble methods transform traditional notions of single-model reliance?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.4",
+                      "question": "In what ways do hyperparameter spaces influence the landscape of possible models?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.5",
+                      "question": "How might implicit biases in training data constrain the efficacy of chosen models?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.6",
+                      "question": "What frameworks exist for systematically evaluating competing models beyond accuracy metrics?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.7",
+                      "question": "How do considerations of computational resource limits impact model selection strategies?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.8",
+                      "question": "What ethical dilemmas arise when selecting models for high-stakes decision-making applications?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.9",
+                      "question": "How does model selection reflect broader socio-technical systems and power dynamics?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.10",
+                      "question": "How can meta-learning approaches redefine model selection processes in evolving environments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.11",
+                      "question": "What role does human judgment play in balancing automated and manual model selection?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.4.12",
+                      "question": "How can transparent communication about model choices affect stakeholder trust and adoption?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/10] 5. Training",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.1",
+                      "question": "How do gradient-based optimization methods embody iterative learning principles in training?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.2",
+                      "question": "What are the conceptual implications of training dynamics on model convergence and stability?",
+                      "concept": "Stability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.3",
+                      "question": "How can curriculum learning strategies influence the trajectory of model skill acquisition?",
+                      "concept": "Learning"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.4",
+                      "question": "In what ways can adversarial training enhance model robustness and expose vulnerabilities?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.5",
+                      "question": "How does the stochastic nature of training data sampling affect reproducibility and fairness?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.6",
+                      "question": "What techniques mitigate risks of overfitting during complex model training?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.7",
+                      "question": "How does parallelization and distributed training reshape scalability and efficiency?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.8",
+                      "question": "What ethical considerations arise in training with sensitive or proprietary data?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.9",
+                      "question": "How might interpretability constraints shape training protocols in regulated industries?",
+                      "concept": "Interpretability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.10",
+                      "question": "How can visualization of training progress support critical reflection and debugging?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.11",
+                      "question": "What emotional or cognitive factors affect team decision-making during intensive training phases?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.5.12",
+                      "question": "How can training methodologies evolve to incorporate feedback from deployment and monitoring stages?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/10] 6. Evaluation",
+                  "part_concept": "Evaluation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.1",
+                      "question": "How do multi-dimensional evaluation metrics challenge simplistic notions of model success?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.2",
+                      "question": "What philosophical considerations underpin the choice of evaluation criteria in ML?",
+                      "concept": "Philosophy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.3",
+                      "question": "How does cross-validation address issues of data leakage and model generalization?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.4",
+                      "question": "In what ways can evaluation bias distort interpretations of model effectiveness?",
+                      "concept": "Bias"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.5",
+                      "question": "How can evaluation reveal latent ethical dilemmas embedded in model predictions?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.6",
+                      "question": "What role does uncertainty quantification play in robust model evaluation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.7",
+                      "question": "How might stakeholder values influence the prioritization of evaluation metrics?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.8",
+                      "question": "What strategies exist to communicate complex evaluation outcomes to non-technical audiences?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.9",
+                      "question": "How can evaluation practices evolve to accommodate dynamic and adaptive ML systems?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.10",
+                      "question": "What tensions arise between quantitative and qualitative evaluation methods?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.11",
+                      "question": "How can evaluation foster reflexivity and continuous learning among ML practitioners?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.6.12",
+                      "question": "What tone and language best support constructive critique during evaluation reporting?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/10] 7. Tuning",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.1",
+                      "question": "How does hyperparameter tuning act as a catalyst for transforming model capabilities and behavior?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.2",
+                      "question": "What strategies enable balancing tuning complexity with computational resource constraints?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.3",
+                      "question": "In what ways can automated tuning algorithms disrupt traditional manual tuning workflows?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.4",
+                      "question": "How does tuning interplay with overfitting and underfitting in complex models?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.5",
+                      "question": "What ethical challenges arise when tuning models that influence high-stakes decisions?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.6",
+                      "question": "How might tuning reflect the intentional biases or priorities of development teams?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.7",
+                      "question": "Why is it critical to validate tuning outcomes on independent datasets to ensure robustness?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.8",
+                      "question": "How can tuning iterations foster emergent properties in ML models?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.9",
+                      "question": "What role does human judgment play in interpreting tuning results amid algorithmic automation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.10",
+                      "question": "How can tuning outcomes impact stakeholder perceptions and trust in ML systems?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.11",
+                      "question": "What tone should be adopted when communicating tuning results to diverse audiences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.7.12",
+                      "question": "How do iterative tuning cycles exemplify the principle of continuous transformation in AI development?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/10] 8. Deployment",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.1",
+                      "question": "How does deployment integrate ML models into complex socio-technical systems with multifaceted interactions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.2",
+                      "question": "What challenges arise in maintaining model performance and reliability across diverse deployment contexts?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.3",
+                      "question": "How do organizational power structures influence deployment strategies and outcomes?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.4",
+                      "question": "Why is real-time monitoring essential immediately following model deployment?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.5",
+                      "question": "How can deployment expose models to adversarial inputs and unanticipated environmental variables?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.6",
+                      "question": "What ethical responsibilities must developers uphold during deployment in sensitive domains?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.7",
+                      "question": "How can user feedback gathered post-deployment inform iterative model improvements?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.8",
+                      "question": "What are the risks and rewards of adopting continuous deployment in ML systems?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.9",
+                      "question": "How does the communication tone during deployment influence stakeholder confidence and adoption?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.10",
+                      "question": "What if deployment uncovers systemic biases or unintended harms not identified during testing—how should teams respond?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.11",
+                      "question": "How does deployment illustrate dynamic boundaries between technical infrastructures and social environments?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.8.12",
+                      "question": "What sustainable practices can ensure ethical deployment and long-term system resilience?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/10] 9. Monitoring",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.1",
+                      "question": "How does monitoring provide essential feedback loops that maintain and enhance model performance over time?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.2",
+                      "question": "What indicators most effectively signal model drift or performance degradation during monitoring?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.3",
+                      "question": "How can monitoring systems balance sensitivity to anomalies with robustness against false alarms?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.4",
+                      "question": "Why is involving diverse stakeholders critical in interpreting and acting on monitoring data?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.5",
+                      "question": "How does monitoring ensure compliance with evolving regulatory and ethical standards?",
+                      "concept": "Accountability"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.6",
+                      "question": "What challenges arise when scaling monitoring efforts across large and complex deployments?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.7",
+                      "question": "How can proactive monitoring preemptively identify risks before impacting system users?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.8",
+                      "question": "What emotional and organizational tensions emerge when monitoring uncovers critical failures?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.9",
+                      "question": "What if monitoring reveals conflicts between user expectations and model outputs—how should teams reconcile these discrepancies?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.10",
+                      "question": "How does clear communication of monitoring results foster transparency and stakeholder trust?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.11",
+                      "question": "What tone and framing best facilitate constructive dialogue around monitoring findings?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.9.12",
+                      "question": "How can monitoring feedback loops drive continuous learning and adaptation in ML systems?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/10] 10. Feedback and Iteration",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.1",
+                      "question": "How does the cyclical integration of feedback catalyze transformative learning within ML systems?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.2",
+                      "question": "What frameworks support the synthesis of diverse feedback sources into coherent iterative improvements?",
+                      "concept": "Integration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.3",
+                      "question": "How can feedback loops balance stability and flexibility to foster resilient AI models?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.4",
+                      "question": "Why is reflexivity critical in interpreting feedback to avoid reinforcing systemic biases?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.5",
+                      "question": "In what ways can feedback mechanisms expose paradoxes or contradictions in ML model behavior?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.6",
+                      "question": "How might feedback-induced transformations influence ethical considerations in AI deployment?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.7",
+                      "question": "What roles do agency and intention play in shaping responses to feedback in iterative cycles?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.8",
+                      "question": "How does the tone and framing of feedback affect team dynamics and innovation potential?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.9",
+                      "question": "What if feedback is contradictory or ambiguous—how can ML teams navigate such complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.10",
+                      "question": "How can iteration foster emergence of novel capabilities beyond initial design intentions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.11",
+                      "question": "What methodologies facilitate deep learning and knowledge accumulation through iterative feedback?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.A.10.12",
+                      "question": "How can continuous feedback loops be structured to enhance fairness and inclusivity in AI systems?",
+                      "concept": "Fairness"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/10] 1. Problem Definition",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.1",
+                      "question": "How does the act of problem definition function as a meta-framing device influencing broader AI research paradigms?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.2",
+                      "question": "In what ways can deconstructing the problem definition reveal embedded cultural and epistemic biases?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.3",
+                      "question": "How might transformative shifts in problem framing challenge entrenched disciplinary boundaries within AI?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.4",
+                      "question": "What methodologies enable critical interrogation of the power dynamics shaping problem definitions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.5",
+                      "question": "How can iterative reframing of problems foster emergent insights and innovation at the interface of AI and society?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.6",
+                      "question": "What role does authorial strategy play in communicating and legitimizing specific problem framings within AI communities?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.7",
+                      "question": "How can ambiguity in problem definition be leveraged productively to open spaces for interdisciplinary dialogue?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.8",
+                      "question": "What if alternative ontologies of 'problem' were adopted—how might this reshape AI development trajectories?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.9",
+                      "question": "How does meta-cognition influence the ethical considerations embedded in problem definition?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.10",
+                      "question": "How can problem definition serve as a locus for negotiating conflicting stakeholder values and epistemologies?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.11",
+                      "question": "What insights emerge from applying systems thinking to the socio-technical dimensions of problem framing?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.1.12",
+                      "question": "How can reflexive praxis be institutionalized to continuously critique and refine AI problem definitions?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/10] 2. Data Collection",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.1",
+                      "question": "How does data collection act as a performative practice shaping realities within AI socio-technical systems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.2",
+                      "question": "What critical frameworks expose the ethical and political dimensions embedded in data sourcing and curation?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.3",
+                      "question": "How can meta-analysis of data provenance reveal systemic inequalities perpetuated through AI datasets?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.4",
+                      "question": "In what ways do feedback loops in data generation complicate notions of objectivity and neutrality?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.5",
+                      "question": "How might alternative epistemologies inform more equitable and pluralistic data collection methodologies?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.6",
+                      "question": "What role does scale play in amplifying biases or emergent properties within massive datasets?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.7",
+                      "question": "How can systems thinking illuminate the boundaries and interdependencies involved in data ecosystems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.8",
+                      "question": "What if data collection strategies prioritized dynamic and participatory models over static extraction?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.9",
+                      "question": "How can uncertainty and ambiguity in data be embraced rather than eliminated in AI research?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.10",
+                      "question": "What methodologies support deep critique of the ontological assumptions underpinning datasets?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.11",
+                      "question": "How can monitoring emergent data patterns inform adaptive and reflexive AI system design?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.2.12",
+                      "question": "How might institutional reflexivity transform policies governing data governance and stewardship?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/10] 3. Data Preparation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.1",
+                      "question": "How does data preparation embody iterative epistemologies that shape knowledge production in AI?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.2",
+                      "question": "What are the ontological and ethical implications of decisions made during data cleaning and transformation?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.3",
+                      "question": "How might iterative preprocessing cycles reproduce or disrupt existing social and algorithmic biases?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.4",
+                      "question": "In what ways can meta-reflection on data preparation practices lead to methodological innovations?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.5",
+                      "question": "How can ambiguity in data treatment be managed to support both precision and flexibility in modeling?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.6",
+                      "question": "What role does memory and documentation play in enabling reproducible and accountable data pipelines?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.7",
+                      "question": "How can data preparation be conceptualized as a boundary object facilitating interdisciplinary collaboration?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.8",
+                      "question": "What if emerging automated preparation tools challenge traditional human roles and expertise in AI workflows?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.9",
+                      "question": "How can the emotional and cognitive labor involved in preparation be acknowledged and supported within teams?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.10",
+                      "question": "How does iterative refinement during preparation contribute to emergent system properties and resilience?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.11",
+                      "question": "What are the paradoxes involved in striving for data purity while embracing real-world messiness?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.3.12",
+                      "question": "How can reflexive methodologies disrupt entrenched power structures embedded in data workflows?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/10] 4. Model Selection",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.1",
+                      "question": "How does model selection serve as a critical site where epistemic values and technical criteria converge and conflict?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.2",
+                      "question": "In what ways can meta-analyses of model selection practices reveal disciplinary biases and methodological hegemonies?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.3",
+                      "question": "How might transformative approaches to model selection disrupt conventional performance-centric paradigms?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.4",
+                      "question": "What role do power dynamics play in privileging certain models or architectures within research and industry contexts?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.5",
+                      "question": "How can ambiguous or contested criteria in model selection be leveraged to foster innovation and interdisciplinarity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.6",
+                      "question": "What if non-traditional or hybrid models were systematically integrated into selection frameworks—how would this reshape AI development?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.7",
+                      "question": "How does authorial strategy influence the framing and justification of model choices in scholarly communication?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.8",
+                      "question": "How can emergent properties arising from ensemble or multi-model approaches challenge reductionist selection logics?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.9",
+                      "question": "What ethical implications arise when model selection prioritizes efficiency over fairness or transparency?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.10",
+                      "question": "How might reflexive practices be institutionalized to critically evaluate and revise model selection criteria over time?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.11",
+                      "question": "What tensions emerge between human agency and automated decision-making in model selection processes?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.4.12",
+                      "question": "How can framing model selection as a boundary object facilitate collaborative and cross-disciplinary AI research?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/10] 5. Training",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.1",
+                      "question": "How does training encapsulate iterative cycles of knowledge construction and unlearning within AI systems?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.2",
+                      "question": "In what ways can training dynamics be critically analyzed to reveal embedded power relations and systemic biases?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.3",
+                      "question": "How might reflexive methodologies inform adaptive training regimes responsive to social and ethical considerations?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.4",
+                      "question": "What paradoxes arise in balancing model flexibility with stability during training iterations?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.5",
+                      "question": "How does the intention behind training protocols shape emergent model behaviors and ethical outcomes?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.6",
+                      "question": "What role does ambiguity in training data and objectives play in fostering innovative AI solutions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.7",
+                      "question": "How can systems thinking reveal feedback loops between training practices and broader AI ecosystem transformations?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.8",
+                      "question": "What if training methodologies prioritized collaborative human-AI learning over purely algorithmic optimization?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.9",
+                      "question": "How can memory and documentation practices during training enhance reproducibility and accountability?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.10",
+                      "question": "How might the tone and framing of training narratives influence interdisciplinary communication and understanding?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.11",
+                      "question": "What ethical frameworks can guide the continuous adaptation of training protocols in dynamic AI contexts?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.5.12",
+                      "question": "How can emergent properties from training iterations be anticipated and responsibly managed?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/10] 6. Evaluation",
+                  "part_concept": "Evaluation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.1",
+                      "question": "How does evaluation function as a meta-analytical process critiquing both technical performance and socio-ethical impacts?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.2",
+                      "question": "What methodologies enable interrogation of evaluation metrics as socio-technical constructs rather than purely quantitative measures?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.3",
+                      "question": "How might evaluation practices perpetuate or challenge existing epistemic hegemonies within AI research?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.4",
+                      "question": "In what ways can reflexive evaluation foster ethical AI development and continuous societal accountability?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.5",
+                      "question": "How can ambiguity and uncertainty be productively integrated into evaluation frameworks to reflect complex real-world contexts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.6",
+                      "question": "What paradoxes emerge when balancing quantitative rigor with qualitative insights in evaluation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.7",
+                      "question": "How does authorial strategy influence the framing and communication of evaluation findings to diverse audiences?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.8",
+                      "question": "What if evaluation criteria were co-designed with impacted communities—how would this transform AI accountability?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.9",
+                      "question": "How can systems thinking elucidate feedback loops between evaluation outcomes and iterative AI development cycles?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.10",
+                      "question": "How can tone and narrative framing in evaluation reports shape stakeholder perceptions and ethical deliberations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.11",
+                      "question": "What role does memory and archival play in preserving evaluation histories for longitudinal AI accountability?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.6.12",
+                      "question": "How can emergent insights from evaluation cycles drive transformative AI innovations aligned with social good?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/10] 7. Tuning",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.1",
+                      "question": "How can tuning be conceptualized as a transformative process that reconfigures model behavior within AI ecosystems?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.2",
+                      "question": "In what ways do power relations manifest in decisions about hyperparameter optimization and tuning priorities?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.3",
+                      "question": "How might reflexive practices during tuning mitigate unintended biases and ethical concerns?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.4",
+                      "question": "What paradoxes arise when tuning aims to optimize competing objectives such as accuracy, fairness, and efficiency?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.5",
+                      "question": "How can ambiguity in tuning outcomes be leveraged to foster innovation and emergent model properties?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.6",
+                      "question": "What role does agency play in balancing automated tuning algorithms with human expert intervention?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.7",
+                      "question": "How can authorial strategy shape the presentation and justification of tuning choices in research communication?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.8",
+                      "question": "How might tuning processes contribute to systemic transformation within AI development cycles?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.9",
+                      "question": "What ethical frameworks can guide the prioritization and transparency of tuning decisions?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.10",
+                      "question": "How does the tone of communication around tuning outcomes influence interdisciplinary collaboration and trust?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.11",
+                      "question": "What if tuning algorithms were designed to incorporate stakeholder feedback dynamically—how would this affect model adaptation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.7.12",
+                      "question": "How can tuning exemplify iterative cycles of learning and adaptation fundamental to AI resilience?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/10] 8. Deployment",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.1",
+                      "question": "How does deployment embed ML models within complex socio-technical systems, reshaping both technology and context?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.2",
+                      "question": "What systemic feedback loops emerge from deployment decisions impacting model evolution and societal effects?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.3",
+                      "question": "How can power dynamics influence deployment strategies and control over AI outputs in different domains?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.4",
+                      "question": "In what ways can deployment practices disrupt existing social, ethical, and regulatory boundaries?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.5",
+                      "question": "How might ambiguity and uncertainty during deployment be managed to foster responsible AI use?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.6",
+                      "question": "What role does reflexivity play in continuous monitoring and adaptation post-deployment?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.7",
+                      "question": "How can deployment communication strategies be optimized to balance transparency and stakeholder engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.8",
+                      "question": "What ethical considerations should guide deployment in high-impact or sensitive contexts?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.9",
+                      "question": "How can boundary concepts inform the negotiation between technical deployment constraints and social expectations?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.10",
+                      "question": "What if deployment models incorporated participatory governance—how would this transform AI accountability and trust?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.11",
+                      "question": "How do emergent phenomena during deployment challenge static conceptions of AI system behavior?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.8.12",
+                      "question": "How can deployment serve as a pivot point for cultural transformation within AI ecosystems?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/10] 9. Monitoring",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.1",
+                      "question": "How does monitoring create reflexive feedback loops that enable meta-learning and adaptive governance in AI systems?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.2",
+                      "question": "What interpretive frameworks best capture the complexities and ambiguities revealed through monitoring data?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.3",
+                      "question": "How can monitoring processes illuminate latent power structures and biases within deployed AI models?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.4",
+                      "question": "In what ways does monitoring challenge or reinforce existing ethical standards and accountability mechanisms?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.5",
+                      "question": "How might ambiguity and uncertainty in monitoring outcomes be productively harnessed for system resilience?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.6",
+                      "question": "What tensions arise between automated monitoring systems and human interpretive judgment?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.7",
+                      "question": "How can monitoring act as a boundary object facilitating interdisciplinary collaboration and governance?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.8",
+                      "question": "How does the tone of monitoring reports influence stakeholder responses and ethical deliberations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.9",
+                      "question": "What role does memory and archival play in enabling longitudinal insights from monitoring data?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.10",
+                      "question": "How can emergent patterns detected through monitoring inform transformative adaptations in AI systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.11",
+                      "question": "What if monitoring mechanisms were co-designed with affected communities—how would this reshape AI accountability frameworks?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.9.12",
+                      "question": "How do feedback cycles within monitoring exemplify recursive learning and continuous improvement in AI development?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/10] 10. Feedback and Iteration",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.1",
+                      "question": "How does feedback and iteration embody recursive cycles that drive both technical refinement and cultural transformation in AI systems?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.2",
+                      "question": "In what ways can reflexivity be institutionalized to critically assess and adapt feedback mechanisms across AI development stages?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.3",
+                      "question": "How do power dynamics influence whose feedback is prioritized and how iteration pathways are shaped?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.4",
+                      "question": "What paradoxes emerge when iterative cycles both stabilize and disrupt AI system behavior simultaneously?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.5",
+                      "question": "How can ambiguity in feedback signals be harnessed to foster innovation and emergent properties in AI models?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.6",
+                      "question": "What role does agency play in negotiating between automated feedback processes and human oversight during iteration?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.7",
+                      "question": "How can authorial strategy influence the communication and interpretation of feedback outcomes to diverse stakeholders?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.8",
+                      "question": "What ethical frameworks should guide iterative practices to ensure accountability, fairness, and social benefit?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.9",
+                      "question": "How does the tone and framing of feedback impact team dynamics and openness to adaptive change?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.10",
+                      "question": "What if feedback loops were designed to integrate multi-stakeholder perspectives continuously—how would this reshape AI development cycles?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.11",
+                      "question": "How can memory and archival practices support transparency and learning throughout iterative feedback cycles?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Machine-Learning-Loop.ME.10.12",
+                      "question": "In what ways does iteration foster emergent properties that transcend initial design intentions and enable adaptive AI systems?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

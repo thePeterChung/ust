@@ -1,0 +1,1411 @@
+{
+  "discipline": "Psychology",
+  "children": [
+    {
+      "structure_name": "Cognitive-Behavioral-Model",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Situation → 2. Thoughts → 3. Emotions → 4. Behaviors → 5. Consequences"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Situation"
+                },
+                {
+                  "structure_part": "[2/5] 2. Thoughts"
+                },
+                {
+                  "structure_part": "[3/5] 3. Emotions"
+                },
+                {
+                  "structure_part": "[4/5] 4. Behaviors"
+                },
+                {
+                  "structure_part": "[5/5] 5. Consequences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Anxiety Disorder Treatment, Depression Intervention, Stress Management"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Situation → Context or triggering event where cognition begins"
+            },
+            {
+              "terminology": "2. Thoughts → Automatic cognitions or beliefs triggered by the situation"
+            },
+            {
+              "terminology": "3. Emotions → Feelings generated as a response to thoughts"
+            },
+            {
+              "terminology": "4. Behaviors → Actions or reactions influenced by thoughts and emotions"
+            },
+            {
+              "terminology": "5. Consequences → Outcomes reinforcing or modifying the cognitive-behavioral cycle"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Situation",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.1",
+                      "question": "What is the role of the situation in the cognitive-behavioral model?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.2",
+                      "question": "How does identifying the situation help understand behavior?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.3",
+                      "question": "Why is context important in shaping our thoughts and feelings?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.4",
+                      "question": "What kinds of situations typically trigger cognitive and emotional responses?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.5",
+                      "question": "How would you describe a situation to someone unfamiliar with the model?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.6",
+                      "question": "What if the situation was ambiguous—how would this affect thought patterns?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.7",
+                      "question": "What emotions might arise immediately from different situations?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.8",
+                      "question": "How can awareness of the situation improve self-understanding or therapy outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.9",
+                      "question": "What next steps follow after recognizing the triggering situation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.10",
+                      "question": "How does the situation act as a boundary within the cognitive-behavioral cycle?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.11",
+                      "question": "What if multiple situations occur simultaneously—how might that complicate analysis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.1.12",
+                      "question": "How might different perspectives influence how a situation is framed?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Thoughts",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.1",
+                      "question": "What role do thoughts play in connecting situation to emotions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.2",
+                      "question": "How do automatic thoughts influence emotional reactions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.3",
+                      "question": "Why is it important to recognize and analyze our thoughts in this model?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.4",
+                      "question": "What kinds of thoughts tend to be most impactful in cognitive-behavioral therapy?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.5",
+                      "question": "How can negative thought patterns lead to unhealthy emotional states?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.6",
+                      "question": "What if a person could challenge or change their automatic thoughts—how might this affect outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.7",
+                      "question": "How might thoughts create feedback loops within the cognitive-behavioral cycle?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.8",
+                      "question": "What next steps are suggested after identifying problematic thoughts?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.9",
+                      "question": "How does the model explain the relationship between belief and behavior?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.10",
+                      "question": "What emotional tone is conveyed when thoughts are distorted or irrational?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.11",
+                      "question": "Why might different disciplines interpret the role of thoughts differently?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.2.12",
+                      "question": "How can perspective-taking alter the content or impact of thoughts?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Emotions",
+                  "part_concept": "Mood",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.1",
+                      "question": "How do emotions arise from thoughts within this model?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.2",
+                      "question": "What role do emotions play in influencing behaviors?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.3",
+                      "question": "Why is recognizing emotional responses crucial in cognitive-behavioral therapy?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.4",
+                      "question": "How can emotions act as signals or feedback about our cognitive processes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.5",
+                      "question": "What kinds of emotions are most commonly addressed in CBT?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.6",
+                      "question": "How might emotional intensity affect subsequent behavior choices?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.7",
+                      "question": "What if emotions are suppressed or ignored—how does this affect the cycle?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.8",
+                      "question": "How can understanding emotional tone improve therapy outcomes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.9",
+                      "question": "What next steps arise after identifying key emotional responses?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.10",
+                      "question": "How do emotions create a boundary or limit to rational thought processes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.11",
+                      "question": "How does the model address the ambiguity often present in emotional experiences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.3.12",
+                      "question": "Why might different emotional reactions occur in response to the same thought pattern?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Behaviors",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.1",
+                      "question": "How do behaviors emerge from emotions and thoughts in this model?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.2",
+                      "question": "What types of behaviors are typically analyzed in cognitive-behavioral therapy?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.3",
+                      "question": "Why is it important to understand behavior patterns in the cognitive-behavioral cycle?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.4",
+                      "question": "How can behaviors reinforce or change thoughts and emotions?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.5",
+                      "question": "What choices influence the behaviors we exhibit in response to situations?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.6",
+                      "question": "What if a person changes their behavior—how might that impact their emotional state?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.7",
+                      "question": "How do external actions affect internal cognitive processes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.8",
+                      "question": "What next steps are involved after identifying unhelpful behaviors?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.9",
+                      "question": "How does behavioral change contribute to breaking negative cycles?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.10",
+                      "question": "What emotional tone is connected to resisting or embracing behavior change?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.11",
+                      "question": "Why might behaviors be easier or harder to change than thoughts or emotions?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.4.12",
+                      "question": "How can awareness of agency empower individuals in therapy?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Consequences",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.1",
+                      "question": "What are the consequences in the cognitive-behavioral model?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.2",
+                      "question": "How do consequences influence future thoughts and behaviors?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.3",
+                      "question": "Why is understanding consequences important for behavioral change?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.4",
+                      "question": "How can positive or negative consequences reinforce cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.5",
+                      "question": "What choices arise when consequences are recognized as problematic?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.6",
+                      "question": "What if consequences are delayed or indirect—how does this affect learning?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.7",
+                      "question": "How might consequences contribute to either growth or stagnation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.8",
+                      "question": "What next steps follow from recognizing consequence patterns?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.9",
+                      "question": "How do consequences create boundaries within behavioral systems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.10",
+                      "question": "What emotional responses might consequences evoke, and why does this matter?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.11",
+                      "question": "How does the model help interpret ambiguous consequences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.B.5.12",
+                      "question": "Why is feedback essential for effective cognitive-behavioral interventions?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Situation",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.1",
+                      "question": "How does framing a situation influence subsequent cognitive and emotional responses?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.2",
+                      "question": "Why might two individuals perceive the same situation differently, and what implications does this have?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.3",
+                      "question": "How can the identification of situational triggers aid in modifying maladaptive patterns?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.4",
+                      "question": "In what ways do situational contexts interact with personal history to shape reactions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.5",
+                      "question": "What systemic factors might complicate the identification of a singular triggering situation?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.6",
+                      "question": "How does ambiguity within a situation affect cognitive processing and emotional outcomes?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.7",
+                      "question": "What emotional tones are commonly evoked by different types of situations, and why?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.8",
+                      "question": "How might repeated exposure to similar situations influence cognitive-behavioral responses over time?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.9",
+                      "question": "What role does memory play in shaping the perception of a current situation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.10",
+                      "question": "How can recognizing the boundaries of a situation improve therapeutic focus?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.11",
+                      "question": "What if the situation involves conflicting cues—how does this affect interpretation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.1.12",
+                      "question": "How can shifting perspective on a situation initiate cognitive transformation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Thoughts",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.1",
+                      "question": "How do specific thought patterns causally influence emotional and behavioral responses?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.2",
+                      "question": "Why is it important to differentiate between automatic thoughts and deliberate reasoning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.3",
+                      "question": "How can cognitive distortions perpetuate maladaptive behavior cycles?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.4",
+                      "question": "What strategies can be used to identify and challenge dysfunctional thoughts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.5",
+                      "question": "How do thought patterns interact with memory and past experiences to shape current cognition?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.6",
+                      "question": "In what ways can altering thought content lead to transformation in emotional states?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.7",
+                      "question": "What if conflicting thoughts arise simultaneously—how might this paradox be resolved?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.8",
+                      "question": "How does the hierarchical organization of thoughts affect behavioral choices?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.9",
+                      "question": "What role does inference play in forming beliefs and attitudes?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.10",
+                      "question": "How can shifting perspective on a thought facilitate emotional regulation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.11",
+                      "question": "What next steps follow from recognizing maladaptive cognitive patterns?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.2.12",
+                      "question": "How might cultural or contextual factors influence thought patterns differently across individuals?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Emotions",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.1",
+                      "question": "How do emotions act as a bridge between thoughts and behaviors in this model?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.2",
+                      "question": "Why is emotional awareness critical for modifying cognitive-behavioral patterns?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.3",
+                      "question": "How can emotional responses both motivate and inhibit behavior change?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.4",
+                      "question": "What is the significance of emotional regulation in therapeutic contexts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.5",
+                      "question": "How do mood and emotional tone influence the interpretation of situations and thoughts?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.6",
+                      "question": "What if emotional responses are disproportionate to the triggering thoughts—how is this addressed?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.7",
+                      "question": "How does emotional ambiguity affect cognitive clarity and decision-making?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.8",
+                      "question": "How can understanding emotional cycles assist in breaking maladaptive patterns?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.9",
+                      "question": "What role does feedback between emotions and thoughts play in sustaining behavioral patterns?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.10",
+                      "question": "How might cultural differences shape emotional expression and experience within the model?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.11",
+                      "question": "What next steps can be taken once key emotional responses are identified in therapy?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.3.12",
+                      "question": "How does emotional tension create opportunities for cognitive transformation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Behaviors",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.1",
+                      "question": "How do behaviors serve as expressions of underlying thoughts and emotions within this model?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.2",
+                      "question": "Why is it essential to analyze behavior patterns when addressing cognitive distortions?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.3",
+                      "question": "How can intentional behavioral change disrupt maladaptive cognitive-emotional cycles?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.4",
+                      "question": "What feedback mechanisms exist between behaviors and cognitive-emotional processes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.5",
+                      "question": "How do choices made in behavior reflect agency and influence therapeutic outcomes?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.6",
+                      "question": "What if maladaptive behaviors are reinforced by social or environmental factors—how can these be addressed?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.7",
+                      "question": "How does the concept of hierarchy help understand the complexity of behavioral responses?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.8",
+                      "question": "What role does iteration play in modifying behaviors through repeated practice?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.9",
+                      "question": "How can awareness of paradoxical behaviors improve cognitive-behavioral interventions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.10",
+                      "question": "What emotional tone is associated with resistance or acceptance of behavioral change?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.11",
+                      "question": "Why might some behaviors be more resistant to change than others within the cognitive-behavioral framework?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.4.12",
+                      "question": "How can shifting perspective on behavior enable new strategies for change?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Consequences",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.1",
+                      "question": "How do consequences function as feedback within the cognitive-behavioral cycle?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.2",
+                      "question": "Why is evaluating consequences critical for understanding and modifying behavior patterns?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.3",
+                      "question": "How can positive and negative consequences differentially affect motivation and learning?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.4",
+                      "question": "What role do consequences play in reinforcing or disrupting behavioral cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.5",
+                      "question": "How do choices regarding behavior change depend on the interpretation of consequences?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.6",
+                      "question": "What if consequences are delayed or indirect—how does this impact cognitive and behavioral adjustment?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.7",
+                      "question": "How can understanding consequences contribute to transformational change in therapy?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.8",
+                      "question": "What next steps are suggested after analyzing consequence patterns in cognitive-behavioral work?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.9",
+                      "question": "How do consequences establish boundaries within cognitive-behavioral systems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.10",
+                      "question": "What emotional responses do consequences evoke, and how do they influence behavior change?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.11",
+                      "question": "How does the model help interpret ambiguous or conflicting consequences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.I.5.12",
+                      "question": "Why is feedback considered essential for sustained cognitive-behavioral adaptation?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Situation",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.1",
+                      "question": "How does the framing of a situation influence cognitive schemas and implicit biases within the model?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.2",
+                      "question": "In what ways do contextual factors mediate the interaction between situation and cognitive appraisal?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.3",
+                      "question": "How can situational ambiguity contribute to cognitive dissonance and affect subsequent processing?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.4",
+                      "question": "What role do memory and past experiences play in shaping the perception of present situations?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.5",
+                      "question": "How might the perception of boundaries within situations influence cognitive flexibility and adaptation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.6",
+                      "question": "Why is it important to consider systemic and environmental influences when analyzing situations in cognitive-behavioral terms?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.7",
+                      "question": "How can shifts in perspective on a situation initiate emergent cognitive and emotional patterns?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.8",
+                      "question": "What implications does the concept of paradox within situations have for therapeutic intervention?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.9",
+                      "question": "How does the accumulation of situational factors influence long-term cognitive-behavioral outcomes?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.10",
+                      "question": "What strategies can be used to reframe problematic situations to facilitate cognitive restructuring?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.11",
+                      "question": "How does pacing of situational exposure affect cognitive and emotional processing?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.1.12",
+                      "question": "What next steps follow from critically analyzing the framing of situations in therapy?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Thoughts",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.1",
+                      "question": "How do underlying cognitive schemas generate automatic thoughts within specific contexts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.2",
+                      "question": "What mechanisms explain the persistence of maladaptive thought patterns despite contradictory evidence?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.3",
+                      "question": "How does hierarchical structuring of beliefs influence cognitive distortions and behavior?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.4",
+                      "question": "In what ways can cognitive reframing alter deeply embedded automatic thoughts?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.5",
+                      "question": "How do inference and abstraction contribute to the formation and modification of thought patterns?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.6",
+                      "question": "What role does metacognition play in recognizing and regulating dysfunctional thoughts?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.7",
+                      "question": "How might conflicting or paradoxical thoughts coexist, and what impact do they have on cognitive coherence?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.8",
+                      "question": "What influence do cultural and contextual factors exert on the content and structure of thoughts?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.9",
+                      "question": "How can cognitive restructuring be strategically paced to optimize learning and change?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.10",
+                      "question": "How does iterative cognitive appraisal support sustained behavioral adaptation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.11",
+                      "question": "What emotional tone is typically associated with the process of cognitive challenge and change?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.2.12",
+                      "question": "What next steps emerge after identifying deeply ingrained cognitive distortions?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Emotions",
+                  "part_concept": "Tension",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.1",
+                      "question": "How do emotional tensions mediate the interaction between cognition and behavior within this model?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.2",
+                      "question": "What is the role of emotional regulation in facilitating cognitive restructuring and behavioral change?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.3",
+                      "question": "How can emotional ambivalence or ambiguity complicate cognitive-behavioral interventions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.4",
+                      "question": "In what ways do mood states influence the appraisal and interpretation of thoughts and situations?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.5",
+                      "question": "How can understanding the cyclical nature of emotional responses enhance therapeutic strategies?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.6",
+                      "question": "What impact does emotional tone have on client engagement and therapy outcomes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.7",
+                      "question": "How do cultural differences shape emotional expression and its integration in cognitive-behavioral frameworks?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.8",
+                      "question": "How does the accumulation of emotional experiences influence cognitive vulnerability or resilience?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.9",
+                      "question": "What strategies can be employed to transform maladaptive emotional responses within therapy?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.10",
+                      "question": "How does emotional feedback contribute to the maintenance or disruption of behavioral patterns?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.11",
+                      "question": "What next steps arise from a nuanced understanding of emotional dynamics in therapy?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.3.12",
+                      "question": "How can emotional tension act as both a barrier and catalyst for cognitive-behavioral change?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Behaviors",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.1",
+                      "question": "How do behaviors function as manifestations of underlying cognitive and emotional processes within complex systems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.2",
+                      "question": "In what ways can behavioral patterns become self-reinforcing through feedback loops?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.3",
+                      "question": "How does the hierarchical organization of behaviors impact their susceptibility to cognitive restructuring?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.4",
+                      "question": "What role does behavioral choice play in facilitating or hindering transformational change?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.5",
+                      "question": "How can paradoxical behaviors challenge conventional cognitive-behavioral interventions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.6",
+                      "question": "What strategies leverage iteration and repetition to achieve durable behavioral modification?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.7",
+                      "question": "How do systemic and environmental factors influence the emergence and persistence of behaviors?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.8",
+                      "question": "How can shifting perspective on behavior inform novel therapeutic approaches?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.9",
+                      "question": "What emotional tones are commonly associated with resistance to or acceptance of behavioral change?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.10",
+                      "question": "How does uncertainty in behavioral outcomes affect motivation and agency within therapy?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.11",
+                      "question": "What next steps emerge from understanding the complexity of behavior within cognitive-behavioral frameworks?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.4.12",
+                      "question": "How can emergence theory deepen our understanding of novel behaviors in therapy contexts?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Consequences",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.1",
+                      "question": "How do consequences operate as feedback mechanisms that influence the iterative cognitive-behavioral cycle?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.2",
+                      "question": "In what ways can consequences contribute to both resolution and perpetuation of maladaptive patterns?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.3",
+                      "question": "How does the timing and accumulation of consequences affect cognitive and behavioral adaptation over time?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.4",
+                      "question": "What role do boundaries play in delimiting the influence of consequences within cognitive-behavioral systems?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.5",
+                      "question": "How can ambiguity in consequences complicate therapeutic interpretation and decision-making?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.6",
+                      "question": "What strategies can be used to reframe negative consequences to facilitate transformational change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.7",
+                      "question": "How do cultural and systemic contexts mediate the perception and impact of consequences?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.8",
+                      "question": "What next steps are recommended after analyzing consequence patterns in advanced cognitive-behavioral therapy?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.9",
+                      "question": "How does feedback from consequences inform meta-cognitive awareness and therapeutic adjustment?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.10",
+                      "question": "What emotional tones do various consequences evoke, and how can these be harnessed in therapy?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.11",
+                      "question": "How can paradoxical or conflicting consequences be reconciled to enhance therapeutic progress?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.A.5.12",
+                      "question": "Why is an understanding of feedback loops essential for sustaining long-term cognitive-behavioral change?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Situation",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.1",
+                      "question": "How can advanced framing techniques reveal hidden systemic biases in situational appraisal within cognitive-behavioral contexts?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.2",
+                      "question": "In what ways do multi-layered contextual factors create emergent properties influencing cognitive perception of situations?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.3",
+                      "question": "How does the interplay between temporal pacing and accumulation of situational elements affect cognitive-emotional integration?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.4",
+                      "question": "What are the epistemological implications of paradoxes within situational framing for therapeutic knowledge production?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.5",
+                      "question": "How can boundary theory be applied to deconstruct and reconstruct situational definitions in therapy?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.6",
+                      "question": "What role does reflexivity play in critically examining the system-level influences on situation appraisal?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.7",
+                      "question": "How might meta-cognitive strategies enhance client awareness of framing effects on situation interpretation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.8",
+                      "question": "What next steps can meta-level practitioners take to facilitate transformative re-framing of client situations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.9",
+                      "question": "How can the dialectic between stability and change be negotiated through situational analysis at the meta-level?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.10",
+                      "question": "What methodological approaches best capture the complexity of situation framing in advanced cognitive-behavioral research?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.11",
+                      "question": "How can pacing and iteration be optimized to maximize cognitive restructuring of situational perceptions?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.1.12",
+                      "question": "How does integrating metaphorical analysis enrich understanding of client situation framing?",
+                      "concept": "Metaphor"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Thoughts",
+                  "part_concept": "Reflexivity",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.1",
+                      "question": "How can reflexive practices expose underlying assumptions within automatic thought processes?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.2",
+                      "question": "In what ways do meta-cognitive frameworks facilitate the deconstruction and reconstruction of maladaptive beliefs?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.3",
+                      "question": "How does the tension between cognitive coherence and paradoxical thoughts manifest in advanced therapy cases?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.4",
+                      "question": "What role does abstraction play in transcending limiting cognitive schemas within expert-level interventions?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.5",
+                      "question": "How might meta-analytical approaches inform iterative cognitive restructuring techniques?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.6",
+                      "question": "What are the epistemic challenges in differentiating between cognitive bias and adaptive heuristic reasoning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.7",
+                      "question": "How can emergent properties of thought patterns be identified and utilized in transformative therapy?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.8",
+                      "question": "How does cultural reflexivity shape cognitive frameworks and therapeutic outcomes at the meta-level?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.9",
+                      "question": "What next steps should meta-level therapists consider when addressing deeply entrenched cognitive distortions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.10",
+                      "question": "How can metaphor and narrative be strategically employed to reframe cognitive processes?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.11",
+                      "question": "How can pacing and repetition be balanced to optimize cognitive flexibility and resilience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.2.12",
+                      "question": "What implications does the concept of feedback loops have for sustaining cognitive transformation?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Emotions",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.1",
+                      "question": "How can advanced understanding of emotional transformation inform adaptive cognitive-behavioral interventions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.2",
+                      "question": "What is the role of emotional ambiguity and tension in catalyzing cognitive shifts at the meta-level?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.3",
+                      "question": "How does meta-awareness of mood fluctuations contribute to therapeutic resilience and growth?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.4",
+                      "question": "In what ways can cultural narratives influence the emotional frameworks clients bring to therapy?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.5",
+                      "question": "How can the cycle of emotional responses be harnessed to facilitate sustained behavioral change?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.6",
+                      "question": "What strategies can be employed to manage emotional power dynamics within therapeutic relationships?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.7",
+                      "question": "How can metaphorical and narrative techniques deepen emotional processing and integration?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.8",
+                      "question": "What next steps can experts take to use emotional tension constructively in therapy?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.9",
+                      "question": "How does the accumulation of emotional experiences inform meta-cognitive strategies for change?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.10",
+                      "question": "How can pacing and repetition of emotional processing sessions optimize therapeutic outcomes?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.11",
+                      "question": "What ethical considerations arise from manipulating emotional states in advanced therapy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.3.12",
+                      "question": "How can experts balance emotional closure with openness to maintain therapeutic momentum?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Behaviors",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.1",
+                      "question": "How can emergence theory deepen the understanding of complex behavioral patterns in cognitive-behavioral therapy?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.2",
+                      "question": "In what ways do behaviors reflect multi-level system interactions beyond simple cause and effect?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.3",
+                      "question": "How does the paradox of voluntary versus automatic behavior challenge traditional cognitive-behavioral assumptions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.4",
+                      "question": "What role does agency play in navigating uncertainty within complex behavioral feedback loops?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.5",
+                      "question": "How can iterative behavioral experiments be designed to maximize therapeutic transformation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.6",
+                      "question": "How can shifting perspectives on behavior reveal hidden motivational structures and power dynamics?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.7",
+                      "question": "What emotional tones are most indicative of readiness or resistance to behavioral change at the meta-level?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.8",
+                      "question": "How can meta-strategies balance behavioral stability and flexibility in adaptive therapy?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.9",
+                      "question": "What next steps should experts take to integrate systemic feedback into behavioral intervention design?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.10",
+                      "question": "How can boundaries within behavioral systems be negotiated to foster sustainable change?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.11",
+                      "question": "What implications does pacing have for the emergence and consolidation of new behaviors?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.4.12",
+                      "question": "How might cultural transformation intersect with behavioral modification processes in advanced therapy?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Consequences",
+                  "part_concept": "Reflexivity",
+                  "children": [
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.1",
+                      "question": "How can reflexivity enhance the understanding of consequence patterns in complex cognitive-behavioral systems?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.2",
+                      "question": "In what ways do feedback loops involving consequences challenge linear models of behavioral adaptation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.3",
+                      "question": "How can ambiguity and paradox within consequence interpretations inform meta-therapeutic decision-making?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.4",
+                      "question": "What role do boundaries play in moderating the impact of consequences across cognitive-behavioral domains?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.5",
+                      "question": "How can meta-level practitioners leverage consequence analysis to facilitate cultural and systemic transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.6",
+                      "question": "How does the accumulation of consequences influence long-term behavioral trajectories and identity formation?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.7",
+                      "question": "What ethical considerations arise when interpreting and acting upon complex consequence feedback in therapy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.8",
+                      "question": "How can pacing and iterative reflection optimize the integration of consequences into sustained cognitive-behavioral change?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.9",
+                      "question": "What next steps emerge for expert practitioners when consequence patterns appear contradictory or disruptive?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.10",
+                      "question": "How can metaphorical frameworks be used to reframe consequences and support client transformation?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.11",
+                      "question": "How does emotional tone influence the reception and processing of consequences within advanced therapy contexts?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Cognitive-Behavioral-Model.ME.5.12",
+                      "question": "Why is an integrative approach to consequence analysis crucial for maintaining therapeutic coherence at the meta-level?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

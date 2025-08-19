@@ -1,0 +1,2221 @@
+{
+  "discipline": "Philosophy",
+  "children": [
+    {
+      "structure_name": "Socratic-Method",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Wonder → 2. Question → 3. Hypothesis → 4. Elenchus → 5. Refutation → 6. Reconsideration → 7. Refined Hypothesis → 8. Aporia / Deeper Insight"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Wonder"
+                },
+                {
+                  "structure_part": "[2/8] 2. Question"
+                },
+                {
+                  "structure_part": "[3/8] 3. Hypothesis"
+                },
+                {
+                  "structure_part": "[4/8] 4. Elenchus"
+                },
+                {
+                  "structure_part": "[5/8] 5. Refutation"
+                },
+                {
+                  "structure_part": "[6/8] 6. Reconsideration"
+                },
+                {
+                  "structure_part": "[7/8] 7. Refined Hypothesis"
+                },
+                {
+                  "structure_part": "[8/8] 8. Aporia / Deeper Insight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Socratic dialogues of Plato, especially Euthyphro, Meno, Apology"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Wonder → Curiosity / Initial Interest / Intellectual Surprise"
+            },
+            {
+              "terminology": "2. Question → Problem Statement / Inquiry"
+            },
+            {
+              "terminology": "3. Hypothesis → Tentative Answer / Initial Position"
+            },
+            {
+              "terminology": "4. Elenchus → Cross-Examination / Testing"
+            },
+            {
+              "terminology": "5. Refutation → Contradiction / Disproof"
+            },
+            {
+              "terminology": "6. Reconsideration → Reflection / Revision"
+            },
+            {
+              "terminology": "7. Refined Hypothesis → Improved Position / Clarified Claim"
+            },
+            {
+              "terminology": "8. Aporia / Deeper Insight → Philosophical Uncertainty / Paradox"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Wonder",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.1.1",
+                      "question": "What sparks curiosity or interest in a philosophical conversation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.2",
+                      "question": "Why does philosophy often begin in wonder or confusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.3",
+                      "question": "How can a surprising idea provoke deep thinking?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.4",
+                      "question": "What kinds of situations trigger philosophical questioning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.5",
+                      "question": "What if wonder was dismissed instead of explored?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.6",
+                      "question": "How does a sense of mystery support learning?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.7",
+                      "question": "What role does openness play in beginning inquiry?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.8",
+                      "question": "Why might ordinary events lead to extraordinary insights?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.9",
+                      "question": "How might emotional tone (awe, doubt, humility) shape the first moments of philosophical exploration?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.10",
+                      "question": "What kind of mindset does the beginning of inquiry invite in the reader or listener?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.11",
+                      "question": "What next steps often follow the experience of wonder?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.1.12",
+                      "question": "How does wonder relate to recognizing deeper patterns in thinking?",
+                      "concept": "Pattern"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.2.1",
+                      "question": "What kind of question sets the stage for philosophical inquiry?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.2",
+                      "question": "Why is the wording of a question important in the Socratic Method?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.3",
+                      "question": "How do focused questions differ from vague or broad ones?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.4",
+                      "question": "What makes a question worth exploring deeply?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.5",
+                      "question": "What if the question being asked has multiple hidden assumptions?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.6",
+                      "question": "How does careful questioning reveal gaps in understanding?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.7",
+                      "question": "Why might some questions be unsettling or challenging to confront?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.8",
+                      "question": "What is the emotional effect of asking foundational or existential questions?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.9",
+                      "question": "How does the act of asking shape the direction of the dialogue?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.10",
+                      "question": "What next questions naturally emerge from a well-formed philosophical prompt?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.11",
+                      "question": "How can rephrasing a question shift its meaning or depth?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.2.12",
+                      "question": "Why might the best questions lack clear or final answers?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Hypothesis",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.3.1",
+                      "question": "What kind of answer usually comes first in response to a deep question?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.2",
+                      "question": "Why are initial hypotheses often general or abstract in nature?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.3",
+                      "question": "How do people form quick explanations based on limited thinking?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.4",
+                      "question": "What if an initial hypothesis seems obvious but is deeply flawed?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.5",
+                      "question": "What emotional tone often accompanies giving a confident first answer?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.6",
+                      "question": "How does offering a hypothesis make one vulnerable to critique?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.7",
+                      "question": "Why is the first answer rarely the final one in philosophy?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.8",
+                      "question": "What does an early hypothesis reveal about someone’s assumptions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.9",
+                      "question": "How can articulating a hypothesis help clarify the boundaries of a problem?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.10",
+                      "question": "In what ways might a hypothesis shape the direction of the inquiry?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.11",
+                      "question": "What next moves usually follow after presenting a possible answer?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.3.12",
+                      "question": "How do philosophical dialogues show the tension between bold claims and critical testing?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Elenchus",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.4.1",
+                      "question": "What is the purpose of testing a hypothesis through questioning?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.2",
+                      "question": "How does Socrates challenge others’ ideas without offering clear answers himself?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.3",
+                      "question": "Why is identifying contradictions important in this stage?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.4",
+                      "question": "What logical moves help reveal weaknesses in a hypothesis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.5",
+                      "question": "What if the person being questioned resists or avoids the challenge?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.6",
+                      "question": "How can thoughtful questioning create new insights from old beliefs?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.7",
+                      "question": "Why does this stage often feel like an attack on ideas rather than a search for truth?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.8",
+                      "question": "How does the emotional tone shift when someone's ideas are examined rigorously?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.9",
+                      "question": "How does this stage help sharpen both the questioner’s and responder’s thinking?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.10",
+                      "question": "What kind of intellectual habits are built through this method of testing?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.11",
+                      "question": "How do examples and counterexamples shape the outcome of this stage?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.4.12",
+                      "question": "What effect might the Elenchus have on someone’s confidence or humility?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Refutation",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.5.1",
+                      "question": "What does it mean to refute an idea in a Socratic dialogue?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.2",
+                      "question": "How do contradictions show that a belief might be false or incomplete?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.3",
+                      "question": "Why is accepting refutation difficult but valuable in learning?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.4",
+                      "question": "How does one distinguish between personal attack and critique of an idea?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.5",
+                      "question": "What if the refutation seems correct but still feels unsatisfying?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.6",
+                      "question": "How can emotional reactions interfere with honest evaluation of an argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.7",
+                      "question": "Why does refutation not always lead to agreement?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.8",
+                      "question": "What tone should a thinker adopt when showing someone their idea has failed?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.9",
+                      "question": "How do different people respond to having their ideas challenged or overturned?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.10",
+                      "question": "How might refutation open the door to a better understanding, even if it feels uncomfortable?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.11",
+                      "question": "What emotional or intellectual qualities help someone accept a refutation productively?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.5.12",
+                      "question": "How does this stage help build a deeper commitment to truth rather than ego?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Reconsideration",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.6.1",
+                      "question": "What happens when someone pauses to rethink their position after a refutation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.2",
+                      "question": "How does stepping back from an argument open space for new ideas?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.3",
+                      "question": "Why is reconsideration essential in philosophical dialogue?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.4",
+                      "question": "What if someone refuses to reconsider their views, even after being shown they’re flawed?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.5",
+                      "question": "How might one’s mood or tone shift during thoughtful reflection?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.6",
+                      "question": "What emotions or attitudes make reconsideration more honest or useful?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.7",
+                      "question": "How does this stage help learners internalize new insights rather than just win arguments?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.8",
+                      "question": "Why is intellectual humility important for meaningful reconsideration?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.9",
+                      "question": "What patterns of thought might shift as someone revises their belief?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.10",
+                      "question": "How does this reflective pause prepare the ground for a stronger idea?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.11",
+                      "question": "What next steps typically follow a serious reconsideration of one’s position?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.6.12",
+                      "question": "How does the act of reconsidering deepen the overall philosophical process?",
+                      "concept": "Metaphor"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Refined Hypothesis",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.7.1",
+                      "question": "What makes a new hypothesis stronger than the one that was refuted?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.2",
+                      "question": "How does a refined idea show growth in understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.3",
+                      "question": "Why is it important to revise rather than simply replace an idea?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.4",
+                      "question": "What if the new hypothesis still contains flaws or uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.5",
+                      "question": "How does proposing a revised hypothesis reflect intellectual courage or openness?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.6",
+                      "question": "Why might the refined idea be more precise or better defined than the first?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.7",
+                      "question": "What steps help ensure the revised hypothesis avoids the original contradiction?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.8",
+                      "question": "How can comparing the old and new ideas reveal growth in thinking?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.9",
+                      "question": "What emotional tone might accompany the return to a more confident or stable idea?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.10",
+                      "question": "How does offering a refined hypothesis affect the tone of the dialogue or discussion?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.11",
+                      "question": "What role does careful listening play in crafting a better hypothesis?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.7.12",
+                      "question": "How does the revision process model philosophical progress rather than perfection?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Aporia / Deeper Insight",
+                  "part_concept": "Ambiguity",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.B.8.1",
+                      "question": "What is aporia and why is it considered a meaningful ending in the Socratic Method?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.2",
+                      "question": "How does reaching uncertainty deepen philosophical insight?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.3",
+                      "question": "Why might not having a final answer be more powerful than having one?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.4",
+                      "question": "What if aporia was misunderstood as failure instead of progress?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.5",
+                      "question": "How does aporia prepare the thinker for future inquiry?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.6",
+                      "question": "Why does recognizing limits of knowledge show strength rather than weakness?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.7",
+                      "question": "What tone or mood does the dialogue leave the reader or listener with at this stage?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.8",
+                      "question": "How might aporia provoke emotional reflection as well as intellectual growth?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.9",
+                      "question": "What does this final moment say about the purpose of philosophical inquiry?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.10",
+                      "question": "How can aporia help people become more thoughtful or self-aware in everyday life?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.11",
+                      "question": "Why might embracing aporia be more honest than forcing closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Socratic-Method.B.8.12",
+                      "question": "What next questions or areas of thought might grow from this unresolved moment?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Wonder",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.1.1",
+                      "question": "How does the initial sense of wonder influence the direction of philosophical dialogue?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.2",
+                      "question": "What underlying assumptions are often exposed during the first moment of philosophical surprise?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.3",
+                      "question": "Why is intellectual discomfort a productive place to begin inquiry?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.4",
+                      "question": "How can paying attention to what surprises us reveal hidden philosophical tensions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.5",
+                      "question": "What if the origin of wonder is rooted in contradiction rather than mystery?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.6",
+                      "question": "How does the initial frame of a dialogue shape its long-term trajectory?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.7",
+                      "question": "Why might philosophers deliberately cultivate wonder in their teaching or writing?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.8",
+                      "question": "In what ways does wonder function as a threshold into deeper thinking?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.9",
+                      "question": "What emotional states are most likely to promote or inhibit philosophical wonder?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.10",
+                      "question": "How does the presence of wonder help an audience feel invited into inquiry?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.11",
+                      "question": "How might an author use narrative or metaphor to spark philosophical wonder in a reader?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.1.12",
+                      "question": "What role does cultural background play in what one finds intellectually wondrous?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.2.1",
+                      "question": "How does clarifying the central question increase the precision of a dialogue?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.2",
+                      "question": "What distinguishes a philosophical question from a factual or technical one?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.3",
+                      "question": "How do embedded assumptions within a question shape the limits of possible answers?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.4",
+                      "question": "Why is reformulating the question often necessary in philosophical inquiry?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.5",
+                      "question": "What if the question being asked is impossible to answer — should it still be pursued?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.6",
+                      "question": "How does the structure of a question (e.g., binary vs open-ended) shape the dialogue’s tone and depth?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.7",
+                      "question": "In what ways might a question mislead a discussion or hide deeper issues?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.8",
+                      "question": "How can a well-formed question generate entirely new pathways of thought?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.9",
+                      "question": "How does audience interpretation change depending on how a philosophical question is framed?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.10",
+                      "question": "What kind of emotional responses do provocative or existential questions tend to evoke?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.11",
+                      "question": "What strategies can writers or speakers use to make a philosophical question more accessible without reducing its complexity?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.2.12",
+                      "question": "How can interrogating the question itself lead to deeper insight than answering it directly?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Hypothesis",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.3.1",
+                      "question": "How do early hypotheses function as organizing abstractions for dialogue?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.2",
+                      "question": "Why is it important to understand not just the content of a hypothesis, but the mindset behind it?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.3",
+                      "question": "What kinds of logical structure can be found in a well-formed philosophical hypothesis?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.4",
+                      "question": "How do analogies or metaphors shape the framing of a hypothesis?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.5",
+                      "question": "What if a hypothesis is persuasive but based on false assumptions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.6",
+                      "question": "How might hypotheses reflect unspoken cultural or ideological positions?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.7",
+                      "question": "How does proposing a hypothesis shift power or responsibility in a dialogue?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.8",
+                      "question": "Why is identifying the scope or limits of a hypothesis important for productive dialogue?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.9",
+                      "question": "What tone or mood is set when a bold or controversial hypothesis is introduced?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.10",
+                      "question": "How can authors use hypotheses to strategically lead readers into deeper questioning?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.11",
+                      "question": "How does a hypothesis offer insight into the values or beliefs of its proposer?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.3.12",
+                      "question": "What next steps should follow the articulation of a philosophical hypothesis to make it testable?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Elenchus",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.4.1",
+                      "question": "How does the elenchus function as a method of testing the validity of a hypothesis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.2",
+                      "question": "What logical principles underpin the process of refutation through questioning?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.3",
+                      "question": "How can contradictions revealed in the elenchus deepen understanding of the problem?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.4",
+                      "question": "Why is the elenchus considered a cooperative rather than adversarial process?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.5",
+                      "question": "What emotional dynamics emerge during rigorous questioning and how do they affect dialogue?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.6",
+                      "question": "How does the elenchus encourage participants to recognize assumptions they might otherwise overlook?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.7",
+                      "question": "In what ways can elenchus serve as a catalyst for intellectual humility?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.8",
+                      "question": "How does the iterative nature of elenchus help refine the scope of inquiry?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.9",
+                      "question": "What role does the questioner’s tone play in maintaining constructive dialogue during elenchus?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.10",
+                      "question": "How can elenchus reveal deeper layers of ambiguity within a hypothesis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.11",
+                      "question": "What are the risks of misunderstanding or misapplying elenchus in philosophical discourse?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.4.12",
+                      "question": "How can the elenchus be used beyond philosophy, in everyday critical thinking or dialogue?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Refutation",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.5.1",
+                      "question": "How does refutation expose the limitations or errors in a hypothesis?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.2",
+                      "question": "What distinguishes productive refutation from dismissive criticism?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.3",
+                      "question": "How can emotional resistance to refutation be addressed in dialogue?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.4",
+                      "question": "Why is accepting refutation crucial for philosophical progress?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.5",
+                      "question": "What if refutation reveals flaws but no clear alternative emerges?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.6",
+                      "question": "How can refutation serve as a tool for uncovering deeper questions rather than final answers?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.7",
+                      "question": "What tone should accompany refutation to maintain respect and openness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.8",
+                      "question": "How does conflict in refutation differ from conflict in everyday arguments?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.9",
+                      "question": "How do power dynamics influence the process and reception of refutation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.10",
+                      "question": "In what ways can refutation foster intellectual growth despite discomfort?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.11",
+                      "question": "What patterns emerge in successful refutations across different philosophical dialogues?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.5.12",
+                      "question": "How does refutation contribute to the iterative cycle of hypothesis testing?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Reconsideration",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.6.1",
+                      "question": "How does reconsideration enable participants to integrate new insights into their thinking?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.2",
+                      "question": "Why is reflection an essential phase following refutation in the Socratic Method?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.3",
+                      "question": "How do emotional responses influence the depth and quality of reconsideration?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.4",
+                      "question": "What cognitive habits support effective reconsideration of one’s views?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.5",
+                      "question": "How can reconsideration lead to transformation rather than mere repetition?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.6",
+                      "question": "What role does intellectual humility play during the reconsideration phase?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.7",
+                      "question": "How might reconsideration change the emotional tone of a dialogue?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.8",
+                      "question": "In what ways does reconsideration deepen the participant’s engagement with the original question?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.9",
+                      "question": "What patterns of thinking are disrupted or reinforced during reconsideration?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.10",
+                      "question": "How can reflective practices help prevent dogmatism in philosophical inquiry?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.11",
+                      "question": "What next steps are enabled by effective reconsideration of a hypothesis?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.6.12",
+                      "question": "How does reconsideration contribute to the overall coherence of philosophical dialogue?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Refined Hypothesis",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.7.1",
+                      "question": "How does refining a hypothesis reflect an evolution in philosophical understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.2",
+                      "question": "What methods can be used to ensure that a refined hypothesis addresses prior contradictions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.3",
+                      "question": "How does the process of refinement balance between preserving useful elements and correcting errors?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.4",
+                      "question": "What role does critical feedback play in shaping a stronger hypothesis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.5",
+                      "question": "How can comparing the refined hypothesis to the original illuminate progress in thinking?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.6",
+                      "question": "Why is intellectual humility important during the hypothesis refinement phase?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.7",
+                      "question": "What emotional or rhetorical strategies support acceptance of revised ideas?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.8",
+                      "question": "How can refined hypotheses serve as foundations for further inquiry rather than final conclusions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.9",
+                      "question": "What cognitive challenges arise when revising deeply held beliefs?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.10",
+                      "question": "How might the refinement process differ across various philosophical traditions?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.11",
+                      "question": "What next steps typically follow the articulation of a refined hypothesis in dialogue?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.7.12",
+                      "question": "How does this stage demonstrate the cyclical nature of philosophical inquiry?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Aporia / Deeper Insight",
+                  "part_concept": "Ambiguity",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.I.8.1",
+                      "question": "How does aporia function as a critical moment of deeper insight rather than mere confusion?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.2",
+                      "question": "Why is embracing aporia considered a sign of philosophical maturity?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.3",
+                      "question": "How can unresolved questions stimulate ongoing inquiry and intellectual growth?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.4",
+                      "question": "What distinguishes aporia from intellectual paralysis or skepticism?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.5",
+                      "question": "How does the tone of a dialogue shift when entering the stage of aporia?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.6",
+                      "question": "What emotional responses are typically associated with reaching aporia, and how do they impact learning?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.7",
+                      "question": "Why might aporia be misunderstood as failure in non-philosophical contexts?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.8",
+                      "question": "How does aporia encourage a reflective stance toward knowledge and certainty?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.9",
+                      "question": "What role does aporia play in fostering intellectual humility and openness?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.10",
+                      "question": "How can aporia serve as a foundation for transformative learning experiences?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.11",
+                      "question": "What are potential next questions or lines of inquiry that arise from aporia?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.I.8.12",
+                      "question": "How might aporia influence the rhetorical strategies used in subsequent philosophical dialogues?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Wonder",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.1.1",
+                      "question": "How does the initial wonder serve as a cognitive frame that directs subsequent inquiry in the Socratic Method?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.2",
+                      "question": "In what ways can the experience of wonder destabilize existing epistemic frameworks to open new avenues for questioning?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.3",
+                      "question": "Why is the cultivation of wonder strategically important for engaging interlocutors in dialectical reasoning?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.4",
+                      "question": "How does wonder act as a threshold phenomenon that challenges ontological and epistemological assumptions?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.5",
+                      "question": "What role do cultural and historical contexts play in shaping the content and intensity of philosophical wonder?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.6",
+                      "question": "How can wonder be analyzed as both an emotional and intellectual catalyst within philosophical dialogues?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.7",
+                      "question": "How might wonder serve as a generative force for emergent concepts in complex systems of thought?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.8",
+                      "question": "What ethical considerations arise from intentionally provoking wonder in vulnerable or diverse audiences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.9",
+                      "question": "How does the framing of wonder affect the subsequent rhetorical and logical structure of a dialogue?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.10",
+                      "question": "In what ways can wonder be methodologically distinguished from curiosity or confusion in philosophical practice?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.11",
+                      "question": "What challenges might arise when wonder is suppressed or overlooked in academic or pedagogical settings?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.1.12",
+                      "question": "How can an understanding of wonder inform interdisciplinary approaches to inquiry beyond philosophy?",
+                      "concept": "Inversion"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.2.1",
+                      "question": "How does the formulation of a precise question structure cognitive focus and limit interpretative possibilities in philosophical inquiry?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.2",
+                      "question": "In what ways can meta-questioning—questioning the question itself—advance the dialectical process?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.3",
+                      "question": "How do different logical forms of questions (e.g., open, closed, leading) influence the power dynamics within a dialogue?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.4",
+                      "question": "What is the epistemic significance of boundary-setting within the scope of a philosophical question?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.5",
+                      "question": "How can ambiguity in questioning be leveraged to foster productive dialectical tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.6",
+                      "question": "Why might certain philosophical questions resist definitive answers, and how should this shape inquiry?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.7",
+                      "question": "How does the rhetorical framing of a question shape audience interpretation and engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.8",
+                      "question": "What methodologies exist for deconstructing complex philosophical questions to reveal underlying assumptions?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.9",
+                      "question": "How can questions function as performative acts that shape the ontology of the discourse itself?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.10",
+                      "question": "What ethical responsibilities do interlocutors bear in crafting questions that promote fairness and openness?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.11",
+                      "question": "How can interdisciplinary perspectives enrich the process of question formulation in philosophical dialogue?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.2.12",
+                      "question": "How might technology influence the ways philosophical questions are generated and explored in contemporary contexts?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Hypothesis",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.3.1",
+                      "question": "How does the construction of a hypothesis function as an abstraction that organizes philosophical discourse?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.2",
+                      "question": "In what ways can hypothesis formation be influenced by cultural, ideological, or cognitive biases?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.3",
+                      "question": "How can formal logic and informal reasoning be balanced in developing robust philosophical hypotheses?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.4",
+                      "question": "What role do analogical reasoning and metaphor play in the creative generation of hypotheses?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.5",
+                      "question": "How can one critically evaluate the explanatory power versus the heuristic value of a hypothesis?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.6",
+                      "question": "How might a hypothesis act as a site of contestation among competing philosophical traditions?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.7",
+                      "question": "What cognitive strategies support the identification and articulation of tacit assumptions within hypotheses?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.8",
+                      "question": "How does the presentation of a hypothesis influence interlocutors’ willingness to engage critically?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.9",
+                      "question": "What are the ethical implications of proposing hypotheses that challenge dominant paradigms?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.10",
+                      "question": "How does the iterative testing of hypotheses advance philosophical knowledge beyond mere opinion?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.11",
+                      "question": "How can the limits of a hypothesis be articulated clearly without undermining its heuristic value?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.3.12",
+                      "question": "What next steps can be taken when a hypothesis reveals complex emergent phenomena?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Elenchus",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.4.1",
+                      "question": "How does the elenchus operate as a dialectical tool for exposing contradictions within a hypothesis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.2",
+                      "question": "What logical mechanisms underpin the refutation process inherent in elenchus?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.3",
+                      "question": "How can elenchus reveal implicit biases or hidden premises that shape philosophical arguments?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.4",
+                      "question": "Why is the cooperative nature of elenchus vital for maintaining constructive philosophical dialogue?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.5",
+                      "question": "How do emotional factors influence the effectiveness and reception of elenchus in practice?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.6",
+                      "question": "In what ways does the iterative questioning of elenchus foster deeper levels of critical thinking?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.7",
+                      "question": "How does elenchus balance between exposing flaws and encouraging continued inquiry rather than dismissal?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.8",
+                      "question": "What role does the tone and rhetorical strategy of the questioner play in the success of elenchus?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.9",
+                      "question": "How can elenchus be adapted for interdisciplinary applications beyond traditional philosophical discourse?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.10",
+                      "question": "What are the epistemological limits of elenchus as a method for knowledge acquisition?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.11",
+                      "question": "How can awareness of paradoxes revealed by elenchus deepen philosophical insight?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.4.12",
+                      "question": "What next steps can be taken after an elenchus exposes foundational weaknesses in a hypothesis?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Refutation",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.5.1",
+                      "question": "How does refutation function as a constructive force in resolving philosophical conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.2",
+                      "question": "What distinguishes rigorous refutation from destructive criticism in scholarly dialogue?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.3",
+                      "question": "How can emotional intelligence mitigate resistance encountered during refutation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.4",
+                      "question": "Why is the acceptance of refutation central to the advancement of philosophical knowledge?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.5",
+                      "question": "What strategies exist to navigate aporetic states when refutation uncovers complex, unresolved issues?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.6",
+                      "question": "How can refutation lead to the generation of more nuanced and sophisticated hypotheses?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.7",
+                      "question": "In what ways can the tone and rhetoric of refutation influence the receptivity of interlocutors?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.8",
+                      "question": "How do power relations affect the dynamics of refutation in philosophical discourse?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.9",
+                      "question": "What patterns emerge in effective refutations across various philosophical traditions?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.10",
+                      "question": "How does refutation contribute to the cyclical nature of the Socratic Method?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.11",
+                      "question": "What ethical considerations arise in conducting refutations that challenge deeply held beliefs?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.5.12",
+                      "question": "What next moves are essential after a successful refutation to maintain productive dialogue?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Reconsideration",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.6.1",
+                      "question": "How does reconsideration facilitate the synthesis of new insights following refutation?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.2",
+                      "question": "Why is deep reflection crucial for avoiding superficial acceptance of critique?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.3",
+                      "question": "How do affective factors influence the capacity for genuine reconsideration in philosophical discourse?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.4",
+                      "question": "What cognitive strategies enhance the ability to reconsider entrenched viewpoints effectively?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.5",
+                      "question": "How can reconsideration serve as a catalyst for transformative learning rather than mere revision?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.6",
+                      "question": "What role does intellectual humility play during the reconsideration phase of the Socratic Method?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.7",
+                      "question": "How might the tone of dialogue shift to support constructive reconsideration?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.8",
+                      "question": "In what ways does reconsideration deepen engagement with foundational philosophical questions?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.9",
+                      "question": "What patterns of thought are disrupted or reinforced during reconsideration in philosophical inquiry?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.10",
+                      "question": "How can reflective practices prevent dogmatism and encourage open-mindedness?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.11",
+                      "question": "What subsequent lines of inquiry become available after effective reconsideration?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.6.12",
+                      "question": "How does reconsideration contribute to the coherence and continuity of philosophical dialogue?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Refined Hypothesis",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.7.1",
+                      "question": "How does the formulation of a refined hypothesis reflect an advanced understanding of previous critiques?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.2",
+                      "question": "In what ways can the refinement process balance innovation with fidelity to established knowledge?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.3",
+                      "question": "How can feedback from diverse perspectives be integrated into refining a hypothesis?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.4",
+                      "question": "What cognitive and rhetorical strategies facilitate the acceptance of revised hypotheses among interlocutors?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.5",
+                      "question": "How might the refined hypothesis serve as a generative platform for emergent philosophical insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.6",
+                      "question": "What challenges arise when deeply held beliefs are challenged during hypothesis refinement?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.7",
+                      "question": "How can refined hypotheses maintain openness to future revision and prevent premature closure?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.8",
+                      "question": "Why is intellectual humility crucial during the process of hypothesis refinement?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.9",
+                      "question": "How does the process of refinement illustrate the cyclical and iterative nature of philosophical inquiry?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.10",
+                      "question": "What ethical considerations accompany the introduction of new hypotheses in philosophical dialogue?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.11",
+                      "question": "How can technology and digital tools influence the refinement and dissemination of hypotheses?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.7.12",
+                      "question": "What next steps typically follow the presentation of a refined hypothesis in ongoing inquiry?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Aporia / Deeper Insight",
+                  "part_concept": "Ambiguity",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.A.8.1",
+                      "question": "How does aporia function as a productive tension between knowledge and ignorance in advanced philosophical inquiry?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.2",
+                      "question": "Why is embracing aporia considered a hallmark of philosophical maturity and intellectual honesty?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.3",
+                      "question": "How can the experience of aporia catalyze transformative learning and cognitive growth?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.4",
+                      "question": "What distinguishes aporia from epistemic paralysis, and how can one navigate this distinction effectively?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.5",
+                      "question": "How does the emotional tone shift in dialogue when participants confront aporia?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.6",
+                      "question": "What are the typical affective responses associated with aporia, and how can they be constructively managed?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.7",
+                      "question": "In what ways might aporia be misinterpreted or undervalued outside philosophical contexts?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.8",
+                      "question": "How does aporia encourage a reflective and critical stance towards accepted knowledge and certainty?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.9",
+                      "question": "What role does aporia play in fostering intellectual humility and openness to alternative viewpoints?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.10",
+                      "question": "How can aporia inform the rhetorical and pedagogical strategies used in philosophical education?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.11",
+                      "question": "What subsequent questions or lines of inquiry typically emerge from encountering aporia?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.A.8.12",
+                      "question": "How can aporia be leveraged to sustain ongoing philosophical dialogue and prevent premature closure?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Wonder",
+                  "part_concept": "Reflexivity",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.1.1",
+                      "question": "How does the stage of wonder embody reflexivity by questioning the foundations of inquiry itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.2",
+                      "question": "In what ways can wonder destabilize not only epistemic assumptions but also meta-epistemological frameworks?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.3",
+                      "question": "How might the phenomenology of wonder inform a critical ontology of philosophical practice?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.4",
+                      "question": "What role does wonder play in the intersubjective construction of knowledge within dialectical contexts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.5",
+                      "question": "How can wonder be theorized as a liminal state facilitating epistemic threshold crossing?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.6",
+                      "question": "How does wonder interact with cultural and disciplinary paradigms to shape intellectual disruptions?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.7",
+                      "question": "What implications does the cultivation of wonder have for authorial strategy in philosophical dialogue?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.8",
+                      "question": "How can wonder be operationalized as a methodological tool in complex systems of thought?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.9",
+                      "question": "In what ways does wonder contribute to emergent knowledge beyond linear epistemologies?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.10",
+                      "question": "How might the affective dimensions of wonder challenge traditional distinctions between reason and emotion?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.11",
+                      "question": "What are the risks and benefits of cultivating wonder in diverse epistemic communities?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.1.12",
+                      "question": "How can wonder be integrated into interdisciplinary research to foster innovative epistemologies?",
+                      "concept": "Inversion"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Question",
+                  "part_concept": "Metaphor",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.2.1",
+                      "question": "How can the metaphorical framing of questions reveal hidden assumptions in philosophical discourse?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.2",
+                      "question": "In what ways do questions act as performative metaphors shaping ontological commitments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.3",
+                      "question": "How does questioning function as a form of epistemic disruption within meta-critical frameworks?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.4",
+                      "question": "What is the relationship between question formulation and genre conventions in philosophical texts?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.5",
+                      "question": "How might questions serve as tools for boundary negotiation across disciplinary perspectives?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.6",
+                      "question": "How can reflexivity in questioning advance self-critical awareness among interlocutors?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.7",
+                      "question": "What ethical considerations arise in crafting questions that shape power dynamics within dialogues?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.8",
+                      "question": "How can metaphor theory enrich the understanding of ambiguity and tension in philosophical questioning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.9",
+                      "question": "How do questions function as agents of transformation within cultural epistemologies?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.10",
+                      "question": "What role do temporal forms like pacing and repetition play in the rhetorical effectiveness of questioning?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.11",
+                      "question": "How might digital technologies alter the metacognitive processes involved in question formulation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.2.12",
+                      "question": "How does interdisciplinary inquiry benefit from meta-critical analysis of questioning strategies?",
+                      "concept": "Inversion"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Hypothesis",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.3.1",
+                      "question": "How does hypothesis formation reflect authorial strategy in shaping philosophical narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.2",
+                      "question": "In what ways can hypotheses serve as metaphors that structure cognitive frames and disciplinary boundaries?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.3",
+                      "question": "How can meta-critical awareness of biases influence the construction and presentation of hypotheses?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.4",
+                      "question": "What role does hypothesis formulation play in the disruption and transformation of established epistemologies?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.5",
+                      "question": "How might hypotheses function as emergent systems within complex networks of knowledge?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.6",
+                      "question": "How can the balance between abstraction and concreteness in hypotheses affect interdisciplinary dialogue?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.7",
+                      "question": "What cognitive and rhetorical strategies enhance the precision and clarity of complex hypotheses?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.8",
+                      "question": "How do hypotheses mediate the tension between stability and change in philosophical thought?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.9",
+                      "question": "What ethical dimensions emerge when proposing hypotheses that challenge dominant paradigms?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.10",
+                      "question": "How does meta-knowledge inform iterative testing and refinement of hypotheses?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.11",
+                      "question": "In what ways can hypothesis formulation foster or hinder emergent interdisciplinary insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.3.12",
+                      "question": "What next steps can meta-experts take to critically evaluate the limits and potentials of a hypothesis?",
+                      "concept": "Resolution"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Elenchus",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.4.1",
+                      "question": "How does elenchus serve as a mechanism of epistemic disruption within meta-critical philosophical inquiry?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.2",
+                      "question": "In what ways can elenchus reveal systemic paradoxes that challenge foundational assumptions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.3",
+                      "question": "How might elenchus function to destabilize entrenched disciplinary boundaries and foster interdisciplinary dialogue?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.4",
+                      "question": "What are the ethical implications of deploying elenchus as a disruptive tool in power-laden philosophical contexts?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.5",
+                      "question": "How can the iterative nature of elenchus contribute to emergence of novel philosophical frameworks?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.6",
+                      "question": "What role does rhetorical strategy play in modulating the impact of elenchus during dialectical exchanges?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.7",
+                      "question": "How can meta-experts critically assess the limits of elenchus in revealing cognitive biases?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.8",
+                      "question": "In what ways does elenchus embody a form of epistemic humility and intellectual openness?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.9",
+                      "question": "How does elenchus interact with concepts of feedback and iteration in complex systems of thought?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.10",
+                      "question": "What tensions arise between elenchus as a form of critique and the need for constructive knowledge-building?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.11",
+                      "question": "How can digital tools and technologies enhance or hinder the practice of elenchus in contemporary philosophy?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.4.12",
+                      "question": "What next methodological advances might meta-experts pursue to expand the efficacy of elenchus?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Refutation",
+                  "part_concept": "Power",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.5.1",
+                      "question": "How does refutation function within power dynamics inherent in philosophical and rhetorical exchanges?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.2",
+                      "question": "In what ways can refutation act as both a site of conflict and collaboration among interlocutors?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.3",
+                      "question": "How might meta-critical awareness transform traditional approaches to refutation into ethical and productive practices?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.4",
+                      "question": "What role does tone play in balancing confrontation and openness during refutation at the meta-expert level?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.5",
+                      "question": "How can interdisciplinary insights refine strategies for effective refutation in complex dialogues?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.6",
+                      "question": "What patterns characterize successful refutations that foster transformation rather than entrenchment?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.7",
+                      "question": "How can meta-experts navigate aporetic impasses revealed through refutation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.8",
+                      "question": "What cognitive and emotional skills are essential for managing resistance during high-level refutation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.9",
+                      "question": "How does refutation contribute to the dialectical cycle of knowledge disruption and reconstruction?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.10",
+                      "question": "How can digital communication alter the power dynamics present in traditional forms of refutation?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.11",
+                      "question": "What next steps can meta-experts take to institutionalize ethical refutation practices across disciplines?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.5.12",
+                      "question": "How can refutation be harnessed to promote inclusivity and epistemic justice within philosophical communities?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Reconsideration",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.6.1",
+                      "question": "How does reconsideration facilitate meta-reflective critique and synthesis of complex philosophical ideas?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.2",
+                      "question": "What role does intellectual humility play in enabling deep reconsideration at the meta-expert level?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.3",
+                      "question": "How can affective awareness enhance the quality and depth of reconsideration in advanced philosophical practice?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.4",
+                      "question": "In what ways does reconsideration challenge entrenched cognitive patterns and promote epistemic openness?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.5",
+                      "question": "How might reconsideration serve as a catalyst for cultural and disciplinary transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.6",
+                      "question": "What strategies support effective integration of interdisciplinary insights during reconsideration?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.7",
+                      "question": "How can tone and dialogue structure foster an environment conducive to genuine reconsideration?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.8",
+                      "question": "How does reconsideration contribute to maintaining continuity and coherence in long-term philosophical inquiry?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.9",
+                      "question": "What are the cognitive limits and potentials of reconsideration in addressing paradoxes and ambiguities?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.10",
+                      "question": "How can reconsideration practices prevent epistemic closure and support ongoing critical engagement?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.11",
+                      "question": "What next methodological innovations could meta-experts develop to enhance the reconsideration phase?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.6.12",
+                      "question": "How might reconsideration reshape the authorial strategies employed in philosophical discourse?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Refined Hypothesis",
+                  "part_concept": "Transformation (Cultural)",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.7.1",
+                      "question": "How does the refined hypothesis exemplify cultural transformation within philosophical traditions?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.2",
+                      "question": "In what ways can meta-experts critically evaluate the role of refined hypotheses in shaping disciplinary paradigms?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.3",
+                      "question": "How might the refinement process engage with issues of power and authority in knowledge production?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.4",
+                      "question": "What methodological frameworks can be employed to assess the epistemic robustness of refined hypotheses?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.5",
+                      "question": "How does the integration of interdisciplinary feedback influence the evolution of refined hypotheses?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.6",
+                      "question": "How can digital and technological tools be harnessed to support the iterative refinement of hypotheses?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.7",
+                      "question": "What tensions emerge between stability and flexibility in maintaining a refined hypothesis over time?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.8",
+                      "question": "How can meta-experts negotiate the ethical implications of proposing and disseminating refined hypotheses?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.9",
+                      "question": "What role does reflexivity play in the continual reevaluation of refined hypotheses?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.10",
+                      "question": "How might the refined hypothesis act as a site of emergence for new philosophical insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.11",
+                      "question": "What next research directions can meta-experts pursue following the articulation of a refined hypothesis?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.7.12",
+                      "question": "How does the refined hypothesis influence authorial strategy in subsequent philosophical discourse?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Aporia / Deeper Insight",
+                  "part_concept": "Ambiguity",
+                  "children": [
+                    {
+                      "question_id": "Socratic-Method.ME.8.1",
+                      "question": "How does aporia embody the productive ambiguity that drives meta-expert philosophical inquiry?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.2",
+                      "question": "In what ways can embracing aporia foster transformative epistemic humility?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.3",
+                      "question": "How might aporia function as a critical site for the disruption and renewal of philosophical paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.4",
+                      "question": "What strategies can meta-experts employ to distinguish between productive aporia and intellectual paralysis?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.5",
+                      "question": "How do emotional and rhetorical elements influence the experience and expression of aporia in dialogue?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.6",
+                      "question": "What are the implications of aporia for teaching and learning advanced philosophical concepts?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.7",
+                      "question": "How can aporia encourage openness to multiple interpretations without sacrificing critical rigor?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.8",
+                      "question": "In what ways does aporia support the emergence of new research questions and theoretical frameworks?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.9",
+                      "question": "How can meta-experts balance the continuity of philosophical traditions with the disruptive potential of aporia?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.10",
+                      "question": "What ethical responsibilities do philosophers have when navigating and presenting aporia?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.11",
+                      "question": "How can digital platforms and technologies be leveraged to explore and disseminate insights emerging from aporia?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Socratic-Method.ME.8.12",
+                      "question": "What future directions can meta-experts envision for integrating aporia into sustained philosophical dialogue?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

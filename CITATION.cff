@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite it as below."
+authors:
+  - family-names: "Chung"
+    given-names: "L. M. P."
+title: "Chung, L. M. P. (2025). UST: This One Framework Could Change How We Think Forever (0.1.0) [Data set]. Zenodo."
+version: "0.1.0"
+doi: "10.5281/zenodo.16898898"
+date-released: "2025-08-20"
+url: "https://github.com/thePeterChung/ust"

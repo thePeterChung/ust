@@ -1,0 +1,1141 @@
+{
+  "discipline": "Ethics",
+  "children": [
+    {
+      "structure_name": "Moral-Reasoning-Model",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Moral Sensitivity → 2. Moral Judgment → 3. Moral Motivation → 4. Moral Character"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Moral Sensitivity"
+                },
+                {
+                  "structure_part": "[2/4] 2. Moral Judgment"
+                },
+                {
+                  "structure_part": "[3/4] 3. Moral Motivation"
+                },
+                {
+                  "structure_part": "[4/4] 4. Moral Character"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Whistleblowing in healthcare, Bystander decisions in crisis, Ethical reporting in journalism"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Moral Sensitivity → Recognition of moral issues"
+            },
+            {
+              "terminology": "2. Moral Judgment → Deciding right vs. wrong"
+            },
+            {
+              "terminology": "3. Moral Motivation → Prioritizing moral values"
+            },
+            {
+              "terminology": "4. Moral Character → Implementing moral decisions"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Moral Sensitivity",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.1",
+                      "question": "How do you identify a situation as having a moral dimension?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.2",
+                      "question": "What kinds of cues signal that a decision involves ethical considerations?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.3",
+                      "question": "Why is recognizing moral issues important before making a decision?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.4",
+                      "question": "What if you fail to notice a moral conflict in a scenario?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.5",
+                      "question": "How might different perspectives affect moral sensitivity in a given situation?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.6",
+                      "question": "What are some common barriers to recognizing ethical problems?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.7",
+                      "question": "How can emotions influence the detection of moral issues?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.8",
+                      "question": "What role does context play in identifying moral aspects of a situation?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.9",
+                      "question": "How does moral sensitivity connect to empathy or understanding others?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.10",
+                      "question": "What next steps should follow once a moral issue is recognized?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.11",
+                      "question": "How does the ability to notice moral concerns vary across cultures?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.1.12",
+                      "question": "What tone or feeling is associated with becoming aware of a moral dilemma?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Moral Judgment",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.1",
+                      "question": "How do you decide what action is morally right in a complex situation?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.2",
+                      "question": "What criteria can help evaluate the ethicality of choices?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.3",
+                      "question": "Why might reasonable people disagree on what is the correct moral judgment?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.4",
+                      "question": "How does considering consequences affect moral judgment?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.5",
+                      "question": "What role do moral principles or rules play in judgment?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.6",
+                      "question": "How might conflicting values complicate making a moral judgment?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.7",
+                      "question": "What if new information changes your moral judgment after initial decision?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.8",
+                      "question": "How can perspective-taking improve the quality of moral judgments?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.9",
+                      "question": "What next steps follow from making a moral judgment?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.10",
+                      "question": "How do fairness and justice influence moral judgments?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.11",
+                      "question": "Why is clarity important when articulating a moral judgment?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.2.12",
+                      "question": "What emotional tone might accompany the struggle to choose the right moral action?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Moral Motivation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.1",
+                      "question": "How do you prioritize moral values when they conflict with personal interests?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.2",
+                      "question": "Why is motivation crucial for following through on moral decisions?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.3",
+                      "question": "What factors strengthen or weaken moral motivation in a situation?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.4",
+                      "question": "How can incentives or pressures influence moral motivation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.5",
+                      "question": "What if motivation conflicts with ethical reasoning—how is this resolved?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.6",
+                      "question": "How does a sense of responsibility shape moral motivation?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.7",
+                      "question": "How can role models or social norms impact moral motivation?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.8",
+                      "question": "What next actions are likely if moral motivation is strong or weak?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.9",
+                      "question": "How does self-interest interact with moral motivation in decision-making?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.10",
+                      "question": "What emotions are commonly tied to moral motivation, such as guilt or pride?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.11",
+                      "question": "How can moral motivation change over time within a person or community?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.3.12",
+                      "question": "Why might some individuals fail to act morally despite correct moral judgment?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Moral Character",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.1",
+                      "question": "How do you develop the strength to carry out moral actions consistently?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.2",
+                      "question": "What habits support the ability to act ethically over time?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.3",
+                      "question": "Why is moral character important beyond knowing what is right?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.4",
+                      "question": "How do challenges or obstacles affect one's moral character?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.5",
+                      "question": "What if moral character is weak—how might that impact ethical behavior?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.6",
+                      "question": "How can role models influence the development of moral character?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.7",
+                      "question": "What strategies help strengthen moral character in difficult situations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.8",
+                      "question": "How does moral character relate to persistence and resilience?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.9",
+                      "question": "What role does reflection play in building moral character?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.10",
+                      "question": "How does moral character influence trust and credibility in relationships?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.11",
+                      "question": "What emotional qualities are associated with strong moral character?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.B.4.12",
+                      "question": "What next steps help maintain and improve moral character over time?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Moral Sensitivity",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.1",
+                      "question": "How do social and cultural factors influence the recognition of moral issues?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.2",
+                      "question": "What methods can enhance awareness of subtle ethical conflicts?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.3",
+                      "question": "Why might some ethical issues remain unnoticed in complex environments?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.4",
+                      "question": "How can empathy deepen moral sensitivity in decision-making contexts?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.5",
+                      "question": "What if moral sensitivity is uneven among team members—how does this affect outcomes?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.6",
+                      "question": "How does power dynamics impact the ability to detect moral concerns?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.7",
+                      "question": "What cognitive biases might impair moral sensitivity and how can they be mitigated?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.8",
+                      "question": "How can training programs be designed to improve moral sensitivity in professionals?",
+                      "concept": "Cognitive Learning"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.9",
+                      "question": "What next steps follow from increasing moral sensitivity at organizational levels?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.10",
+                      "question": "How does moral sensitivity interact with emotional intelligence?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.11",
+                      "question": "Why is the recognition of ethical dilemmas considered the first step in moral reasoning?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.1.12",
+                      "question": "What emotional responses typically arise when moral sensitivity is heightened?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Moral Judgment",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.1",
+                      "question": "How do different ethical frameworks guide moral judgment in conflicting situations?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.2",
+                      "question": "What role does reasoning play in resolving moral dilemmas versus intuition?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.3",
+                      "question": "Why is it important to evaluate the consequences alongside principles in moral judgment?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.4",
+                      "question": "How do context and culture shape what is considered a moral judgment?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.5",
+                      "question": "What strategies can help reconcile conflicting moral values during judgment?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.6",
+                      "question": "How might moral judgment evolve when new information or feedback is introduced?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.7",
+                      "question": "What if moral judgment is delayed or avoided—what consequences might arise?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.8",
+                      "question": "How can dialogue and deliberation improve the quality of moral judgments?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.9",
+                      "question": "What next steps follow effective moral judgment in ethical decision-making?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.10",
+                      "question": "How do concepts of justice and fairness influence moral judgment outcomes?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.11",
+                      "question": "Why is precision critical when articulating moral judgments in debates or policies?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.2.12",
+                      "question": "What emotional challenges accompany making difficult moral judgments?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Moral Motivation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.1",
+                      "question": "How do intrinsic and extrinsic factors interact to shape moral motivation?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.2",
+                      "question": "What barriers might reduce moral motivation even when judgment is clear?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.3",
+                      "question": "How can moral identity strengthen an individual’s motivation to act ethically?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.4",
+                      "question": "Why might competing priorities undermine moral motivation in organizational contexts?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.5",
+                      "question": "How can moral motivation be cultivated through education and mentorship?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.6",
+                      "question": "What role do emotions like guilt or pride play in sustaining moral motivation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.7",
+                      "question": "How does moral motivation relate to long-term ethical consistency?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.8",
+                      "question": "What if external rewards conflict with internal moral motivation—how is this tension resolved?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.9",
+                      "question": "What next steps promote the strengthening of moral motivation in teams or communities?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.10",
+                      "question": "How can reflective practices enhance awareness of moral motivation?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.11",
+                      "question": "Why is commitment essential for translating moral motivation into action?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.3.12",
+                      "question": "What emotional tone accompanies the struggle to maintain moral motivation under pressure?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Moral Character",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.1",
+                      "question": "How do personal virtues contribute to the development of moral character?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.2",
+                      "question": "What challenges might arise when attempting to maintain moral character in complex environments?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.3",
+                      "question": "How can moral character be assessed or observed in real-world behavior?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.4",
+                      "question": "Why is moral character considered a critical factor in ethical leadership?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.5",
+                      "question": "How do resilience and persistence influence moral character over time?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.6",
+                      "question": "What strategies support strengthening moral character amidst ethical dilemmas?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.7",
+                      "question": "How do social environments and role models shape the evolution of moral character?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.8",
+                      "question": "What role does self-reflection play in cultivating moral character?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.9",
+                      "question": "How might moral character influence trust and credibility within communities?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.10",
+                      "question": "What emotional qualities, such as integrity or compassion, are linked to moral character?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.11",
+                      "question": "What next steps can individuals take to maintain and enhance their moral character?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.I.4.12",
+                      "question": "How can failures in moral character affect both the individual and wider society?",
+                      "concept": "Entropy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Moral Sensitivity",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.1",
+                      "question": "How can moral sensitivity be systematically measured or evaluated in complex ethical scenarios?",
+                      "concept": "Moral Sensitivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.2",
+                      "question": "In what ways do unconscious biases undermine moral sensitivity and how can these be critically addressed?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.3",
+                      "question": "How does moral sensitivity interact with moral imagination to anticipate ethical challenges?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.4",
+                      "question": "What frameworks best capture the dynamics of recognizing ethical issues in cross-cultural contexts?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.5",
+                      "question": "How might moral sensitivity fail under conditions of high ambiguity or information overload?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.6",
+                      "question": "What role does emotional intelligence play in enhancing moral sensitivity among leaders?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.7",
+                      "question": "How can moral sensitivity be cultivated beyond individual cognition to organizational or systemic levels?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.8",
+                      "question": "What if moral sensitivity is selectively applied—how does this affect ethical consistency?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.9",
+                      "question": "How do feedback loops influence the refinement of moral sensitivity in iterative decision-making?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.10",
+                      "question": "Why is moral sensitivity foundational for ethical disruption and transformation in societies?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.11",
+                      "question": "How can one critically assess the boundaries of moral sensitivity in emerging ethical dilemmas?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.1.12",
+                      "question": "What affective responses emerge as moral sensitivity heightens, and how do these influence judgment?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Moral Judgment",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.1",
+                      "question": "How can competing ethical theories be integrated to enhance moral judgment in complex cases?",
+                      "concept": "Moral Judgment"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.2",
+                      "question": "What methodological approaches improve precision and clarity in articulating moral judgments?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.3",
+                      "question": "How do power structures influence the formation and acceptance of moral judgments?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.4",
+                      "question": "In what ways can paradox and ambiguity challenge the coherence of moral judgments?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.5",
+                      "question": "How does contextual framing affect the validity and applicability of moral judgments across cultures?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.6",
+                      "question": "What role does meta-cognition play in refining and revising moral judgments?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.7",
+                      "question": "How can iterative feedback improve the ethical soundness of moral judgments in practice?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.8",
+                      "question": "Why is the balance between universal principles and situational ethics critical for sound moral judgment?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.9",
+                      "question": "What if moral judgments are deliberately disrupted to provoke ethical reflection—what are the effects?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.10",
+                      "question": "How can analogical reasoning aid in transferring moral judgments across different domains?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.11",
+                      "question": "What emotional tensions arise during conflicting moral judgments and how can they be managed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.2.12",
+                      "question": "How does the accumulation of moral judgments over time shape personal and social ethics?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Moral Motivation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.1",
+                      "question": "How do moral identity and self-concept influence the strength and direction of moral motivation?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.2",
+                      "question": "What mechanisms underlie the conflict between self-interest and moral motivation in ethical behavior?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.3",
+                      "question": "How can organizational culture be leveraged to reinforce moral motivation among members?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.4",
+                      "question": "In what ways do emotional states modulate moral motivation and ethical decision-making?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.5",
+                      "question": "How does moral motivation interact with concepts of agency and autonomy in ethical action?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.6",
+                      "question": "What role does ethical education play in sustaining long-term moral motivation?",
+                      "concept": "Cognitive Learning"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.7",
+                      "question": "How might moral motivation be disrupted by systemic injustice or inequality?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.8",
+                      "question": "What strategies can individuals use to overcome internal conflicts that weaken moral motivation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.9",
+                      "question": "How does moral motivation evolve in response to social feedback and changing environments?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.10",
+                      "question": "Why is moral motivation critical for bridging judgment and action in ethical theories?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.11",
+                      "question": "How can moral motivation be measured or observed beyond self-reporting?",
+                      "concept": "Moral Motivation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.3.12",
+                      "question": "What affective and cognitive tensions emerge when moral motivation conflicts with external pressures?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Moral Character",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.1",
+                      "question": "How can theories of virtue ethics deepen our understanding of moral character development?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.2",
+                      "question": "What are the systemic factors that support or undermine the cultivation of moral character in organizations?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.3",
+                      "question": "How does moral character interact with ethical leadership to influence organizational culture?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.4",
+                      "question": "In what ways can moral character be compromised under conditions of moral fatigue or ethical erosion?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.5",
+                      "question": "What role does reflexivity play in the continuous formation and reformation of moral character?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.6",
+                      "question": "How can resilience and persistence be cultivated as integral components of moral character?",
+                      "concept": "Moral Character"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.7",
+                      "question": "How do social feedback mechanisms contribute to shaping and sustaining moral character?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.8",
+                      "question": "What methods exist to critically evaluate failures in moral character at individual and collective levels?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.9",
+                      "question": "How do narrative and metaphor function in communicating and reinforcing moral character ideals?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.10",
+                      "question": "What emotional dynamics are central to the experience and expression of moral character?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.11",
+                      "question": "What next steps can be taken to embed moral character development within ethical education and practice?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.A.4.12",
+                      "question": "How does moral character contribute to ethical resilience in the face of systemic challenges?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Moral Sensitivity",
+                  "part_concept": "Recognition",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.1",
+                      "question": "How can meta-ethical theories inform a critical evaluation of moral sensitivity across cultures?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.2",
+                      "question": "In what ways does reflexivity alter our understanding of moral sensitivity in dynamic social systems?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.3",
+                      "question": "How can the concept of boundary help analyze the limits of moral sensitivity in complex ethical dilemmas?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.4",
+                      "question": "What role do emergent properties play in the collective moral sensitivity of institutions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.5",
+                      "question": "How can paradox challenge and expand the scope of moral sensitivity in ambiguous contexts?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.6",
+                      "question": "How might moral sensitivity be disrupted to provoke ethical innovation and transformation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.7",
+                      "question": "How does pacing influence the development and deployment of moral sensitivity in urgent decision-making?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.8",
+                      "question": "What methods can capture the iterative cycles involved in refining moral sensitivity?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.9",
+                      "question": "How do different scales—from individual to societal—affect expressions of moral sensitivity?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.10",
+                      "question": "What is the impact of authorial strategy in framing moral sensitivity in philosophical texts?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.11",
+                      "question": "How can ambiguity be harnessed as a productive tension within moral sensitivity debates?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.1.12",
+                      "question": "What affective dynamics arise at the threshold between moral awareness and ethical action?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Moral Judgment",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.1",
+                      "question": "How can meta-critical analysis uncover underlying assumptions in dominant moral judgment frameworks?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.2",
+                      "question": "In what ways do genre conventions influence the presentation and reception of moral judgments in literature and discourse?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.3",
+                      "question": "How can ethical paradoxes be systematically deconstructed to refine moral judgment processes?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.4",
+                      "question": "What role does metaphor play in shaping conceptual frameworks for moral judgment?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.5",
+                      "question": "How can disruption techniques be employed to challenge entrenched moral judgments and stimulate ethical debate?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.6",
+                      "question": "How does the interplay of continuity and discontinuity affect the evolution of moral judgments over time?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.7",
+                      "question": "What methods enable the tracing of accumulation and sedimentation of moral judgments in institutional memory?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.8",
+                      "question": "How can pacing influence the reception and impact of moral judgments in fast-moving ethical crises?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.9",
+                      "question": "How does perspective-taking at multiple systemic levels affect moral judgment complexity?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.10",
+                      "question": "What is the function of authorial strategy in shaping moral judgment narratives within philosophical discourse?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.11",
+                      "question": "How can inversion techniques be used to reveal biases in moral judgment processes?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.2.12",
+                      "question": "What emotional and cognitive tensions characterize expert-level moral judgment deliberations?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Moral Motivation",
+                  "part_concept": "Intention",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.1",
+                      "question": "How can cultural transformation theories illuminate shifts in collective moral motivation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.2",
+                      "question": "In what ways does disruption of moral norms affect individual and group moral motivation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.3",
+                      "question": "How can systems thinking reveal feedback loops that reinforce or undermine moral motivation at societal scales?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.4",
+                      "question": "What role does ambiguity play in sustaining or challenging moral motivation in ethical conflicts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.5",
+                      "question": "How can meta-cognitive strategies be applied to enhance moral motivation in complex ethical environments?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.6",
+                      "question": "How do pacing and timing influence the effectiveness of moral motivation interventions?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.7",
+                      "question": "How does scale—individual versus collective—affect the expression and impact of moral motivation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.8",
+                      "question": "What methods can trace the iterative evolution of moral motivation within organizations?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.9",
+                      "question": "How do paradoxes within moral motivation create opportunities for ethical innovation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.10",
+                      "question": "How can authorial strategy be used to inspire or critique moral motivation in ethical literature?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.11",
+                      "question": "What affective and cognitive tensions emerge at the threshold of moral motivation and ethical action?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.3.12",
+                      "question": "How does disruption foster reflexivity and transformation within moral motivation frameworks?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Moral Character",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.1",
+                      "question": "How can critical theory deepen the understanding of moral character in socio-political contexts?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.2",
+                      "question": "In what ways does reflexivity enable continuous reconstruction of moral character in response to systemic change?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.3",
+                      "question": "How do boundaries between personal and collective identities shape the formation of moral character?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.4",
+                      "question": "What role does emergence play in the development of moral character within complex social systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.5",
+                      "question": "How can disruption be strategically employed to challenge entrenched moral character norms and foster ethical growth?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.6",
+                      "question": "How does pacing affect the processes of moral character development and ethical habituation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.7",
+                      "question": "What iterative practices support sustained moral character formation in fluctuating ethical landscapes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.8",
+                      "question": "How can metaphor be used to conceptualize and communicate complex aspects of moral character?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.9",
+                      "question": "What emotional and cognitive tensions are inherent in the lifelong cultivation of moral character?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.10",
+                      "question": "How do systems theories explain the accumulation and transformation of moral character over time?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.11",
+                      "question": "What authorial strategies best convey the complexity of moral character in philosophical narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Moral-Reasoning-Model.ME.4.12",
+                      "question": "How does moral character contribute to resilience and ethical agency in the face of systemic entropy?",
+                      "concept": "Entropy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

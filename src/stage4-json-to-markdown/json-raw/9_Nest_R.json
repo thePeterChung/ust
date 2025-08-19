@@ -1,0 +1,2203 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Nested-Framed-Narrative",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": "1. Outer Frame Opening → 2. Transition Into Inner Narrative → 3. Inner Narrative Setup → 4. Inner Narrative Development → 5. Inner Narrative Climax → 6. Inner Narrative Resolution → 7. Return to Outer Frame → 8. Outer Frame Closure"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Outer Frame Opening"
+                },
+                {
+                  "structure_part": "[2/8] 2. Transition Into Inner Narrative"
+                },
+                {
+                  "structure_part": "[3/8] 3. Inner Narrative Setup"
+                },
+                {
+                  "structure_part": "[4/8] 4. Inner Narrative Development"
+                },
+                {
+                  "structure_part": "[5/8] 5. Inner Narrative Climax"
+                },
+                {
+                  "structure_part": "[6/8] 6. Inner Narrative Resolution"
+                },
+                {
+                  "structure_part": "[7/8] 7. Return to Outer Frame"
+                },
+                {
+                  "structure_part": "[8/8] 8. Outer Frame Closure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Inception, The Princess Bride, The Grand Budapest Hotel, Cloud Atlas"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "Frame Story → Outer narrative that surrounds an embedded narrative"
+            },
+            {
+              "terminology": "Inner Narrative → Story-within-a-story"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Outer Frame Opening",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.1",
+                      "question": "Who is presenting the story, and in what context?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.2",
+                      "question": "What motivates the start of the framing story?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.3",
+                      "question": "How is the audience positioned in relation to the storyteller?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.4",
+                      "question": "What atmosphere or mood is established in the outer frame’s opening moments?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.5",
+                      "question": "What assumptions are introduced before the inner story begins?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.6",
+                      "question": "How does the frame set expectations about genre or tone?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.7",
+                      "question": "What kind of world does the outer narrative begin in?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.8",
+                      "question": "What clues suggest there is another story beneath the surface?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.9",
+                      "question": "How does the opening evoke curiosity or tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.10",
+                      "question": "What if the outer frame did not exist—how would that change the story?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.11",
+                      "question": "What feelings does the storyteller's voice create early on?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.1.12",
+                      "question": "How do we know the storyteller is reliable—or not?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Transition Into Inner Narrative",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.1",
+                      "question": "What marks the beginning of the inner narrative?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.2",
+                      "question": "How does the transition signal a shift in time, space, or logic?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.3",
+                      "question": "What narrative device is used to enter the inner story (e.g., flashback, oral story, diary)?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.4",
+                      "question": "Why might a story need a threshold moment to separate frames?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.5",
+                      "question": "What sensory or stylistic signals mark the inner story’s beginning?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.6",
+                      "question": "How does the transition help maintain continuity or introduce ambiguity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.7",
+                      "question": "What is the emotional effect of crossing into the inner narrative?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.8",
+                      "question": "How does the audience know a boundary has been crossed?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.9",
+                      "question": "What is the purpose of having a distinct narrative shift?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.10",
+                      "question": "What if there were no transition—how would it confuse or change the viewer’s experience?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.11",
+                      "question": "How might the transition deepen the audience’s emotional connection to the story?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.2.12",
+                      "question": "How does the threshold act like a narrative doorway or invitation?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Inner Narrative Setup",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.1",
+                      "question": "Who are the main characters in the inner story, and what do they want?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.2",
+                      "question": "What kind of world does the inner narrative begin in?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.3",
+                      "question": "What initial event sets the inner plot in motion?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.4",
+                      "question": "How does the setup introduce conflict or tension?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.5",
+                      "question": "What parallels can be drawn between this setup and the outer frame?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.6",
+                      "question": "What values or systems are hinted at early in the inner narrative?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.7",
+                      "question": "How does the inner story build curiosity about what will happen next?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.8",
+                      "question": "What role does exposition play in establishing this second layer?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.9",
+                      "question": "What choices are being foreshadowed in this early setup?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.10",
+                      "question": "What if the setup mirrored the outer narrative exactly—what would that suggest?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.11",
+                      "question": "How does the tone of this setup differ from the frame’s tone?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.3.12",
+                      "question": "What makes this beginning emotionally compelling for the viewer or reader?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Inner Narrative Development",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.1",
+                      "question": "What events build momentum in the inner story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.2",
+                      "question": "How do characters respond to the conflicts they face?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.3",
+                      "question": "What obstacles emerge that complicate the inner narrative?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.4",
+                      "question": "What relationships or patterns are beginning to form?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.5",
+                      "question": "How is emotional or moral pressure increasing within the inner story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.6",
+                      "question": "What causes the rising action to escalate toward a turning point?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.7",
+                      "question": "What part of the frame story (if any) echoes or contrasts with this development?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.8",
+                      "question": "What clues suggest the inner narrative is moving toward a crisis?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.9",
+                      "question": "How does the pacing of the inner story differ from the outer frame?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.10",
+                      "question": "What if the inner narrative paused here—how would it feel incomplete?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.11",
+                      "question": "How does this middle section affect how we feel about the characters?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.4.12",
+                      "question": "What emotional tone dominates this section of the inner narrative?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Inner Narrative Climax",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.1",
+                      "question": "What key event defines the climax of the inner story?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.2",
+                      "question": "How do characters face or avoid their central challenge?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.3",
+                      "question": "What consequences follow from the turning point?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.4",
+                      "question": "Why is this moment decisive or irreversible?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.5",
+                      "question": "What values or conflicts are tested at this high point?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.6",
+                      "question": "How is tension released or intensified here?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.7",
+                      "question": "What kind of emotional payoff does this climax deliver?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.8",
+                      "question": "What transformation has taken place—or failed to take place—at this moment?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.9",
+                      "question": "How does this climax connect thematically to the outer narrative?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.10",
+                      "question": "What if the inner story ended at this point—what questions would remain unresolved?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.11",
+                      "question": "How might the climax affect the audience’s identification with the protagonist?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.5.12",
+                      "question": "What mood or tone shifts as a result of the climax?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Inner Narrative Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.1",
+                      "question": "What happens after the climax to bring closure to the inner story?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.2",
+                      "question": "How are the consequences of earlier choices made visible?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.3",
+                      "question": "What lessons, if any, are learned within the inner narrative?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.4",
+                      "question": "Why might this resolution feel satisfying—or unsatisfying?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.5",
+                      "question": "How does the pace of the ending affect its emotional impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.6",
+                      "question": "What lasting emotional impression does the inner story leave?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.7",
+                      "question": "What remains unresolved or open-ended in the inner story?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.8",
+                      "question": "How does the resolution prepare us for returning to the outer frame?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.9",
+                      "question": "How does the tone of the ending compare with the beginning of the inner story?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.10",
+                      "question": "What if the inner resolution contradicts the values of the frame narrative?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.11",
+                      "question": "How are emotions shaped by the ending of the inner plot?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.6.12",
+                      "question": "What kind of closure does the story-within-a-story offer—emotional, logical, or thematic?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return to Outer Frame",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.1",
+                      "question": "How does the story signal the return from the inner narrative to the outer frame?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.2",
+                      "question": "What changes in tone or mood occur when we come back to the frame story?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.3",
+                      "question": "How do the events of the inner story affect the outer frame characters or situation?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.4",
+                      "question": "What new understanding or perspective is gained by returning to the frame?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.5",
+                      "question": "How does the return create a bridge between the two narrative layers?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.6",
+                      "question": "What tensions remain unresolved upon return to the outer frame?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.7",
+                      "question": "How might the frame narrator reflect on the inner story’s meaning?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.8",
+                      "question": "What if the return is ambiguous or open-ended—how does that affect the story?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.9",
+                      "question": "How does this transition influence the audience’s emotional response?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.10",
+                      "question": "What narrative techniques are used to mark the return effectively?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.11",
+                      "question": "How does the return alter our perception of the frame narrator’s reliability?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.7.12",
+                      "question": "What new questions does the return raise about the story’s overall meaning?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Outer Frame Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.1",
+                      "question": "How does the outer frame bring final resolution to the entire narrative?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.2",
+                      "question": "What emotional or thematic closure does the frame provide?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.3",
+                      "question": "How are the framing characters changed by the inner story’s influence?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.4",
+                      "question": "What lingering tensions or conflicts remain at the frame’s end?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.5",
+                      "question": "How does the final closure relate back to the opening of the frame narrative?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.6",
+                      "question": "What message or moral might the frame story leave with the audience?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.7",
+                      "question": "How does the frame’s ending affect our interpretation of the inner narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.8",
+                      "question": "What if the frame ended differently—how would that change the overall story?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.9",
+                      "question": "How is emotional tone resolved or transformed in the closing moments?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.10",
+                      "question": "What role does the audience’s perspective play in understanding the closure?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.11",
+                      "question": "How does the frame’s closure invite reflection or further questioning?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.B.8.12",
+                      "question": "Why might an author choose to leave the frame’s ending open or ambiguous?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Outer Frame Opening",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.1",
+                      "question": "How does the outer frame establish the storyteller’s reliability or unreliability?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.2",
+                      "question": "In what ways does the frame’s context influence the audience’s interpretation of the inner narrative?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.3",
+                      "question": "How might the framing narrative reflect or critique societal values?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.4",
+                      "question": "What narrative techniques create suspense or anticipation in the frame’s opening?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.5",
+                      "question": "How does the frame’s tone shape the thematic expectations for the story within?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.6",
+                      "question": "What role does setting play in defining the outer frame’s identity?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.7",
+                      "question": "How does the frame introduce questions about memory or storytelling itself?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.8",
+                      "question": "Why might the frame include conflicting details or contradictions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.9",
+                      "question": "What if the frame narrator’s intentions differ from the audience’s interpretation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.10",
+                      "question": "How does the framing narrative set up expectations for the inner narrative’s resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.11",
+                      "question": "In what ways does the frame prepare the audience emotionally for the inner story?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.1.12",
+                      "question": "How does the outer frame function as a meta-commentary on storytelling itself?",
+                      "concept": "Reflexivity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Transition Into Inner Narrative",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.1",
+                      "question": "How is the boundary between the outer and inner narratives emphasized or blurred?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.2",
+                      "question": "What formal devices mark the narrative shift (e.g., visual, auditory cues)?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.3",
+                      "question": "How does the transition affect the audience’s suspension of disbelief?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.4",
+                      "question": "Why might the storyteller choose a particular mode of entry into the inner narrative?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.5",
+                      "question": "How does the transition manage continuity or introduce deliberate disruption?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.6",
+                      "question": "What emotional or cognitive shifts occur as the story moves inward?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.7",
+                      "question": "How might the transition reflect thematic concerns such as memory or identity?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.8",
+                      "question": "What if the transition was seamless—how would that change narrative impact?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.9",
+                      "question": "How does the transition prepare the audience for a change in perspective or scale?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.10",
+                      "question": "What role does pacing play during the shift between narratives?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.11",
+                      "question": "How does crossing the threshold affect the story’s tension or stakes?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.2.12",
+                      "question": "How does the transition challenge the audience’s understanding of narrative boundaries?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Inner Narrative Setup",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.1",
+                      "question": "How does the inner narrative’s setup foreshadow later developments?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.2",
+                      "question": "In what ways do the inner story’s characters embody or subvert archetypes introduced in the frame?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.3",
+                      "question": "How does the inner narrative establish its own rules or logic separate from the frame?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.4",
+                      "question": "What conflicts introduced here resonate with themes from the outer frame?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.5",
+                      "question": "How does the setup create emotional investment in the inner narrative’s protagonists?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.6",
+                      "question": "What narrative functions does exposition serve in establishing the inner story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.7",
+                      "question": "How might the inner story’s setup complicate or deepen the frame’s meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.8",
+                      "question": "What assumptions about time or causality are challenged in this stage?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.9",
+                      "question": "Why might the inner narrative’s beginning contrast stylistically with the outer frame?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.10",
+                      "question": "How do early choices made by characters hint at future transformations?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.11",
+                      "question": "What if the inner story’s setup mirrored the outer frame exactly—how would this affect interpretation?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.3.12",
+                      "question": "How does the inner narrative invite the audience to reconsider the frame’s assumptions?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Inner Narrative Development",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.1",
+                      "question": "How do the developments within the inner narrative reflect or diverge from the frame narrative’s themes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.2",
+                      "question": "What role do secondary characters play in escalating the inner narrative’s conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.3",
+                      "question": "How does the pacing of the inner story influence the audience’s engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.4",
+                      "question": "In what ways does the inner narrative build complexity through cause and effect relationships?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.5",
+                      "question": "How are patterns or motifs used to create coherence within the inner narrative?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.6",
+                      "question": "What emotional tensions arise in this section, and how are they managed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.7",
+                      "question": "How does the inner narrative’s development challenge audience expectations set by the frame?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.8",
+                      "question": "What if the inner narrative’s development had taken an alternative direction—how would that affect the overall story?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.9",
+                      "question": "How does the story maintain continuity despite shifts in perspective or time?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.10",
+                      "question": "What narrative devices are employed to deepen the audience’s emotional connection here?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.11",
+                      "question": "How do conflicts within the inner narrative echo or contrast with those in the frame?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.4.12",
+                      "question": "Why is this stage crucial for setting up the inner narrative’s climax?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Inner Narrative Climax",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.1",
+                      "question": "How does the climax transform the inner narrative’s characters and themes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.2",
+                      "question": "What choices define the turning point in the inner story?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.3",
+                      "question": "How do the consequences of the climax resonate with the outer frame’s message?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.4",
+                      "question": "In what ways does the climax challenge or affirm the frame narrative’s worldview?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.5",
+                      "question": "What emotional intensity does the climax generate, and how is it sustained?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.6",
+                      "question": "How does the climax serve as a threshold moment for narrative transformation?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.7",
+                      "question": "What thematic parallels emerge between the climax and the frame’s core conflicts?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.8",
+                      "question": "What if the climax resolved differently—how would that shift the story’s overall meaning?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.9",
+                      "question": "How might audience interpretations of the protagonist change after the climax?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.10",
+                      "question": "What narrative techniques heighten the emotional catharsis of the climax?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.11",
+                      "question": "How does the climax affect pacing and tone moving forward?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.5.12",
+                      "question": "Why is the climax pivotal in linking the inner and outer narratives thematically?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Inner Narrative Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.1",
+                      "question": "How does the resolution address or complicate conflicts introduced earlier?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.2",
+                      "question": "What lasting changes occur in characters as a result of the inner narrative’s conclusion?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.3",
+                      "question": "How does the resolution prepare the audience emotionally and cognitively for the return to the outer frame?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.4",
+                      "question": "In what ways might the resolution be intentionally ambiguous or open-ended?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.5",
+                      "question": "How does the pacing of the resolution influence the audience’s sense of closure?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.6",
+                      "question": "What thematic questions remain after the inner narrative concludes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.7",
+                      "question": "How does the inner narrative’s resolution contrast with the tone set in the outer frame?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.8",
+                      "question": "What narrative strategies link the resolution back to the frame’s concerns?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.9",
+                      "question": "What emotional responses does the resolution evoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.10",
+                      "question": "How might unresolved elements in the inner story affect interpretation of the frame narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.11",
+                      "question": "What is the significance of closure in layered narratives compared to linear ones?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.6.12",
+                      "question": "How does the resolution enhance or challenge the frame story’s authorial intent?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return to Outer Frame",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.1",
+                      "question": "How does the narrative signal the transition back to the outer frame, and what techniques are used to mark this shift?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.2",
+                      "question": "In what ways does the return alter the audience’s understanding of both narrative layers?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.3",
+                      "question": "How does the tone or mood change upon returning to the outer frame narrative?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.4",
+                      "question": "What unresolved tensions or themes from the inner narrative persist in the outer frame?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.5",
+                      "question": "How might the outer frame characters’ perspectives shift as a result of the inner story’s influence?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.6",
+                      "question": "What narrative or thematic parallels emerge when the outer frame resumes?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.7",
+                      "question": "How does the return challenge or reinforce the reliability of the frame narrator?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.8",
+                      "question": "What if the return to the outer frame was delayed or fragmented—how would that affect the story’s coherence?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.9",
+                      "question": "How does the return impact the audience’s emotional engagement or desire for closure?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.10",
+                      "question": "What role does pacing play during the transition back to the outer frame?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.11",
+                      "question": "How do visual or auditory cues help differentiate the two narrative layers at this point?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.7.12",
+                      "question": "Why might the author choose to leave some ambiguity in the return to the outer frame narrative?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Outer Frame Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.1",
+                      "question": "How does the outer frame conclude the story’s larger thematic concerns?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.2",
+                      "question": "What emotional resolution does the frame provide for the audience?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.3",
+                      "question": "How are the outer frame characters transformed by the inner narrative’s events?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.4",
+                      "question": "What narrative devices are used to create a satisfying or thought-provoking ending?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.5",
+                      "question": "How does the frame’s ending echo or contrast with its opening?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.6",
+                      "question": "What unresolved questions or tensions remain, and what might they suggest?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.7",
+                      "question": "How does the closure invite reflection on the nature of storytelling or memory?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.8",
+                      "question": "What if the outer frame closed with a different emotional tone—how would that reshape the narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.9",
+                      "question": "How does the audience’s perspective influence their interpretation of the frame’s conclusion?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.10",
+                      "question": "What thematic significance does the frame’s closure hold in relation to the inner narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.11",
+                      "question": "How does the ending balance finality and openness to encourage ongoing thought?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.I.8.12",
+                      "question": "Why might an author deliberately avoid neat closure in the frame narrative?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Outer Frame Opening",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.1",
+                      "question": "How does the outer frame establish a lens for interpreting the inner narrative?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.2",
+                      "question": "What structural signals mark the shift from reality to the framed context?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.3",
+                      "question": "Why might an author choose to delay direct action in favor of a framed introduction?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.4",
+                      "question": "In what ways does the opening frame limit or expand the possible meanings of the inner story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.5",
+                      "question": "How could changes to the frame alter the perceived reliability of the narrator?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.6",
+                      "question": "What thematic threads are introduced in the frame that anticipate the inner narrative?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.7",
+                      "question": "How is tone established differently in the frame than in the core narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.8",
+                      "question": "What if the frame was removed entirely—how would the audience’s interpretation shift?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.9",
+                      "question": "Why is the perspective of the frame narrator critical for the audience’s moral alignment?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.10",
+                      "question": "How do framing devices interact with genre conventions in complex narratives?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.11",
+                      "question": "In what ways can the frame serve as commentary on the inner narrative’s reliability?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.1.12",
+                      "question": "What emotional expectations are set up in the frame for later fulfillment or disruption?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Transition Into Inner Narrative",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.1",
+                      "question": "How does the transition moment signal entry into a new narrative layer?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.2",
+                      "question": "What narrative cues help the audience navigate the shift in perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.3",
+                      "question": "Why is pacing crucial at this transition point?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.4",
+                      "question": "How could ambiguity in the transition affect audience trust?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.5",
+                      "question": "What thematic link is established between the outer frame and the beginning of the inner story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.6",
+                      "question": "In what ways does the transition reinforce or undermine genre expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.7",
+                      "question": "What is the role of sensory or symbolic detail in making the transition seamless?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.8",
+                      "question": "How might an abrupt transition influence the perceived authority of the storyteller?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.9",
+                      "question": "Why could delaying the transition heighten tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.10",
+                      "question": "How can the threshold between stories be used to foreshadow conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.11",
+                      "question": "What if the transition was non-linear—how would that affect audience comprehension?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.2.12",
+                      "question": "How does the storyteller’s presence or absence at the transition impact tone?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Inner Narrative Setup",
+                  "part_concept": "Setup",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.1",
+                      "question": "How is the embedded world introduced distinctly from the frame world?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.2",
+                      "question": "What key stakes are established early in the inner narrative?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.3",
+                      "question": "Why might the embedded story begin with a moment of uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.4",
+                      "question": "How are characters positioned in relation to the frame’s thematic concerns?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.5",
+                      "question": "What role does pacing play in aligning the inner story’s opening with the frame’s momentum?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.6",
+                      "question": "How could an inversion of expected opening events reframe audience assumptions?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.7",
+                      "question": "What are the first emotional beats of the inner narrative and how do they contrast the frame?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.8",
+                      "question": "Why is the initial conflict in the inner story essential for later resonance in the outer frame?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.9",
+                      "question": "What if the embedded narrative started in medias res—how would that change its relationship to the frame?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.10",
+                      "question": "How can symbolic objects or motifs bridge the setup between inner and outer narratives?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.11",
+                      "question": "What narrative constraints are imposed by the framing structure at this early stage?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.3.12",
+                      "question": "How do shifts in tone within the inner narrative setup prepare the audience for thematic interplay?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Inner Narrative Development",
+                  "part_concept": "Development",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.1",
+                      "question": "How does the embedded plot escalate in complexity without overshadowing the frame narrative?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.2",
+                      "question": "What techniques maintain audience investment during the middle arc of the inner story?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.3",
+                      "question": "Why is thematic alignment between frame and inner narrative crucial at this stage?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.4",
+                      "question": "How might alternating between the frame and inner narrative build tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.5",
+                      "question": "What character developments within the inner story reflect or contrast the frame’s perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.6",
+                      "question": "In what ways can symbolic motifs deepen the connection between the two narrative layers?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.7",
+                      "question": "How could changes in pacing here shift the perceived urgency of the frame’s concerns?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.8",
+                      "question": "What if key developments in the inner story are withheld—how does that affect suspense in the frame?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.9",
+                      "question": "Why might the author introduce ambiguity in the middle section of the inner plot?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.10",
+                      "question": "How does the narrative voice adapt to sustain the inner plot’s momentum?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.11",
+                      "question": "In what ways does conflict escalation in the inner narrative influence audience expectations for the frame?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.4.12",
+                      "question": "How can parallel developments in the frame and inner story create a sense of inevitability?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Inner Narrative Climax",
+                  "part_concept": "Climax",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.1",
+                      "question": "How does the peak moment of the inner story reverberate into the frame narrative?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.2",
+                      "question": "What narrative techniques ensure the climax feels earned within the frame’s logic?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.3",
+                      "question": "Why might an author choose to misalign the inner climax with the frame’s emotional trajectory?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.4",
+                      "question": "How can shifts in tone at the climax create layered audience reactions?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.5",
+                      "question": "What role does symbolic imagery play at the inner narrative’s peak?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.6",
+                      "question": "How does the climax alter the balance of power between frame narrator and inner story characters?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.7",
+                      "question": "What if the inner climax undermines the moral stance established in the frame?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.8",
+                      "question": "How might non-linear structuring of the climax impact audience interpretation?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.9",
+                      "question": "Why could withholding resolution in the climax sustain interest in the frame narrative?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.10",
+                      "question": "How does the pacing of the climax in the inner narrative influence the perceived tempo of the entire work?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.11",
+                      "question": "In what ways does the climax reinforce or challenge the themes introduced in the frame?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.5.12",
+                      "question": "How does the inner climax position the audience for the transition back to the frame?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Inner Narrative Resolution",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.1",
+                      "question": "How does the embedded resolution tie off internal conflicts while leaving room for frame implications?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.2",
+                      "question": "What thematic echoes from the frame are most strongly felt here?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.3",
+                      "question": "Why might an author leave aspects of the inner resolution ambiguous?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.4",
+                      "question": "How does tone in the resolution contrast with or mirror the frame’s emotional stance?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.5",
+                      "question": "What if the resolution contradicts the expectations set by the frame?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.6",
+                      "question": "How can symbolic closure in the inner narrative reinforce thematic unity across both layers?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.7",
+                      "question": "In what ways might unresolved threads in the inner story increase tension in the frame?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.8",
+                      "question": "How does pacing in the resolution affect readiness for re-entry into the frame?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.9",
+                      "question": "Why could a reflective or meta-narrative resolution be especially impactful in a framed structure?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.10",
+                      "question": "How does the resolution position characters for their role in the frame’s closing moments?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.11",
+                      "question": "What narrative constraints of the frame influence how the inner story can resolve?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.6.12",
+                      "question": "How do emotional beats in the resolution prepare the audience for the shift back to the outer frame?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return to Outer Frame",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.1",
+                      "question": "How does the shift back to the frame reorient the audience’s perspective on the inner story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.2",
+                      "question": "What narrative signals ensure a smooth re-entry into the outer frame?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.3",
+                      "question": "Why might an abrupt return create productive tension or disorientation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.4",
+                      "question": "How do unresolved elements from the inner narrative shape the tone of the return?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.5",
+                      "question": "What role does the frame narrator’s voice play in reframing the meaning of the inner story?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.6",
+                      "question": "How could symbolic or visual motifs bridge the transition back to the frame?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.7",
+                      "question": "What if the frame’s re-entry contradicts the assumptions built in the inner narrative?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.8",
+                      "question": "How does pacing affect the audience’s readiness for the frame’s conclusion?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.9",
+                      "question": "Why is thematic alignment at this stage critical for a satisfying closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.10",
+                      "question": "How can emotional tone shifts during the return enhance or subvert audience expectations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.11",
+                      "question": "In what ways might the return to the frame alter perceived reliability of the overall narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.7.12",
+                      "question": "How does the return stage prepare the audience for the frame’s final commentary or resolution?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Outer Frame Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.1",
+                      "question": "How does the final frame scene resolve or complicate the thematic threads of both narratives?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.2",
+                      "question": "What narrative strategies can deliver a satisfying ending while preserving ambiguity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.3",
+                      "question": "Why might the outer frame end in a tonal contrast to the inner story?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.4",
+                      "question": "How does the closure confirm or undermine the authority of the frame narrator?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.5",
+                      "question": "What symbolic gestures or callbacks can tie together both narrative layers?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.6",
+                      "question": "How can the outer frame closure serve as a meta-commentary on storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.7",
+                      "question": "What if the frame ends on an unresolved note—how would that affect the audience’s sense of completeness?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.8",
+                      "question": "How does pacing in the final moments influence the lingering emotional impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.9",
+                      "question": "Why could the frame closure deliberately mirror the opening scene?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.10",
+                      "question": "In what ways might the final line or image redefine the meaning of the entire narrative?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.11",
+                      "question": "How does the closure resolve the audience’s moral alignment shaped across both narratives?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.A.8.12",
+                      "question": "What emotional aftertaste does the frame closure aim to leave, and why?",
+                      "concept": "Mood"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/8] 1. Outer Frame Opening",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.1",
+                      "question": "How does the outer frame function as a meta-narrative to interrogate the act of storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.2",
+                      "question": "In what ways does the frame challenge conventional narrative authority and question the reliability of perspective?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.3",
+                      "question": "How can the outer frame be read as a critique of cultural or ideological systems embedded in storytelling?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.4",
+                      "question": "What implications arise from the frame’s manipulation of temporal and spatial boundaries for narrative coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.5",
+                      "question": "How does the tone and mood established in the frame prefigure or subvert the inner narrative’s thematic trajectory?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.6",
+                      "question": "How might the frame serve as a site for authorial strategy, embedding ideological or philosophical subtexts?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.7",
+                      "question": "In what ways does the frame create a layered perspective that destabilizes singular interpretations?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.8",
+                      "question": "How does the introduction of the frame complicate the audience’s memory and engagement with subsequent narratives?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.9",
+                      "question": "What role does paradox play in the frame’s presentation of conflicting truths or realities?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.10",
+                      "question": "How can the framing narrative be analyzed through the lens of systems theory to reveal emergent properties?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.11",
+                      "question": "What narrative functions does the frame serve in establishing hierarchy between story layers?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.1.12",
+                      "question": "How might the frame’s opening act as a threshold for transformative audience cognition and interpretation?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/8] 2. Transition Into Inner Narrative",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.1",
+                      "question": "How does the transition interrogate the conceptual boundaries between fiction and reality within the narrative?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.2",
+                      "question": "In what ways does the use of formal and stylistic devices in the transition disrupt traditional narrative flow?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.3",
+                      "question": "How does the threshold crossing function as an epistemological pivot point for the audience’s understanding?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.4",
+                      "question": "What does the transition reveal about the narrator’s intention regarding narrative reliability and truth?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.5",
+                      "question": "How can the transition be read as a metaphor for cognitive shifts or consciousness expansion?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.6",
+                      "question": "What role does pacing and temporal discontinuity play in destabilizing audience expectations during the transition?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.7",
+                      "question": "How does the transition complicate notions of narrative scale and focalization?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.8",
+                      "question": "How might the transition enact a form of narrative iteration or recursion within the larger story system?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.9",
+                      "question": "What interpretive challenges arise from the blending or fracturing of narrative layers at this point?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.10",
+                      "question": "How does the transition invite reflexive awareness of storytelling’s constructed nature?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.11",
+                      "question": "In what ways does the transition embody a paradox of separation and connection between narrative levels?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.2.12",
+                      "question": "How might the transition function as a critical disruption to traditional narrative expectations?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/8] 3. Inner Narrative Setup",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.1",
+                      "question": "How does the inner narrative establish its own systemic logic distinct yet dependent on the outer frame?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.2",
+                      "question": "In what ways does the inner setup foreshadow emergent properties that redefine the overall narrative system?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.3",
+                      "question": "How do early character dynamics reflect underlying power structures within the narrative system?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.4",
+                      "question": "What role does cause and effect play in establishing systemic coherence amid layered narratives?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.5",
+                      "question": "How might the inner narrative’s temporal and spatial framing challenge assumptions of continuity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.6",
+                      "question": "What cognitive and emotional investments does the setup solicit from the audience, and how are they strategically managed?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.7",
+                      "question": "How does the setup problematize traditional notions of narrative closure and resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.8",
+                      "question": "In what ways does the inner setup challenge or reinforce the frame’s thematic concerns through metaphor or analogy?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.9",
+                      "question": "How does the inner narrative engage with concepts of agency and intention within its systemic boundaries?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.10",
+                      "question": "What narrative tensions are introduced that prefigure complex transformations later in the story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.11",
+                      "question": "How does the inner narrative setup create space for multiple valid interpretations and ambiguities?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.3.12",
+                      "question": "Why is the setup critical for establishing the narrative’s capacity for reflexivity and disruption?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/8] 4. Inner Narrative Development",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.1",
+                      "question": "How does the development stage enact systemic transformations that challenge the stability of both narrative layers?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.2",
+                      "question": "In what ways do recursive patterns and motifs contribute to emergent meanings across the nested narrative system?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.3",
+                      "question": "How are tensions between agency and structural constraints explored within the evolving inner narrative?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.4",
+                      "question": "What role does paradox play in complicating cause and effect relationships during this stage?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.5",
+                      "question": "How does pacing function as a mechanism of disruption or reinforcement in the narrative’s progression?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.6",
+                      "question": "How do emergent properties manifest through character dynamics and plot complexity in the inner narrative?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.7",
+                      "question": "In what ways does the narrative development stage deepen audience engagement through layered emotional and cognitive effects?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.8",
+                      "question": "How does this stage destabilize audience expectations, inviting reinterpretation of earlier narrative assumptions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.9",
+                      "question": "What systems-level feedback loops become apparent as the inner narrative unfolds?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.10",
+                      "question": "How does the inner narrative development negotiate the boundary between autonomy and dependence within the larger story system?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.11",
+                      "question": "How do thematic dualities and tensions enhance the narrative’s structural complexity during this stage?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.4.12",
+                      "question": "What if the narrative development emphasized continuity over disruption—how would this alter interpretive possibilities?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/8] 5. Inner Narrative Climax",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.1",
+                      "question": "How does the climax operate as a catalytic moment transforming both narrative layers simultaneously?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.2",
+                      "question": "In what ways does the climax interrogate the nature of choice and consequence within nested storytelling?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.3",
+                      "question": "How does the climax expose or resolve paradoxes embedded in the narrative’s structure?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.4",
+                      "question": "What narrative techniques heighten the affective intensity and cognitive dissonance at this pivotal point?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.5",
+                      "question": "How does the climax enact a threshold crossing that redefines audience understanding?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.6",
+                      "question": "How are themes of power and agency negotiated or transformed in the climax?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.7",
+                      "question": "What emergent interpretations arise from the climax’s ambiguity or openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.8",
+                      "question": "How might alternative resolutions at the climax stage reshape the narrative’s philosophical implications?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.9",
+                      "question": "What is the role of catharsis in reconciling conflicting narrative elements at the climax?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.10",
+                      "question": "How does the pacing and rhythm at climax influence the audience’s interpretive and emotional experience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.11",
+                      "question": "In what ways does the climax reflect or disrupt genre conventions within nested narratives?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.5.12",
+                      "question": "How does the climax prepare the narrative system for resolution while preserving interpretive complexity?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/8] 6. Inner Narrative Resolution",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.1",
+                      "question": "How does the resolution negotiate closure while maintaining openness to multiple interpretations?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.2",
+                      "question": "In what ways does the inner narrative’s conclusion reframe or complicate the frame narrative’s themes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.3",
+                      "question": "How does the resolution enact a system-level feedback that influences narrative coherence across layers?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.4",
+                      "question": "What role does ambiguity play in the narrative’s closure, and how does it affect audience engagement?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.5",
+                      "question": "How does pacing during the resolution reflect broader thematic or philosophical concerns?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.6",
+                      "question": "How are unresolved tensions or paradoxes maintained or transformed at this stage?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.7",
+                      "question": "How does the resolution highlight the interplay between narrative agency and systemic constraints?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.8",
+                      "question": "In what ways does the resolution challenge traditional notions of narrative finality?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.9",
+                      "question": "How might the resolution serve as a site of meta-interpretation, inviting reflection on storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.10",
+                      "question": "What emotional and cognitive effects does the resolution generate, and how are these crafted?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.11",
+                      "question": "How does the resolution balance narrative closure with ongoing thematic exploration?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.6.12",
+                      "question": "What authorial strategies are evident in the resolution’s construction and impact?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/8] 7. Return to Outer Frame",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.1",
+                      "question": "How does the return to the outer frame function as a narrative threshold, transforming audience perception of the entire story?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.2",
+                      "question": "In what ways does this transition problematize the boundary between fiction and reality established earlier?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.3",
+                      "question": "How does the return engage with emergent narrative properties to reshape meaning across layers?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.4",
+                      "question": "What role does reflexivity play in the narrative’s self-awareness during this return?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.5",
+                      "question": "How does the return incorporate or disrupt pacing and temporal continuity to affect audience engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.6",
+                      "question": "What paradoxes arise in the re-establishment of the outer frame, and how do they enhance interpretive complexity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.7",
+                      "question": "How does the return negotiate power dynamics between narrative layers and the audience’s interpretive agency?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.8",
+                      "question": "In what ways does the return serve as a moment of meta-interpretation, inviting reconsideration of earlier events?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.9",
+                      "question": "How does the narrative use repetition or variation to emphasize thematic or structural elements upon return?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.10",
+                      "question": "What emotional or cognitive effects are elicited by the return, and how are these crafted?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.11",
+                      "question": "How might alternative treatments of the return alter the story’s overall meaning or impact?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.7.12",
+                      "question": "Why is the return to the outer frame critical for sustaining narrative closure and audience reflection?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/8] 8. Outer Frame Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.1",
+                      "question": "How does the outer frame’s closure synthesize the thematic and structural complexities of both narrative layers?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.2",
+                      "question": "In what ways does the closure invite ongoing interpretation rather than definitive finality?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.3",
+                      "question": "How does the emotional tone of the closure reflect the narrative’s engagement with memory and identity?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.4",
+                      "question": "What meta-narrative functions are fulfilled through the frame’s ending, particularly regarding authorial intention?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.5",
+                      "question": "How does the closure balance narrative finality with openness to reinterpretation or sequel potential?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.6",
+                      "question": "What systems-level insights emerge from analyzing the closure within the nested narrative system?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.7",
+                      "question": "How does the closure function as a site of catharsis or unresolved tension, and what effects does this produce?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.8",
+                      "question": "In what ways does the closure engage with genre conventions to affirm or subvert audience expectations?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.9",
+                      "question": "How might the closure employ metaphor or symbolic imagery to deepen thematic resonance?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.10",
+                      "question": "What interpretive tensions are preserved in the closure to sustain critical engagement?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.11",
+                      "question": "How does the narrative closure exemplify the interplay between narrative agency and systemic constraints?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nested-Framed-Narrative.ME.8.12",
+                      "question": "Why might an open-ended or ambiguous closure be strategically chosen to reflect contemporary narrative practices?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

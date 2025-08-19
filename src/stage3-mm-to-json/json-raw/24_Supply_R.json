@@ -1,0 +1,1411 @@
+{
+  "discipline": "Economics",
+  "children": [
+    {
+      "structure_name": "Supply-Demand-Equilibrium",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Demand → 2. Supply → 3. Equilibrium → 4. Disequilibrium → 5. Market Adjustment"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Demand"
+                },
+                {
+                  "structure_part": "[2/5] 2. Supply"
+                },
+                {
+                  "structure_part": "[3/5] 3. Equilibrium"
+                },
+                {
+                  "structure_part": "[4/5] 4. Disequilibrium"
+                },
+                {
+                  "structure_part": "[5/5] 5. Market Adjustment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Housing Market, Oil Prices, Labor Market"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Demand → Consumer desire and willingness to pay at various prices"
+            },
+            {
+              "terminology": "2. Supply → Producer willingness and ability to sell at various prices"
+            },
+            {
+              "terminology": "3. Equilibrium → Price and quantity where supply equals demand"
+            },
+            {
+              "terminology": "4. Disequilibrium → Price or quantity imbalance causing shortages or surpluses"
+            },
+            {
+              "terminology": "5. Market Adjustment → Process of prices changing to restore equilibrium"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Demand",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.1",
+                      "question": "What does demand represent in a market context?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.2",
+                      "question": "How does consumer willingness affect demand levels?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.3",
+                      "question": "Why does demand typically change when prices vary?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.4",
+                      "question": "What factors can shift the entire demand curve?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.5",
+                      "question": "How do consumer preferences influence demand patterns?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.6",
+                      "question": "What role does income play in shaping demand?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.7",
+                      "question": "How might demand differ for essential versus luxury goods?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.8",
+                      "question": "What if demand suddenly drops for a popular product?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.9",
+                      "question": "Why is understanding demand important for businesses?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.10",
+                      "question": "How can demand forecasts impact market strategies?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.11",
+                      "question": "What emotions might consumers feel when demand increases unexpectedly?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.1.12",
+                      "question": "How does the authorial intent behind demand theory influence economic analysis?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Supply",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.1",
+                      "question": "What does supply signify in economic terms?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.2",
+                      "question": "How do producers decide the quantity to supply at different prices?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.3",
+                      "question": "Why does supply usually increase when prices rise?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.4",
+                      "question": "What external factors can shift the supply curve?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.5",
+                      "question": "How do production costs affect supply levels?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.6",
+                      "question": "What impact do technological advances have on supply?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.7",
+                      "question": "How does supply relate to resource availability?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.8",
+                      "question": "What if suppliers reduce production unexpectedly?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.9",
+                      "question": "Why is supply analysis critical for market predictions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.10",
+                      "question": "How can understanding supply help address shortages?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.11",
+                      "question": "What feelings might producers experience when demand fluctuates unpredictably?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.2.12",
+                      "question": "How does the concept of supply reveal authorial strategy in economics?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Equilibrium",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.1",
+                      "question": "What defines the equilibrium point in supply and demand?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.2",
+                      "question": "How does equilibrium balance quantity supplied and demanded?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.3",
+                      "question": "Why is equilibrium considered a stable market state?",
+                      "concept": "Stability"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.4",
+                      "question": "What happens if prices deviate from the equilibrium point?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.5",
+                      "question": "How do buyers and sellers interact at equilibrium?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.6",
+                      "question": "What factors can disrupt an existing equilibrium?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.7",
+                      "question": "How can equilibrium shift over time in response to market changes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.8",
+                      "question": "What if the equilibrium price is artificially fixed by regulations?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.9",
+                      "question": "Why does equilibrium provide useful insights for economic planning?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.10",
+                      "question": "How might understanding equilibrium affect consumer confidence?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.11",
+                      "question": "What emotional responses can arise when markets reach or lose equilibrium?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.3.12",
+                      "question": "How does the authorial intent behind equilibrium theory influence economic thought?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Disequilibrium",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.1",
+                      "question": "What causes disequilibrium in a market?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.2",
+                      "question": "How do shortages and surpluses illustrate disequilibrium?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.3",
+                      "question": "Why does disequilibrium create pressure for price changes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.4",
+                      "question": "What factors can prolong periods of disequilibrium?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.5",
+                      "question": "How does consumer behavior react during disequilibrium?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.6",
+                      "question": "What role do producers play when disequilibrium occurs?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.7",
+                      "question": "How can government interventions impact disequilibrium?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.8",
+                      "question": "What if disequilibrium persists over a long period?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.9",
+                      "question": "Why is understanding disequilibrium essential for market analysis?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.10",
+                      "question": "How does disequilibrium affect consumer and producer confidence differently?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.11",
+                      "question": "What emotions might arise in markets experiencing disequilibrium?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.4.12",
+                      "question": "How does the concept of disequilibrium challenge traditional economic assumptions?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Market Adjustment",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.1",
+                      "question": "What processes are involved in market adjustment after disequilibrium?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.2",
+                      "question": "How do price changes restore balance in the market?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.3",
+                      "question": "Why might market adjustment take different lengths of time in various markets?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.4",
+                      "question": "What role do expectations play in the adjustment process?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.5",
+                      "question": "How do consumers and producers respond to signals during adjustment?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.6",
+                      "question": "What external factors can influence the speed of market adjustment?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.7",
+                      "question": "How does technology affect market adjustment processes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.8",
+                      "question": "What if market adjustments fail to restore equilibrium?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.9",
+                      "question": "Why is understanding market adjustment critical for policymakers?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.10",
+                      "question": "How might prolonged adjustment periods affect market confidence?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.11",
+                      "question": "What emotional responses might investors experience during market adjustments?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.B.5.12",
+                      "question": "How does the theory of market adjustment reflect authorial strategy in economics?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Demand",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.1",
+                      "question": "How does the law of demand explain the inverse relationship between price and quantity demanded?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.2",
+                      "question": "What mechanisms cause shifts versus movements along the demand curve?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.3",
+                      "question": "Why might elasticity of demand vary between different goods?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.4",
+                      "question": "How do expectations about future prices influence current demand patterns?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.5",
+                      "question": "What role do substitutes and complements play in shaping demand?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.6",
+                      "question": "How can demographic changes affect overall demand in a market?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.7",
+                      "question": "What are the limitations of using demand curves to predict consumer behavior?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.8",
+                      "question": "How might cultural differences alter demand for specific products?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.9",
+                      "question": "What if consumer preferences suddenly shift due to social trends?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.10",
+                      "question": "How can understanding demand improve marketing strategies for new products?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.11",
+                      "question": "What emotional factors can subtly influence consumer demand beyond price and income?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.1.12",
+                      "question": "How does the concept of demand reflect authorial strategy in economic modeling?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Supply",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.1",
+                      "question": "How does the law of supply explain the direct relationship between price and quantity supplied?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.2",
+                      "question": "What distinguishes movements along the supply curve from shifts in supply?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.3",
+                      "question": "Why do some goods have more elastic supply than others?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.4",
+                      "question": "How do production costs and input prices affect supply decisions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.5",
+                      "question": "What impact does technology adoption have on supply flexibility?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.6",
+                      "question": "How can government policies like subsidies or taxes shift supply curves?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.7",
+                      "question": "What role does supplier expectation of future prices play in current supply levels?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.8",
+                      "question": "How might resource scarcity limit supply even if prices rise?",
+                      "concept": "Limitation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.9",
+                      "question": "What if suppliers coordinate to restrict supply intentionally?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.10",
+                      "question": "How does supply analysis help firms anticipate market changes?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.11",
+                      "question": "What psychological or emotional factors influence producer behavior beyond profit motives?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.2.12",
+                      "question": "How does the theory of supply embody authorial intent in economic frameworks?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Equilibrium",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.1",
+                      "question": "How does equilibrium price coordinate the actions of buyers and sellers?",
+                      "concept": "Balance"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.2",
+                      "question": "What conditions are necessary for a market to reach equilibrium?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.3",
+                      "question": "Why can equilibrium be seen as an emergent property of decentralized decisions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.4",
+                      "question": "How do shifts in supply or demand cause new equilibrium points?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.5",
+                      "question": "What are the limitations of equilibrium models in predicting real-world markets?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.6",
+                      "question": "How can equilibrium analysis guide policy decisions on price controls?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.7",
+                      "question": "What if multiple equilibria exist in a market, and how does that affect stability?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.8",
+                      "question": "How does time affect the process of reaching equilibrium?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.9",
+                      "question": "Why might equilibrium not be achieved instantly in all markets?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.10",
+                      "question": "How do informational asymmetries impact equilibrium outcomes?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.11",
+                      "question": "What emotional or social factors might influence perceptions of market equilibrium?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.3.12",
+                      "question": "How does the concept of equilibrium reflect underlying authorial strategy in economics?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Disequilibrium",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.1",
+                      "question": "What market forces lead to disequilibrium between supply and demand?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.2",
+                      "question": "How do shortages and surpluses manifest during disequilibrium periods?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.3",
+                      "question": "Why does disequilibrium create feedback loops affecting price and quantity?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.4",
+                      "question": "What external shocks can trigger prolonged disequilibrium in a market?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.5",
+                      "question": "How do expectations of future market conditions influence current disequilibrium?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.6",
+                      "question": "What roles do consumers and producers play in exacerbating or resolving disequilibrium?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.7",
+                      "question": "How can policy interventions mitigate the effects of disequilibrium?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.8",
+                      "question": "What if price controls prevent the market from correcting disequilibrium?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.9",
+                      "question": "Why is the study of disequilibrium critical for understanding real-world market dynamics?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.10",
+                      "question": "How might psychological factors among market participants influence disequilibrium?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.11",
+                      "question": "What emotional or social tensions arise during extended periods of disequilibrium?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.4.12",
+                      "question": "How does recognizing disequilibrium challenge classical economic theories?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Market Adjustment",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.1",
+                      "question": "What mechanisms drive the market adjustment process after disequilibrium?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.2",
+                      "question": "How do changes in price signal producers and consumers to modify behavior during adjustment?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.3",
+                      "question": "Why do some markets adjust faster than others to restore equilibrium?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.4",
+                      "question": "What role does information flow play in the effectiveness of market adjustments?",
+                      "concept": "Information"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.5",
+                      "question": "How do expectations about future market trends influence adjustment speed and direction?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.6",
+                      "question": "What are the limits of market adjustment in the presence of rigidities or regulations?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.7",
+                      "question": "How can technology and innovation accelerate market adjustment processes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.8",
+                      "question": "What if market adjustments fail to restore equilibrium and lead to chronic imbalances?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.9",
+                      "question": "Why is understanding market adjustment important for economic policy and forecasting?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.10",
+                      "question": "How do emotional responses of investors and consumers affect the adjustment process?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.11",
+                      "question": "What social dynamics emerge during periods of market adjustment?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.I.5.12",
+                      "question": "How does the concept of market adjustment reveal authorial intent in economic analysis?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Demand",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.1",
+                      "question": "How do income and substitution effects interact to shape the demand curve's slope?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.2",
+                      "question": "What theoretical frameworks explain anomalies in consumer demand behavior?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.3",
+                      "question": "How can behavioral economics deepen understanding of demand elasticity?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.4",
+                      "question": "Why might standard demand models fail under conditions of uncertainty or incomplete information?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.5",
+                      "question": "How do network effects alter traditional demand analysis in digital markets?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.6",
+                      "question": "In what ways do cultural and social norms complicate cross-market demand comparisons?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.7",
+                      "question": "How might demand forecasting incorporate complex adaptive system principles?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.8",
+                      "question": "What implications arise from nonlinearities in demand response to price changes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.9",
+                      "question": "How do expectations of future market trends reshape current demand beyond classical rationality assumptions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.10",
+                      "question": "What if traditional demand elasticity measures fail in markets influenced by digital platforms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.11",
+                      "question": "How can emotional and psychological biases in consumers be modeled within demand theories?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.1.12",
+                      "question": "How does the authorial strategy in demand theory shape economic policy recommendations?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Supply",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.1",
+                      "question": "How do cost structures and economies of scale influence the shape of the supply curve?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.2",
+                      "question": "What complexities arise in modeling supply under conditions of technological uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.3",
+                      "question": "How do market structures (perfect competition, monopoly) affect supply responsiveness?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.4",
+                      "question": "Why might supply curves be kinked or discontinuous in real-world scenarios?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.5",
+                      "question": "How can supply chain dynamics and delays complicate supply analysis?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.6",
+                      "question": "What role do expectations and strategic behavior play in supplier decisions?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.7",
+                      "question": "How do externalities and regulation influence supply beyond price mechanisms?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.8",
+                      "question": "What if supply constraints arise from resource depletion or environmental factors?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.9",
+                      "question": "How can innovations in production technology cause emergent changes in supply patterns?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.10",
+                      "question": "How do psychological factors among producers affect supply decisions in volatile markets?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.11",
+                      "question": "What insights does advanced supply theory offer for managing risk in supply chains?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.2.12",
+                      "question": "How does authorial intent in supply modeling influence policy and economic forecasts?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Equilibrium",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.1",
+                      "question": "How does general equilibrium theory extend beyond simple supply-demand interactions to model entire economies?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.2",
+                      "question": "What challenges arise in achieving equilibrium in markets with asymmetric information?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.3",
+                      "question": "How do dynamic adjustments and expectations create multiple or shifting equilibria?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.4",
+                      "question": "Why might equilibrium be unstable or nonexistent in certain complex markets?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.5",
+                      "question": "How can computational models and simulations enhance understanding of equilibrium behavior?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.6",
+                      "question": "What role do institutional and social factors play in establishing or disrupting equilibrium?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.7",
+                      "question": "How does the concept of equilibrium incorporate power relations among market participants?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.8",
+                      "question": "What if market participants anticipate disequilibrium and act strategically to influence outcomes?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.9",
+                      "question": "How do non-price rationing mechanisms affect equilibrium analysis?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.10",
+                      "question": "What limitations exist in applying equilibrium concepts to digital and platform economies?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.11",
+                      "question": "How might emotional and behavioral economics insights refine equilibrium theory?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.3.12",
+                      "question": "How does authorial strategy influence the interpretation and application of equilibrium models?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Disequilibrium",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.1",
+                      "question": "How do market imperfections and external shocks contribute to prolonged disequilibrium?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.2",
+                      "question": "In what ways do feedback mechanisms exacerbate or mitigate disequilibrium effects?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.3",
+                      "question": "How do expectations and adaptive behaviors among agents influence the duration of disequilibrium?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.4",
+                      "question": "Why might disequilibrium lead to market failures or systemic risks?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.5",
+                      "question": "What roles do asymmetric information and strategic behavior play during disequilibrium?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.6",
+                      "question": "How can policy interventions be designed to address structural causes of disequilibrium rather than symptoms?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.7",
+                      "question": "What if persistent disequilibrium induces long-term structural changes in the market?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.8",
+                      "question": "How do emotional and behavioral factors among market participants influence disequilibrium dynamics?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.9",
+                      "question": "What are the ethical considerations in managing markets experiencing disequilibrium?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.10",
+                      "question": "How do social and institutional frameworks affect the resolution of disequilibrium?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.11",
+                      "question": "How might the concept of disequilibrium be reframed to incorporate complexity theory insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.4.12",
+                      "question": "What emotional responses do stakeholders exhibit during market disruptions, and how do these affect market outcomes?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Market Adjustment",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.1",
+                      "question": "How do iterative feedback loops contribute to the stabilization of markets after disequilibrium?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.2",
+                      "question": "What role does information asymmetry play in shaping the effectiveness of market adjustments?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.3",
+                      "question": "How can innovation and technological change accelerate or disrupt market adjustment processes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.4",
+                      "question": "Why might market adjustments lead to unintended consequences or new instabilities?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.5",
+                      "question": "How do institutional policies and regulations influence the trajectory of market adjustments?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.6",
+                      "question": "In what ways do behavioral biases among consumers and producers shape adjustment outcomes?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.7",
+                      "question": "What if market adjustments fail to restore equilibrium, leading to chronic disequilibrium or new market structures?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.8",
+                      "question": "How can advanced computational models improve predictions of market adjustment dynamics?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.9",
+                      "question": "What ethical dilemmas arise during policy interventions aimed at accelerating market adjustments?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.10",
+                      "question": "How do social networks and collective behaviors influence the speed and nature of market adjustments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.11",
+                      "question": "What emotional and psychological effects do prolonged adjustment periods have on market participants?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.A.5.12",
+                      "question": "How does recognizing complexity in market adjustment challenge traditional economic models?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Demand",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.1",
+                      "question": "How do multi-agent interactions within complex adaptive systems challenge classical demand theory assumptions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.2",
+                      "question": "What are the implications of fractal and nonlinear patterns in consumer demand across different scales?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.3",
+                      "question": "How can agent-based modeling and machine learning techniques transform the predictive accuracy of demand forecasts?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.4",
+                      "question": "In what ways does incorporating behavioral economics and neuroeconomics deepen the understanding of demand dynamics?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.5",
+                      "question": "How do shifting cultural paradigms and social norms redefine fundamental demand structures over time?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.6",
+                      "question": "What role does reflexivity play in how economic agents form and revise their demand expectations?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.7",
+                      "question": "How might disruptions in information flow lead to emergent, unpredictable demand phenomena?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.8",
+                      "question": "What if traditional demand curves are insufficient to capture multi-dimensional preferences in globalized markets?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.9",
+                      "question": "How do meta-narratives and authorial strategies influence the framing of demand theories in academic economics?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.10",
+                      "question": "What ethical considerations emerge when demand forecasting affects public policy and resource allocation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.11",
+                      "question": "How can the integration of qualitative and quantitative data improve the conceptualization of demand?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.1.12",
+                      "question": "How do emotional and psychological complexities in consumer behavior challenge economic modeling of demand?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Supply",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.1",
+                      "question": "How does the interplay between technological innovation and ecological constraints reshape supply dynamics at multiple scales?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.2",
+                      "question": "What complexities arise in modeling supply chains as dynamic, non-linear networks influenced by global interdependencies?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.3",
+                      "question": "How do concepts of resilience and adaptability inform advanced supply theories under conditions of uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.4",
+                      "question": "In what ways do power asymmetries among suppliers influence market supply beyond price mechanisms?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.5",
+                      "question": "How can blockchain and distributed ledger technologies transform transparency and trust in supply networks?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.6",
+                      "question": "What role does institutional theory play in shaping normative frameworks for supply chain governance?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.7",
+                      "question": "How do behavioral economics insights challenge traditional rational supplier decision-making models?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.8",
+                      "question": "What if future supply disruptions arise from systemic risks embedded in socio-technical infrastructures?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.9",
+                      "question": "How can meta-analytic approaches refine our understanding of supply elasticity across sectors?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.10",
+                      "question": "What authorial strategies shape the evolution of supply theory in response to global economic crises?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.11",
+                      "question": "How do emerging environmental and ethical concerns redefine supply priorities and constraints?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.2.12",
+                      "question": "How do emotional and social factors among suppliers impact complex supply decisions in volatile markets?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Equilibrium",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.1",
+                      "question": "How does complexity theory reconceptualize equilibrium as a dynamic, emergent property rather than a static state?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.2",
+                      "question": "What are the philosophical implications of multiple, coexisting equilibria in economic systems?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.3",
+                      "question": "How do reflexivity and anticipatory behavior among agents disrupt traditional equilibrium models?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.4",
+                      "question": "In what ways can computational agent-based models simulate the emergence and breakdown of equilibrium states?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.5",
+                      "question": "How do power dynamics and institutional structures influence the formation and persistence of equilibrium?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.6",
+                      "question": "What role do social narratives and authorial framing play in the acceptance of equilibrium concepts within economics?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.7",
+                      "question": "How can emotional and cognitive biases among market participants challenge the notion of equilibrium?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.8",
+                      "question": "What if emergent properties at macroeconomic scales redefine microeconomic equilibrium assumptions?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.9",
+                      "question": "How do temporal dynamics and path dependency affect the stability and transition between equilibrium states?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.10",
+                      "question": "What ethical considerations arise from policies based on equilibrium assumptions in diverse socio-economic contexts?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.11",
+                      "question": "How can interdisciplinary approaches enhance the conceptual robustness of equilibrium models?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.3.12",
+                      "question": "How might future economic crises inform revisions to equilibrium theory within the field of economics?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Disequilibrium",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.1",
+                      "question": "How do nonlinear dynamics and chaos theory expand our understanding of market disequilibrium?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.2",
+                      "question": "In what ways do systemic risks and cascading failures emerge from prolonged disequilibrium in interconnected markets?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.3",
+                      "question": "How can multi-level governance frameworks better manage disequilibrium across local and global scales?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.4",
+                      "question": "What role does agent heterogeneity and adaptive learning play in the persistence or resolution of disequilibrium?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.5",
+                      "question": "How might evolving social norms and cultural transformations influence the manifestation of disequilibrium?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.6",
+                      "question": "What if disequilibrium phases serve as necessary disruptions that catalyze systemic innovation and transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.7",
+                      "question": "How do emotional and psychological responses of market participants shape the feedback loops during disequilibrium?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.8",
+                      "question": "What ethical frameworks should guide interventions in markets experiencing chronic disequilibrium?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.9",
+                      "question": "How do power asymmetries and institutional politics affect the trajectory of disequilibrium and its resolution?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.10",
+                      "question": "How can interdisciplinary approaches integrate complexity science to address persistent disequilibrium?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.11",
+                      "question": "What insights do reflexivity and meta-cognition offer for understanding disequilibrium dynamics?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.4.12",
+                      "question": "How might authorial strategies in economic discourse shape perceptions and policies regarding disequilibrium?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Market Adjustment",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.1",
+                      "question": "How do iterative, multi-scale feedback mechanisms drive complex market adjustment processes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.2",
+                      "question": "What are the implications of emergent behaviors for predicting and managing market adjustments?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.3",
+                      "question": "How can computational simulations and AI inform policy design for more effective market adjustment?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.4",
+                      "question": "What paradoxes arise when market adjustments intended to stabilize markets generate new instabilities or unintended consequences?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.5",
+                      "question": "In what ways do socio-political institutions mediate the effectiveness of market adjustment mechanisms?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.6",
+                      "question": "How do cognitive biases and emotional factors among economic agents influence the trajectory of market adjustments?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.7",
+                      "question": "What if chronic market imbalances lead to novel economic structures rather than a return to classical equilibrium?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.8",
+                      "question": "How can ethical considerations be integrated into computational models of market adjustment to better reflect human values?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.9",
+                      "question": "How do social networks and collective behavior patterns accelerate or hinder market adjustment processes?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.10",
+                      "question": "What emotional and psychological impacts do prolonged market adjustments have on different stakeholders?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.11",
+                      "question": "How does integrating complexity science challenge traditional linear models of market adjustment?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Supply-Demand-Equilibrium.ME.5.12",
+                      "question": "What role does authorial strategy play in framing economic narratives about market recovery and stability?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "discipline": "Pedagogy",
+  "children": [
+    {
+      "structure_name": "Experiential-Learning-Cycle",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Concrete Experience → 2. Reflective Observation → 3. Abstract Conceptualization → 4. Active Experimentation"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Concrete Experience"
+                },
+                {
+                  "structure_part": "[2/4] 2. Reflective Observation"
+                },
+                {
+                  "structure_part": "[3/4] 3. Abstract Conceptualization"
+                },
+                {
+                  "structure_part": "[4/4] 4. Active Experimentation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Design Thinking classroom project, Lab-based physics lesson, Fieldwork in anthropology"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Concrete Experience → Direct engagement or doing"
+            },
+            {
+              "terminology": "2. Reflective Observation → Reviewing and thinking back on experience"
+            },
+            {
+              "terminology": "3. Abstract Conceptualization → Forming theories or generalizations"
+            },
+            {
+              "terminology": "4. Active Experimentation → Applying ideas to new situations"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Concrete Experience",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.1",
+                      "question": "What happens during a concrete experience in learning?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.2",
+                      "question": "How does direct participation influence what we learn?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.3",
+                      "question": "Why is it important to engage directly rather than just observe?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.4",
+                      "question": "What emotions might learners feel during hands-on experiences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.5",
+                      "question": "How can the setting affect the quality of the concrete experience?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.6",
+                      "question": "What role do the senses play in a concrete experience?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.7",
+                      "question": "How does an experience lay the foundation for further learning stages?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.8",
+                      "question": "What if a learning experience lacks active involvement—how might that change outcomes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.9",
+                      "question": "Why might different learners respond differently to the same experience?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.10",
+                      "question": "How can instructors design effective concrete experiences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.11",
+                      "question": "What happens if an experience is too easy or too difficult for learners?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.1.12",
+                      "question": "How can emotional engagement in the experience motivate continued learning?",
+                      "concept": "Desire"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Reflective Observation",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.1",
+                      "question": "What does reflective observation involve in the learning cycle?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.2",
+                      "question": "How does thinking back on an experience help deepen understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.3",
+                      "question": "Why is it important to consider multiple perspectives during reflection?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.4",
+                      "question": "What feelings can arise when reviewing past experiences?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.5",
+                      "question": "How can reflection reveal details missed during the experience itself?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.6",
+                      "question": "What role does feedback play in effective reflection?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.7",
+                      "question": "How can recognizing patterns improve learning during reflection?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.8",
+                      "question": "What if learners avoid reflecting—how does this affect their growth?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.9",
+                      "question": "Why might learners experience discomfort or conflict during reflection?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.10",
+                      "question": "How can guiding questions enhance the quality of reflection?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.11",
+                      "question": "What is the impact of emotional tone on reflection effectiveness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.2.12",
+                      "question": "How does reflective observation prepare learners for conceptual thinking?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Abstract Conceptualization",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.1",
+                      "question": "What occurs during abstract conceptualization in learning?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.2",
+                      "question": "How do learners turn experience into general ideas or theories?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.3",
+                      "question": "Why is forming concepts a critical step in learning?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.4",
+                      "question": "What cognitive skills are involved in creating abstract concepts?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.5",
+                      "question": "How does conceptualization support problem-solving and decision-making?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.6",
+                      "question": "What happens if concepts formed are inaccurate or incomplete?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.7",
+                      "question": "How can learners test and validate their abstract ideas?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.8",
+                      "question": "Why might some learners find it difficult to move from experience to concepts?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.9",
+                      "question": "How does abstract conceptualization influence future learning cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.10",
+                      "question": "What is the importance of logical coherence in forming concepts?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.11",
+                      "question": "How can cultural context shape the concepts learners form?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.3.12",
+                      "question": "What emotions might learners experience when struggling with abstract ideas?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Active Experimentation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.1",
+                      "question": "What occurs during active experimentation in the learning cycle?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.2",
+                      "question": "How do learners apply new concepts in practical situations?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.3",
+                      "question": "Why is testing ideas through action important for learning?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.4",
+                      "question": "What emotions might learners experience when experimenting?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.5",
+                      "question": "How can experimentation provide feedback for future learning cycles?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.6",
+                      "question": "What role does risk-taking play in active experimentation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.7",
+                      "question": "How can trying new approaches impact learner confidence?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.8",
+                      "question": "What if learners avoid experimenting—how might this affect growth?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.9",
+                      "question": "How can failure during experimentation lead to deeper understanding?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.10",
+                      "question": "How can educators encourage productive experimentation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.11",
+                      "question": "What is the relationship between active experimentation and new learning cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.B.4.12",
+                      "question": "How does emotional engagement during experimentation influence outcomes?",
+                      "concept": "Desire"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Concrete Experience",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.1",
+                      "question": "How does the nature of a concrete experience shape later learning stages?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.2",
+                      "question": "What factors influence whether an experience is impactful?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.3",
+                      "question": "Why might learners interpret the same experience differently?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.4",
+                      "question": "How does sensory engagement during experience affect learning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.5",
+                      "question": "What strategies enhance learner involvement in experiences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.6",
+                      "question": "How can educators balance challenge and support in designing experiences?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.7",
+                      "question": "What if the learning environment conflicts with learner expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.8",
+                      "question": "How does emotional tone during experience impact motivation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.9",
+                      "question": "How does culture influence meaning in concrete experiences?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.10",
+                      "question": "How does prior knowledge affect experience interpretation?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.11",
+                      "question": "How do power dynamics influence participation in experiences?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.1.12",
+                      "question": "Why is learner agency crucial during concrete experiences?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Reflective Observation",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.1",
+                      "question": "How can reflection uncover hidden assumptions in experiences?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.2",
+                      "question": "What cognitive and emotional processes happen during reflection?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.3",
+                      "question": "How do learning styles affect reflective observation?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.4",
+                      "question": "Why is perspective-taking important for reflection?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.5",
+                      "question": "How can reflection disrupt existing beliefs?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.6",
+                      "question": "What methods improve the depth of reflection?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.7",
+                      "question": "How does feedback from others enhance reflection?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.8",
+                      "question": "What challenges arise in honest reflection?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.9",
+                      "question": "How does reflection help manage uncertainty?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.10",
+                      "question": "How does emotional tone influence learning through reflection?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.11",
+                      "question": "What is the link between reflection and memory consolidation?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.2.12",
+                      "question": "How can learners develop metacognition via reflection?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Abstract Conceptualization",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.1",
+                      "question": "How does abstract conceptualization connect concrete experience with theoretical understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.2",
+                      "question": "What strategies help learners form clear and accurate abstract concepts?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.3",
+                      "question": "Why is testing the coherence of new ideas essential in conceptualization?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.4",
+                      "question": "How do learners navigate conflicting ideas during the conceptualization process?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.5",
+                      "question": "What role do analogy and metaphor play in shaping abstract concepts?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.6",
+                      "question": "How can conceptualization lead to shifts in learners’ existing paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.7",
+                      "question": "What risks do learners face if they overgeneralize from limited experiences?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.8",
+                      "question": "How do cultural perspectives influence the formation of abstract concepts?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.9",
+                      "question": "What is the importance of critical thinking in abstract conceptualization?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.10",
+                      "question": "How does abstract thinking affect learner agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.11",
+                      "question": "How can learners use feedback to refine their conceptual understanding?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.3.12",
+                      "question": "What emotions might arise when learners struggle with complex abstract ideas?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Active Experimentation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.1",
+                      "question": "How does active experimentation translate abstract concepts into practical application?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.2",
+                      "question": "What challenges do learners face when applying new ideas in real-world contexts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.3",
+                      "question": "How can risk-taking during experimentation foster deeper learning?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.4",
+                      "question": "What feedback mechanisms support refinement of ideas during experimentation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.5",
+                      "question": "How do learners adapt their strategies based on experimental outcomes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.6",
+                      "question": "Why is reflection on experimentation crucial for continuous learning?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.7",
+                      "question": "What emotional responses are common during trial and error in learning?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.8",
+                      "question": "How does experimentation encourage learner autonomy and empowerment?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.9",
+                      "question": "What if experimental results contradict learners’ expectations—how should they respond?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.10",
+                      "question": "How can educators foster a safe environment for experimentation and failure?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.11",
+                      "question": "In what ways does active experimentation complete the learning cycle and prepare for new experiences?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.I.4.12",
+                      "question": "How can positive emotional engagement during experimentation influence motivation?",
+                      "concept": "Desire"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Concrete Experience",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.1",
+                      "question": "How do variations in sensory engagement during concrete experiences affect cognitive encoding and retrieval?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.2",
+                      "question": "What underlying neurological processes influence the impact of direct experience on learning outcomes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.3",
+                      "question": "How can experiential learning theories integrate cross-cultural differences in perception of concrete experience?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.4",
+                      "question": "What role does learner intentionality play in modulating the depth and quality of concrete experience?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.5",
+                      "question": "How can emotional valence during concrete experiences influence motivation and memory consolidation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.6",
+                      "question": "What methods can be used to empirically assess the effectiveness of concrete experience in diverse learning contexts?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.7",
+                      "question": "How does the complexity of a concrete experience impact learner cognitive load and subsequent processing?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.8",
+                      "question": "What if learners are passive participants during concrete experience—how does this affect knowledge construction?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.9",
+                      "question": "In what ways do social and environmental factors mediate the effectiveness of concrete experience?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.10",
+                      "question": "How can educators design concrete experiences that optimize learner engagement and minimize cognitive overload?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.11",
+                      "question": "How might disparities in prior knowledge and experience alter the subjective quality of concrete experiences?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.1.12",
+                      "question": "What affective responses are most conducive to deep learning during concrete experience?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Reflective Observation",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.1",
+                      "question": "How do metacognitive strategies enhance the effectiveness of reflective observation in learning?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.2",
+                      "question": "What cognitive biases might interfere with objective reflection, and how can they be mitigated?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.3",
+                      "question": "How does the integration of emotional awareness during reflection impact learner insight?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.4",
+                      "question": "In what ways can reflective observation facilitate epistemic humility and openness to alternative perspectives?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.5",
+                      "question": "How can reflective journaling be optimized to deepen critical analysis of experience?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.6",
+                      "question": "What is the role of social interaction and dialogue in enhancing reflective observation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.7",
+                      "question": "How can educators scaffold reflective practices to promote higher-order thinking skills?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.8",
+                      "question": "How does reflective observation contribute to disrupting existing mental models?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.9",
+                      "question": "What are the affective risks and rewards associated with deep reflective observation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.10",
+                      "question": "How might the timing and pacing of reflection influence learning outcomes?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.11",
+                      "question": "How does reflective observation integrate with memory consolidation and knowledge abstraction?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.2.12",
+                      "question": "What mechanisms support transfer of insights from reflection into conceptual understanding?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Abstract Conceptualization",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.1",
+                      "question": "How do learners negotiate tensions between existing schemas and emerging abstract concepts?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.2",
+                      "question": "What epistemological challenges arise in the process of forming abstract conceptualizations?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.3",
+                      "question": "How can learners critically evaluate the validity and scope of their conceptual models?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.4",
+                      "question": "In what ways can interdisciplinary perspectives enrich abstract conceptualization?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.5",
+                      "question": "How can metaphor and analogy be strategically used to advance understanding in abstract thinking?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.6",
+                      "question": "What is the role of logical coherence and parsimony in developing conceptual frameworks?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.7",
+                      "question": "How can learners identify and overcome cognitive biases in abstract conceptualization?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.8",
+                      "question": "What strategies foster reflexivity and self-awareness during concept formation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.9",
+                      "question": "How do cultural and disciplinary norms shape the acceptance of abstract ideas?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.10",
+                      "question": "What affective challenges do learners face when grappling with complex abstractions?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.11",
+                      "question": "How can collaborative discourse enhance the robustness of abstract conceptualizations?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.3.12",
+                      "question": "What implications do abstract conceptualizations have for future learning and knowledge generation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Active Experimentation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.1",
+                      "question": "How does active experimentation function as a catalyst for integrating theory and practice?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.2",
+                      "question": "What strategies can learners employ to systematically test hypotheses derived from abstract concepts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.3",
+                      "question": "How do learners balance risk and uncertainty during active experimentation to optimize learning outcomes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.4",
+                      "question": "In what ways can feedback loops during experimentation accelerate or hinder learner development?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.5",
+                      "question": "How does the emotional experience of failure and success influence subsequent engagement in experimentation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.6",
+                      "question": "What role does metacognition play in refining strategies during active experimentation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.7",
+                      "question": "How can learners cultivate resilience and adaptability through iterative experimentation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.8",
+                      "question": "What ethical considerations arise when learners engage in real-world experimentation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.9",
+                      "question": "How can educators design environments that encourage productive experimentation and embrace failure?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.10",
+                      "question": "What mechanisms support the transfer of learning from active experimentation to new contexts?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.11",
+                      "question": "How does active experimentation complete the experiential learning cycle and initiate subsequent learning iterations?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.A.4.12",
+                      "question": "In what ways do emotional and cognitive engagement during experimentation influence learner motivation and persistence?",
+                      "concept": "Desire"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Concrete Experience",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.1",
+                      "question": "How can the phenomenology of concrete experience be critically analyzed across different epistemologies?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.2",
+                      "question": "What role does embodiment play in shaping the authenticity and validity of concrete experiences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.3",
+                      "question": "How might the concept of situated cognition challenge traditional views of concrete experience?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.4",
+                      "question": "In what ways do power relations and cultural frameworks mediate the construction of concrete experience?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.5",
+                      "question": "How can the ambiguity inherent in concrete experiences be leveraged for transformative learning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.6",
+                      "question": "What ethical considerations arise in designing authentic concrete experiences for diverse learners?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.7",
+                      "question": "How does emotional resonance during concrete experience influence the depth of learner engagement?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.8",
+                      "question": "What methodologies best capture the complexity and multiplicity of learner concrete experiences?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.9",
+                      "question": "How do memory and embodied cognition interact during concrete experience to shape learning outcomes?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.10",
+                      "question": "How might reflective practitioners critically assess the limitations of their own concrete experiences?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.11",
+                      "question": "What is the significance of disruption and discontinuity in concrete experience for fostering innovation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.1.12",
+                      "question": "How can learners balance the tension between subjective experience and objective analysis in this stage?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Reflective Observation",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.1",
+                      "question": "How can critical theory inform the practice of reflective observation to uncover hidden ideologies?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.2",
+                      "question": "What are the epistemological implications of reflexive awareness during reflection?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.3",
+                      "question": "How does the integration of affective and cognitive processes enrich the depth of reflective observation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.4",
+                      "question": "In what ways can reflective observation serve as a mechanism for social and cultural transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.5",
+                      "question": "How might dialogic and collaborative reflection challenge dominant narratives within learning communities?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.6",
+                      "question": "What role does metacognitive disruption play in advancing learner self-awareness?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.7",
+                      "question": "How can learners cultivate ethical responsibility through reflective observation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.8",
+                      "question": "What are the methodological challenges in studying deep reflective processes?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.9",
+                      "question": "How does temporal pacing influence the quality and impact of reflective observation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.10",
+                      "question": "How might digital technologies transform reflective observation practices?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.11",
+                      "question": "How can reflective observation be designed to promote epistemic justice and inclusivity?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.2.12",
+                      "question": "How does the tension between reflection and action shape learner identity and agency?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Abstract Conceptualization",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.1",
+                      "question": "How can critical epistemology challenge the assumptions underlying abstract conceptualization?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.2",
+                      "question": "In what ways do paradigmatic shifts influence the development and acceptance of new conceptual frameworks?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.3",
+                      "question": "How do power structures and disciplinary norms shape the production of knowledge during conceptualization?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.4",
+                      "question": "What role does metaphorical reasoning play in transcending disciplinary boundaries in abstract thought?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.5",
+                      "question": "How can learners employ reflexivity to interrogate their own biases during concept formation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.6",
+                      "question": "What is the significance of paradox and ambiguity in fostering innovative conceptual frameworks?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.7",
+                      "question": "How can collaborative and interdisciplinary approaches disrupt traditional conceptualization processes?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.8",
+                      "question": "How do cultural narratives influence the metaphorical and symbolic dimensions of abstract concepts?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.9",
+                      "question": "What affective dimensions are implicated in the struggle to master complex abstractions?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.10",
+                      "question": "How might learners negotiate tensions between creativity and logical coherence in concept development?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.11",
+                      "question": "How can digital tools and AI support meta-cognitive and reflexive aspects of conceptualization?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.3.12",
+                      "question": "What ethical considerations arise in the creation and dissemination of new conceptual knowledge?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Active Experimentation",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.1",
+                      "question": "How can active experimentation be theorized as a site of epistemic innovation and transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.2",
+                      "question": "In what ways do learners negotiate ethical and ontological challenges during real-world experimentation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.3",
+                      "question": "How can feedback loops within active experimentation be critically analyzed to reveal power dynamics?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.4",
+                      "question": "What role does emotional resilience play in sustaining iterative cycles of experimentation and learning?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.5",
+                      "question": "How might disruption and failure in experimentation serve as catalysts for radical learning shifts?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.6",
+                      "question": "What frameworks can support metacognitive awareness during complex and uncertain experimental processes?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.7",
+                      "question": "How can collaborative experimentation foster collective agency and shared knowledge production?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.8",
+                      "question": "What implications do emergent phenomena during experimentation have for future learning trajectories?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.9",
+                      "question": "How can digital and AI tools ethically augment active experimentation and learner autonomy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.10",
+                      "question": "How do affective and cognitive dimensions intertwine to shape persistence and motivation in experimentation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.11",
+                      "question": "What is the role of boundary negotiation in expanding the scope of active experimentation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Experiential-Learning-Cycle.ME.4.12",
+                      "question": "How does active experimentation complete and regenerate the experiential learning cycle in complex adaptive systems?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+  "discipline": "Design",
+  "children": [
+    {
+      "structure_name": "Design-Thinking",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Empathize → 2. Define → 3. Ideate → 4. Prototype → 5. Test"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Empathize"
+                },
+                {
+                  "structure_part": "[2/5] 2. Define"
+                },
+                {
+                  "structure_part": "[3/5] 3. Ideate"
+                },
+                {
+                  "structure_part": "[4/5] 4. Prototype"
+                },
+                {
+                  "structure_part": "[5/5] 5. Test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "IDEO Human-Centered Design, Stanford d.school Projects, Apple Product Design"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Empathize → Understand user needs and context through observation and engagement"
+            },
+            {
+              "terminology": "2. Define → Frame the core problem based on user insights"
+            },
+            {
+              "terminology": "3. Ideate → Generate a broad range of creative solutions"
+            },
+            {
+              "terminology": "4. Prototype → Build scaled-down versions or models of solutions"
+            },
+            {
+              "terminology": "5. Test → Evaluate prototypes to gather feedback and refine"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Empathize",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.B.1.1",
+                      "question": "What is the goal of the empathize stage in design thinking?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.2",
+                      "question": "How can observing users help in understanding their needs?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.3",
+                      "question": "Why is empathy important when starting a design project?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.4",
+                      "question": "What types of information should you gather during empathizing?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.5",
+                      "question": "How do user emotions influence the empathize stage?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.6",
+                      "question": "What challenges might arise when trying to empathize with users?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.7",
+                      "question": "What tools or methods are commonly used to empathize with users?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.8",
+                      "question": "How does empathizing set the foundation for the rest of the design process?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.9",
+                      "question": "What if empathy is overlooked or insufficient in early design stages?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.10",
+                      "question": "How does empathizing help reveal hidden user needs?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.11",
+                      "question": "What mood or tone should designers aim to adopt when empathizing?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.1.12",
+                      "question": "Why might empathy increase the likelihood of successful design outcomes?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Define",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.B.2.1",
+                      "question": "What is the main purpose of the define stage?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.2",
+                      "question": "How do you use insights from empathy to frame the design problem?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.3",
+                      "question": "Why is it important to create a clear problem statement?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.4",
+                      "question": "What elements make an effective problem definition?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.5",
+                      "question": "How can defining the problem influence subsequent design decisions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.6",
+                      "question": "What if the problem is defined too narrowly or too broadly?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.7",
+                      "question": "How does the define stage reduce uncertainty in design projects?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.8",
+                      "question": "What role does framing play in shaping the design challenge?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.9",
+                      "question": "How does defining the problem promote focus and alignment among stakeholders?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.10",
+                      "question": "What if multiple problem definitions emerge from user insights?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.11",
+                      "question": "How can defining the problem foster creative solutions later on?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.2.12",
+                      "question": "How might the emotional tone of a problem statement affect team motivation?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Ideate",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.B.3.1",
+                      "question": "What is the primary objective of the ideate stage?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.2",
+                      "question": "How can brainstorming encourage diverse idea generation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.3",
+                      "question": "Why is it important to defer judgment during ideation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.4",
+                      "question": "What techniques help expand the range of possible solutions?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.5",
+                      "question": "How does iteration influence the ideation process?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.6",
+                      "question": "What if ideation focuses too much on practicality early on?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.7",
+                      "question": "How do ideation sessions impact team dynamics and creativity?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.8",
+                      "question": "How can visual thinking enhance ideation outcomes?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.9",
+                      "question": "What emotional atmosphere best supports free ideation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.10",
+                      "question": "Why might generating many ideas be more valuable than finding one perfect idea?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.11",
+                      "question": "How does ideation connect to problem definition and later prototyping?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.3.12",
+                      "question": "What if the ideation stage included stakeholders outside the design team?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.B.4.1",
+                      "question": "What is the purpose of creating prototypes in the design thinking process?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.2",
+                      "question": "How can prototyping help test and refine ideas early?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.3",
+                      "question": "Why is it valuable to build quick and low-cost prototypes?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.4",
+                      "question": "What materials or methods are commonly used for prototyping?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.5",
+                      "question": "How does prototyping support learning through doing?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.6",
+                      "question": "What challenges might arise when creating prototypes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.7",
+                      "question": "How can prototypes reveal new insights about the design problem?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.8",
+                      "question": "What if a prototype fails during testing—how should the team respond?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.9",
+                      "question": "How does prototyping influence team collaboration and communication?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.10",
+                      "question": "What emotional reactions can prototypes evoke in users and designers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.11",
+                      "question": "How can the prototype stage lead to transformation in the design solution?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.4.12",
+                      "question": "Why is iteration important between prototyping and testing?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Test",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.B.5.1",
+                      "question": "What is the goal of the testing stage in design thinking?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.2",
+                      "question": "How do user tests provide valuable feedback for improving designs?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.3",
+                      "question": "Why is it important to test prototypes with real users?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.4",
+                      "question": "What methods can be used to gather feedback during testing?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.5",
+                      "question": "How does testing help identify unforeseen problems or opportunities?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.6",
+                      "question": "What challenges can arise when interpreting test results?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.7",
+                      "question": "How can emotional responses during testing influence design decisions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.8",
+                      "question": "What if testing reveals the need to redefine the problem or revisit earlier stages?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.9",
+                      "question": "How should designers balance user feedback with their own vision?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.10",
+                      "question": "What role does iteration play after testing feedback is gathered?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.11",
+                      "question": "How can testing enhance the overall quality and success of a design?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Design-Thinking.B.5.12",
+                      "question": "What emotional tone should designers maintain when receiving critical feedback?",
+                      "concept": "Tone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Empathize",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.I.1.1",
+                      "question": "How can shifting perspective improve empathy during user research?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.2",
+                      "question": "What assumptions do designers often bring into the empathize stage, and how can they be challenged?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.3",
+                      "question": "How does empathy differ from sympathy in the design process, and why does it matter?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.4",
+                      "question": "Why might ethnographic methods be more effective than surveys for building empathy?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.5",
+                      "question": "What kinds of emotional cues are easy to miss during user interviews, and how can designers become more attuned to them?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.6",
+                      "question": "What if different users express contradictory needs—how should a designer respond empathetically?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.7",
+                      "question": "How can immersion in a user's environment lead to more meaningful insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.8",
+                      "question": "How does empathy shape ethical responsibility in the design process?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.9",
+                      "question": "What role does narrative storytelling play in capturing and conveying user experiences?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.10",
+                      "question": "How might empathetic design approaches vary across cultures or communities?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.11",
+                      "question": "How does the emotional tone of the research process affect user trust and openness?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.1.12",
+                      "question": "What strategies can help sustain empathy over long design cycles or complex projects?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Define",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.I.2.1",
+                      "question": "How does the way a problem is framed shape the kinds of solutions considered?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.2",
+                      "question": "What techniques can help designers move from vague observations to precise problem statements?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.3",
+                      "question": "Why is it important to define the problem from the user's point of view rather than the designer's?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.4",
+                      "question": "How can root cause analysis deepen the define stage beyond surface symptoms?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.5",
+                      "question": "What if different stakeholders disagree on what the problem is—how can designers navigate that conflict productively?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.6",
+                      "question": "How does narrowing the problem space support innovation rather than limiting it?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.7",
+                      "question": "How can designers recognize when their definition of the problem is based on bias or incomplete data?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.8",
+                      "question": "What makes a How Might We statement powerful or limiting in the define stage?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.9",
+                      "question": "How do emotional undertones in problem framing affect stakeholder alignment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.10",
+                      "question": "What are the risks of framing a problem too abstractly or too literally?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.11",
+                      "question": "What structural features make a good problem definition actionable in the next stages of design thinking?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.2.12",
+                      "question": "How can designers use user personas or journey maps to refine problem framing?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Ideate",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.I.3.1",
+                      "question": "How do constraints influence the creativity of ideation sessions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.2",
+                      "question": "What techniques help prevent groupthink during ideation?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.3",
+                      "question": "How can divergent and convergent thinking be balanced in the ideate stage?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.4",
+                      "question": "Why might wild ideas be necessary in finding breakthrough solutions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.5",
+                      "question": "How can analogies spark novel connections during idea generation?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.6",
+                      "question": "What happens if teams skip ideation and jump directly to prototyping?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.7",
+                      "question": "How does the emotional climate of an ideation session affect idea quality and openness?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.8",
+                      "question": "How do brainstorming and mind-mapping differ in their impact on ideation outcomes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.9",
+                      "question": "How can metaphor and symbolic thinking help unlock unexpected design ideas?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.10",
+                      "question": "What if the ideation process generates too many ideas—how should a team prioritize them?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.11",
+                      "question": "What role does visual representation play in clarifying or expanding conceptual space during ideation?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.3.12",
+                      "question": "How can ideation rituals or formats support consistency without reducing creativity?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.I.4.1",
+                      "question": "How can low-fidelity and high-fidelity prototypes serve different goals in design thinking?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.2",
+                      "question": "Why is speed often prioritized over perfection during prototyping?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.3",
+                      "question": "How do prototypes help clarify abstract ideas for teams and stakeholders?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.4",
+                      "question": "What role does failure play in the effectiveness of a prototype?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.5",
+                      "question": "What if a prototype leads the team in an unexpected design direction—should they follow it?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.6",
+                      "question": "How can prototyping be used to test assumptions embedded in earlier design stages?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.7",
+                      "question": "How can collaborative prototyping foster cross-functional understanding within a team?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.8",
+                      "question": "What ethical concerns should designers consider when prototyping products for vulnerable users?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.9",
+                      "question": "How can the form of a prototype (e.g. physical, digital, service) shape user responses and feedback?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.10",
+                      "question": "How can iteration cycles during prototyping strengthen design resilience?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.11",
+                      "question": "How does the emotional tone of a prototype influence users’ willingness to engage with it?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.4.12",
+                      "question": "How can conflicting feedback during prototyping be used constructively?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Test",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.I.5.1",
+                      "question": "How do formal testing protocols differ from informal user feedback sessions in purpose and impact?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.2",
+                      "question": "What kinds of insights can only emerge through live user testing, not simulation or speculation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.3",
+                      "question": "How should designers handle test results that contradict their expectations or goals?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.4",
+                      "question": "What metrics or indicators can guide decisions after testing is complete?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.5",
+                      "question": "What if user testing identifies a fundamental flaw in the original design definition?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.6",
+                      "question": "How can designers balance the emotional responses of users with the technical feasibility of the design?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.7",
+                      "question": "Why is it important to test for user emotion as well as function?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.8",
+                      "question": "What iterative strategies can improve prototypes after testing feedback is gathered?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.9",
+                      "question": "How can designers interpret ambiguous or mixed test results productively?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.10",
+                      "question": "How does stakeholder feedback during testing differ from end-user feedback, and how should each be weighted?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.11",
+                      "question": "What methods help ensure that feedback collected during testing is reliable and unbiased?",
+                      "concept": "Precision"
+                    },
+                    {
+                      "question_id": "Design-Thinking.I.5.12",
+                      "question": "How can testing outcomes reshape team dynamics and influence future collaboration?",
+                      "concept": "Agency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Empathize",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.A.1.1",
+                      "question": "How can ethnographic observation reveal hidden constraints in a user's environment?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.2",
+                      "question": "What patterns emerge when mapping user emotions over a complete experience cycle?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.3",
+                      "question": "Why might direct interviews fail to uncover the most critical pain points?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.4",
+                      "question": "How does cross-cultural empathy change the framing of design opportunities?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.5",
+                      "question": "What systemic factors influence user needs beyond immediate context?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.6",
+                      "question": "How could body language cues refine your understanding of a problem?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.7",
+                      "question": "What if you inverted your perspective and imagined yourself as the user in an extreme scenario?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.8",
+                      "question": "How might you validate assumptions without influencing user responses?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.9",
+                      "question": "Why does emotional tone in early engagement shape later design trust?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.10",
+                      "question": "How can empathy mapping integrate both qualitative and quantitative insights?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.11",
+                      "question": "What if the most valuable insight is what the user avoids mentioning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.1.12",
+                      "question": "How do power dynamics between researcher and participant affect data quality?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Define",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.A.2.1",
+                      "question": "How can problem statements be reframed to unlock unconventional solutions?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.2",
+                      "question": "What criteria determine whether a problem is too broad or too narrow?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.3",
+                      "question": "How might conflicting stakeholder priorities be integrated into a coherent definition?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.4",
+                      "question": "Why can over-defining a problem stifle innovation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.5",
+                      "question": "How do you detect hidden assumptions embedded in the problem framing?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.6",
+                      "question": "What if you defined the problem from the perspective of future users, not present ones?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.7",
+                      "question": "How can paradoxical goals within a problem space be resolved or leveraged?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.8",
+                      "question": "Why is emotional resonance in the problem definition critical for design motivation?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.9",
+                      "question": "How might quantitative metrics distort qualitative problem understanding?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.10",
+                      "question": "What if your problem definition explicitly included ethical risks and benefits?",
+                      "concept": "Responsibility"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.11",
+                      "question": "How do shifts in cultural norms alter the relevance of your problem framing?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.2.12",
+                      "question": "What role does closure play in deciding when a problem statement is 'done enough' to move forward?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Ideate",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.A.3.1",
+                      "question": "How can constraint-driven brainstorming yield more original solutions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.2",
+                      "question": "Why might combining unrelated ideas create breakthrough concepts?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.3",
+                      "question": "What techniques help prevent dominant voices from steering group ideation?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.4",
+                      "question": "How could iteration cycles within ideation improve both quantity and quality of ideas?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.5",
+                      "question": "What if you reframed absurd or impractical ideas to uncover hidden value?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.6",
+                      "question": "How can mood in the ideation space influence creativity outcomes?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.7",
+                      "question": "Why is it important to separate idea generation from evaluation in early phases?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.8",
+                      "question": "How can metaphors accelerate cross-disciplinary idea transfer?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.9",
+                      "question": "What if you applied an existing solution from a completely different field?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.10",
+                      "question": "How does collective recognition of a promising concept shift group energy?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.11",
+                      "question": "Why might constraints actually expand rather than limit the creative space?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.3.12",
+                      "question": "How do you decide when an idea is worth prototyping without over-analysis?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.A.4.1",
+                      "question": "How can low-fidelity prototypes accelerate feedback without biasing results?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.2",
+                      "question": "What trade-offs exist between prototype realism and speed of production?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.3",
+                      "question": "How might material constraints inspire unexpected functional solutions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.4",
+                      "question": "Why is it important to document changes between prototype versions?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.5",
+                      "question": "How can prototyping reveal hidden interactions between system components?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.6",
+                      "question": "What if you intentionally built a 'failure prototype' to stress-test assumptions?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.7",
+                      "question": "How does audience tone during prototype demonstrations influence design direction?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.8",
+                      "question": "How can parallel prototyping help avoid fixation on a single solution?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.9",
+                      "question": "Why might high-fidelity prototypes sometimes reduce openness to change?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.10",
+                      "question": "What if your prototype had to be built with entirely sustainable materials?",
+                      "concept": "Responsibility"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.11",
+                      "question": "How do you balance user-driven adjustments with the original design vision?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.4.12",
+                      "question": "How can prototype testing be integrated with real-world conditions for richer insight?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Test",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.A.5.1",
+                      "question": "How can you design tests that capture both intended and unintended user behaviors?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.2",
+                      "question": "Why is negative feedback often more valuable than positive feedback in refining solutions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.3",
+                      "question": "What if test participants are influenced by knowing they are part of an experiment?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.4",
+                      "question": "How do you balance statistical validity with rapid iteration needs?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.5",
+                      "question": "How might testing with extreme user cases challenge core assumptions?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.6",
+                      "question": "Why should emotional responses be tracked alongside functional performance metrics?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.7",
+                      "question": "How can feedback loops be structured to encourage continuous improvement?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.8",
+                      "question": "What if the test reveals that the original problem definition was flawed?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.9",
+                      "question": "How does the timing of feedback sessions affect the adoption of design changes?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.10",
+                      "question": "What role does stakeholder recognition play in interpreting test results?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.11",
+                      "question": "How can contradictory feedback from different user groups be resolved?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Design-Thinking.A.5.12",
+                      "question": "What strategies can ensure testing insights are preserved for future design cycles?",
+                      "concept": "Memory"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Empathize",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.ME.1.1",
+                      "question": "In what ways can empathy be designed, not just practiced, and how does this alter our conception of user-centered design?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.2",
+                      "question": "How might competing theories of mind (e.g. theory-theory vs. simulation theory) shape different approaches to empathy in design thinking?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.3",
+                      "question": "Can empathy ever distort understanding rather than enhance it in design contexts? How should designers recognize and mitigate this possibility?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.4",
+                      "question": "How do institutional or disciplinary biases limit the scope of who designers are ‘allowed’ to empathize with?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.5",
+                      "question": "How can the empathize stage become performative or extractive, and what ethical frameworks can guard against this?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.6",
+                      "question": "To what extent is empathy a culturally specific construct, and how does this challenge globalized design practices?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.7",
+                      "question": "How might AI-driven empathy tools (e.g. sentiment analysis) reshape or simulate the empathize stage in ways that diverge from human-centered intentions?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.8",
+                      "question": "How does the emotional labor required for empathy affect designers over long-term projects or within vulnerable communities?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.9",
+                      "question": "How can conflicting empathic responses within a team inform rather than fragment design direction?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.10",
+                      "question": "What meta-cognitive strategies help experienced designers reflect critically on their own empathic assumptions?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.11",
+                      "question": "In what ways does empathy challenge or reinforce conventional notions of objectivity in design research?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.1.12",
+                      "question": "How can designers navigate the moral hazards of over-identifying with users during the empathy phase?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Define",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.ME.2.1",
+                      "question": "How do problem-definition practices reveal a design team's epistemological assumptions about knowledge, value, and truth?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.2",
+                      "question": "What happens when the problem framing becomes more influential than the problem itself in shaping the design outcome?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.3",
+                      "question": "In what ways can problem definition be a form of power or exclusion in institutional or political contexts of design?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.4",
+                      "question": "Can design thinking embrace wicked problems without oversimplifying them through premature definition?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.5",
+                      "question": "How might defining a problem too well foreclose more radical, disruptive forms of innovation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.6",
+                      "question": "What philosophical tensions arise between defining problems inductively through user data vs. deductively through expert models?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.7",
+                      "question": "How does the rhetoric of ‘solving’ problems influence what kinds of challenges get defined within the scope of design thinking?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.8",
+                      "question": "How do organizational constraints subtly shape the boundaries of ‘definable’ problems?",
+                      "concept": "Constraint"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.9",
+                      "question": "How can designers maintain openness to problem redefinition throughout the process without losing focus?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.10",
+                      "question": "How might paradoxes or contradictions in a problem definition serve as creative leverage in the design process?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.11",
+                      "question": "What roles do metaphor and language play in subtly shaping how a problem is conceptualized?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.2.12",
+                      "question": "How should designers weigh end-user perspectives against systemic concerns during the define phase?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Ideate",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.ME.3.1",
+                      "question": "What are the epistemic limits of divergent thinking, and when does ideation become unproductive or delusional?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.2",
+                      "question": "How do groupthink and implicit bias distort ideation sessions, and what strategies help surface dissenting or underrepresented ideas?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.3",
+                      "question": "How might constraints imposed during ideation paradoxically increase creative output?",
+                      "concept": "Constraint"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.4",
+                      "question": "What if ideation tools themselves embed assumptions that limit innovation—how can these be critically examined?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.5",
+                      "question": "How can ideation incorporate speculative or counterfactual thinking without drifting into fantasy?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.6",
+                      "question": "To what extent does expertise hinder creativity during ideation, and how can teams balance expert knowledge with naïve exploration?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.7",
+                      "question": "How do cultural metaphors influence which ideas seem “thinkable” during ideation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.8",
+                      "question": "What ideation methods best support cross-disciplinary collaboration without flattening disciplinary differences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.9",
+                      "question": "How can emotional tone influence the types of ideas generated in a brainstorming session?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.10",
+                      "question": "How can designers track and reflect on the evolution of ideas across multiple ideation sessions?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.11",
+                      "question": "What happens when ideation becomes performative—generating ideas for appearances rather than genuine exploration?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.3.12",
+                      "question": "How can ideation intentionally incorporate ethical uncertainty as a generative force rather than a barrier?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Prototype",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.ME.4.1",
+                      "question": "How do prototypes serve as epistemic artifacts that both reveal and obscure knowledge during design inquiry?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.2",
+                      "question": "To what extent can prototypes manipulate user expectation and perception—intentionally or unintentionally?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.3",
+                      "question": "What philosophical implications arise when a prototype begins to dictate the direction of the final product?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.4",
+                      "question": "How can prototyping practices expose structural inequalities in access to design tools, audiences, or validation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.5",
+                      "question": "What if iteration becomes self-perpetuating—how can teams know when to stop refining and move on?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.6",
+                      "question": "How do the aesthetics of a prototype influence ethical judgments about a design concept?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.7",
+                      "question": "How might conflicting stakeholder values emerge through divergent interpretations of the same prototype?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.8",
+                      "question": "How do prototyping methodologies differ across disciplines, and what can this teach us about knowledge production in design?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.9",
+                      "question": "Can prototypes be too persuasive—leading teams or users to support flawed ideas due to surface clarity?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.10",
+                      "question": "How do feedback loops within prototyping environments shape the emergence of dominant narratives in team thinking?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.11",
+                      "question": "How should designers ethically represent or simulate marginalized voices in prototype scenarios they can’t directly access?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.4.12",
+                      "question": "What happens when emotional resonance in a prototype overrides technical flaws—should that shift the design direction?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Test",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Design-Thinking.ME.5.1",
+                      "question": "How can testing be reframed as an act of dialogue rather than evaluation, and what would that change in practice?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.2",
+                      "question": "What philosophical assumptions about causality and validity underlie different approaches to design testing?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.3",
+                      "question": "How do competing stakeholder interests shape what is considered ‘successful’ feedback?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.4",
+                      "question": "To what extent can emotionally charged feedback destabilize a team’s design rationale, and how should they respond?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.5",
+                      "question": "What role does power play in deciding which testing results are acted on, ignored, or reframed?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.6",
+                      "question": "Can ambiguous or conflicting test data ever be more productive than clear validation or rejection?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.7",
+                      "question": "How can emotional tone in feedback sessions reveal unconscious biases in users or facilitators?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.8",
+                      "question": "How might testing serve as a site of contestation between user-centered values and business-centered priorities?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.9",
+                      "question": "How do different testing environments—controlled lab vs. real-world—shape the kinds of feedback that emerge?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.10",
+                      "question": "What happens when testing redefines the original design problem rather than refining the solution?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.11",
+                      "question": "How can systemic feedback loops from past design projects inform current testing processes?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Design-Thinking.ME.5.12",
+                      "question": "How can testing be structured to surface ethical blind spots before final implementation?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

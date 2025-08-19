@@ -1,0 +1,1681 @@
+{
+  "discipline": "Philosophy",
+  "children": [
+    {
+      "structure_name": "Toulmin-Model",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Claim → 2. Grounds → 3. Warrant → 4. Backing → 5. Qualifier → 6. Rebuttal"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Claim"
+                },
+                {
+                  "structure_part": "[2/6] 2. Grounds"
+                },
+                {
+                  "structure_part": "[3/6] 3. Warrant"
+                },
+                {
+                  "structure_part": "[4/6] 4. Backing"
+                },
+                {
+                  "structure_part": "[5/6] 5. Qualifier"
+                },
+                {
+                  "structure_part": "[6/6] 6. Rebuttal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Legal argument in a court case, Ethical reasoning in bioethics, Policy debate structure"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Claim → Main Argument / Thesis / Central Assertion"
+            },
+            {
+              "terminology": "2. Grounds → Evidence / Data / Supportive Facts"
+            },
+            {
+              "terminology": "3. Warrant → Logical Link / Justification / Bridge Between Data and Claim"
+            },
+            {
+              "terminology": "4. Backing → Support for Warrant / Underlying Principles"
+            },
+            {
+              "terminology": "5. Qualifier → Limiting Language / Degree of Certainty"
+            },
+            {
+              "terminology": "6. Rebuttal → Counterargument / Exception / Limitation"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Claim",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.B.1.1",
+                      "question": "What is the main point the argument is trying to make?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.2",
+                      "question": "How can you state the claim in one clear sentence?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.3",
+                      "question": "Why does the claim matter for the discussion?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.4",
+                      "question": "What words in the claim show the writer's position?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.5",
+                      "question": "What problem or question does the claim aim to answer?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.6",
+                      "question": "How would you explain the claim to someone unfamiliar with the topic?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.7",
+                      "question": "What assumptions seem to shape the claim?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.8",
+                      "question": "What feelings might the claim create in a reader?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.9",
+                      "question": "What if the claim were reversed—how would the argument change?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.10",
+                      "question": "How could you test whether this claim is strong or weak?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.11",
+                      "question": "What details are most important to keep in the claim?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.1.12",
+                      "question": "How does the claim connect to the overall purpose of the argument?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Grounds",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.B.2.1",
+                      "question": "What evidence supports the claim?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.2",
+                      "question": "How reliable are the sources of the grounds?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.3",
+                      "question": "Why is this evidence relevant to the claim?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.4",
+                      "question": "What details make the grounds convincing?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.5",
+                      "question": "How would the argument change if one piece of evidence were removed?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.6",
+                      "question": "What types of evidence are missing but could help?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.7",
+                      "question": "What emotions might the evidence trigger in readers?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.8",
+                      "question": "How could you present the grounds visually for clarity?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.9",
+                      "question": "What if the evidence pointed in the opposite direction?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.10",
+                      "question": "How do the grounds establish trust in the argument?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.11",
+                      "question": "What patterns do you notice in the evidence provided?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.2.12",
+                      "question": "Why does the choice of evidence matter for persuasion?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Warrant",
+                  "part_concept": "Logical Link",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.B.3.1",
+                      "question": "What principle connects the grounds to the claim?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.2",
+                      "question": "How does the warrant explain why the evidence matters?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.3",
+                      "question": "Why is this warrant reasonable in this context?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.4",
+                      "question": "What assumptions make the warrant work?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.5",
+                      "question": "How could the warrant be challenged by an opposing view?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.6",
+                      "question": "What real-world examples show this warrant in action?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.7",
+                      "question": "What if the warrant was wrong—what happens to the claim?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.8",
+                      "question": "How might the warrant shape the tone of the argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.9",
+                      "question": "What role does the warrant play in convincing the audience?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.10",
+                      "question": "How could you rewrite the warrant to make it clearer?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.11",
+                      "question": "What deeper idea or value is hidden inside the warrant?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.3.12",
+                      "question": "Why might this warrant be different in another culture or field?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Backing",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.B.4.1",
+                      "question": "What reasons support the warrant beyond the evidence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.2",
+                      "question": "How does the backing strengthen the warrant?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.3",
+                      "question": "Why is backing important in building trust?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.4",
+                      "question": "What examples show the principle behind the warrant?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.5",
+                      "question": "How might the backing come from expert authority?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.6",
+                      "question": "What happens if the backing is weak or missing?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.7",
+                      "question": "What assumptions underlie the backing itself?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.8",
+                      "question": "What tone does the backing add to the argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.9",
+                      "question": "What if the backing contradicted the warrant?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.10",
+                      "question": "How could you explain the backing to someone skeptical?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.11",
+                      "question": "What deeper values or beliefs does the backing suggest?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.4.12",
+                      "question": "Why might different disciplines use different kinds of backing?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Qualifier",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.B.5.1",
+                      "question": "What words signal the degree of certainty in the claim?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.2",
+                      "question": "How does the qualifier limit the scope of the argument?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.3",
+                      "question": "Why do qualifiers make an argument more realistic?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.4",
+                      "question": "What happens if you remove all qualifiers from the claim?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.5",
+                      "question": "How does the qualifier affect the tone of the argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.6",
+                      "question": "What phrases show caution or confidence?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.7",
+                      "question": "What if the qualifier was much stronger or weaker—what changes?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.8",
+                      "question": "How do qualifiers protect against criticism?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.9",
+                      "question": "Why might a scientist use more qualifiers than a politician?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.10",
+                      "question": "How could you rewrite the qualifier to increase precision?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.11",
+                      "question": "What feelings might strong or weak qualifiers create for readers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.5.12",
+                      "question": "How does the qualifier interact with the audience's expectations?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Rebuttal",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.B.6.1",
+                      "question": "What counterarguments could challenge the claim?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.2",
+                      "question": "How does the rebuttal make the argument stronger?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.3",
+                      "question": "Why is it important to admit possible exceptions?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.4",
+                      "question": "What strategies help respond to objections effectively?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.5",
+                      "question": "What if the rebuttal completely overturned the claim?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.6",
+                      "question": "How does the rebuttal influence the tone of the argument?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.7",
+                      "question": "What patterns of objections appear in debates or essays?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.8",
+                      "question": "How could anticipating rebuttals show fairness?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.9",
+                      "question": "Why do some rebuttals focus on assumptions rather than facts?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.10",
+                      "question": "What feelings might a strong rebuttal create for readers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.11",
+                      "question": "How might the audience's context shape which rebuttals matter?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.B.6.12",
+                      "question": "What if you wrote a rebuttal that secretly reinforced your own claim?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Claim",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.I.1.1",
+                      "question": "How can the claim be reformulated to include nuance without losing clarity?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.2",
+                      "question": "Why might a claim appear valid in one context but weak in another?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.3",
+                      "question": "What role does audience expectation play in shaping the claim?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.4",
+                      "question": "How could you make the claim testable or falsifiable?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.5",
+                      "question": "What underlying value assumptions drive this claim?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.6",
+                      "question": "How might cultural norms influence the strength of a claim?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.7",
+                      "question": "What if the claim were expressed as a metaphor—what changes?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.8",
+                      "question": "What strategies make a claim resistant to common criticism?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.9",
+                      "question": "How can the claim anticipate future developments or changes in knowledge?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.10",
+                      "question": "What feelings might the wording of the claim deliberately evoke?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.11",
+                      "question": "Why might narrowing or broadening the claim affect its persuasiveness?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.1.12",
+                      "question": "How could the claim be reframed for an interdisciplinary audience?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Grounds",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.I.2.1",
+                      "question": "What patterns in the evidence strengthen the argument’s logic?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.2",
+                      "question": "How can conflicting evidence be integrated without weakening the claim?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.3",
+                      "question": "Why does the credibility of sources matter more in some arguments than others?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.4",
+                      "question": "What strategies make statistical evidence more persuasive to a lay audience?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.5",
+                      "question": "How could omission of certain evidence create bias?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.6",
+                      "question": "What if new evidence directly contradicted the current grounds—how should the argument adapt?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.7",
+                      "question": "What assumptions link the evidence to cultural norms or values?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.8",
+                      "question": "How might emotional appeals embedded in the evidence affect reasoning?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.9",
+                      "question": "What criteria distinguish strong evidence from weak in this context?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.10",
+                      "question": "Why might some evidence lose relevance over time?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.11",
+                      "question": "How do cultural or disciplinary standards shape what counts as valid evidence?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.2.12",
+                      "question": "What risks arise from overloading an argument with excessive evidence?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Warrant",
+                  "part_concept": "Logical Link",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.I.3.1",
+                      "question": "What hidden assumptions make the warrant plausible or implausible?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.2",
+                      "question": "How does the warrant reflect broader theoretical frameworks?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.3",
+                      "question": "Why might two different disciplines interpret the same warrant differently?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.4",
+                      "question": "What strategies can make warrants explicit rather than implied?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.5",
+                      "question": "How does the strength of a warrant depend on social or cultural norms?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.6",
+                      "question": "What if the warrant were presented as a visual model—what would it look like?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.7",
+                      "question": "What paradoxes might arise from a warrant that seems universally true?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.8",
+                      "question": "How could analogies reinforce or undermine a warrant?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.9",
+                      "question": "What role does disciplinary authority play in validating a warrant?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.10",
+                      "question": "What tone does a warrant establish in an argumentative text?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.11",
+                      "question": "How might a warrant be adapted to new evidence or contexts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.3.12",
+                      "question": "Why is identifying warrants a key skill for critical thinking?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Backing",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.I.4.1",
+                      "question": "How does the backing reinforce the warrant across different contexts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.2",
+                      "question": "What principles or theories provide strong support for the warrant?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.3",
+                      "question": "How can backing be evaluated for credibility and relevance?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.4",
+                      "question": "What role does expert authority play in providing backing?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.5",
+                      "question": "Why might some backing fail to convince skeptical audiences?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.6",
+                      "question": "How could alternative perspectives challenge or enrich the backing?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.7",
+                      "question": "What if the backing is contradictory or incomplete—how should it be addressed?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.8",
+                      "question": "How can examples or analogies strengthen the backing?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.9",
+                      "question": "What emotions or trust does effective backing elicit in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.10",
+                      "question": "How might disciplinary norms influence the selection of backing?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.11",
+                      "question": "What strategies make backing more transparent and verifiable?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.4.12",
+                      "question": "Why is understanding the origin of backing important for critical evaluation?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Qualifier",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.I.5.1",
+                      "question": "How can qualifiers accurately reflect the strength of the claim?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.2",
+                      "question": "What linguistic markers indicate uncertainty or probability?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.3",
+                      "question": "How do qualifiers protect the argument against counterexamples?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.4",
+                      "question": "Why is it important to balance strong claims with appropriate qualifiers?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.5",
+                      "question": "How might overuse of qualifiers affect audience perception?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.6",
+                      "question": "What if qualifiers were removed entirely—what impact would this have?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.7",
+                      "question": "How can qualifiers be adapted for interdisciplinary arguments?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.8",
+                      "question": "What are the consequences of using vague vs. precise qualifiers?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.9",
+                      "question": "How can qualifiers clarify the limits of generalization?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.10",
+                      "question": "Why might qualifiers enhance perceived fairness in argumentation?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.11",
+                      "question": "What audience expectations are met or challenged by qualifiers?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.5.12",
+                      "question": "How can qualifiers be strategically placed for rhetorical effect?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Rebuttal",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.I.6.1",
+                      "question": "How can potential objections be anticipated effectively?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.2",
+                      "question": "What counterexamples might undermine the claim?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.3",
+                      "question": "How can the rebuttal strengthen the overall argument?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.4",
+                      "question": "Why is it important to acknowledge opposing viewpoints?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.5",
+                      "question": "What strategies can neutralize the effect of counterarguments?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.6",
+                      "question": "How might the rebuttal influence the audience’s trust or perception?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.7",
+                      "question": "What assumptions in the rebuttal require careful examination?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.8",
+                      "question": "How can rebuttals reveal hidden tensions or ambiguities in the claim?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.9",
+                      "question": "What if the rebuttal introduces new evidence contrary to the warrant?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.10",
+                      "question": "How can the rebuttal be framed to maintain logical coherence?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.11",
+                      "question": "Why is balancing rebuttals and claims critical for persuasive argumentation?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.I.6.12",
+                      "question": "What emotional or rhetorical effects can a rebuttal have on the audience?",
+                      "concept": "Mood"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Claim",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.A.1.1",
+                      "question": "How can the claim be reformulated to integrate multiple perspectives without losing coherence?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.2",
+                      "question": "What assumptions underpin the claim, and how can they be critically assessed?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.3",
+                      "question": "How might reframing the claim reveal hidden paradoxes or tensions?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.4",
+                      "question": "Why might the claim resonate differently across disciplines or cultural contexts?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.5",
+                      "question": "What strategies can enhance the claim’s robustness against complex objections?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.6",
+                      "question": "How could metaphorical or symbolic framing alter the audience’s reception of the claim?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.7",
+                      "question": "What next steps could test the claim’s validity in real-world scenarios?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.8",
+                      "question": "How does the claim interact with broader epistemological assumptions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.9",
+                      "question": "What ethical or normative implications arise from asserting this claim?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.10",
+                      "question": "How can clarity and precision be maximized while addressing complex nuances?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.11",
+                      "question": "What if the claim were interpreted under an alternative theoretical lens?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.1.12",
+                      "question": "How can the claim be positioned to foster interdisciplinary dialogue?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Grounds",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.A.2.1",
+                      "question": "How can conflicting evidence be synthesized to maintain argument coherence?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.2",
+                      "question": "Why might some forms of evidence carry greater weight in complex contexts?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.3",
+                      "question": "What analytic techniques can reveal hidden patterns in the evidence?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.4",
+                      "question": "How could the evidence be reframed to expose implicit assumptions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.5",
+                      "question": "What if key evidence is challenged—how can the argument be adapted?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.6",
+                      "question": "How does disciplinary context shape the interpretation of evidence?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.7",
+                      "question": "How can the credibility and reliability of evidence be critically evaluated?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.8",
+                      "question": "What role do temporal or historical factors play in assessing evidence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.9",
+                      "question": "How can evidence be presented to enhance audience understanding and engagement?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.10",
+                      "question": "Why might certain evidence be persuasive for one audience but not another?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.11",
+                      "question": "How can gaps or uncertainties in evidence be addressed proactively?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.2.12",
+                      "question": "What strategies can ensure evidence aligns with both logical and ethical standards?",
+                      "concept": "Scale"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Warrant",
+                  "part_concept": "Logical Link",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.A.3.1",
+                      "question": "How can warrants be deconstructed to reveal implicit assumptions?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.2",
+                      "question": "What if the warrant operates differently under competing theoretical frameworks?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.3",
+                      "question": "How can warrants be made explicit to enhance interdisciplinary comprehension?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.4",
+                      "question": "Why might a warrant be persuasive in one domain but not in another?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.5",
+                      "question": "How can visual models or analogies clarify complex warrants?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.6",
+                      "question": "What strategies expose potential paradoxes or conflicts within a warrant?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.7",
+                      "question": "How does the warrant integrate with broader epistemic or systemic structures?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.8",
+                      "question": "How might the warrant be tested for robustness under varying conditions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.9",
+                      "question": "What ethical or normative considerations inform the warrant?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.10",
+                      "question": "How does the tone of the warrant influence argument persuasiveness?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.11",
+                      "question": "Why is identifying hidden assumptions in a warrant critical for advanced reasoning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.3.12",
+                      "question": "How can warrants be adapted to enhance cross-disciplinary dialogue?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Backing",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.A.4.1",
+                      "question": "How can backing be critically evaluated for consistency across theoretical frameworks?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.2",
+                      "question": "What underlying principles strengthen the warrant’s validity in complex contexts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.3",
+                      "question": "How can alternative or conflicting backing be reconciled without undermining the argument?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.4",
+                      "question": "Why might some backing be more persuasive in certain disciplinary or cultural contexts?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.5",
+                      "question": "What strategies can expose hidden assumptions or biases in the backing?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.6",
+                      "question": "How could the backing be visualized or modeled to clarify complex relationships?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.7",
+                      "question": "How might temporal or historical context affect the reliability of backing?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.8",
+                      "question": "What risks arise from over-relying on authoritative backing?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.9",
+                      "question": "How can backing be framed to engage interdisciplinary audiences effectively?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.10",
+                      "question": "What rhetorical strategies enhance the perceived credibility of backing?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.11",
+                      "question": "How might backing elicit specific emotional or cognitive responses in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.4.12",
+                      "question": "Why is critical examination of backing essential for advanced argumentation?",
+                      "concept": "Focus"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Qualifier",
+                  "part_concept": "Boundary",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.A.5.1",
+                      "question": "How can qualifiers be optimized to reflect nuanced degrees of certainty?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.2",
+                      "question": "What are the implications of using overly broad or narrow qualifiers?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.3",
+                      "question": "How might qualifiers interact with cultural or disciplinary expectations?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.4",
+                      "question": "Why is balancing certainty and caution critical in advanced arguments?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.5",
+                      "question": "How can qualifiers be strategically placed to enhance persuasiveness?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.6",
+                      "question": "What if qualifiers are removed or misapplied—how does it affect credibility?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.7",
+                      "question": "How can qualifiers signal limitations without undermining the claim?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.8",
+                      "question": "What role does audience interpretation play in the effectiveness of qualifiers?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.9",
+                      "question": "How can qualifiers be adapted to interdisciplinary discourse?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.10",
+                      "question": "Why might precise qualifiers enhance fairness and transparency in argumentation?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.11",
+                      "question": "How do qualifiers influence logical coherence and overall structure?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.5.12",
+                      "question": "What strategies ensure qualifiers are both rhetorically effective and intellectually rigorous?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Rebuttal",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.A.6.1",
+                      "question": "How can rebuttals be structured to anticipate complex objections?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.2",
+                      "question": "What types of counterarguments are most critical in advanced reasoning?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.3",
+                      "question": "How does integrating rebuttals strengthen the claim’s resilience?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.4",
+                      "question": "Why is acknowledging opposing viewpoints essential for sophisticated argumentation?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.5",
+                      "question": "How can rebuttals be framed to maintain persuasive and logical coherence?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.6",
+                      "question": "What if new evidence challenges the rebuttal—how should the argument adapt?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.7",
+                      "question": "How do rebuttals reveal underlying tensions or assumptions in the argument?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.8",
+                      "question": "What rhetorical strategies can make rebuttals more compelling without bias?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.9",
+                      "question": "How can rebuttals balance emotional and logical appeals?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.10",
+                      "question": "Why is iterative refinement of rebuttals important for argument strength?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.11",
+                      "question": "How can rebuttals be leveraged to foster critical thinking and dialogue?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.A.6.12",
+                      "question": "What next steps ensure rebuttals are aligned with interdisciplinary perspectives?",
+                      "concept": "Framing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Claim",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.ME.1.1",
+                      "question": "How can the claim be transformed to reveal underlying cultural or epistemic assumptions?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.2",
+                      "question": "What meta-level implications arise if the claim is interpreted across competing paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.3",
+                      "question": "How can the claim be used to interrogate or challenge disciplinary norms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.4",
+                      "question": "Why might reframing the claim expose hidden paradoxes or tensions in systemic reasoning?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.5",
+                      "question": "What if the claim were analyzed through an alternative epistemological lens—what emerges?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.6",
+                      "question": "How can the claim be positioned to catalyze interdisciplinary innovation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.7",
+                      "question": "What strategies allow the claim to reveal both intended and unintended consequences?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.8",
+                      "question": "How can narrative or rhetorical devices in the claim influence perception at a meta level?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.9",
+                      "question": "What cognitive or emotional effects does the claim provoke in expert audiences?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.10",
+                      "question": "How might the claim serve as a catalyst for theoretical or methodological shifts?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.11",
+                      "question": "Why is analyzing claims at the meta level critical for advanced critical thinking?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.1.12",
+                      "question": "How can the claim be reframed to explore ethical or normative dimensions across fields?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Grounds",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.ME.2.1",
+                      "question": "How can meta-analysis of grounds reveal systemic biases or structural gaps?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.2",
+                      "question": "What strategies enable integration of heterogeneous evidence across disciplines?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.3",
+                      "question": "How can the strength of grounds be evaluated in the context of evolving epistemologies?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.4",
+                      "question": "Why might certain evidence carry disproportionate influence at meta-theoretical levels?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.5",
+                      "question": "How can patterns within evidence expose emergent properties or hidden dynamics?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.6",
+                      "question": "What if contradictory evidence is leveraged to provoke paradigm shifts?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.7",
+                      "question": "How can grounds be reframed to foreground cross-disciplinary implications?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.8",
+                      "question": "How might temporal or historical patterns influence meta-level evaluation of evidence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.9",
+                      "question": "What role does reflexivity play in assessing the validity of grounds?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.10",
+                      "question": "How can the evidence be modeled to reveal unseen systemic interactions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.11",
+                      "question": "Why is critical examination of grounds necessary for epistemic robustness?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.2.12",
+                      "question": "How can meta-level perspectives uncover ethical implications in evidence selection?",
+                      "concept": "Intention"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Warrant",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.ME.3.1",
+                      "question": "How can warrants be deconstructed to expose implicit meta-theoretical assumptions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.2",
+                      "question": "What if a warrant is evaluated through multiple epistemic or cultural lenses?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.3",
+                      "question": "How can warrants reveal latent paradoxes or dualities in argument structure?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.4",
+                      "question": "Why is meta-level analysis of warrants critical for interdisciplinary argumentation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.5",
+                      "question": "How might visual or rhetorical reframing of a warrant influence expert interpretation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.6",
+                      "question": "What strategies allow warrants to bridge theory and practical application across domains?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.7",
+                      "question": "How can warrants be iteratively refined to anticipate emerging knowledge or counterarguments?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.8",
+                      "question": "How might a warrant expose unintended ethical or normative consequences?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.9",
+                      "question": "What cognitive or interpretive challenges arise when warrants operate at meta-theoretical levels?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.10",
+                      "question": "How can warrants be leveraged to generate novel research questions or insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.11",
+                      "question": "Why is analyzing the interplay between warrants and evidence vital for expert-level reasoning?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.3.12",
+                      "question": "How can warrants be framed to stimulate critical debate across disciplines?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Backing",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.ME.4.1",
+                      "question": "How can backing be examined to uncover emergent principles that influence the warrant?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.2",
+                      "question": "What strategies allow backing to reveal hidden systemic patterns across disciplines?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.3",
+                      "question": "How might meta-level scrutiny of backing challenge conventional epistemic hierarchies?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.4",
+                      "question": "Why is it important to trace the historical and cultural lineage of backing in advanced reasoning?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.5",
+                      "question": "How can backing be leveraged to predict potential disruptions or paradigm shifts?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.6",
+                      "question": "What if conflicting backing is analyzed to generate new interdisciplinary frameworks?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.7",
+                      "question": "How can backing expose latent assumptions or biases in complex arguments?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.8",
+                      "question": "What role does meta-ethical or normative evaluation play in assessing backing?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.9",
+                      "question": "How can backing be modeled visually to enhance comprehension of multi-layered reasoning?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.10",
+                      "question": "Why is critical meta-analysis of backing essential for expert-level argumentation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.11",
+                      "question": "How can the interplay between backing and warrant be leveraged to innovate theoretical approaches?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.4.12",
+                      "question": "What insights emerge when backing is examined across temporal, cultural, and disciplinary dimensions?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Qualifier",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.ME.5.1",
+                      "question": "How can qualifiers be iteratively refined to reflect complex degrees of certainty across contexts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.2",
+                      "question": "What strategies ensure qualifiers capture both epistemic and cultural contingencies?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.3",
+                      "question": "How might iterative analysis of qualifiers reveal hidden assumptions in reasoning?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.4",
+                      "question": "Why is meta-level scrutiny of qualifiers critical for maintaining argumentative rigor?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.5",
+                      "question": "How can qualifiers be adapted to support interdisciplinary discourse without loss of precision?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.6",
+                      "question": "What if qualifiers are reinterpreted in light of new evidence—how does it shift argument dynamics?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.7",
+                      "question": "How can iterative refinement of qualifiers balance logical coherence and rhetorical impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.8",
+                      "question": "What meta-strategies allow qualifiers to guide audience interpretation effectively?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.9",
+                      "question": "How can qualifiers highlight limits of knowledge without undermining the argument’s authority?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.10",
+                      "question": "Why is critical evaluation of qualifiers essential for cross-disciplinary reasoning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.11",
+                      "question": "How might qualifiers be used to signal areas for further research or inquiry?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.5.12",
+                      "question": "What next steps ensure qualifiers maintain coherence across multiple argumentative layers?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Rebuttal",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Toulmin-Model.ME.6.1",
+                      "question": "How can rebuttals be strategically designed to expose systemic weaknesses in an argument?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.2",
+                      "question": "What meta-analytic methods reveal hidden assumptions within rebuttals?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.3",
+                      "question": "How might iterative engagement with rebuttals foster transformative insights across disciplines?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.4",
+                      "question": "Why is anticipating counterarguments critical for expert-level synthesis and innovation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.5",
+                      "question": "How can rebuttals be framed to challenge entrenched paradigms without undermining overall coherence?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.6",
+                      "question": "What if emerging evidence contradicts established rebuttals—how should the argument evolve?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.7",
+                      "question": "How can meta-level analysis of rebuttals enhance epistemic robustness?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.8",
+                      "question": "What role do rhetorical and ethical considerations play in formulating rebuttals at this level?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.9",
+                      "question": "How can rebuttals be leveraged to reveal latent tensions or paradoxes in arguments?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.10",
+                      "question": "Why is iterative refinement of rebuttals crucial for interdisciplinary argumentation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.11",
+                      "question": "How can rebuttals stimulate critical dialogue and advance meta-theoretical understanding?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Toulmin-Model.ME.6.12",
+                      "question": "What next steps ensure rebuttals contribute to transformative knowledge creation across fields?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

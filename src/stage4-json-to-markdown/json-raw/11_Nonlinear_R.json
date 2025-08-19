@@ -1,0 +1,1951 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Nonlinear-Narrative",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Disruption of Chronology → 2. Fragmented Events → 3. Multiple Perspectives → 4. Flashbacks and Flashforwards → 5. Juxtaposition of Timelines → 6. Temporal Loop or Cycle → 7. Resolution or Thematic Closure"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Disruption of Chronology"
+                },
+                {
+                  "structure_part": "[2/7] 2. Fragmented Events"
+                },
+                {
+                  "structure_part": "[3/7] 3. Multiple Perspectives"
+                },
+                {
+                  "structure_part": "[4/7] 4. Flashbacks and Flashforwards"
+                },
+                {
+                  "structure_part": "[5/7] 5. Juxtaposition of Timelines"
+                },
+                {
+                  "structure_part": "[6/7] 6. Temporal Loop or Cycle"
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution or Thematic Closure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Memento, Pulp Fiction, 21 Grams"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Disruption of Chronology → Breaking linear time order to create narrative tension or mystery"
+            },
+            {
+              "terminology": "2. Fragmented Events → Story told in pieces that the audience assembles mentally"
+            },
+            {
+              "terminology": "3. Multiple Perspectives → Different viewpoints revealing contrasting information"
+            },
+            {
+              "terminology": "4. Flashbacks and Flashforwards → Non-chronological insertions revealing past or future"
+            },
+            {
+              "terminology": "5. Juxtaposition of Timelines → Parallel timelines shown together for contrast or emphasis"
+            },
+            {
+              "terminology": "6. Temporal Loop or Cycle → Repetition of events or time frames"
+            },
+            {
+              "terminology": "7. Resolution or Thematic Closure → Final understanding beyond linear time"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Disruption of Chronology",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.1",
+                      "question": "What does it mean to disrupt chronological order in a story?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.2",
+                      "question": "How does breaking the timeline affect your understanding of the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.3",
+                      "question": "Why might a filmmaker choose to start a story out of order?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.4",
+                      "question": "What emotions or reactions can a disrupted timeline create in an audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.5",
+                      "question": "How does the disruption create curiosity or suspense?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.6",
+                      "question": "What are some simple examples of disrupted chronology you might have seen?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.7",
+                      "question": "How does the disruption challenge the usual cause and effect sequence?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.8",
+                      "question": "What if the story was told in strict chronological order instead?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.9",
+                      "question": "How does this disruption shape your overall understanding of characters?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.10",
+                      "question": "What is the role of memory or recollection in a disrupted timeline?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.11",
+                      "question": "Why is clarity important even when chronology is disrupted?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.1.12",
+                      "question": "How might a disrupted timeline influence the tone of a narrative?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Fragmented Events",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.1",
+                      "question": "What are fragmented events in a nonlinear narrative?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.2",
+                      "question": "How do fragmented pieces of a story affect how you put it together?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.3",
+                      "question": "Why might a story be told in pieces rather than a continuous flow?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.4",
+                      "question": "What feelings might arise from experiencing a fragmented story?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.5",
+                      "question": "How can fragmented events create mystery or suspense?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.6",
+                      "question": "What is the role of the audience in assembling fragmented events?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.7",
+                      "question": "How do fragmented events influence the pacing of a story?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.8",
+                      "question": "What if the fragments were arranged differently? How might meaning change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.9",
+                      "question": "How does fragmentation challenge traditional story boundaries?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.10",
+                      "question": "Why is iteration important when telling fragmented events?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.11",
+                      "question": "How can fragmented storytelling affect memory or recall for the audience?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.2.12",
+                      "question": "What emotional tone is often created by fragmented narratives?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Multiple Perspectives",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.1",
+                      "question": "What does multiple perspectives mean in storytelling?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.2",
+                      "question": "How do different viewpoints change what we understand about events?",
+                      "concept": "Relativity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.3",
+                      "question": "Why might an author include conflicting perspectives in a narrative?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.4",
+                      "question": "What effect does seeing a story from various angles have on the audience’s interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.5",
+                      "question": "How can multiple perspectives deepen character development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.6",
+                      "question": "What challenges arise in maintaining clarity with multiple perspectives?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.7",
+                      "question": "How might the tone shift when switching between perspectives?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.8",
+                      "question": "What if one perspective was removed? How would the story change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.9",
+                      "question": "How do multiple perspectives reflect real-life complexity?",
+                      "concept": "Complexity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.10",
+                      "question": "Why is perspective important for creating narrative tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.11",
+                      "question": "How does perspective influence the audience’s emotional engagement?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.3.12",
+                      "question": "What role does perspective play in the overall thematic message?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Flashbacks and Flashforwards",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.1",
+                      "question": "What are flashbacks and flashforwards in storytelling?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.2",
+                      "question": "How do flashbacks help reveal important background information?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.3",
+                      "question": "Why might a story include flashforwards instead of just flashbacks?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.4",
+                      "question": "How do these time shifts affect the audience’s sense of time?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.5",
+                      "question": "What feelings can flashbacks and flashforwards create in a viewer?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.6",
+                      "question": "How do flashbacks contribute to character development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.7",
+                      "question": "What if a story had no flashbacks or flashforwards? How would it change?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.8",
+                      "question": "Why is clarity important when using flashbacks and flashforwards?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.9",
+                      "question": "How can filmmakers signal flashbacks or flashforwards visually or narratively?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.10",
+                      "question": "What impact do flashbacks have on the story’s cause and effect sequence?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.11",
+                      "question": "How do flashforwards build anticipation or suspense?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.4.12",
+                      "question": "What emotional tone is often created through flashbacks and flashforwards?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Juxtaposition of Timelines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.1",
+                      "question": "What does juxtaposition of timelines mean in a nonlinear narrative?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.2",
+                      "question": "How does placing different timelines side by side affect meaning?",
+                      "concept": "Comparison"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.3",
+                      "question": "Why might a storyteller use juxtaposition to highlight contrasts or similarities?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.4",
+                      "question": "How can juxtaposed timelines change the audience’s understanding of cause and effect?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.5",
+                      "question": "What feelings can arise from seeing timelines presented together?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.6",
+                      "question": "How does juxtaposition influence the pacing and flow of a narrative?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.7",
+                      "question": "What if the timelines were shown separately instead? How would the impact differ?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.8",
+                      "question": "Why is it important to maintain clarity when timelines are juxtaposed?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.9",
+                      "question": "How does juxtaposition highlight thematic dualities or conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.10",
+                      "question": "How might the emotional tone shift between juxtaposed timelines?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.11",
+                      "question": "What role does framing play in helping the audience distinguish timelines?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.5.12",
+                      "question": "How can juxtaposition lead to new insights or reinterpretations of events?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Temporal Loop or Cycle",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.1",
+                      "question": "What is a temporal loop or cycle in narrative structure?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.2",
+                      "question": "How does repeating events affect the audience’s understanding?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.3",
+                      "question": "Why might a story use a temporal loop instead of a linear timeline?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.4",
+                      "question": "How can temporal loops create tension or suspense?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.5",
+                      "question": "What emotions are often associated with temporal loops?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.6",
+                      "question": "How do characters typically respond to cycles or loops in a story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.7",
+                      "question": "What if the cycle was broken? How would that change the narrative?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.8",
+                      "question": "Why is clarity important when depicting temporal loops?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.9",
+                      "question": "How does the repetition in a cycle contribute to thematic depth?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.10",
+                      "question": "How can a temporal loop affect the story’s pacing?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.11",
+                      "question": "What role does memory or recognition play in temporal loops?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.6.12",
+                      "question": "What tone or mood is often created by cyclical narratives?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution or Thematic Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.1",
+                      "question": "What does resolution or thematic closure mean in a nonlinear narrative?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.2",
+                      "question": "How does a nonlinear story provide closure despite disrupted timelines?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.3",
+                      "question": "Why is thematic closure important for audience understanding?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.4",
+                      "question": "How can resolution in nonlinear narratives differ from linear ones?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.5",
+                      "question": "What emotions are often evoked by thematic closure?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.6",
+                      "question": "How does the resolution tie together multiple timelines or perspectives?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.7",
+                      "question": "What if the narrative ended without clear closure? How would that affect the audience?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.8",
+                      "question": "Why might some nonlinear stories choose to leave endings open or ambiguous?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.9",
+                      "question": "How does closure influence the overall tone and mood of the story?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.10",
+                      "question": "What role does audience interpretation play in nonlinear narrative resolutions?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.11",
+                      "question": "How can thematic closure highlight the story’s main message or theme?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.B.7.12",
+                      "question": "How does resolution in nonlinear narratives engage critical thinking about time and causality?",
+                      "concept": "Cause and Effect"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Disruption of Chronology",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.1",
+                      "question": "How does disrupting chronological order challenge traditional narrative expectations?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.2",
+                      "question": "Why does disrupting chronology affect audience engagement differently than linear storytelling?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.3",
+                      "question": "How can filmmakers balance disruption with clarity to maintain comprehension?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.4",
+                      "question": "In what ways does disrupting chronology influence the cause and effect relationships in a narrative?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.5",
+                      "question": "How does the disruption of chronology support themes of memory or trauma?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.6",
+                      "question": "What are the risks and benefits of breaking timeline order for storytelling impact?",
+                      "concept": "Risk and Benefit"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.7",
+                      "question": "How can disrupting chronology create new narrative meanings or interpretations?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.8",
+                      "question": "What if the narrative’s disruption was randomized rather than purposefully arranged?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.9",
+                      "question": "How does disrupted chronology alter the audience’s emotional tone and mood?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.10",
+                      "question": "How might disruption of chronology reflect characters’ psychological states?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.11",
+                      "question": "Why is maintaining narrative coherence critical when chronology is disrupted?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.1.12",
+                      "question": "How does disrupting chronology serve as an authorial strategy to challenge audience assumptions?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Fragmented Events",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.1",
+                      "question": "How do fragmented events require active audience participation in constructing the narrative?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.2",
+                      "question": "Why is iteration important in understanding fragmented storytelling?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.3",
+                      "question": "How can fragmentation disrupt traditional cause and effect sequences?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.4",
+                      "question": "In what ways does fragmentation reflect the complexity of human memory or experience?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.5",
+                      "question": "How does fragmentation influence pacing and audience attention?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.6",
+                      "question": "What risks are involved in using fragmented events to tell a story?",
+                      "concept": "Risk and Benefit"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.7",
+                      "question": "How might rearranging fragments change the narrative’s meaning or emotional impact?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.8",
+                      "question": "What role do boundaries play in defining fragmented narrative units?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.9",
+                      "question": "How can fragmented storytelling create ambiguity or multiple interpretations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.10",
+                      "question": "How does fragmentation challenge linear thinking in storytelling?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.11",
+                      "question": "How can fragmented narratives enhance thematic depth or complexity?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.2.12",
+                      "question": "Why might an author choose fragmentation to emphasize certain story elements?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Multiple Perspectives",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.1",
+                      "question": "How do multiple perspectives complicate or enrich a narrative’s meaning?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.2",
+                      "question": "Why is it important to consider conflicting viewpoints in a nonlinear narrative?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.3",
+                      "question": "How does presenting various perspectives affect audience empathy for characters?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.4",
+                      "question": "In what ways can multiple perspectives create ambiguity or uncertainty?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.5",
+                      "question": "How might the order of perspectives influence narrative interpretation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.6",
+                      "question": "What challenges arise in maintaining clarity when shifting perspectives?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.7",
+                      "question": "How can an author use multiple perspectives as a deliberate strategy to disrupt dominant narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.8",
+                      "question": "What if a key perspective is omitted? How would that affect understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.9",
+                      "question": "How do multiple perspectives mirror real-world complexity and ambiguity?",
+                      "concept": "Complexity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.10",
+                      "question": "How does perspective influence the emotional tone or mood of a narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.11",
+                      "question": "What role does audience inference play when navigating multiple perspectives?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.3.12",
+                      "question": "How can multiple perspectives deepen thematic interpretation or critique?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Flashbacks and Flashforwards",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.1",
+                      "question": "How do flashbacks and flashforwards challenge traditional narrative continuity?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.2",
+                      "question": "In what ways do flashbacks deepen character motivations or backstory?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.3",
+                      "question": "Why might an author choose to reveal future events through flashforwards?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.4",
+                      "question": "How do time shifts like flashbacks affect the audience’s perception of cause and effect?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.5",
+                      "question": "What are the cognitive effects on audiences when navigating non-linear temporal shifts?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.6",
+                      "question": "How can filmmakers use visual or auditory cues to signal flashbacks or flashforwards effectively?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.7",
+                      "question": "What risks arise from overusing flashbacks or flashforwards in storytelling?",
+                      "concept": "Risk and Benefit"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.8",
+                      "question": "How does the placement of flashbacks influence narrative pacing and tension?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.9",
+                      "question": "How can flashbacks and flashforwards affect thematic depth or resonance?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.10",
+                      "question": "What if flashbacks were presented from unreliable perspectives? How would that alter interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.11",
+                      "question": "How do flashforwards build suspense and audience anticipation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.4.12",
+                      "question": "How does the use of flashbacks and flashforwards contribute to the overall tone or mood?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Juxtaposition of Timelines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.1",
+                      "question": "How does juxtaposing timelines create new narrative meanings or contrasts?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.2",
+                      "question": "In what ways can juxtaposition highlight thematic dualities such as past and present or hope and despair?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.3",
+                      "question": "How does the interaction between timelines affect audience perception of character development?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.4",
+                      "question": "Why is clarity crucial when presenting multiple timelines side by side?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.5",
+                      "question": "How does juxtaposition influence narrative pacing and audience engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.6",
+                      "question": "What narrative techniques help distinguish and connect juxtaposed timelines?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.7",
+                      "question": "How can juxtaposition of timelines challenge or reinforce audience assumptions?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.8",
+                      "question": "What if the order of juxtaposed timelines was reversed? How would that impact meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.9",
+                      "question": "How does juxtaposition facilitate exploration of cause and effect across different time periods?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.10",
+                      "question": "What emotional or tonal shifts arise from moving between timelines?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.11",
+                      "question": "How does juxtaposition contribute to narrative complexity and depth?",
+                      "concept": "Complexity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.5.12",
+                      "question": "Why might a storyteller use juxtaposition to create ambiguity or multiple interpretations?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Temporal Loop or Cycle",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.1",
+                      "question": "How do temporal loops challenge conventional notions of narrative time?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.2",
+                      "question": "What narrative purposes do temporal loops serve in nonlinear storytelling?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.3",
+                      "question": "How does repetition within a temporal loop affect audience expectations?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.4",
+                      "question": "In what ways can breaking or resolving a temporal loop create thematic significance?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.5",
+                      "question": "How do characters’ awareness or responses to loops influence narrative agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.6",
+                      "question": "What emotional responses do temporal loops typically evoke in audiences?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.7",
+                      "question": "How can temporal loops be used to illustrate concepts like fate or inevitability?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.8",
+                      "question": "Why is clarity essential when depicting complex temporal cycles?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.9",
+                      "question": "How do temporal loops contribute to narrative pacing and structure?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.10",
+                      "question": "What role does audience recognition play in understanding loops or cycles?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.11",
+                      "question": "How can temporal loops create or resolve narrative tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.6.12",
+                      "question": "What tone is often associated with stories that feature temporal loops or cycles?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution or Thematic Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.1",
+                      "question": "How can nonlinear narratives achieve thematic closure despite disrupted timelines?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.2",
+                      "question": "In what ways does thematic closure help unify disparate narrative elements?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.3",
+                      "question": "Why might some nonlinear stories deliberately avoid clear resolution?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.4",
+                      "question": "How does the resolution of a nonlinear narrative influence the audience’s emotional catharsis?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.5",
+                      "question": "What role does audience interpretation play in constructing closure in nonlinear stories?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.6",
+                      "question": "How can the resolution emphasize the story’s central themes or messages?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.7",
+                      "question": "What if the narrative ends without closure? How might this affect meaning and audience response?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.8",
+                      "question": "How does nonlinear resolution challenge traditional expectations of cause and effect?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.9",
+                      "question": "How can narrative closure in nonlinear stories alter the overall tone or mood?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.10",
+                      "question": "What techniques do authors use to guide audiences toward thematic understanding in nonlinear resolutions?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.11",
+                      "question": "How does closure in nonlinear narratives encourage critical thinking about time and perspective?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.I.7.12",
+                      "question": "Why is it significant for audiences to actively interpret nonlinear narrative endings?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Disruption of Chronology",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.1",
+                      "question": "How does deliberate disruption of chronology function as a tool for thematic exploration?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.2",
+                      "question": "In what ways does chronology disruption interrogate conventional notions of time and narrative causality?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.3",
+                      "question": "How can disrupting chronology enhance or complicate narrative coherence and audience interpretation?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.4",
+                      "question": "What are the epistemological implications of temporal disruption in storytelling?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.5",
+                      "question": "How does disrupted chronology reflect or symbolize psychological or cultural states?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.6",
+                      "question": "What strategies can authors use to balance narrative fragmentation with structural unity?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.7",
+                      "question": "How does the disruption of linear time challenge the audience’s assumptions about cause and effect?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.8",
+                      "question": "How might disruption of chronology function as a meta-narrative device reflecting on storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.9",
+                      "question": "What ethical considerations emerge when manipulating narrative time and memory?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.10",
+                      "question": "How does temporal disruption influence the emotional tone and atmosphere of a narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.11",
+                      "question": "In what ways can disruption of chronology serve to foreground themes of uncertainty and ambiguity?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.1.12",
+                      "question": "What is the relationship between disrupted chronology and narrative pacing in complex stories?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Fragmented Events",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.1",
+                      "question": "How does fragmentation embody the concept of entropy within narrative structures?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.2",
+                      "question": "In what ways do fragmented events challenge traditional narrative hierarchies?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.3",
+                      "question": "How can narrative entropy through fragmentation reflect psychological disarray or cultural disruption?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.4",
+                      "question": "What role does iteration play in managing fragmented narrative units?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.5",
+                      "question": "How can fragmentation create emergent meanings that are not present in linear narratives?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.6",
+                      "question": "What are the cognitive demands placed on audiences by fragmented storytelling?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.7",
+                      "question": "How might authors use fragmentation to critique dominant narrative forms or ideologies?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.8",
+                      "question": "How does fragmentation affect the thematic layering and depth of a narrative?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.9",
+                      "question": "What narrative techniques can mitigate potential confusion caused by fragmentation?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.10",
+                      "question": "How does fragmentation influence the emotional and tonal complexity of a story?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.11",
+                      "question": "In what ways can fragmented narratives reveal hidden or suppressed perspectives?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.2.12",
+                      "question": "How does entropy within narrative structures relate to themes of disorder and transformation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Multiple Perspectives",
+                  "part_concept": "Ambiguity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.1",
+                      "question": "How do multiple perspectives generate narrative ambiguity and challenge singular truth claims?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.2",
+                      "question": "In what ways can conflicting perspectives deepen thematic complexity and audience interpretation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.3",
+                      "question": "How does the use of multiple viewpoints disrupt traditional power dynamics within storytelling?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.4",
+                      "question": "What cognitive processes are engaged when audiences navigate multiple perspectives?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.5",
+                      "question": "How can authors use perspective shifts to reveal unreliable narration or bias?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.6",
+                      "question": "How does narrative ambiguity foster critical reflection on knowledge and truth?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.7",
+                      "question": "What role does emotional tone play in shaping audience responses to multiple perspectives?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.8",
+                      "question": "How can the sequencing of perspectives influence narrative meaning and audience judgment?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.9",
+                      "question": "How might multiple perspectives function as a strategy to subvert dominant cultural narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.10",
+                      "question": "What ethical implications arise from presenting multiple conflicting perspectives?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.11",
+                      "question": "How does ambiguity arising from multiple perspectives impact narrative closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.3.12",
+                      "question": "In what ways does narrative ambiguity invite diverse audience interpretations and debates?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Flashbacks and Flashforwards",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.1",
+                      "question": "How do flashbacks and flashforwards function as temporal thresholds that reshape narrative understanding?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.2",
+                      "question": "In what ways can the manipulation of temporal thresholds reveal deeper layers of character psychology?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.3",
+                      "question": "How does the strategic placement of flashbacks challenge linear notions of cause and effect?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.4",
+                      "question": "What role do sensory or symbolic cues play in signaling shifts across temporal thresholds?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.5",
+                      "question": "How might flashforwards function as a form of narrative foreshadowing or prophecy within nonlinear frameworks?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.6",
+                      "question": "How do flashbacks and flashforwards contribute to narrative pacing and tension modulation?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.7",
+                      "question": "What are the epistemological challenges for audiences interpreting non-sequential temporal shifts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.8",
+                      "question": "How can flashbacks and flashforwards destabilize or reinforce narrative coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.9",
+                      "question": "In what ways do temporal shifts affect thematic exploration of memory, fate, and identity?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.10",
+                      "question": "How does the interplay of flashbacks and flashforwards reflect cultural or psychological transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.11",
+                      "question": "What risks does reliance on temporal thresholds pose for narrative clarity and audience engagement?",
+                      "concept": "Risk and Benefit"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.4.12",
+                      "question": "How do flashbacks and flashforwards influence the emotional tone and mood of the narrative?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Juxtaposition of Timelines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.1",
+                      "question": "How does the juxtaposition of timelines embody dualities such as memory versus present or order versus chaos?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.2",
+                      "question": "In what ways can timeline juxtaposition be used to interrogate cultural or historical contradictions?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.3",
+                      "question": "How does contrasting timelines affect narrative rhythm and thematic layering?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.4",
+                      "question": "What cognitive and interpretive demands does timeline juxtaposition place on audiences?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.5",
+                      "question": "How can juxtaposition challenge or subvert dominant narrative hierarchies or power structures?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.6",
+                      "question": "What authorial strategies effectively clarify or complicate the relationship between juxtaposed timelines?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.7",
+                      "question": "How does juxtaposition of timelines enhance or obscure cause and effect relationships?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.8",
+                      "question": "What role does boundary-setting play in differentiating and connecting timelines?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.9",
+                      "question": "How can juxtaposition of timelines create narrative ambiguity or multiplicity of meanings?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.10",
+                      "question": "In what ways does juxtaposition influence the emotional tone and mood of the narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.11",
+                      "question": "How might the reversal or reordering of juxtaposed timelines transform narrative interpretation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.5.12",
+                      "question": "What ethical considerations arise when presenting conflicting timelines side by side?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Temporal Loop or Cycle",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.1",
+                      "question": "How do temporal loops interrogate linear conceptions of time and narrative progression?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.2",
+                      "question": "In what ways do temporal cycles serve as metaphors for fate, memory, or historical repetition?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.3",
+                      "question": "How does narrative repetition within loops influence audience perception and thematic depth?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.4",
+                      "question": "What narrative techniques effectively convey the breaking or sustaining of temporal cycles?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.5",
+                      "question": "How do characters’ recognition of cycles affect their agency and decision-making within the narrative?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.6",
+                      "question": "What emotional or cognitive effects do temporal loops elicit in viewers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.7",
+                      "question": "How can temporal loops challenge or reinforce cultural narratives of destiny or inevitability?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.8",
+                      "question": "Why is clarity important when portraying complex temporal cycles to maintain audience engagement?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.9",
+                      "question": "How does the pacing of temporal loops affect narrative tension and release?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.10",
+                      "question": "What role does audience recognition and interpretation play in understanding temporal loops?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.11",
+                      "question": "How do temporal cycles contribute to themes of transformation or stasis within narratives?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.6.12",
+                      "question": "In what ways does the tone of stories featuring temporal loops differ from more linear narratives?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution or Thematic Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.1",
+                      "question": "How can nonlinear narratives construct thematic closure while subverting linear resolution expectations?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.2",
+                      "question": "In what ways does thematic closure function as a reconciliation of fragmented narrative elements?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.3",
+                      "question": "Why might some nonlinear narratives embrace ambiguity instead of providing clear closure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.4",
+                      "question": "How does nonlinear resolution influence the emotional catharsis experienced by audiences?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.5",
+                      "question": "What role does audience agency play in interpreting and completing nonlinear narrative endings?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.6",
+                      "question": "How can resolution emphasize broader cultural or philosophical transformations explored in the narrative?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.7",
+                      "question": "What if a nonlinear narrative deliberately leaves resolution open-ended? How does this affect meaning and interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.8",
+                      "question": "How does nonlinear closure challenge traditional cause and effect models in storytelling?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.9",
+                      "question": "In what ways can nonlinear resolutions shape the tone and mood of the story’s conclusion?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.10",
+                      "question": "What authorial strategies guide audiences toward thematic understanding in nonlinear resolutions?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.11",
+                      "question": "How does nonlinear thematic closure encourage reflexivity and critical engagement with the narrative?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.A.7.12",
+                      "question": "Why is it significant for audiences to actively participate in constructing meaning from nonlinear endings?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/7] 1. Disruption of Chronology",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.1",
+                      "question": "How does the disruption of chronology function as a meta-narrative device that questions the nature of time itself?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.2",
+                      "question": "In what ways can disrupted chronology serve as a form of cultural or philosophical critique?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.3",
+                      "question": "How might temporal disruption challenge dominant epistemologies and reshape audience cognition?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.4",
+                      "question": "What is the relationship between disrupted chronology and narrative reflexivity in postmodern storytelling?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.5",
+                      "question": "How does the destabilization of linear time interrogate power structures embedded in narrative forms?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.6",
+                      "question": "In what ways can disrupted chronology expose the constructedness of memory and identity within narratives?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.7",
+                      "question": "How can authors leverage temporal disruption to engage audiences in active meaning-making and critical reflection?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.8",
+                      "question": "What ethical questions arise from manipulating temporal order and narrative truth?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.9",
+                      "question": "How does the concept of disruption intersect with paradoxes of time and narrative coherence?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.10",
+                      "question": "In what ways can disrupted chronology illuminate tensions between individual and collective memory?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.11",
+                      "question": "How can the breakdown of chronological order serve as a critique of historical narratives?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.1.12",
+                      "question": "What methodologies can scholars employ to analyze the implications of chronological disruption in nonlinear narratives?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/7] 2. Fragmented Events",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.1",
+                      "question": "How does narrative fragmentation embody the principle of entropy in cultural storytelling systems?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.2",
+                      "question": "In what ways does fragmentation subvert traditional narrative hierarchies and linear causality?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.3",
+                      "question": "How can fragmented narratives facilitate emergent meanings that resist reductive interpretations?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.4",
+                      "question": "What are the epistemological challenges posed by fragmented storytelling to both creators and audiences?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.5",
+                      "question": "How do iterations within fragmented narratives contribute to the construction of thematic patterns?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.6",
+                      "question": "What critical frameworks best account for the interplay between entropy and narrative coherence?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.7",
+                      "question": "How might fragmentation be employed as a political or ideological strategy within nonlinear narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.8",
+                      "question": "In what ways does fragmentation affect audience engagement and interpretive responsibility?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.9",
+                      "question": "How can fragmented narrative forms expose cultural tensions and contradictions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.10",
+                      "question": "What role does abstraction play in making sense of fragmented narrative structures?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.11",
+                      "question": "How do fragmented events complicate the search for closure or resolution in nonlinear storytelling?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.2.12",
+                      "question": "What interdisciplinary methods can enrich the analysis of fragmentation in narratives?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/7] 3. Multiple Perspectives",
+                  "part_concept": "Ambiguity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.1",
+                      "question": "How do multiple perspectives destabilize singular truths and foster narrative ambiguity at a meta-critical level?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.2",
+                      "question": "In what ways do conflicting viewpoints reflect broader cultural or ideological tensions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.3",
+                      "question": "How does the interplay of multiple perspectives challenge traditional power hierarchies in storytelling?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.4",
+                      "question": "What cognitive and emotional demands do multiple perspectives impose on audiences, and how do these shape interpretation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.5",
+                      "question": "How can the strategic sequencing of perspectives function as an authorial strategy to guide or disrupt audience meaning-making?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.6",
+                      "question": "In what ways does narrative ambiguity generated by multiple perspectives invite reflexive and critical engagement?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.7",
+                      "question": "How does the use of unreliable or conflicting narrators complicate audience trust and narrative authority?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.8",
+                      "question": "What ethical considerations arise from representing divergent perspectives within a single narrative frame?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.9",
+                      "question": "How can multiple perspectives be employed to interrogate cultural memory and historiography?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.10",
+                      "question": "What role does ambiguity play in expanding interpretive possibilities and audience participation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.11",
+                      "question": "How might multiple perspectives serve as a metaphor for postmodern skepticism towards meta-narratives?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.3.12",
+                      "question": "How does embracing ambiguity through multiple perspectives challenge conventional narrative closure?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/7] 4. Flashbacks and Flashforwards",
+                  "part_concept": "Discontinuity",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.1",
+                      "question": "How do flashbacks and flashforwards function as liminal thresholds that disrupt conventional temporal boundaries in narratives?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.2",
+                      "question": "In what ways can the manipulation of these temporal thresholds expose underlying cultural or psychological tensions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.3",
+                      "question": "How might the use of flashbacks and flashforwards challenge the stability of memory and identity constructs within a narrative?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.4",
+                      "question": "What are the ethical implications of employing temporal shifts that alter narrative truth claims or character motivations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.5",
+                      "question": "How can sensory and symbolic cues be critically analyzed as markers for transitions across temporal thresholds?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.6",
+                      "question": "What role do flashbacks and flashforwards play in destabilizing or reinforcing narrative continuity and coherence?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.7",
+                      "question": "How do these temporal devices affect audience engagement with narrative pacing and thematic development?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.8",
+                      "question": "In what ways can flashbacks and flashforwards serve as meta-commentary on the act of storytelling itself?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.9",
+                      "question": "How might the integration of flashbacks and flashforwards reflect or critique broader cultural narratives or historiographies?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.10",
+                      "question": "What challenges arise in maintaining clarity when employing complex temporal shifts, and how can they be addressed?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.11",
+                      "question": "How do flashbacks and flashforwards influence the emotional tone and mood of nonlinear narratives at an expert interpretive level?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.4.12",
+                      "question": "How can an expert analysis discern the authorial strategies underlying the use of temporal thresholds in nonlinear storytelling?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/7] 5. Juxtaposition of Timelines",
+                  "part_concept": "Duality",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.1",
+                      "question": "How does the juxtaposition of multiple timelines embody dualities such as presence and absence or memory and forgetting?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.2",
+                      "question": "In what ways can the juxtaposition of timelines serve as a critique of linear historical narratives or cultural hegemonies?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.3",
+                      "question": "How does the interplay of contrasting timelines complicate narrative pacing and thematic resonance?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.4",
+                      "question": "What interpretive frameworks best illuminate the cognitive and emotional effects of timeline juxtaposition on audiences?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.5",
+                      "question": "How can juxtaposed timelines reveal or destabilize embedded power structures within a narrative?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.6",
+                      "question": "What authorial strategies are employed to negotiate boundaries between timelines and maintain narrative coherence?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.7",
+                      "question": "How does juxtaposition of timelines invite multiple layers of ambiguity and open-ended interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.8",
+                      "question": "In what ways might the reversal or non-linear sequencing of timelines function as a metaphor for cultural or psychological dualities?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.9",
+                      "question": "How does juxtaposition challenge traditional notions of cause and effect in narrative construction?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.10",
+                      "question": "What ethical considerations arise when presenting conflicting timelines side by side within a narrative frame?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.11",
+                      "question": "How can an expert critique discern the use of tone and mood shifts created by timeline juxtaposition?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.5.12",
+                      "question": "What are the implications of timeline juxtaposition for narrative closure and audience interpretation?",
+                      "concept": "Closure"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/7] 6. Temporal Loop or Cycle",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.1",
+                      "question": "How do temporal loops function as cyclical structures that problematize linear temporality and narrative causality?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.2",
+                      "question": "In what ways can temporal cycles serve as metaphors for existential or cultural repetition and transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.3",
+                      "question": "How does repetition within temporal loops generate emergent narrative meanings and affect audience reception?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.4",
+                      "question": "What role does disruption play within temporal cycles to signal change or stasis in nonlinear narratives?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.5",
+                      "question": "How do characters' recognition or failure to recognize temporal cycles influence themes of agency and fate?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.6",
+                      "question": "What emotional and cognitive effects do temporal loops evoke, and how do these shape narrative tone and mood?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.7",
+                      "question": "How can temporal cycles challenge dominant cultural narratives about history and progress?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.8",
+                      "question": "Why is narrative clarity significant in portraying complex temporal loops to sustain audience engagement?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.9",
+                      "question": "How does pacing influence the tension and release dynamics within temporal cycles?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.10",
+                      "question": "What interpretive strategies enable audiences to recognize and analyze temporal cycles in nonlinear narratives?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.11",
+                      "question": "How do temporal loops contribute to narrative themes of transformation, stasis, and ambiguity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.6.12",
+                      "question": "In what ways does the tone of stories featuring temporal cycles differ from linear narratives, and what are the implications for audience experience?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/7] 7. Resolution or Thematic Closure",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.1",
+                      "question": "How can nonlinear narratives construct thematic closure while deliberately subverting traditional expectations of resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.2",
+                      "question": "In what ways does thematic closure function as a meta-commentary on fragmented storytelling and narrative interpretation?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.3",
+                      "question": "How might ambiguity in nonlinear resolutions foster ongoing critical engagement and multiplicity of meanings?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.4",
+                      "question": "What role does audience agency play in co-creating meaning and closure in nonlinear narrative endings?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.5",
+                      "question": "How can nonlinear resolutions reflect or critique broader cultural, philosophical, or historical transformations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.6",
+                      "question": "What if a nonlinear narrative purposefully resists closure? How does this impact interpretive strategies and narrative significance?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.7",
+                      "question": "How does the rejection of cause and effect in nonlinear closures challenge conventional narrative logic?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.8",
+                      "question": "In what ways can nonlinear thematic closure alter the emotional tone and mood experienced by audiences?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.9",
+                      "question": "What authorial strategies guide audiences through nonlinear endings to enable critical reflection and meaning-making?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.10",
+                      "question": "How does nonlinear closure encourage reflexivity and meta-cognitive awareness in narrative consumption?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.11",
+                      "question": "Why is active audience interpretation essential in constructing meaning from nonlinear narrative resolutions?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Nonlinear-Narrative.ME.7.12",
+                      "question": "How can nonlinear narrative endings serve as a site for cultural critique and the questioning of dominant storytelling paradigms?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

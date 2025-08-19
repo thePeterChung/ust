@@ -1,0 +1,3301 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Heros-Journey",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Ordinary World → 2. Call to Adventure → 3. Refusal of the Call → 4. Meeting the Mentor → 5. Crossing the First Threshold → 6. Tests, Allies, and Enemies → 7. Approach to the Inmost Cave → 8. Ordeal → 9. Reward → 10. The Road Back → 11. Resurrection → 12. Return with the Elixir"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/12] 1. Ordinary World"
+                },
+                {
+                  "structure_part": "[2/12] 2. Call to Adventure"
+                },
+                {
+                  "structure_part": "[3/12] 3. Refusal of the Call"
+                },
+                {
+                  "structure_part": "[4/12] 4. Meeting the Mentor"
+                },
+                {
+                  "structure_part": "[5/12] 5. Crossing the First Threshold"
+                },
+                {
+                  "structure_part": "[6/12] 6. Tests, Allies, and Enemies"
+                },
+                {
+                  "structure_part": "[7/12] 7. Approach to the Inmost Cave"
+                },
+                {
+                  "structure_part": "[8/12] 8. Ordeal"
+                },
+                {
+                  "structure_part": "[9/12] 9. Reward"
+                },
+                {
+                  "structure_part": "[10/12] 10. The Road Back"
+                },
+                {
+                  "structure_part": "[11/12] 11. Resurrection"
+                },
+                {
+                  "structure_part": "[12/12] 12. Return with the Elixir"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Star Wars, The Lion King, Moana"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Ordinary World → Status Quo / Initial Equilibrium"
+            },
+            {
+              "terminology": "2. Call to Adventure → Inciting Incident / Narrative Disruption"
+            },
+            {
+              "terminology": "3. Refusal of the Call → Resistance / Initial Denial"
+            },
+            {
+              "terminology": "4. Meeting the Mentor → Guide Introduction / Knowledge Transmission"
+            },
+            {
+              "terminology": "5. Crossing the First Threshold → Commitment Point / Narrative Transition"
+            },
+            {
+              "terminology": "6. Tests, Allies, and Enemies → Complications / Social Dynamics"
+            },
+            {
+              "terminology": "7. Approach to the Inmost Cave → Preparation / Crisis Foregrounding"
+            },
+            {
+              "terminology": "8. Ordeal → Climax / Central Challenge"
+            },
+            {
+              "terminology": "9. Reward → Boon / Acquisition of Knowledge or Power"
+            },
+            {
+              "terminology": "10. The Road Back → Return Journey / Consequence Phase"
+            },
+            {
+              "terminology": "11. Resurrection → Final Test / Transformation"
+            },
+            {
+              "terminology": "12. Return with the Elixir → Restoration / New Equilibrium"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/12] 1. Ordinary World",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.1.1",
+                      "question": "What kind of world does the hero begin in?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.2",
+                      "question": "Who is the hero before the journey begins?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.3",
+                      "question": "What are the hero’s normal routines or concerns?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.4",
+                      "question": "How does the setting shape the hero’s identity?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.5",
+                      "question": "What clues show something might soon change?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.6",
+                      "question": "How does the audience relate to this starting point?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.7",
+                      "question": "Why is it important to begin with the ordinary world?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.8",
+                      "question": "What if the story skipped the ordinary world entirely?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.9",
+                      "question": "How might cultural context affect the portrayal of the ordinary world?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.10",
+                      "question": "What mood is created in this first stage?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.11",
+                      "question": "How does this world reflect stability or imbalance?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.1.12",
+                      "question": "So what does the opening teach us about what’s at stake?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/12] 2. Call to Adventure",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.2.1",
+                      "question": "What event disrupts the hero’s ordinary world?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.2",
+                      "question": "How is the call to adventure delivered or experienced?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.3",
+                      "question": "What new possibility is introduced by the call?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.4",
+                      "question": "What emotions might the hero feel in this moment?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.5",
+                      "question": "How does this moment raise the stakes of the story?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.6",
+                      "question": "What if the call never arrived?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.7",
+                      "question": "Why is this step necessary in storytelling across cultures?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.8",
+                      "question": "How does the audience interpret the significance of this invitation?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.9",
+                      "question": "What choice does the hero now face?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.10",
+                      "question": "What tone or urgency is established here?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.11",
+                      "question": "What systems or forces seem to push the hero forward?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.2.12",
+                      "question": "How is this stage similar to or different from real-life turning points?",
+                      "concept": "Analogy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/12] 3. Refusal of the Call",
+                  "part_concept": "Uncertainty",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.3.1",
+                      "question": "Why might the hero hesitate or say no?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.2",
+                      "question": "What fears or doubts come to the surface?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.3",
+                      "question": "How does this delay add tension to the story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.4",
+                      "question": "What past experiences might explain the hero’s refusal?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.5",
+                      "question": "What does this reveal about the hero’s mindset or values?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.6",
+                      "question": "What might persuade the hero to change their mind later?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.7",
+                      "question": "How does the audience respond to the hero’s resistance?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.8",
+                      "question": "What internal or external pressures influence the refusal?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.9",
+                      "question": "What tone does this moment introduce or shift to?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.10",
+                      "question": "What if the hero never overcame this hesitation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.11",
+                      "question": "So what does this step teach us about resistance to change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.3.12",
+                      "question": "How does this stage invite the audience to consider their own hesitations?",
+                      "concept": "Interpretation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/12] 4. Meeting the Mentor",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.4.1",
+                      "question": "Who is the mentor figure, and how are they introduced?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.2",
+                      "question": "What role does the mentor play in shaping the hero’s journey?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.3",
+                      "question": "How does the mentor influence the hero’s choices or mindset?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.4",
+                      "question": "Why is the mentor important at this stage of the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.5",
+                      "question": "How is the mentor different from other characters in tone or function?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.6",
+                      "question": "What kind of authority or experience does the mentor offer?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.7",
+                      "question": "What might happen if the hero rejected the mentor’s help?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.8",
+                      "question": "What kind of emotional connection forms between hero and mentor?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.9",
+                      "question": "What does the mentor reveal about the larger world or upcoming challenges?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.10",
+                      "question": "What tone or mood does the mentor introduce?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.11",
+                      "question": "So what makes this character worthy of trust?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.4.12",
+                      "question": "How do different genres depict mentorship differently?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/12] 5. Crossing the First Threshold",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.5.1",
+                      "question": "What action or decision marks the crossing into a new world?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.2",
+                      "question": "How does the environment or tone change after the threshold is crossed?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.3",
+                      "question": "Why is this moment considered a point of no return?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.4",
+                      "question": "What signs show the hero has committed to the journey?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.5",
+                      "question": "How does the crossing change the audience’s expectations?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.6",
+                      "question": "What if the hero hesitated at the threshold—what might be lost or gained?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.7",
+                      "question": "What emotional shift happens at this boundary?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.8",
+                      "question": "How is this transition made visible or symbolic in the story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.9",
+                      "question": "What challenges or unfamiliar forces appear immediately after crossing?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.10",
+                      "question": "What literary or cinematic techniques highlight this moment?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.11",
+                      "question": "So what does this step teach about stepping into risk or change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.5.12",
+                      "question": "How do we know the rules of the world have changed?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/12] 6. Tests, Allies, and Enemies",
+                  "part_concept": "Pattern",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.6.1",
+                      "question": "What kinds of challenges begin to test the hero?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.2",
+                      "question": "Who becomes an ally, and how is trust established?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.3",
+                      "question": "How are enemies or threats introduced in this phase?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.4",
+                      "question": "What skills or insights does the hero begin to develop?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.5",
+                      "question": "How does this stage expand the emotional or thematic scope of the journey?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.6",
+                      "question": "What role do misunderstandings or surprises play in this stage?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.7",
+                      "question": "How do interactions in this stage shape the hero’s identity?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.8",
+                      "question": "What patterns emerge across the tests and conflicts the hero faces?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.9",
+                      "question": "What emotions dominate this middle phase of the story?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.10",
+                      "question": "What if an ally turns out to be an enemy—how does that reshape the narrative?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.11",
+                      "question": "So what does this part of the journey reveal about growth through challenge?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.6.12",
+                      "question": "How are the values or loyalties of the hero tested?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/12] 7. Approach to the Inmost Cave",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.7.1",
+                      "question": "What is the ‘inmost cave’ the hero must now face or enter?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.2",
+                      "question": "How does the hero prepare for the biggest challenge yet?",
+                      "concept": "Preparation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.3",
+                      "question": "What new fears or doubts arise in this phase?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.4",
+                      "question": "How is this a turning point in the hero’s mindset?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.5",
+                      "question": "What strategies or plans do the hero and allies make?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.6",
+                      "question": "What if the hero chose not to go forward—what would that mean?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.7",
+                      "question": "How does this stage heighten the story’s suspense or tone?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.8",
+                      "question": "How do past lessons resurface or get tested here?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.9",
+                      "question": "What emotional atmosphere surrounds the approach?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.10",
+                      "question": "What boundaries—physical, mental, or moral—are being approached?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.11",
+                      "question": "So what makes this phase more than just preparation—what does it symbolize?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.7.12",
+                      "question": "How is this moment visualized or emphasized in cinematic stories?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/12] 8. Ordeal",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.8.1",
+                      "question": "What major crisis or confrontation defines this stage?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.2",
+                      "question": "What makes this ordeal the most dangerous or intense moment so far?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.3",
+                      "question": "How does the hero respond under extreme pressure?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.4",
+                      "question": "What’s at stake emotionally or physically during this challenge?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.5",
+                      "question": "How is this ordeal foreshadowed earlier in the story?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.6",
+                      "question": "What if the hero failed here—what consequences would follow?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.7",
+                      "question": "Why is this conflict necessary for transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.8",
+                      "question": "What emotions might the audience experience during this phase?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.9",
+                      "question": "How does this moment change the direction or tone of the story?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.10",
+                      "question": "What symbolic meaning can be drawn from this struggle?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.11",
+                      "question": "So what does the hero learn or prove in this moment?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.8.12",
+                      "question": "How does the ordeal deepen or reframe earlier choices in the story?",
+                      "concept": "Inversion"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/12] 9. Reward",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.9.1",
+                      "question": "What is the hero’s reward or prize after facing the ordeal?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.2",
+                      "question": "How does this reward reflect inner or outer success?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.3",
+                      "question": "What has changed in the hero as a result of the ordeal?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.4",
+                      "question": "Why is the reward important to the story’s emotional arc?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.5",
+                      "question": "What forms can a reward take—physical, emotional, symbolic?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.6",
+                      "question": "How does this moment satisfy or complicate the hero’s desire?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.7",
+                      "question": "What if the reward were lost or rejected—what would change?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.8",
+                      "question": "What does this reward reveal about the values of the story?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.9",
+                      "question": "How does the reward set up the final stages of the journey?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.10",
+                      "question": "What tone or mood surrounds this phase of the narrative?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.11",
+                      "question": "So what is the deeper meaning behind what is gained?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.9.12",
+                      "question": "How do different genres depict reward and aftermath differently?",
+                      "concept": "Genre"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/12] 10. The Road Back",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.10.1",
+                      "question": "What motivates the hero to begin the return journey?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.2",
+                      "question": "What challenges or consequences follow the hero after the reward?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.3",
+                      "question": "How has the hero changed compared to the start of the journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.4",
+                      "question": "Why is the return often difficult or dangerous?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.5",
+                      "question": "How does the tone shift as the hero heads home?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.6",
+                      "question": "What if the hero refused to return—how would the story end differently?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.7",
+                      "question": "What feelings does the audience carry into this phase?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.8",
+                      "question": "How does this stage mirror earlier parts of the journey?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.9",
+                      "question": "What unfinished business or dangers resurface here?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.10",
+                      "question": "How does this stage begin to close the narrative loop?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.11",
+                      "question": "So what is the emotional or moral tension of going back?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.10.12",
+                      "question": "What systems or structures might resist the hero’s return?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[11/12] 11. Resurrection",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.11.1",
+                      "question": "What final test or crisis does the hero face upon return?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.2",
+                      "question": "How is this challenge different from the earlier ordeal?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.3",
+                      "question": "How does the hero show growth or transformation in this moment?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.4",
+                      "question": "What symbolic or emotional meanings does this final test carry?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.5",
+                      "question": "What consequences would follow failure at this final stage?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.6",
+                      "question": "Why is resurrection often portrayed with such intensity or drama?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.7",
+                      "question": "What if the hero failed here—how would it reshape the whole story?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.8",
+                      "question": "How does this moment reframe the entire journey for the audience?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.9",
+                      "question": "What does the hero now understand that they didn’t before?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.10",
+                      "question": "What tone or feeling does this climax aim to create?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.11",
+                      "question": "So what defines true transformation in this story?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.11.12",
+                      "question": "How is this phase emphasized visually or narratively?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[12/12] 12. Return with the Elixir",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.B.12.1",
+                      "question": "What does the hero bring back to the ordinary world?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.2",
+                      "question": "How does the hero’s return affect others in the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.3",
+                      "question": "What visible or invisible changes mark the hero’s growth?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.4",
+                      "question": "Why is it important for the story to end with a return?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.5",
+                      "question": "How does this resolution compare with the opening world?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.6",
+                      "question": "What if the hero couldn’t return—what would be lost?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.7",
+                      "question": "What emotional tone closes the story?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.8",
+                      "question": "How might this return begin a new cycle or story?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.9",
+                      "question": "What does the ‘elixir’ represent in this narrative?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.10",
+                      "question": "What lessons or insights are now clear to both hero and audience?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.11",
+                      "question": "So what does a satisfying ending require, emotionally or narratively?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.B.12.12",
+                      "question": "How do genre and culture shape what counts as a ‘return’ or reward?",
+                      "concept": "Genre"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/12] 1. Ordinary World",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.1.1",
+                      "question": "How does the Ordinary World establish the hero's starting situation?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.2",
+                      "question": "What contrasts are set up between the Ordinary World and the adventures to come?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.3",
+                      "question": "Why is it important to understand the hero's normal environment?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.4",
+                      "question": "How do early details in the Ordinary World hint at the hero's internal or external conflicts?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.5",
+                      "question": "What if the Ordinary World was left unexplored? How would that affect the story's impact?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.6",
+                      "question": "How does the tone set in the Ordinary World influence audience expectations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.7",
+                      "question": "What core values or desires of the hero become visible in this stage?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.8",
+                      "question": "How might the Ordinary World reflect broader themes or societal structures?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.9",
+                      "question": "In what ways does the Ordinary World create a baseline for measuring transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.10",
+                      "question": "How does the depiction of routine or order affect the narrative tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.11",
+                      "question": "What emotions might the audience associate with the hero's starting point?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.1.12",
+                      "question": "Why might the author choose to delay revealing the hero’s full potential in the Ordinary World?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/12] 2. Call to Adventure",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.2.1",
+                      "question": "What triggers the Call to Adventure for the hero?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.2",
+                      "question": "How does the Call to Adventure disrupt the Ordinary World?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.3",
+                      "question": "Why is the Call to Adventure necessary to begin the hero’s transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.4",
+                      "question": "What symbolic or literal thresholds does the hero face during the Call to Adventure?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.5",
+                      "question": "How might different genres treat the Call to Adventure differently?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.6",
+                      "question": "What emotions might the hero experience when receiving the Call to Adventure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.7",
+                      "question": "How can the Call to Adventure create narrative momentum or urgency?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.8",
+                      "question": "What if the Call to Adventure was ignored or misunderstood by the hero?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.9",
+                      "question": "How does the Call to Adventure relate to the hero's desire or goals established earlier?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.10",
+                      "question": "In what ways does the Call to Adventure challenge the existing system or order?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.11",
+                      "question": "Why might the author use ambiguity or mystery in the Call to Adventure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.2.12",
+                      "question": "How does the Call to Adventure set up expectations for the hero’s journey ahead?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/12] 3. Refusal of the Call",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.3.1",
+                      "question": "Why might the hero initially refuse the Call to Adventure?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.2",
+                      "question": "How does the Refusal of the Call add complexity to the hero’s character?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.3",
+                      "question": "What fears or doubts are commonly expressed during the Refusal of the Call?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.4",
+                      "question": "How does the refusal affect the narrative tension or pacing?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.5",
+                      "question": "What if the hero never refused the call? How would that change the story’s dynamics?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.6",
+                      "question": "How can the Refusal of the Call reflect real psychological or social resistance to change?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.7",
+                      "question": "In what ways does refusal highlight the stakes involved in the adventure?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.8",
+                      "question": "Why might the author use this refusal to build empathy or realism for the hero?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.9",
+                      "question": "How does the Refusal of the Call deepen the audience’s emotional engagement?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.10",
+                      "question": "What choices confront the hero at this stage, and how do they foreshadow later decisions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.11",
+                      "question": "How does refusal serve as a narrative device to delay the inevitable transformation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.3.12",
+                      "question": "What if the hero’s refusal is motivated by external pressures rather than internal doubts?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/12] 4. Meeting the Mentor",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.4.1",
+                      "question": "How does the mentor influence the hero’s sense of agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.2",
+                      "question": "What qualities make the mentor an effective guide for the hero?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.3",
+                      "question": "Why is the mentor’s role critical for the hero’s readiness to face challenges?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.4",
+                      "question": "How can the mentor’s teachings foreshadow future obstacles?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.5",
+                      "question": "What if the hero did not meet a mentor? How would the journey differ?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.6",
+                      "question": "In what ways does the mentor embody themes or values important to the story?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.7",
+                      "question": "How does the mentor affect the emotional tone of this stage?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.8",
+                      "question": "What power dynamics exist between the mentor and the hero?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.9",
+                      "question": "How does the mentor’s presence shift the hero’s perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.10",
+                      "question": "Why might the mentor also represent a boundary or threshold for the hero?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.11",
+                      "question": "How can the mentor’s guidance create tension or conflict within the story?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.4.12",
+                      "question": "What emotions might the hero experience in response to the mentor’s influence?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/12] 5. Crossing the First Threshold",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.5.1",
+                      "question": "What signifies the hero’s commitment to the journey at this stage?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.2",
+                      "question": "How does crossing the first threshold change the hero’s relationship to the Ordinary World?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.3",
+                      "question": "What new challenges or rules might the hero encounter after crossing the threshold?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.4",
+                      "question": "Why is the threshold crossing often portrayed as both exciting and dangerous?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.5",
+                      "question": "How does this stage build anticipation for what lies ahead?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.6",
+                      "question": "What if the hero hesitates or fails to cross the threshold? What narrative impact would that have?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.7",
+                      "question": "How does crossing the threshold relate to the theme of transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.8",
+                      "question": "In what ways does the threshold symbolize a boundary between known and unknown?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.9",
+                      "question": "How might the author use this stage to deepen the hero’s emotional journey?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.10",
+                      "question": "What power shifts occur when the hero crosses the threshold?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.11",
+                      "question": "How can crossing the threshold involve an iteration or cycle in the hero’s development?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.5.12",
+                      "question": "What mood or tone typically accompanies the crossing of the first threshold?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/12] 6. Tests, Allies, and Enemies",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.6.1",
+                      "question": "How do tests reveal the hero’s strengths and weaknesses?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.2",
+                      "question": "What roles do allies play in supporting the hero through challenges?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.3",
+                      "question": "How do enemies function to heighten narrative tension and conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.4",
+                      "question": "Why is this stage critical for developing the hero’s character arc?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.5",
+                      "question": "How can tests serve as metaphors for internal struggles?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.6",
+                      "question": "What if the hero lacks allies during these tests? How might that alter the story’s progression?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.7",
+                      "question": "How do tests and conflicts contribute to the story’s pacing and rhythm?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.8",
+                      "question": "What emotions are typically evoked during moments of conflict and alliance?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.9",
+                      "question": "How do alliances and enmities reflect larger themes of power or morality?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.10",
+                      "question": "How might the hero’s choices during tests influence future stages of the journey?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.11",
+                      "question": "Why might the author introduce ambiguity regarding who is an ally or enemy?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.6.12",
+                      "question": "How do patterns of conflict and cooperation emerge during this stage?",
+                      "concept": "Pattern"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/12] 7. Approach to the Inmost Cave",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.7.1",
+                      "question": "How does the Approach to the Inmost Cave deepen the hero’s commitment to the journey?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.2",
+                      "question": "What new internal or external challenges arise as the hero nears the core conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.3",
+                      "question": "How does this stage build suspense and anticipation for the upcoming ordeal?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.4",
+                      "question": "Why is the inmost cave often symbolic of a threshold or boundary?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.5",
+                      "question": "How can the hero’s mindset or perspective shift during this approach?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.6",
+                      "question": "What if the hero hesitates or faces setbacks in this stage? How does that affect narrative tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.7",
+                      "question": "How might the author use this stage to explore themes of uncertainty or fear?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.8",
+                      "question": "In what ways does the Approach to the Inmost Cave connect to earlier stages of the journey?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.9",
+                      "question": "How does this stage prepare the hero emotionally and physically for the ordeal?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.10",
+                      "question": "What mood or tone is typically established during the approach?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.11",
+                      "question": "How do the hero’s relationships with allies or mentors evolve here?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.7.12",
+                      "question": "Why might the author choose to highlight vulnerability in this stage?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/12] 8. Ordeal",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.8.1",
+                      "question": "What is the significance of the Ordeal in the hero’s transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.2",
+                      "question": "How does the Ordeal test the hero’s core values or beliefs?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.3",
+                      "question": "Why is the Ordeal often described as a moment of death and rebirth?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.4",
+                      "question": "How does the hero’s confrontation with the greatest challenge impact the story’s emotional tone?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.5",
+                      "question": "What if the hero fails the Ordeal? How might the narrative proceed differently?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.6",
+                      "question": "How do symbolic elements enhance the meaning of the Ordeal?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.7",
+                      "question": "How does this stage affect the pacing and intensity of the narrative?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.8",
+                      "question": "What emotions does the Ordeal evoke in the audience, and why?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.9",
+                      "question": "How might the Ordeal reveal previously hidden aspects of the hero’s character?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.10",
+                      "question": "Why might ambiguity be important during the Ordeal stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.11",
+                      "question": "In what ways does the Ordeal serve as a turning point in the narrative’s cause and effect sequence?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.8.12",
+                      "question": "How can the Ordeal challenge or reinforce the story’s central themes?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/12] 9. Reward",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.9.1",
+                      "question": "What forms can the Reward take in the hero’s journey?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.2",
+                      "question": "How does receiving the Reward signify progress in the hero’s transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.3",
+                      "question": "Why is the Reward often bittersweet or accompanied by new challenges?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.4",
+                      "question": "How can the Reward affect the hero’s motivations moving forward?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.5",
+                      "question": "What if the hero refuses or loses the Reward? How would that shift the narrative?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.6",
+                      "question": "How does the Reward stage influence audience satisfaction or closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.7",
+                      "question": "In what ways can the Reward reveal new perspectives or insights to the hero?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.8",
+                      "question": "How might the author use tone and mood to underscore the significance of the Reward?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.9",
+                      "question": "How does the Reward relate to the story’s cause and effect chain?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.10",
+                      "question": "What role do allies or external factors play in the hero achieving the Reward?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.11",
+                      "question": "How does the Reward prepare the hero and story for the next phase of the journey?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.9.12",
+                      "question": "Why might the author introduce ambiguity or tension even in the Reward stage?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/12] 10. The Road Back",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.10.1",
+                      "question": "What motivates the hero to begin the return journey?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.2",
+                      "question": "How does the Road Back stage create narrative urgency or tension?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.3",
+                      "question": "Why might the hero face new challenges or setbacks during the return?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.4",
+                      "question": "How does the hero’s mindset or intentions evolve on the Road Back?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.5",
+                      "question": "What if the hero chooses not to return? How would that affect the story’s resolution?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.6",
+                      "question": "How does this stage link to earlier decisions and consequences in the journey?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.7",
+                      "question": "In what ways can pacing influence the emotional impact of the Road Back?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.8",
+                      "question": "What role do allies or enemies play during this stage?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.9",
+                      "question": "How might the author use ambiguity or uncertainty to complicate the Road Back?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.10",
+                      "question": "How does the Road Back set up the final climax of the story?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.11",
+                      "question": "What emotions are typically evoked in this stage for the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.10.12",
+                      "question": "How can the hero’s evolving perspective deepen the narrative complexity here?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[11/12] 11. Resurrection",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.11.1",
+                      "question": "What does the Resurrection symbolize in the hero’s journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.2",
+                      "question": "How does this stage test the hero’s ultimate growth and change?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.3",
+                      "question": "Why is the Resurrection often described as a final climactic battle or ordeal?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.4",
+                      "question": "How does the Resurrection impact the story’s emotional tone and catharsis?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.5",
+                      "question": "What if the hero fails or is transformed differently at this stage? How would that affect the story’s meaning?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.6",
+                      "question": "How do symbolic elements reinforce the theme of rebirth or renewal here?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.7",
+                      "question": "How does this stage resolve or complicate previous tensions and conflicts?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.8",
+                      "question": "What role does the hero’s agency play in the Resurrection?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.9",
+                      "question": "How might the Resurrection invite audience reflection on broader themes?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.10",
+                      "question": "What pacing techniques can heighten the impact of this stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.11",
+                      "question": "How does the Resurrection prepare the narrative for closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.11.12",
+                      "question": "Why might ambiguity be used in this final test to provoke deeper meaning?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[12/12] 12. Return with the Elixir",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.I.12.1",
+                      "question": "What is the significance of the hero’s Return with the Elixir?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.2",
+                      "question": "How does the Return demonstrate the hero’s transformation to others?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.3",
+                      "question": "Why is sharing the Elixir important for the hero’s community or world?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.4",
+                      "question": "How can the Return with the Elixir resolve or complicate previous narrative threads?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.5",
+                      "question": "What if the hero chooses not to share the Elixir? How would that change the story’s message?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.6",
+                      "question": "How does the tone of this final stage affect audience satisfaction?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.7",
+                      "question": "In what ways does the Return connect back to the Ordinary World introduced at the start?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.8",
+                      "question": "How might the author use symbolism to highlight the importance of the Elixir?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.9",
+                      "question": "How does the Return encourage reflection on the overall meaning of the journey?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.10",
+                      "question": "What emotions might the hero and audience feel during this final stage?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.11",
+                      "question": "How does this stage reinforce or transform the story’s central themes?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.I.12.12",
+                      "question": "Why might the author introduce ambiguity or open-endedness in the Return?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/12] 1. Ordinary World",
+                  "part_concept": "Pattern",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.1.1",
+                      "question": "What established norms define the hero's everyday life at the outset?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.2",
+                      "question": "How does the ordinary world reflect internal conflicts or unfulfilled desires in the protagonist?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.3",
+                      "question": "What assumptions are the audience invited to make about this world and its values?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.4",
+                      "question": "Why is the stability of the ordinary world important for understanding later disruptions?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.5",
+                      "question": "How might the setting's social or cultural systems reinforce the hero's stasis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.6",
+                      "question": "What details of tone or mood suggest subtle tensions beneath the surface?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.7",
+                      "question": "What if the hero never left this world—what trajectory would their life likely follow?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.8",
+                      "question": "In what ways does the audience's understanding of the 'ordinary' shift as the story progresses?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.9",
+                      "question": "How does familiarity with this world shape audience sympathy or judgment later on?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.10",
+                      "question": "What symbolic elements signal the world’s limitations or fragility?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.11",
+                      "question": "How do different interpretations of the ordinary world reveal deeper thematic tensions?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.1.12",
+                      "question": "What emotional expectations are seeded by how the ordinary world is portrayed?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/12] 2. Call to Adventure",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.2.1",
+                      "question": "What force, event, or message initiates the disruption of the status quo?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.2",
+                      "question": "How does the call challenge the protagonist’s assumptions or sense of identity?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.3",
+                      "question": "Why is this moment positioned as a threshold rather than a destination?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.4",
+                      "question": "In what ways is the call framed as both opportunity and threat?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.5",
+                      "question": "How does the urgency or ambiguity of the call affect its interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.6",
+                      "question": "What emotional or psychological dissonance does the call produce in the character or viewer?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.7",
+                      "question": "What if the call were delayed—how would that change the audience’s perception of agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.8",
+                      "question": "How is the narrative world transformed by the act of receiving the call, even before it’s accepted?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.9",
+                      "question": "How does the presentation of the call influence the tone and stakes of the journey ahead?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.10",
+                      "question": "How does the call's delivery style (direct, symbolic, accidental) shape audience engagement?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.11",
+                      "question": "What broader system or mythic structure does this call echo or invoke?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.2.12",
+                      "question": "How might a character’s cultural background affect how they perceive and interpret the call?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/12] 3. Refusal of the Call",
+                  "part_concept": "Uncertainty",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.3.1",
+                      "question": "Why does the protagonist initially reject the call—what fears, obligations, or doubts are at play?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.2",
+                      "question": "How does the refusal reveal hidden aspects of the hero’s character or worldview?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.3",
+                      "question": "What internal conflicts are dramatized in the act of refusal?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.4",
+                      "question": "In what ways might the refusal be more courageous than immediate acceptance?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.5",
+                      "question": "What systems of belief, tradition, or fear enforce hesitation in this moment?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.6",
+                      "question": "What narrative techniques are used to make the refusal emotionally resonant for the audience?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.7",
+                      "question": "What if the refusal were permanent—how would that reshape the story’s arc or meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.8",
+                      "question": "How might readers interpret this moment differently depending on genre or context?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.9",
+                      "question": "What does the refusal reveal about how the character perceives risk and responsibility?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.10",
+                      "question": "How does the pacing of the refusal affect its dramatic impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.11",
+                      "question": "How do moments of refusal contribute to the broader emotional rhythm of the journey?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.3.12",
+                      "question": "What makes this moment relatable or deeply human for the audience?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/12] 4. Meeting the Mentor",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.4.1",
+                      "question": "How does the mentor’s worldview contrast with the hero’s ordinary perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.2",
+                      "question": "What motivates the mentor to help—what personal stakes or beliefs drive them?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.3",
+                      "question": "Why is the mentor’s intervention essential for the hero’s transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.4",
+                      "question": "How does the mentor’s presence introduce ambiguity or complexity into the narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.5",
+                      "question": "What hidden tensions exist in the relationship between hero and mentor?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.6",
+                      "question": "How does the mentor symbolize larger systems of knowledge or tradition?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.7",
+                      "question": "What if the mentor’s advice directly contradicted the hero’s beliefs—how might that shape their arc?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.8",
+                      "question": "In what ways does the mentor’s teaching redefine the hero’s understanding of agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.9",
+                      "question": "How does the mentor’s mood or tone influence the emotional weight of this stage?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.10",
+                      "question": "What broader cultural or genre conventions shape the portrayal of mentorship?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.11",
+                      "question": "What contradictions exist between the mentor’s words and actions, and what do they suggest?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.4.12",
+                      "question": "How does the mentor’s role reflect patterns of teaching or initiation in mythic storytelling?",
+                      "concept": "Pattern"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/12] 5. Crossing the First Threshold",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.5.1",
+                      "question": "What symbolic or literal barriers signify the crossing into the unknown?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.2",
+                      "question": "How does the hero’s choice to cross challenge existing power structures or norms?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.3",
+                      "question": "Why is the threshold moment often accompanied by a change in tone or stakes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.4",
+                      "question": "How do changes in setting or atmosphere reinforce the significance of the crossing?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.5",
+                      "question": "What hidden risks become apparent only after the threshold is crossed?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.6",
+                      "question": "How might failure to cross successfully reflect deeper psychological or social fears?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.7",
+                      "question": "What if the threshold were crossed by accident or compulsion—how would that alter audience interpretation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.8",
+                      "question": "How does the hero’s threshold experience parallel broader cultural or mythic patterns of initiation?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.9",
+                      "question": "What sensory details heighten the drama or tension of the crossing moment?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.10",
+                      "question": "How does the threshold crossing accelerate the story’s pacing or sense of urgency?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.11",
+                      "question": "What competing interpretations of the threshold’s meaning could exist within the narrative?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.5.12",
+                      "question": "How does this step transform the story’s thematic trajectory?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/12] 6. Tests, Allies, and Enemies",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.6.1",
+                      "question": "How do the hero’s tests reflect unresolved inner or outer conflicts introduced earlier?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.2",
+                      "question": "What patterns of alliance or enmity emerge, and what do they reveal about social dynamics?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.3",
+                      "question": "How do multiple tests build toward the hero’s readiness for the central ordeal?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.4",
+                      "question": "What do the hero’s responses to enemies show about evolving agency or self-understanding?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.5",
+                      "question": "Why is it significant that allies and enemies often mirror aspects of the hero’s psyche?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.6",
+                      "question": "How do betrayals or unexpected loyalties shift the stakes and tone of the journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.7",
+                      "question": "What if the tests appeared random or arbitrary—how would that undermine narrative coherence?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.8",
+                      "question": "How does the tension of repeated tests contribute to the emotional rhythm of the story?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.9",
+                      "question": "How does the hero’s interaction with secondary characters deepen the audience’s thematic understanding?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.10",
+                      "question": "What contradictory qualities might allies or enemies display, and what purpose do they serve?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.11",
+                      "question": "How does this stage highlight the hero’s ability or inability to adapt under pressure?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.6.12",
+                      "question": "What broader system of values is tested or reinforced through the hero’s trials?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/12] 7. Approach to the Inmost Cave",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.7.1",
+                      "question": "How does the hero’s approach reflect a deepening awareness of personal or external stakes?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.2",
+                      "question": "What narrative or symbolic signs indicate proximity to the story’s central truth or danger?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.3",
+                      "question": "Why is hesitation or preparation emphasized before entering the inmost cave?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.4",
+                      "question": "How does this stage test the limits of the hero’s resolve or belief system?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.5",
+                      "question": "What strategies does the hero use to navigate fear, uncertainty, or doubt?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.6",
+                      "question": "How do environmental or relational shifts create suspense or dread in this moment?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.7",
+                      "question": "What if the hero chose to turn back here—how would that change the structure or message of the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.8",
+                      "question": "How does the narrative pacing slow or intensify to prepare for the coming ordeal?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.9",
+                      "question": "What inner cave—psychologically or emotionally—does the hero begin to confront at this point?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.10",
+                      "question": "How do audience expectations shape the emotional power of this moment?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.11",
+                      "question": "In what ways does this stage mirror patterns of ritual, initiation, or pilgrimage?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.7.12",
+                      "question": "What emotional and narrative tensions accumulate here that demand release in the ordeal?",
+                      "concept": "Accumulation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/12] 8. Ordeal",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.8.1",
+                      "question": "What core belief, identity, or assumption is tested or destroyed in the ordeal?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.2",
+                      "question": "How is the ordeal framed visually or symbolically as a moment of death and rebirth?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.3",
+                      "question": "Why does the hero need to experience near-defeat or annihilation at this point in the journey?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.4",
+                      "question": "How do competing forces—internal and external—collide in this pivotal confrontation?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.5",
+                      "question": "What paradoxes emerge in the ordeal—does the hero win by losing or lose by winning?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.6",
+                      "question": "How does the ordeal recalibrate the emotional trajectory of the narrative?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.7",
+                      "question": "What if the ordeal came earlier—how would that disrupt the structure or meaning of the journey?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.8",
+                      "question": "How does the ordeal’s intensity affect viewer alignment with the hero’s transformation?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.9",
+                      "question": "How do specific formal elements (sound, silence, imagery) heighten the ordeal’s impact?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.10",
+                      "question": "In what ways is the ordeal both a personal crisis and a systemic rupture?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.11",
+                      "question": "What cultural or genre assumptions shape what counts as an ‘ordeal’?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.8.12",
+                      "question": "What emotional contradictions are held together in the climax of the ordeal?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/12] 9. Reward",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.9.1",
+                      "question": "What is symbolically or materially gained from the ordeal—and how is it recognized as a reward?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.2",
+                      "question": "How does the reward represent more than a prize—how is it a sign of internal growth?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.3",
+                      "question": "Why must the reward follow the ordeal rather than precede it—what does this sequence teach?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.4",
+                      "question": "How does the reward shift relationships between the hero and others (allies, enemies, society)?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.5",
+                      "question": "What emotional tones or moods are activated by the reward scene—and why?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.6",
+                      "question": "What narrative function does this stage serve in terms of audience closure or anticipation?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.7",
+                      "question": "What if the reward were rejected or lost—how would that reframe the meaning of success?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.8",
+                      "question": "How is the reward visually or structurally contrasted with earlier goals or desires?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.9",
+                      "question": "What genre conventions influence how the reward is presented or valued?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.10",
+                      "question": "How does this moment reflect systemic or social consequences beyond the hero’s personal gain?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.11",
+                      "question": "In what way does this stage signal temporary resolution but hint at remaining challenges?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.9.12",
+                      "question": "How is the idea of 'reward' culturally relative across different storytelling traditions?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/12] 10. The Road Back",
+                  "part_concept": "Return",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.10.1",
+                      "question": "What new burdens or insights does the hero carry into the return journey?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.2",
+                      "question": "How does the hero’s return introduce new external threats or internal conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.3",
+                      "question": "Why is returning home portrayed as difficult, incomplete, or dangerous in many narratives?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.4",
+                      "question": "How does the world the hero returns to differ—structurally or symbolically—from the one they left?",
+                      "concept": "Contrast"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.5",
+                      "question": "What narrative tension is created when the hero resists returning or hesitates on the road back?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.6",
+                      "question": "How does this stage prepare the audience emotionally for resolution or rupture?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.7",
+                      "question": "What if the hero chose not to return—what commentary would that offer about escape, exile, or freedom?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.8",
+                      "question": "How is this phase used to reintroduce narrative threads or themes from the beginning of the story?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.9",
+                      "question": "How does the tone shift between the ordeal and the return, and why does it matter for audience closure?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.10",
+                      "question": "In what ways does the road back function as a second threshold test for the hero?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.11",
+                      "question": "What cultural or historical parallels exist for return journeys being more perilous than departures?",
+                      "concept": "Analogy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.10.12",
+                      "question": "How does this stage critique the idea of linear progress or heroic finality?",
+                      "concept": "Critique"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[11/12] 11. Resurrection",
+                  "part_concept": "Climax",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.11.1",
+                      "question": "What final transformation occurs during the resurrection that distinguishes it from the ordeal?",
+                      "concept": "Distinction"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.2",
+                      "question": "How is this stage visually, emotionally, or thematically framed as a climax of both plot and identity?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.3",
+                      "question": "Why must the hero risk everything again here—what narrative or symbolic purpose does this serve?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.4",
+                      "question": "What dualities (life/death, self/other, old/new) are resolved or transcended in this stage?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.5",
+                      "question": "How does this moment shift the power dynamic between hero and antagonist or system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.6",
+                      "question": "What if the resurrection failed—how would that reframe the entire structure or message of the story?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.7",
+                      "question": "How does this stage serve as a synthesis of inner and outer journeys completed so far?",
+                      "concept": "Synthesis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.8",
+                      "question": "How does tone, music, or image in this scene signal transcendence, finality, or rebirth?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.9",
+                      "question": "What cultural or mythological traditions influence the shape of this resurrection moment?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.10",
+                      "question": "In what ways is the resurrection a collective moment, not just individual rebirth?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.11",
+                      "question": "How does the resurrection reframe the moral, ethical, or spiritual arc of the narrative?",
+                      "concept": "Evaluation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.11.12",
+                      "question": "What symbolic gestures or actions confirm that the hero has truly changed—rather than simply survived?",
+                      "concept": "Recognition"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[12/12] 12. Return with the Elixir",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.A.12.1",
+                      "question": "What is the ‘elixir’—literal or metaphorical—and how does it benefit the world the hero returns to?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.2",
+                      "question": "How does the ending reinforce or complicate the transformation the hero has undergone?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.3",
+                      "question": "Why must the story return to the ordinary world—what does this structural symmetry accomplish?",
+                      "concept": "Structure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.4",
+                      "question": "What narrative or emotional costs are visible even in success—what is not recovered or healed?",
+                      "concept": "Loss"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.5",
+                      "question": "How does this stage deliver closure while leaving space for reflection, irony, or continuation?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.6",
+                      "question": "What is the audience meant to carry with them after the hero’s return—and why?",
+                      "concept": "Intention"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.7",
+                      "question": "How does the return integrate or reject lessons from both the ordinary and special worlds?",
+                      "concept": "Synthesis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.8",
+                      "question": "What social, political, or philosophical message is embedded in the return with the elixir?",
+                      "concept": "Theme"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.9",
+                      "question": "How does the resolution reframe earlier moments in the story, offering new insight or irony?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.10",
+                      "question": "What if the hero chose not to share the elixir—what alternate meanings or critiques would emerge?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.11",
+                      "question": "In what ways does this final stage challenge the idea of individual triumph versus collective healing?",
+                      "concept": "Critique"
+                    },
+                    {
+                      "question_id": "Heros-Journey.A.12.12",
+                      "question": "How does the final image or scene encapsulate the emotional essence of the journey?",
+                      "concept": "Tone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/12] 1. Ordinary World",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.1.1",
+                      "question": "How does the framing of the Ordinary World establish narrative expectations across genres?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.2",
+                      "question": "In what ways can the Ordinary World serve as a cultural or ideological critique within a story?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.3",
+                      "question": "How might authorial strategy manipulate the Ordinary World to subvert traditional heroic narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.4",
+                      "question": "What role does boundary setting in the Ordinary World play in shaping audience interpretation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.5",
+                      "question": "How can the Ordinary World’s repetition or discontinuity be used to foreshadow transformation?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.6",
+                      "question": "Why might ambiguity in the Ordinary World enhance thematic complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.7",
+                      "question": "How does the portrayal of entropy or order in the Ordinary World reflect larger system dynamics?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.8",
+                      "question": "What cognitive learning processes does the Ordinary World activate in audiences for narrative engagement?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.9",
+                      "question": "How can the Ordinary World be interpreted as a meta-narrative device within the story’s architecture?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.10",
+                      "question": "What impact does the Ordinary World have on pacing and audience mood at the story’s outset?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.11",
+                      "question": "How might the Ordinary World encode implicit power structures or tensions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.1.12",
+                      "question": "In what ways can the Ordinary World serve as a site of unresolved tension or potential transformation?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/12] 2. Call to Adventure",
+                  "part_concept": "Perspective",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.2.1",
+                      "question": "How does the Call to Adventure function as a critical threshold in narrative systems theory?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.2",
+                      "question": "In what ways does the Call disrupt existing hierarchies or power relations within the story’s world?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.3",
+                      "question": "How can the Call be seen as a metaphorical catalyst for emergent transformation?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.4",
+                      "question": "Why might authorial strategy employ ambiguity or paradox in the presentation of the Call?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.5",
+                      "question": "How does the Call to Adventure engage audience expectations regarding agency and choice?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.6",
+                      "question": "What cognitive mechanisms are triggered by the Call to Adventure to maintain narrative suspense?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.7",
+                      "question": "How might the Call’s disruption relate to systemic feedback loops within the narrative?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.8",
+                      "question": "In what ways does the Call’s pacing influence subsequent story momentum?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.9",
+                      "question": "How can the Call’s ambiguity create layered interpretations of the hero’s potential trajectory?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.10",
+                      "question": "What symbolic or metaphorical dimensions are embedded in the Call to Adventure?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.11",
+                      "question": "How does the Call relate to broader cultural narratives or archetypes within the story’s context?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.2.12",
+                      "question": "What role does the Call play in establishing thematic dualities or tensions?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/12] 3. Refusal of the Call",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.3.1",
+                      "question": "How does the Refusal of the Call explore complex decision-making and moral ambiguity?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.2",
+                      "question": "In what ways does the refusal reflect internal psychological or existential conflicts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.3",
+                      "question": "How might the refusal stage challenge conventional heroic agency or narrative expectations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.4",
+                      "question": "Why is the refusal important for generating narrative tension and disruption?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.5",
+                      "question": "How can the refusal be read as a meta-commentary on genre conventions or authorial intent?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.6",
+                      "question": "What role does pacing and mood play in conveying the emotional complexity of refusal?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.7",
+                      "question": "How might the refusal signify a paradox between desire and fear within the hero’s psyche?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.8",
+                      "question": "In what ways does the refusal stage connect to broader systemic or cultural tensions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.9",
+                      "question": "How does the refusal shape audience expectations for transformation or resolution?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.10",
+                      "question": "What interpretive possibilities arise from ambiguous motivations behind the refusal?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.11",
+                      "question": "How can the refusal highlight underlying themes of power, control, or resistance?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.3.12",
+                      "question": "Why might the refusal be necessary to establish deeper narrative complexity and character depth?",
+                      "concept": "Depth"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/12] 4. Meeting the Mentor",
+                  "part_concept": "Authorial Strategy",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.4.1",
+                      "question": "How does the mentor function as an authorial device to guide thematic development?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.2",
+                      "question": "In what ways can the mentor embody cultural archetypes or ideological constructs?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.3",
+                      "question": "How does the mentor’s presence challenge or reinforce the hero’s agency within the narrative system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.4",
+                      "question": "Why might ambiguity in the mentor’s motivations add layers of interpretive complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.5",
+                      "question": "How can the mentor’s role be seen as a liminal threshold between the Ordinary World and the unknown?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.6",
+                      "question": "What feedback mechanisms between mentor and hero advance the story’s transformation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.7",
+                      "question": "How might the mentor’s teachings foreshadow or disrupt narrative expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.8",
+                      "question": "How can the mentor’s influence affect pacing and tonal shifts in the story?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.9",
+                      "question": "In what ways does the mentor symbolize dualities such as knowledge and ignorance, power and vulnerability?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.10",
+                      "question": "How does the mentor’s relationship to the hero reflect hierarchical or systemic power dynamics?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.11",
+                      "question": "What interpretive possibilities arise from the mentor’s role as both guide and potential obstacle?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.4.12",
+                      "question": "How does the emotional tone established by the mentor’s presence influence audience engagement?",
+                      "concept": "Tone"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/12] 5. Crossing the First Threshold",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.5.1",
+                      "question": "How does crossing the first threshold operate as a systemic boundary crossing within narrative structure?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.2",
+                      "question": "In what ways does this stage reflect cultural or psychological rites of passage?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.3",
+                      "question": "How can the threshold crossing illustrate paradoxes between safety and danger, known and unknown?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.4",
+                      "question": "Why might authorial strategy emphasize ambiguity or uncertainty during this transition?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.5",
+                      "question": "How does this stage impact narrative pacing and audience expectations for change?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.6",
+                      "question": "What feedback loops emerge as the hero commits to the journey beyond the threshold?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.7",
+                      "question": "How does the threshold function as a conceptual tool to frame transformation and choice?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.8",
+                      "question": "In what ways does crossing the threshold alter power dynamics within the story’s hierarchy?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.9",
+                      "question": "How can this stage evoke emotional tension or ambiguity to deepen thematic complexity?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.10",
+                      "question": "What symbolic meanings are embedded in the act of crossing the threshold?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.11",
+                      "question": "How does the hero’s agency evolve through the act of crossing the first threshold?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.5.12",
+                      "question": "Why is this stage crucial for setting narrative boundaries and framing subsequent developments?",
+                      "concept": "Framing"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/12] 6. Tests, Allies, and Enemies",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.6.1",
+                      "question": "How do the tests, allies, and enemies function as systemic elements shaping narrative conflict?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.2",
+                      "question": "In what ways can the alliances and antagonisms represent larger cultural or ideological struggles?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.3",
+                      "question": "How might authorial strategy utilize ambiguity in identifying allies versus enemies?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.4",
+                      "question": "What role do power relations and hierarchy play in the formation of tests and alliances?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.5",
+                      "question": "How can the feedback between tests and character choices drive narrative transformation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.6",
+                      "question": "Why is tension essential for sustaining audience engagement during this stage?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.7",
+                      "question": "How do patterns of cooperation and conflict emerge as narrative devices here?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.8",
+                      "question": "How does the emotional tone of this stage reflect shifting allegiances and uncertainties?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.9",
+                      "question": "What metaphorical significance can be attributed to tests and confrontations in this phase?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.10",
+                      "question": "How does the hero’s agency develop through navigating tests and alliances?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.11",
+                      "question": "In what ways do these interactions prepare the narrative for deeper challenges?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.6.12",
+                      "question": "How can this stage be viewed as a microcosm of broader systemic conflicts within the narrative?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[7/12] 7. Approach to the Inmost Cave",
+                  "part_concept": "Threshold",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.7.1",
+                      "question": "How does the approach to the inmost cave serve as a critical threshold intensifying narrative stakes?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.2",
+                      "question": "In what ways does this stage reflect internal and external system tensions approaching climax?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.3",
+                      "question": "How might ambiguity and paradox deepen the thematic complexity of the inmost cave approach?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.4",
+                      "question": "Why is the pacing here crucial for building audience anticipation and emotional engagement?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.5",
+                      "question": "How can the approach embody symbolic dualities such as safety versus danger or knowledge versus ignorance?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.6",
+                      "question": "What role do feedback loops between the hero’s choices and environment play during this stage?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.7",
+                      "question": "How does this stage prepare the narrative system for the transformative ordeal to come?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.8",
+                      "question": "What interpretive strategies help unpack the metaphorical significance of the inmost cave?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.9",
+                      "question": "How does the emotional tone established here influence audience readiness for the ordeal?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.10",
+                      "question": "How might authorial strategy use this stage to disrupt conventional narrative expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.11",
+                      "question": "In what ways does the inmost cave stage highlight hierarchical or power dynamics within the story?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.7.12",
+                      "question": "How does the hero’s agency manifest or evolve as they approach the inmost cave?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[8/12] 8. Ordeal",
+                  "part_concept": "Conflict",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.8.1",
+                      "question": "How does the ordeal function as the narrative’s core conflict and transformational crucible?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.2",
+                      "question": "In what ways can the ordeal symbolize deeper cultural or existential crises?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.3",
+                      "question": "How might ambiguity within the ordeal heighten the narrative’s interpretive openness?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.4",
+                      "question": "What role does pacing play in intensifying the emotional and psychological impact of the ordeal?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.5",
+                      "question": "How can the ordeal represent a paradoxical moment of death and rebirth within the story’s system?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.6",
+                      "question": "What feedback dynamics occur as the hero confronts and integrates the ordeal’s challenges?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.7",
+                      "question": "How does the ordeal challenge or redefine the hero’s agency and identity?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.8",
+                      "question": "What interpretive frameworks are useful for understanding the symbolic resonance of the ordeal?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.9",
+                      "question": "How does the emotional tone during the ordeal shape audience catharsis and investment?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.10",
+                      "question": "Why might authorial strategy emphasize disruption or ambiguity in this climactic stage?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.11",
+                      "question": "In what ways does the ordeal expose or rearrange hierarchical power structures within the narrative?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.8.12",
+                      "question": "How does the ordeal contribute to systemic transformation within the story’s narrative logic?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[9/12] 9. Reward",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.9.1",
+                      "question": "How does the reward embody narrative transformation and the hero’s evolving agency?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.2",
+                      "question": "In what ways can the reward reflect cultural values or ideological shifts within the story?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.3",
+                      "question": "How might ambiguity in the nature or consequences of the reward complicate narrative closure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.4",
+                      "question": "What role does pacing play in modulating audience response to the reward stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.5",
+                      "question": "How can the reward symbolize dualities such as gain and loss or knowledge and sacrifice?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.6",
+                      "question": "What feedback processes influence the hero’s use or understanding of the reward?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.7",
+                      "question": "How does the reward stage serve as a point of reflection or decision for the hero’s next steps?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.8",
+                      "question": "What interpretive approaches help unpack the symbolic meaning of the reward?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.9",
+                      "question": "How does the emotional tone of the reward affect audience anticipation for the road back?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.10",
+                      "question": "Why might authorial strategy introduce tension or ambiguity at the reward stage?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.11",
+                      "question": "In what ways does the reward alter the story’s hierarchical or systemic power relations?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.9.12",
+                      "question": "How can the reward be seen as an emergent property within the narrative system?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[10/12] 10. The Road Back",
+                  "part_concept": "Choice",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.10.1",
+                      "question": "How does the road back stage symbolize critical choices that influence narrative resolution?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.2",
+                      "question": "In what ways does this stage reflect the hero’s evolving agency and commitment to transformation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.3",
+                      "question": "How can ambiguity in the hero’s motivations during the road back deepen thematic complexity?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.4",
+                      "question": "What role does pacing play in building tension and anticipation during the road back?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.5",
+                      "question": "How does the road back engage feedback loops that challenge or reinforce the hero’s journey outcomes?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.6",
+                      "question": "How can the road back represent paradoxes between retreat and advance within the narrative system?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.7",
+                      "question": "What interpretive strategies illuminate the symbolic significance of the road back?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.8",
+                      "question": "How does this stage shift power dynamics or hierarchical relations in the story?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.9",
+                      "question": "How does the emotional tone during the road back influence audience expectations for resolution?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.10",
+                      "question": "Why might authorial strategy emphasize disruption or uncertainty at this stage?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.11",
+                      "question": "In what ways does the road back reflect systemic challenges to narrative closure?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.10.12",
+                      "question": "How does the hero’s choice here affect the story’s ultimate transformation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[11/12] 11. Resurrection",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.11.1",
+                      "question": "How does the resurrection stage symbolize ultimate transformation and renewal?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.2",
+                      "question": "In what ways does this stage challenge or reaffirm the hero’s identity and agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.3",
+                      "question": "How might ambiguity in the resurrection moment invite multiple interpretations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.4",
+                      "question": "What role does pacing play in the emotional and narrative climax of the resurrection?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.5",
+                      "question": "How does the resurrection embody paradoxical themes of death and rebirth within the story?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.6",
+                      "question": "What feedback dynamics influence the hero’s transformation during resurrection?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.7",
+                      "question": "How does the resurrection stage affect hierarchical or systemic power relations?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.8",
+                      "question": "What interpretive frameworks can unpack the metaphorical significance of resurrection?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.9",
+                      "question": "How does the emotional tone here contribute to audience catharsis and closure?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.10",
+                      "question": "Why might authorial strategy use disruption or ambiguity to complicate the resurrection?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.11",
+                      "question": "How does the hero’s renewed agency influence the story’s thematic resolution?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.11.12",
+                      "question": "In what ways does resurrection serve as a systemic resolution within the narrative logic?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[12/12] 12. Return with the Elixir",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Heros-Journey.ME.12.1",
+                      "question": "How does the return with the elixir provide narrative closure and thematic resolution?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.2",
+                      "question": "In what ways can the elixir symbolize broader cultural or ideological transformation?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.3",
+                      "question": "How might ambiguity in the elixir’s nature challenge definitive closure?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.4",
+                      "question": "What role does pacing play in concluding the hero’s journey satisfactorily for the audience?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.5",
+                      "question": "How does the return with the elixir reflect dualities such as change and continuity within the story?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.6",
+                      "question": "What feedback mechanisms link the return with the elixir to the story’s beginning and overall system?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.7",
+                      "question": "How does the hero’s agency manifest in sharing or using the elixir?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.8",
+                      "question": "What interpretive strategies help unpack the symbolic meaning of the elixir’s return?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.9",
+                      "question": "How does the emotional tone of the return influence audience satisfaction and reflection?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.10",
+                      "question": "Why might authorial strategy introduce ambiguity or open-endedness at the story’s conclusion?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.11",
+                      "question": "In what ways does the return with the elixir reshape hierarchical or systemic narrative structures?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Heros-Journey.ME.12.12",
+                      "question": "How can the elixir be seen as an emergent element that transforms the narrative system?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

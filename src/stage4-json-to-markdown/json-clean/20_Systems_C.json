@@ -1,0 +1,1681 @@
+{
+  "discipline": "Systems Theory",
+  "children": [
+    {
+      "structure_name": "Systems-Thinking-Loop",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Identify System → 2. Analyze Interrelationships → 3. Feedback Loops → 4. Leverage Points → 5. System Behavior → 6. Systemic Change"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Identify System"
+                },
+                {
+                  "structure_part": "[2/6] 2. Analyze Interrelationships"
+                },
+                {
+                  "structure_part": "[3/6] 3. Feedback Loops"
+                },
+                {
+                  "structure_part": "[4/6] 4. Leverage Points"
+                },
+                {
+                  "structure_part": "[5/6] 5. System Behavior"
+                },
+                {
+                  "structure_part": "[6/6] 6. Systemic Change"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Ecosystems, Urban Planning, Organizational Dynamics"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Identify System → Define boundaries and components of the system to be studied. Equivalent: System Definition, Boundary Setting"
+            },
+            {
+              "terminology": "2. Analyze Interrelationships → Understand how components interact and influence each other. Equivalent: Interaction Mapping, Relationship Analysis"
+            },
+            {
+              "terminology": "3. Feedback Loops → Identify cycles of cause and effect that regulate system behavior. Equivalent: Causal Loops, Circular Causality"
+            },
+            {
+              "terminology": "4. Leverage Points → Locate places in the system where small changes can have large impacts. Equivalent: Intervention Points, Systemic Levers"
+            },
+            {
+              "terminology": "5. System Behavior → Observe patterns and outcomes produced by the system over time. Equivalent: Dynamics, Emergent Properties"
+            },
+            {
+              "terminology": "6. Systemic Change → Implement actions to shift system toward desired outcomes. Equivalent: Transformation, Intervention Strategy"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Identify System",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.1",
+                      "question": "How do we define the boundaries of a system in a given context?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.2",
+                      "question": "What are the key components or elements that make up the system?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.3",
+                      "question": "Why is it important to identify what is inside and outside the system?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.4",
+                      "question": "How does identifying the system help clarify the problem or situation?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.5",
+                      "question": "What if some components are overlooked in defining the system? What consequences might arise?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.6",
+                      "question": "What emotions or attitudes might influence how someone defines a system?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.7",
+                      "question": "How can perspectives differ when identifying the boundaries of the system?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.8",
+                      "question": "What role does context play in determining the system's scope?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.9",
+                      "question": "How do the concepts of boundary and scale relate when identifying a system?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.10",
+                      "question": "Why might defining the system too narrowly or too broadly be problematic?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.11",
+                      "question": "What next steps become clearer after the system is identified?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.1.12",
+                      "question": "How can we recognize when the system definition needs to be revised?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Analyze Interrelationships",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.1",
+                      "question": "What kinds of relationships exist between the system's components?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.2",
+                      "question": "How do these interrelationships influence the system as a whole?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.3",
+                      "question": "Why is it important to look beyond individual parts to understand the system?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.4",
+                      "question": "How might changes in one component affect others?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.5",
+                      "question": "What if some relationships are not obvious at first glance? How can we discover them?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.6",
+                      "question": "What emotional responses might emerge from understanding complex interdependencies?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.7",
+                      "question": "How do feedback and interaction shape system stability or change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.8",
+                      "question": "How does recognizing patterns in interrelationships help in understanding the system?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.9",
+                      "question": "What next questions arise when we analyze how parts connect?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.10",
+                      "question": "Why might some interrelationships create tension or conflict within the system?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.11",
+                      "question": "How can mapping interrelationships reveal hidden system properties?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.2.12",
+                      "question": "How can different perspectives change the way we interpret relationships?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Feedback Loops",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.1",
+                      "question": "What is a feedback loop and how does it function within a system?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.2",
+                      "question": "How do positive and negative feedback loops differ in their effects?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.3",
+                      "question": "Why are feedback loops critical to understanding system behavior?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.4",
+                      "question": "How can feedback loops create stability or change within a system?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.5",
+                      "question": "What if feedback is delayed or distorted? How might this affect the system?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.6",
+                      "question": "What emotions or perceptions arise when feedback loops are recognized?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.7",
+                      "question": "How do feedback loops illustrate cycles within systems?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.8",
+                      "question": "How can identifying feedback loops help in predicting system responses?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.9",
+                      "question": "What next steps might you take after mapping feedback loops?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.10",
+                      "question": "Why might some feedback loops be hidden or counterintuitive?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.11",
+                      "question": "How can feedback loops contribute to both growth and decay in systems?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.3.12",
+                      "question": "How might authorial intent influence how feedback loops are presented in a model?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Leverage Points",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.1",
+                      "question": "What are leverage points in a system and why do they matter?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.2",
+                      "question": "How can small changes at leverage points create big impacts?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.3",
+                      "question": "Why is it important to identify leverage points when trying to change a system?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.4",
+                      "question": "How do leverage points relate to system stability and change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.5",
+                      "question": "What if the wrong leverage point is targeted? What might happen?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.6",
+                      "question": "How might emotional resistance affect attempts to use leverage points?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.7",
+                      "question": "How do leverage points demonstrate the concept of scale within systems?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.8",
+                      "question": "What next steps can be taken after identifying leverage points?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.9",
+                      "question": "How can different perspectives influence which leverage points are chosen?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.10",
+                      "question": "Why might some leverage points be hidden or hard to detect?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.11",
+                      "question": "How can leverage points be used strategically to guide systemic change?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.4.12",
+                      "question": "How does recognizing leverage points affect our understanding of agency in a system?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. System Behavior",
+                  "part_concept": "Pattern",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.1",
+                      "question": "What patterns of behavior emerge from the system over time?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.2",
+                      "question": "How do system behaviors reflect the interactions and feedback within the system?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.3",
+                      "question": "Why is observing system behavior important for understanding system health?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.4",
+                      "question": "How can changes in system behavior signal opportunities or risks?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.5",
+                      "question": "What if system behavior is unpredictable or chaotic? How should this be interpreted?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.6",
+                      "question": "What emotional responses might system behavior evoke in stakeholders?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.7",
+                      "question": "How do feedback loops contribute to repeating or changing system behavior?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.8",
+                      "question": "How does scale affect the way we observe and interpret system behavior?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.9",
+                      "question": "What next actions become necessary when system behavior changes?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.10",
+                      "question": "How can different perspectives alter the interpretation of system behavior?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.11",
+                      "question": "Why might some system behaviors be difficult to recognize or measure?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.5.12",
+                      "question": "How does understanding system behavior inform decisions about systemic interventions?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Systemic Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.1",
+                      "question": "What is systemic change and how does it differ from simple change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.2",
+                      "question": "How can systemic change be initiated within complex systems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.3",
+                      "question": "Why is understanding feedback loops important when planning systemic change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.4",
+                      "question": "How do leverage points guide effective systemic interventions?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.5",
+                      "question": "What if systemic change encounters resistance or unintended consequences?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.6",
+                      "question": "What emotions might systemic change provoke among those affected?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.7",
+                      "question": "How can systemic change be sustained over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.8",
+                      "question": "What next steps should follow initial systemic change efforts?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.9",
+                      "question": "How do perspectives shape the goals and methods of systemic change?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.10",
+                      "question": "Why is it important to monitor system behavior after implementing change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.11",
+                      "question": "How can authorial strategy influence the framing of systemic change initiatives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.B.6.12",
+                      "question": "How does systemic change relate to cultural or social transformation?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Identify System",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.1",
+                      "question": "How can boundary definitions influence the inclusion or exclusion of critical elements in a system?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.2",
+                      "question": "What criteria should be used to select components as part of the system?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.3",
+                      "question": "How does the framing of a system affect subsequent analysis and outcomes?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.4",
+                      "question": "Why is it important to consider multiple perspectives when defining system boundaries?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.5",
+                      "question": "How can scale considerations affect the granularity of system identification?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.6",
+                      "question": "What are the implications of system boundary shifts over time?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.7",
+                      "question": "How might ambiguity in boundary setting create challenges in system understanding?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.8",
+                      "question": "What next steps arise after establishing a system boundary in complex contexts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.9",
+                      "question": "How does uncertainty influence decisions about what belongs within the system?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.10",
+                      "question": "How can defining the system boundary shape stakeholders' agency within the system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.11",
+                      "question": "What if conflicting interests lead to competing definitions of the system?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.1.12",
+                      "question": "How can feedback mechanisms inform refinement of system boundaries?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Analyze Interrelationships",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.1",
+                      "question": "How do different types of relationships (causal, correlative, feedback) shape system dynamics?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.2",
+                      "question": "What methods can be used to map and analyze interrelationships effectively?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.3",
+                      "question": "Why is understanding emergence important when analyzing interrelationships?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.4",
+                      "question": "How can hidden or indirect relationships be identified and assessed?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.5",
+                      "question": "How do interrelationships contribute to system stability or fragility?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.6",
+                      "question": "What tensions arise from conflicting interrelationships within a system?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.7",
+                      "question": "How does pattern recognition support deeper understanding of interrelationships?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.8",
+                      "question": "What next questions emerge when interrelationships are mapped in detail?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.9",
+                      "question": "How can different perspectives reveal or obscure critical interrelationships?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.10",
+                      "question": "What role does ambiguity play in interpreting complex interrelationships?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.11",
+                      "question": "How can interrelationships inform potential leverage points in a system?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.2.12",
+                      "question": "How might authorial strategy influence the representation of system interrelationships?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Feedback Loops",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.1",
+                      "question": "How do feedback loops regulate system behavior over time?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.2",
+                      "question": "What distinguishes reinforcing feedback loops from balancing feedback loops?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.3",
+                      "question": "Why is the timing or delay in feedback important for system outcomes?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.4",
+                      "question": "How can feedback loops create unintended consequences in a system?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.5",
+                      "question": "How do feedback loops contribute to the resilience or vulnerability of systems?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.6",
+                      "question": "What emotional or cognitive effects do feedback loops have on system participants?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.7",
+                      "question": "How can identifying feedback loops inform interventions or systemic changes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.8",
+                      "question": "What next analytical steps follow after mapping feedback loops?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.9",
+                      "question": "How might ambiguity in feedback signals affect system interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.10",
+                      "question": "How do feedback loops illustrate cycles and patterns within systems?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.11",
+                      "question": "What role does perspective play in recognizing and valuing feedback loops?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.3.12",
+                      "question": "How can authorial strategy shape the communication of feedback mechanisms?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Leverage Points",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.1",
+                      "question": "How can identifying leverage points reveal opportunities for systemic intervention?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.2",
+                      "question": "What criteria help distinguish high-impact leverage points from less effective ones?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.3",
+                      "question": "How might small adjustments at leverage points cascade to broader system transformations?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.4",
+                      "question": "Why is it challenging to accurately locate leverage points in complex systems?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.5",
+                      "question": "How do feedback loops interact with leverage points to influence system dynamics?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.6",
+                      "question": "What tensions might arise when stakeholders disagree on which leverage points to target?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.7",
+                      "question": "How do perspectives shape the identification and prioritization of leverage points?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.8",
+                      "question": "What next analytical or practical steps follow after leverage points are identified?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.9",
+                      "question": "How can ambiguity around leverage points affect decision-making in system interventions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.10",
+                      "question": "How might authorial strategy influence how leverage points are presented or communicated?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.11",
+                      "question": "How does recognizing leverage points enhance understanding of agency within a system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.4.12",
+                      "question": "What if targeting a leverage point causes unexpected system resistance or backlash?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. System Behavior",
+                  "part_concept": "Pattern",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.1",
+                      "question": "How do observed system behaviors reflect underlying structural relationships?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.2",
+                      "question": "What patterns emerge from system behavior and how can they be interpreted?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.3",
+                      "question": "How can changes in system behavior indicate shifts in system health or function?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.4",
+                      "question": "Why might system behavior appear chaotic or unpredictable in certain contexts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.5",
+                      "question": "How can scale influence the observation and analysis of system behavior?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.6",
+                      "question": "What emotional or cognitive responses might system behavior provoke in observers?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.7",
+                      "question": "How do feedback loops contribute to reinforcing or altering system behavior?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.8",
+                      "question": "What next actions should be considered when significant changes in system behavior occur?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.9",
+                      "question": "How do different perspectives affect interpretations of system behavior?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.10",
+                      "question": "Why might some system behaviors be difficult to detect or measure?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.11",
+                      "question": "How can understanding system behavior inform effective intervention strategies?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.5.12",
+                      "question": "What if observed behavior contradicts expectations based on system structure?",
+                      "concept": "Ambiguity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Systemic Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.1",
+                      "question": "What distinguishes systemic change from incremental or superficial change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.2",
+                      "question": "How can feedback loops both enable and constrain systemic change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.3",
+                      "question": "What roles do leverage points play in designing systemic change initiatives?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.4",
+                      "question": "How can systemic change initiatives address resistance and unintended consequences?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.5",
+                      "question": "Why is ongoing iteration critical for sustaining systemic change?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.6",
+                      "question": "How might different stakeholder perspectives influence goals for systemic change?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.7",
+                      "question": "What emotional or social dynamics impact the success of systemic change?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.8",
+                      "question": "What next steps should follow the initial implementation of systemic change?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.9",
+                      "question": "How does authorial strategy affect the framing and communication of systemic change?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.10",
+                      "question": "How can systemic change contribute to broader cultural or social transformations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.11",
+                      "question": "What measures can be used to assess the effectiveness of systemic change?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.I.6.12",
+                      "question": "What if systemic change fails? How can learning and adaptation occur?",
+                      "concept": "Pacing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Identify System",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.1",
+                      "question": "How do shifting boundaries in complex adaptive systems affect system identity and analysis?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.2",
+                      "question": "What methodologies best capture multiscale components within heterogeneous systems?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.3",
+                      "question": "How does system framing influence epistemological approaches to system modeling?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.4",
+                      "question": "In what ways do power dynamics shape the definition and perception of system boundaries?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.5",
+                      "question": "How can ambiguity and uncertainty be systematically incorporated into system identification?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.6",
+                      "question": "What are the epistemic risks of reductionism when isolating system components?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.7",
+                      "question": "How can reflexivity be applied to critique one’s own boundary-setting assumptions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.8",
+                      "question": "How does the concept of emergence challenge fixed system boundaries?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.9",
+                      "question": "What iterative processes ensure boundary definitions remain valid across system evolution?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.10",
+                      "question": "How can conflicting stakeholder perspectives be reconciled during system identification?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.11",
+                      "question": "What role does agency play in redefining system boundaries dynamically?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.1.12",
+                      "question": "How do temporal factors influence the stability and permeability of system boundaries?",
+                      "concept": "Continuity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Analyze Interrelationships",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.1",
+                      "question": "How can network theory deepen understanding of intercomponent relationships within complex systems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.2",
+                      "question": "What advanced methods exist to detect latent feedbacks and nonlinear interactions?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.3",
+                      "question": "How do emergent properties arise from interrelationships that defy linear causality?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.4",
+                      "question": "What strategies help unravel ambiguity in densely interconnected systems?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.5",
+                      "question": "How do interrelationship dynamics contribute to system resilience or fragility under stress?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.6",
+                      "question": "How does power asymmetry manifest within system interrelationships and influence outcomes?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.7",
+                      "question": "How can perspective-taking mitigate bias in interpreting complex interrelationships?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.8",
+                      "question": "What role do paradoxes and dualities play in shaping system interrelationship patterns?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.9",
+                      "question": "How can system mapping techniques be iteratively refined to capture dynamic interrelationships?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.10",
+                      "question": "What ethical considerations arise when intervening based on analysis of interrelationships?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.11",
+                      "question": "How can authorial strategy influence the representation of complex interrelationships in systems?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.2.12",
+                      "question": "How do emotional and cognitive tensions emerge from conflicting interrelationships?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Feedback Loops",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.1",
+                      "question": "How do delays and nonlinearities in feedback loops complicate system behavior prediction?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.2",
+                      "question": "In what ways do reinforcing and balancing feedback loops co-exist and interact?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.3",
+                      "question": "How can feedback loops generate emergent phenomena beyond the sum of individual effects?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.4",
+                      "question": "What role do feedback loops play in sustaining or disrupting system equilibria?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.5",
+                      "question": "How can ambiguous feedback signals challenge decision-making within complex systems?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.6",
+                      "question": "How do feedback loops influence the agency of actors within systems?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.7",
+                      "question": "What methods can be used to visualize and communicate complex feedback mechanisms effectively?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.8",
+                      "question": "How might authorial strategy impact the emphasis placed on particular feedback loops?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.9",
+                      "question": "How do feedback loops relate to cycles and iterations in system evolution?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.10",
+                      "question": "What cognitive biases might affect the recognition and interpretation of feedback loops?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.11",
+                      "question": "How can understanding feedback loops inform adaptive management strategies?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.3.12",
+                      "question": "What if feedback loops are intentionally manipulated? What ethical concerns arise?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Leverage Points",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.1",
+                      "question": "How can the identification of leverage points enable transformational shifts within complex adaptive systems?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.2",
+                      "question": "What frameworks exist to evaluate the potential impact and risks associated with targeting specific leverage points?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.3",
+                      "question": "How do feedback loops interact with leverage points to amplify or dampen systemic change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.4",
+                      "question": "What are the ethical and practical challenges of intervening at high-leverage points?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.5",
+                      "question": "How can ambiguity and uncertainty around leverage points be managed in strategic system interventions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.6",
+                      "question": "How does power influence access to and control over leverage points in socio-technical systems?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.7",
+                      "question": "What role does perspective-taking play in recognizing and prioritizing leverage points?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.8",
+                      "question": "How can iterative feedback from system behavior refine the understanding and use of leverage points?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.9",
+                      "question": "What strategies can mitigate tension arising from conflicting stakeholder views on leverage point interventions?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.10",
+                      "question": "How might authorial strategy influence the framing and communication of leverage points to diverse audiences?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.11",
+                      "question": "In what ways does agency manifest through the activation or suppression of leverage points?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.4.12",
+                      "question": "What if interventions at leverage points lead to unintended systemic paradoxes or feedback loops?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. System Behavior",
+                  "part_concept": "Pattern",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.1",
+                      "question": "How can complex system behaviors be decomposed to reveal underlying structural causes?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.2",
+                      "question": "What role do emergent properties play in shaping observed system behaviors?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.3",
+                      "question": "How do nonlinearity and feedback loops contribute to unpredictable or chaotic system behavior?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.4",
+                      "question": "How can multi-scalar analysis improve the understanding of system behavior across different levels?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.5",
+                      "question": "What emotional or narrative tones are evoked by shifts in system behavior, and how do they affect stakeholder engagement?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.6",
+                      "question": "How do feedback mechanisms reinforce or disrupt established patterns in system behavior?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.7",
+                      "question": "What iterative processes are involved in monitoring and adapting to changing system behaviors?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.8",
+                      "question": "How can perspective shifts alter the interpretation and management of complex system behavior?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.9",
+                      "question": "What challenges arise in recognizing and measuring system behavior in highly interconnected systems?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.10",
+                      "question": "How can understanding system behavior inform strategic decision-making and intervention design?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.11",
+                      "question": "What if observed system behaviors contradict existing models or assumptions?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.5.12",
+                      "question": "How do power relations influence which behaviors are visible or prioritized within a system?",
+                      "concept": "Power"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Systemic Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.1",
+                      "question": "How can systemic change be conceptualized beyond linear cause and effect to encompass complex adaptive dynamics?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.2",
+                      "question": "What frameworks support the design and implementation of sustainable systemic change?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.3",
+                      "question": "How do feedback loops and leverage points coalesce to enable or inhibit systemic change?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.4",
+                      "question": "What ethical considerations must guide systemic change initiatives in socio-ecological contexts?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.5",
+                      "question": "How can systemic change navigate tensions between emergent unpredictability and desired outcomes?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.6",
+                      "question": "In what ways can iterative learning and reflexivity enhance the adaptability of systemic change?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.7",
+                      "question": "How do cultural and social transformations intersect with systemic change processes?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.8",
+                      "question": "How can authorial strategy shape narratives that mobilize support for systemic change?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.9",
+                      "question": "What roles do agency and power dynamics play in enabling or obstructing systemic change?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.10",
+                      "question": "What metrics and indicators effectively evaluate the impact and sustainability of systemic change?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.11",
+                      "question": "How can ambiguity and uncertainty be managed to maintain momentum in systemic change initiatives?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.A.6.12",
+                      "question": "What if systemic change efforts encounter paradoxes that challenge existing frameworks?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Identify System",
+                  "part_concept": "System",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.1",
+                      "question": "How does the concept of boundary fluidity challenge traditional notions of system demarcation in meta-systemic analysis?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.2",
+                      "question": "In what ways can reflexive epistemologies reshape system identification beyond positivist frameworks?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.3",
+                      "question": "How do power relations and authorial strategies co-construct system boundaries in socio-technical assemblages?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.4",
+                      "question": "What implications arise from multi-perspectival boundary definitions for transdisciplinary system modeling?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.5",
+                      "question": "How can ambiguity and paradox be generative forces in redefining system identity and boundaries?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.6",
+                      "question": "What role does temporal discontinuity play in the emergence and dissolution of system boundaries?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.7",
+                      "question": "How might system identification processes incorporate meta-cognitive awareness to mitigate observer bias?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.8",
+                      "question": "What are the limits and possibilities of scale as a conceptual tool in dynamic system identification?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.9",
+                      "question": "How do iterative cycles of boundary revision reflect deeper systemic transformations and cultural shifts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.10",
+                      "question": "In what ways can agency be theorized as a co-creative force in the ongoing constitution of system boundaries?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.11",
+                      "question": "How can system identification engage with emergent phenomena without reducing complexity to simplistic models?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.1.12",
+                      "question": "What next epistemological challenges emerge when system boundaries become contested and dynamic?",
+                      "concept": "Uncertainty"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Analyze Interrelationships",
+                  "part_concept": "Cycle",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.1",
+                      "question": "How can the interplay of paradox and duality illuminate hidden tensions in system interrelationships?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.2",
+                      "question": "What advanced frameworks integrate power asymmetries into the analysis of systemic interconnections?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.3",
+                      "question": "How do emergent properties disrupt linear causality in densely networked system relationships?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.4",
+                      "question": "In what ways can meta-interpretation reveal underlying biases in system relationship mapping?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.5",
+                      "question": "How might ambiguity function as a productive space for creative system interrelationship configurations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.6",
+                      "question": "What role do authorial strategies play in shaping narratives around system interdependencies?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.7",
+                      "question": "How can multi-scalar perspectives reconcile conflicting system interrelationship data?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.8",
+                      "question": "How does reflexivity inform iterative refinement of complex system interrelationship models?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.9",
+                      "question": "What ethical dilemmas arise when choosing to emphasize certain system relationships over others?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.10",
+                      "question": "How can cognitive tension generated by contradictory interrelationships foster deeper system insights?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.11",
+                      "question": "What next methodological innovations are needed to capture dynamic system interrelationships more fully?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.2.12",
+                      "question": "How might system analysis transcend disciplinary boundaries through integrative interrelationship frameworks?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Feedback Loops",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.1",
+                      "question": "How do feedback loops embody the tension between order and chaos in complex adaptive systems?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.2",
+                      "question": "In what ways can delayed feedback lead to emergent, unpredictable systemic behaviors?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.3",
+                      "question": "How can meta-theoretical perspectives enrich understanding of reinforcing versus balancing feedback?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.4",
+                      "question": "What implications arise when feedback loops are intentionally manipulated for social or political ends?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.5",
+                      "question": "How can reflexivity be applied to critique the observer’s role in interpreting feedback mechanisms?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.6",
+                      "question": "What are the cognitive challenges in recognizing feedback loops within high-dimensional system data?",
+                      "concept": "Recognition"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.7",
+                      "question": "How do feedback loops contribute to cultural transformations and meta-systemic shifts?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.8",
+                      "question": "What ethical considerations should guide the design and communication of feedback interventions?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.9",
+                      "question": "How does ambiguity in feedback signals create opportunities for creative systemic adaptation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.10",
+                      "question": "How can authorial strategy influence the framing and perception of feedback dynamics?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.11",
+                      "question": "What next epistemological questions emerge when feedback loops defy linear interpretation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.3.12",
+                      "question": "How can feedback loops be integrated into meta-systemic models to better capture complexity?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Leverage Points",
+                  "part_concept": "Hierarchy",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.1",
+                      "question": "How do leverage points function as nodes of transformative potential within meta-systemic frameworks?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.2",
+                      "question": "What complexities emerge when power dynamics intersect with leverage point interventions in socio-ecological systems?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.3",
+                      "question": "How can ambiguity and paradox be strategically employed in identifying and activating leverage points?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.4",
+                      "question": "In what ways do iterative feedback and reflexivity refine the efficacy of leverage point-based systemic change?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.5",
+                      "question": "How does authorial strategy shape narratives around leverage points to influence stakeholder engagement?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.6",
+                      "question": "What ethical challenges arise in prioritizing certain leverage points over others in complex adaptive systems?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.7",
+                      "question": "How do multi-perspectival approaches deepen understanding of leverage point potentials and limitations?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.8",
+                      "question": "What roles do tension and uncertainty play in the activation and sustainability of leverage points?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.9",
+                      "question": "How can leverage points be reconceptualized to account for cultural and systemic transformations?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.10",
+                      "question": "What next theoretical innovations might better integrate leverage points within evolving system models?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.11",
+                      "question": "How does agency manifest uniquely at leverage points in meta-systemic contexts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.4.12",
+                      "question": "What if leverage point interventions produce unintended feedback loops that alter system trajectories?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. System Behavior",
+                  "part_concept": "Pattern",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.1",
+                      "question": "How can meta-analytical approaches unravel the multi-dimensionality of system behavior patterns?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.2",
+                      "question": "In what ways do emergent phenomena challenge conventional interpretations of system behavior?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.3",
+                      "question": "How does ambiguity in system behavior inform adaptive learning in meta-systemic practice?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.4",
+                      "question": "What role do feedback and iteration play in the evolution of complex system behaviors?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.5",
+                      "question": "How can tonal and affective dimensions of system behavior influence stakeholder interpretation and response?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.6",
+                      "question": "What methodological challenges arise in capturing temporal discontinuities within system behaviors?",
+                      "concept": "Discontinuity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.7",
+                      "question": "How might reflexivity and multi-scalar perspectives enrich understanding of shifting system behaviors?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.8",
+                      "question": "What ethical considerations emerge from interpreting and acting upon complex system behaviors?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.9",
+                      "question": "How can authorial strategy shape narratives that make complex system behaviors accessible?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.10",
+                      "question": "How do power relations influence which aspects of system behavior are emphasized or marginalized?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.11",
+                      "question": "What next theoretical challenges emerge from the interplay of scale, pattern, and system behavior?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.5.12",
+                      "question": "How can meta-systemic models incorporate emotional and cognitive dimensions of system behavior?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Systemic Change",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.1",
+                      "question": "How can systemic change be conceptualized as an ongoing meta-process within evolving socio-ecological systems?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.2",
+                      "question": "What roles do reflexivity and iterative learning play in sustaining transformative systemic change?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.3",
+                      "question": "How can ethical frameworks be integrated into the design and execution of meta-systemic change initiatives?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.4",
+                      "question": "In what ways do power and agency co-determine trajectories of systemic change at the meta-level?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.5",
+                      "question": "How might paradox and ambiguity be harnessed as creative tensions within systemic change processes?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.6",
+                      "question": "What authorial strategies effectively communicate the complexities and uncertainties of systemic change?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.7",
+                      "question": "How can systemic change address and incorporate cultural transformations without oversimplification?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.8",
+                      "question": "What next methodological and theoretical innovations are required for meta-systemic change practice?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.9",
+                      "question": "How can agency be conceptualized as a distributed and emergent property in systemic change?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.10",
+                      "question": "What metrics and evaluation frameworks can capture the complexity of meta-level systemic change?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.11",
+                      "question": "How do emotional and social dynamics influence the sustainability of systemic change initiatives?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Systems-Thinking-Loop.ME.6.12",
+                      "question": "What if systemic change encounters irreducible paradoxes? How can practitioners respond?",
+                      "concept": "Paradox"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

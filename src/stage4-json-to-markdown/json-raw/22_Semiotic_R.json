@@ -1,0 +1,1411 @@
+{
+  "discipline": "Linguistics",
+  "children": [
+    {
+      "structure_name": "Semiotic-Triangle",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Symbol → 2. Reference → 3. Referent → 4. Feedback → 5. Revision"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Symbol"
+                },
+                {
+                  "structure_part": "[2/5] 2. Reference"
+                },
+                {
+                  "structure_part": "[3/5] 3. Referent"
+                },
+                {
+                  "structure_part": "[4/5] 4. Feedback"
+                },
+                {
+                  "structure_part": "[5/5] 5. Revision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "‘Tree’ as symbol → mental image of tree → actual tree → listener's response → clarification or rephrasing"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Symbol → Sign / Word / Signifier"
+            },
+            {
+              "terminology": "2. Reference → Concept / Thought / Meaning"
+            },
+            {
+              "terminology": "3. Referent → Object / Thing / Signified"
+            },
+            {
+              "terminology": "4. Feedback → Interpretation / Response"
+            },
+            {
+              "terminology": "5. Revision → Correction / Adjustment / Reinterpretation"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Symbol",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.1",
+                      "question": "What is the role of a symbol in communication?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.2",
+                      "question": "How does a symbol differ from other parts of the semiotic triangle?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.3",
+                      "question": "Why is a word or sign considered a symbol rather than a direct reference?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.4",
+                      "question": "What if a symbol is ambiguous or unclear? How does that affect understanding?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.5",
+                      "question": "How do symbols help us organize thoughts or ideas?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.6",
+                      "question": "What emotions can symbols evoke in an audience?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.7",
+                      "question": "How does the choice of symbol influence the meaning conveyed?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.8",
+                      "question": "What cultural factors shape the interpretation of a symbol?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.9",
+                      "question": "Why might different communities use different symbols for the same concept?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.10",
+                      "question": "How can symbols be misinterpreted or lead to misunderstanding?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.11",
+                      "question": "What role does repetition play in reinforcing a symbol’s meaning?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.1.12",
+                      "question": "How might an author deliberately use symbols to guide an audience’s response?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Reference",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.1",
+                      "question": "What does the reference represent within the semiotic triangle?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.2",
+                      "question": "How is the reference related to the symbol and the referent?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.3",
+                      "question": "Why is the reference often called a concept or thought rather than a physical object?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.4",
+                      "question": "How can different people have different references for the same symbol?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.5",
+                      "question": "What if the reference changes over time—how does that affect communication?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.6",
+                      "question": "How does the reference shape our expectations about the referent?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.7",
+                      "question": "What emotional responses might a reference trigger in different contexts?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.8",
+                      "question": "Why is it important to clarify the reference to avoid misunderstanding?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.9",
+                      "question": "How does the reference function as an intermediary between symbol and referent?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.10",
+                      "question": "What role does cultural knowledge play in shaping references?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.11",
+                      "question": "How might a reference be intentionally ambiguous for rhetorical effect?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.2.12",
+                      "question": "What if the reference conflicts with the actual referent? How is this tension resolved?",
+                      "concept": "Tension"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Referent",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.1",
+                      "question": "What is the referent in the context of the semiotic triangle?",
+                      "concept": "Core_Structure"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.2",
+                      "question": "How does the referent differ from the symbol and reference?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.3",
+                      "question": "Why is the referent often considered the 'real world' object or thing?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.4",
+                      "question": "How can a referent exist independently of symbols or references?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.5",
+                      "question": "What happens if the referent changes but the symbol and reference stay the same?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.6",
+                      "question": "How does the perception of the referent vary between individuals or cultures?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.7",
+                      "question": "What emotional or symbolic significance can a referent carry beyond its physical reality?",
+                      "concept": "Desire"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.8",
+                      "question": "How do referents influence the formation of new symbols or references?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.9",
+                      "question": "Why might the referent be absent or hypothetical in some communication contexts?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.10",
+                      "question": "How does the referent contribute to the feedback loop in communication?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.11",
+                      "question": "What if the referent is misidentified—how does this impact understanding?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.3.12",
+                      "question": "How might an author use an unexpected referent to challenge audience assumptions?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Feedback",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.1",
+                      "question": "What role does feedback play in the process of meaning-making?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.2",
+                      "question": "How does feedback influence the relationship between symbol, reference, and referent?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.3",
+                      "question": "Why is feedback important for effective communication?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.4",
+                      "question": "How can feedback reveal misunderstandings or ambiguities in symbols?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.5",
+                      "question": "What if feedback is ignored—how might that affect future communication?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.6",
+                      "question": "How do emotional responses function as a form of feedback?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.7",
+                      "question": "In what ways can feedback lead to changes in symbols or references?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.8",
+                      "question": "What kinds of feedback are most useful for clarifying meaning?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.9",
+                      "question": "How does feedback contribute to the iterative nature of communication?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.10",
+                      "question": "Why might feedback vary across different cultural or social contexts?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.11",
+                      "question": "What if feedback contradicts the intended meaning of a symbol?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.4.12",
+                      "question": "How can feedback mechanisms be designed to improve understanding in communication systems?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Revision",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.1",
+                      "question": "What is the purpose of revision in the semiotic process?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.2",
+                      "question": "How does revision affect the symbol, reference, or referent?",
+                      "concept": "Change"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.3",
+                      "question": "Why might revision be necessary after receiving feedback?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.4",
+                      "question": "How can revision improve clarity and reduce ambiguity in communication?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.5",
+                      "question": "What emotional impact can revision have on the audience or communicator?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.6",
+                      "question": "In what ways can revision lead to new interpretations or meanings?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.7",
+                      "question": "How does the cycle of feedback and revision demonstrate the dynamic nature of meaning?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.8",
+                      "question": "What challenges arise during revision when symbols or references are deeply embedded culturally?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.9",
+                      "question": "How might revision alter the power dynamics in communication?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.10",
+                      "question": "What if revision introduces new ambiguities—how can these be managed?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.11",
+                      "question": "How can intentional revision be used as an authorial strategy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.B.5.12",
+                      "question": "Why is ongoing revision important for evolving languages or communication systems?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Symbol",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.1",
+                      "question": "How does a symbol function as a mediator between thought and reality?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.2",
+                      "question": "Why might the choice of symbol affect the interpretation of a message differently across contexts?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.3",
+                      "question": "In what ways can symbols carry multiple meanings simultaneously? How does this impact communication?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.4",
+                      "question": "How can the form and structure of a symbol influence its effectiveness?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.5",
+                      "question": "What are the implications of symbolic representation for abstract versus concrete concepts?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.6",
+                      "question": "How does cultural background shape the creation and interpretation of symbols?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.7",
+                      "question": "What are potential risks of relying too heavily on symbols in communication?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.8",
+                      "question": "How can the manipulation of symbols be used to influence audience emotions or perceptions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.9",
+                      "question": "Why is it important to consider the historical development of a symbol when analyzing its meaning?",
+                      "concept": "History"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.10",
+                      "question": "How might a symbol evolve over time through usage and reinterpretation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.11",
+                      "question": "What if a symbol loses its conventional meaning—how does that affect communication dynamics?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.1.12",
+                      "question": "How does the intentional design of a symbol reflect authorial strategy or intent?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Reference",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.1",
+                      "question": "How does the reference serve as an intermediary concept linking symbols to real-world objects?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.2",
+                      "question": "What cognitive processes are involved in forming references from symbols?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.3",
+                      "question": "How can conflicting references for the same symbol lead to miscommunication?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.4",
+                      "question": "In what ways can references be culturally or socially constructed rather than universal?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.5",
+                      "question": "How do references evolve when new information or experiences modify existing concepts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.6",
+                      "question": "What role does abstraction play in shaping references for complex ideas?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.7",
+                      "question": "How might references differ between experts and novices within a discipline?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.8",
+                      "question": "How can ambiguity in references be strategically used in rhetoric or art?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.9",
+                      "question": "What are the effects of reference mismatches in cross-cultural communication?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.10",
+                      "question": "How can clarifying references improve dialogue and understanding?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.11",
+                      "question": "Why is it important to distinguish between a reference and a symbol in analytical reasoning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.2.12",
+                      "question": "How does the interpretation of a reference influence the audience’s emotional or cognitive response?",
+                      "concept": "Mood"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Referent",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.1",
+                      "question": "How does the referent anchor the symbol and reference in tangible reality?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.2",
+                      "question": "What challenges arise when the referent is absent or abstract rather than concrete?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.3",
+                      "question": "How does the variability of referents across contexts complicate meaning-making?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.4",
+                      "question": "In what ways can the perception of a referent be influenced by cultural or personal factors?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.5",
+                      "question": "How do changes in the referent impact the stability of the symbol-reference relationship?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.6",
+                      "question": "Why might some referents resist symbolic representation or conceptualization?",
+                      "concept": "Limitations"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.7",
+                      "question": "How can an author use referents creatively to subvert audience expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.8",
+                      "question": "What role does sensory experience play in identifying and understanding referents?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.9",
+                      "question": "How can misidentification of referents lead to breakdowns in communication?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.10",
+                      "question": "What is the significance of distinguishing between real and imagined referents in discourse?",
+                      "concept": "Reflection"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.11",
+                      "question": "How might referents emerge from collective social or cultural narratives?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.3.12",
+                      "question": "How does the referent contribute to the feedback loop in refining meaning?",
+                      "concept": "Feedback"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Feedback",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.1",
+                      "question": "How does feedback function to correct or reinforce meaning within the semiotic triangle?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.2",
+                      "question": "In what ways does feedback create a dynamic cycle between symbol, reference, and referent?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.3",
+                      "question": "How can negative feedback reveal hidden ambiguities or conflicts in communication?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.4",
+                      "question": "Why is timely feedback critical to maintaining clarity and mutual understanding?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.5",
+                      "question": "How can emotional responses serve as valuable feedback in interpretive contexts?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.6",
+                      "question": "What role does cultural context play in shaping the nature and reception of feedback?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.7",
+                      "question": "How might feedback loops contribute to the evolution of language or symbols over time?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.8",
+                      "question": "What if feedback is ignored or misinterpreted—how does this impact subsequent communication?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.9",
+                      "question": "How can feedback mechanisms be designed to foster better dialogue and learning?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.10",
+                      "question": "What are the differences between explicit and implicit feedback in communication processes?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.11",
+                      "question": "How does feedback contribute to the iterative refinement of meaning?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.4.12",
+                      "question": "Why might feedback vary in form and effectiveness across different media or channels?",
+                      "concept": "Scale"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Revision",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.1",
+                      "question": "How does revision serve as a transformative step in the semiotic process?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.2",
+                      "question": "What factors typically prompt revision of symbols, references, or referents?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.3",
+                      "question": "How can revision improve communication clarity while also introducing new complexities?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.4",
+                      "question": "In what ways can revision act as an authorial or rhetorical strategy to shift meaning?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.5",
+                      "question": "How does the cycle of feedback and revision illustrate the evolving nature of language?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.6",
+                      "question": "What challenges arise in revising culturally entrenched symbols or references?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.7",
+                      "question": "How can revision balance the need for stability with the demand for change in meaning?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.8",
+                      "question": "What emotional or cognitive effects can revision have on audiences or communicators?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.9",
+                      "question": "How might revision introduce ambiguities that complicate rather than clarify meaning?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.10",
+                      "question": "Why is ongoing revision essential for language to adapt to new realities or knowledge?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.11",
+                      "question": "What if revision is resisted by certain groups—how does this affect communication dynamics?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.I.5.12",
+                      "question": "How can digital technologies influence the speed and nature of revision in contemporary communication?",
+                      "concept": "System"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Symbol",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.1",
+                      "question": "How does the semiotic triangle challenge traditional notions of direct representation through symbols?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.2",
+                      "question": "In what ways do power structures influence the creation and enforcement of symbolic meaning?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.3",
+                      "question": "How can semiotic ambiguity within symbols be leveraged to create multi-layered or subversive meanings?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.4",
+                      "question": "What role does metaphor play within symbolic systems as part of the semiotic triangle?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.5",
+                      "question": "How does the historicity of symbols affect their contemporary interpretation and usage?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.6",
+                      "question": "How might the semiotic function of a symbol shift across different modalities (visual, linguistic, auditory)?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.7",
+                      "question": "Why is it problematic to assume symbols have fixed meanings within cross-disciplinary communication?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.8",
+                      "question": "How can the intentional disruption of symbol conventions serve critical or rhetorical purposes?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.9",
+                      "question": "What cognitive mechanisms underpin the interpretation of complex or abstract symbols?",
+                      "concept": "Cognitive_Learning"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.10",
+                      "question": "How can symbols act as sites of contestation within social and political discourse?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.11",
+                      "question": "How do semiotic signs function differently in literal versus figurative language within the triangle?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.1.12",
+                      "question": "What strategies do communicators employ to negotiate symbol meaning in ambiguous contexts?",
+                      "concept": "Negotiation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Reference",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.1",
+                      "question": "How does the concept of reference problematize the relationship between language and reality?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.2",
+                      "question": "In what ways do social and cultural systems shape the formation and evolution of references?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.3",
+                      "question": "How can competing references for a single symbol lead to epistemological conflicts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.4",
+                      "question": "What role does ideology play in constructing and sustaining particular references?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.5",
+                      "question": "How does abstraction in reference formation affect precision and ambiguity in meaning?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.6",
+                      "question": "How do cognitive biases influence the interpretation and persistence of references?",
+                      "concept": "Cognitive_Learning"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.7",
+                      "question": "Why is reflexivity important when analyzing references in cross-cultural communication?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.8",
+                      "question": "How do references mediate between individual cognition and collective meaning-making?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.9",
+                      "question": "What mechanisms enable references to change rapidly versus remain stable over time?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.10",
+                      "question": "How can the semiotic triangle be applied to understand reference shifts in digital communication?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.11",
+                      "question": "What are the implications of reference ambiguity for legal or scientific discourse?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.2.12",
+                      "question": "How can critical analysis uncover hidden power relations embedded in references?",
+                      "concept": "Authorial Strategy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Referent",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.1",
+                      "question": "How do ontological assumptions about referents affect semiotic analysis?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.2",
+                      "question": "In what ways can referents be contested or redefined within socio-political contexts?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.3",
+                      "question": "How do referents function differently when they are tangible objects versus abstract ideas?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.4",
+                      "question": "What role do power dynamics play in determining which referents are legitimized or marginalized?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.5",
+                      "question": "How might referents emerge through collective narrative processes rather than existing independently?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.6",
+                      "question": "How do technological changes influence the nature and accessibility of referents?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.7",
+                      "question": "What challenges arise when referents are virtual or hypothetical rather than physical?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.8",
+                      "question": "How can semiotic analysis incorporate multiple layers of referents simultaneously?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.9",
+                      "question": "What strategies can communicators use to stabilize referents in ambiguous or fluid contexts?",
+                      "concept": "Stability"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.10",
+                      "question": "How does the concept of ‘referent’ complicate traditional models of meaning in linguistics?",
+                      "concept": "Meta_Critical"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.11",
+                      "question": "How can interdisciplinary approaches enrich understanding of referents in semiotics?",
+                      "concept": "Integration"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.3.12",
+                      "question": "In what ways do referents influence and are influenced by feedback and revision cycles?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Feedback",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.1",
+                      "question": "How does feedback operate as a regulatory mechanism within semiotic systems to maintain or disrupt meaning?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.2",
+                      "question": "In what ways can feedback loops generate emergent meanings that transcend original symbol-reference-referent relationships?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.3",
+                      "question": "How does feedback contribute to the dialectical tension between stability and change in communicative processes?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.4",
+                      "question": "What role does power play in determining which feedback is amplified or suppressed within discursive practices?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.5",
+                      "question": "How can feedback reveal underlying cultural assumptions or ideological biases embedded in communication?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.6",
+                      "question": "Why might feedback mechanisms fail or be resisted, and what are the semiotic implications of such failures?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.7",
+                      "question": "How do emotional and affective responses function as complex feedback signals in meaning-making?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.8",
+                      "question": "What methodologies can be employed to analyze feedback processes within semiotic networks?",
+                      "concept": "Systems_Logic"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.9",
+                      "question": "How does the temporality of feedback impact the evolution of symbols and meanings over time?",
+                      "concept": "Temporal_Forma"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.10",
+                      "question": "In what ways does digital communication transform traditional feedback loops in semiotic interactions?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.11",
+                      "question": "How can reflexivity be integrated into feedback analysis to enhance interpretive depth?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.4.12",
+                      "question": "What ethical considerations arise in managing feedback within communicative environments?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Revision",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.1",
+                      "question": "How does revision function as a critical site for semiotic transformation and meaning negotiation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.2",
+                      "question": "In what ways can revision destabilize established meanings and facilitate discursive innovation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.3",
+                      "question": "How might revision practices vary across different communicative genres or cultural contexts?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.4",
+                      "question": "What are the implications of recursive revision cycles for the stability of linguistic and symbolic systems?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.5",
+                      "question": "How can revision processes be strategically employed by authors to shape audience perception and interpretation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.6",
+                      "question": "What challenges emerge when revision encounters resistance from entrenched social or ideological structures?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.7",
+                      "question": "How does revision contribute to the co-construction of meaning between communicators and audiences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.8",
+                      "question": "What role does emotional tone play in motivating or hindering revision in communicative acts?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.9",
+                      "question": "How can digital technologies accelerate or complicate revision processes within semiotic systems?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.10",
+                      "question": "What methodological approaches can deepen understanding of revision dynamics in semiotic research?",
+                      "concept": "Methodology"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.11",
+                      "question": "How does revision intersect with ethical considerations in modifying meanings or representations?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.A.5.12",
+                      "question": "What future directions might research on semiotic revision take in light of evolving communication technologies?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/5] 1. Symbol",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.1",
+                      "question": "How can deconstructionist theory be applied to analyze the instability of symbols within the semiotic triangle?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.2",
+                      "question": "In what ways do symbols function as sites of ideological power and cultural hegemony?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.3",
+                      "question": "How might semiotic symbols embody paradoxes that challenge linear interpretations of meaning?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.4",
+                      "question": "What role do metaphors and metonymies play in the construction and deconstruction of symbols?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.5",
+                      "question": "How can symbols be strategically manipulated to produce multiple, competing interpretations within postmodern discourse?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.6",
+                      "question": "How does semiotic reflexivity inform the critique of symbolic representation in interdisciplinary contexts?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.7",
+                      "question": "In what ways does the semiotic triangle reveal limits of linguistic determinism and essentialism?",
+                      "concept": "Limitations"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.8",
+                      "question": "How might quantum or non-linear models of meaning challenge traditional symbol-referent-reference relations?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.9",
+                      "question": "What are the implications of digital semiotics for evolving symbol systems in a globalized world?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.10",
+                      "question": "How can critical discourse analysis deepen understanding of symbolic power within socio-political contexts?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.11",
+                      "question": "What methodological innovations are necessary to study symbols in multimodal and transmedia environments?",
+                      "concept": "Methodology"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.1.12",
+                      "question": "How does the interplay of symbol and audience expectation shape emergent cultural narratives?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/5] 2. Reference",
+                  "part_concept": "Abstraction",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.1",
+                      "question": "How do poststructuralist perspectives problematize the notion of fixed references in semiotics?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.2",
+                      "question": "In what ways can references be understood as dynamic, socially constructed phenomena rather than static entities?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.3",
+                      "question": "How does the concept of hyperreality complicate the relationship between reference and referent?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.4",
+                      "question": "What role does ideology play in shaping and contesting references within dominant discourses?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.5",
+                      "question": "How might cognitive science inform a deeper understanding of reference formation and transformation?",
+                      "concept": "Cognitive_Learning"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.6",
+                      "question": "What challenges do multilingual and multicultural contexts pose for the stability of references?",
+                      "concept": "Contextualization"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.7",
+                      "question": "How can critical theory reveal hidden reference shifts in media and political rhetoric?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.8",
+                      "question": "In what ways do references interact with technological mediation to shape contemporary meaning-making?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.9",
+                      "question": "How can the tension between global and local references inform studies of cultural hybridity?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.10",
+                      "question": "What are the epistemological implications of reference fluidity for knowledge production?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.11",
+                      "question": "How can interdisciplinary methodologies enrich understanding of reference dynamics?",
+                      "concept": "Integration"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.2.12",
+                      "question": "How does the semiotic triangle framework accommodate non-human or post-human references in emerging discourses?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/5] 3. Referent",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.1",
+                      "question": "How does ontological pluralism challenge traditional assumptions about referents in semiotics?",
+                      "concept": "Philosophy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.2",
+                      "question": "In what ways do power and ideology influence which referents gain recognition or legitimacy?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.3",
+                      "question": "How might referents be reconceptualized within posthumanist or ecological frameworks?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.4",
+                      "question": "What role do collective memory and social narratives play in shaping referents?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.5",
+                      "question": "How does the concept of virtuality expand the scope of referents beyond physical reality?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.6",
+                      "question": "How can semiotic analysis account for multiple, overlapping referents in complex social phenomena?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.7",
+                      "question": "What challenges arise when referents are mediated through technology or artificial intelligence?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.8",
+                      "question": "How do referents function in the construction of identity and subjectivity within cultural discourses?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.9",
+                      "question": "How can interdisciplinary approaches enhance understanding of referents in hybrid media environments?",
+                      "concept": "Integration"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.10",
+                      "question": "What are the ethical implications of selecting or excluding certain referents in communicative acts?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.11",
+                      "question": "How might future semiotic theories evolve to better incorporate non-linear or networked referents?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.3.12",
+                      "question": "In what ways does the interaction between referent, reference, and symbol reflect broader philosophical debates about meaning and reality?",
+                      "concept": "Philosophy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/5] 4. Feedback",
+                  "part_concept": "Feedback",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.1",
+                      "question": "How can feedback mechanisms be theorized as sites of contestation between competing semiotic interpretations?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.2",
+                      "question": "In what ways does feedback reflect and reinforce power relations within cultural and communicative systems?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.3",
+                      "question": "How might feedback processes disrupt linear causality in meaning-making, enabling emergent and nonlinear semiotic phenomena?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.4",
+                      "question": "What role does reflexivity play in critically analyzing feedback loops within complex semiotic networks?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.5",
+                      "question": "How do emotional and affective dimensions complicate the interpretation and function of feedback in semiotic systems?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.6",
+                      "question": "What methodological challenges arise when mapping feedback loops in interdisciplinary semiotic research?",
+                      "concept": "Methodology"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.7",
+                      "question": "How can feedback be leveraged strategically to enact social or cultural transformation through communicative acts?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.8",
+                      "question": "In what ways do digital platforms reshape traditional feedback mechanisms, affecting semiotic dynamics globally?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.9",
+                      "question": "How might feedback loops contribute to the persistence or erosion of dominant ideological narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.10",
+                      "question": "What ethical considerations must be accounted for in managing feedback within mediated communication environments?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.11",
+                      "question": "How does the temporality of feedback influence long-term semiotic and cultural evolution?",
+                      "concept": "Temporal_Forma"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.4.12",
+                      "question": "What implications does feedback complexity have for designing adaptive communication systems in emergent technologies?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/5] 5. Revision",
+                  "part_concept": "Iteration",
+                  "children": [
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.1",
+                      "question": "How does revision operate as a critical intervention within the semiotic cycle to enable deconstruction and reconstruction of meaning?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.2",
+                      "question": "In what ways can revision practices reveal latent power structures embedded in symbolic and referential systems?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.3",
+                      "question": "How might recursive revision cycles reflect broader philosophical debates on identity, change, and continuity?",
+                      "concept": "Philosophy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.4",
+                      "question": "What role do technological advances play in accelerating or complicating semiotic revision processes?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.5",
+                      "question": "How can revision be strategically utilized by communicators to influence audience interpretation and cultural narratives?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.6",
+                      "question": "What ethical dilemmas arise in the selective revision or censorship of semiotic content within public discourse?",
+                      "concept": "Ethics"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.7",
+                      "question": "How does revision intersect with collective memory and the politics of representation in cultural contexts?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.8",
+                      "question": "In what ways can revision facilitate or hinder social transformation and resistance within hegemonic systems?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.9",
+                      "question": "How might future semiotic theories evolve to better conceptualize revision in rapidly changing communicative ecologies?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.10",
+                      "question": "What interdisciplinary methodologies offer the most promise for investigating revision dynamics in complex semiotic systems?",
+                      "concept": "Methodology"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.11",
+                      "question": "How does the interaction of revision with feedback loops contribute to semiotic resilience or vulnerability?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Semiotic-Triangle.ME.5.12",
+                      "question": "What are the implications of revision for the ethics of knowledge production and dissemination in the digital age?",
+                      "concept": "Ethics"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "discipline": "Film",
+  "children": [
+    {
+      "structure_name": "Kishōtenketsu",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Ki (Introduction) → 2. Shō (Development) → 3. Ten (Twist) → 4. Ketsu (Conclusion)"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Ki (Introduction)"
+                },
+                {
+                  "structure_part": "[2/4] 2. Shō (Development)"
+                },
+                {
+                  "structure_part": "[3/4] 3. Ten (Twist)"
+                },
+                {
+                  "structure_part": "[4/4] 4. Ketsu (Conclusion)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": " Spirited Away, Rashomon, Departures"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Ki (Introduction) → Setting the scene / Context establishment"
+            },
+            {
+              "terminology": "2. Shō (Development) → Elaborating on the situation / Expanding elements"
+            },
+            {
+              "terminology": "3. Ten (Twist) → Unexpected shift / Turning point"
+            },
+            {
+              "terminology": "4. Ketsu (Conclusion) → Resolution / Synthesis"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Ki (Introduction)",
+                  "part_concept": "Cause and Effect",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.B.1.1",
+                      "question": "What is the initial setting or scene introduced in the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.2",
+                      "question": "How does the introduction establish the characters or environment?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.3",
+                      "question": "Why is the initial context important for understanding the story?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.4",
+                      "question": "What key details are revealed to set up expectations?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.5",
+                      "question": "How might the audience feel about the opening scene?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.6",
+                      "question": "What questions does the introduction raise for the viewer?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.7",
+                      "question": "How does this stage prepare the story for what follows?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.8",
+                      "question": "What is the tone set by the opening scenes?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.9",
+                      "question": "What might happen if the introduction were skipped or shortened?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.10",
+                      "question": "How does the introduction influence audience expectations?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.11",
+                      "question": "What details hint at future developments in this stage?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.1.12",
+                      "question": "Why is clarity important in the introduction phase?",
+                      "concept": "Clarity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Shō (Development)",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.B.2.1",
+                      "question": "How does the story develop or expand after the introduction?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.2",
+                      "question": "What new information or events deepen the narrative?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.3",
+                      "question": "Why is this development necessary for the overall story structure?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.4",
+                      "question": "How does the development maintain audience interest?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.5",
+                      "question": "What emotional responses might this stage evoke?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.6",
+                      "question": "How do the characters or situation evolve during development?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.7",
+                      "question": "What connections exist between the introduction and development stages?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.8",
+                      "question": "How might the development create expectations for a twist?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.9",
+                      "question": "What would happen if the development stage was absent or weak?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.10",
+                      "question": "What if the development focused on different characters or events?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.11",
+                      "question": "How is the story's pace affected by this stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.2.12",
+                      "question": "Why is clear progression important in the development phase?",
+                      "concept": "Clarity"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Ten (Twist)",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.B.3.1",
+                      "question": "What is the unexpected event or twist introduced here?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.2",
+                      "question": "How does the twist change the audience’s understanding of the story?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.3",
+                      "question": "Why is the twist a crucial turning point in this structure?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.4",
+                      "question": "What emotions might the twist provoke in the audience?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.5",
+                      "question": "How does this stage differ from traditional conflict-based structures?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.6",
+                      "question": "What if the twist was removed or less surprising?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.7",
+                      "question": "How does the twist connect to previous stages without contradicting them?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.8",
+                      "question": "What is the authorial intent behind including a twist rather than conflict?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.9",
+                      "question": "How might the twist affect audience expectations for the conclusion?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.10",
+                      "question": "What cognitive effects does a twist like this have on an audience?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.11",
+                      "question": "Why is ambiguity important in this stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.3.12",
+                      "question": "How does the twist challenge conventional narrative patterns?",
+                      "concept": "Disruption"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Ketsu (Conclusion)",
+                  "part_concept": "Resolution",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.B.4.1",
+                      "question": "How does the conclusion resolve the narrative presented earlier?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.2",
+                      "question": "What connections are drawn between the twist and the final outcome?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.3",
+                      "question": "Why is this stage important for audience closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.4",
+                      "question": "How might the conclusion influence the audience’s overall interpretation?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.5",
+                      "question": "What emotional tone is established by the ending?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.6",
+                      "question": "What if the conclusion left some elements unresolved?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.7",
+                      "question": "How does the conclusion relate back to the introduction and development stages?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.8",
+                      "question": "What authorial strategies are used to bring the story to a close?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.9",
+                      "question": "How does the pacing of the conclusion affect the story’s impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.10",
+                      "question": "Why is logical coherence essential in the conclusion?",
+                      "concept": "Logical Coherence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.11",
+                      "question": "How might the conclusion reinforce or transform the story’s themes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.B.4.12",
+                      "question": "What is the significance of the final moments for the audience’s reflection?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Ki (Introduction)",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.I.1.1",
+                      "question": "How does the introduction frame the story’s context beyond basic setting?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.2",
+                      "question": "What implicit assumptions guide the audience’s understanding at this stage?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.3",
+                      "question": "How might the initial framing influence the perception of later events?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.4",
+                      "question": "Why is establishing a clear boundary around the story’s scope important here?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.5",
+                      "question": "How does this stage set up patterns that will be disrupted later?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.6",
+                      "question": "What expectations about cause and effect are created by the introduction?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.7",
+                      "question": "In what ways does the introduction foreshadow the twist to come?",
+                      "concept": "Foreshadowing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.8",
+                      "question": "How does the introduction balance clarity with mystery to engage the audience?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.9",
+                      "question": "What role does mood play in shaping the initial audience response?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.10",
+                      "question": "How might alternative framings of the introduction change the story’s meaning?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.11",
+                      "question": "What is the significance of the introduction’s pacing in establishing tone?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.1.12",
+                      "question": "How does the introduction prepare the viewer for the story’s eventual transformation?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Shō (Development)",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.I.2.1",
+                      "question": "How does the development deepen or complicate the initial situation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.2",
+                      "question": "What mechanisms drive the transformation during this stage?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.3",
+                      "question": "How are emerging patterns reinforced or challenged in the development?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.4",
+                      "question": "Why is maintaining continuity with the introduction important here?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.5",
+                      "question": "What emotional or tonal shifts occur during the development?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.6",
+                      "question": "How does the development stage build anticipation for the twist?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.7",
+                      "question": "What if the development introduced conflicting information? How would that affect the narrative?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.8",
+                      "question": "How does this stage prepare the audience cognitively for disruption?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.9",
+                      "question": "What role does pacing play in sustaining audience engagement in development?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.10",
+                      "question": "How might different narrative perspectives alter the experience of development?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.11",
+                      "question": "Why is clarity balanced with complexity important in this stage?",
+                      "concept": "Clarity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.2.12",
+                      "question": "How does transformation here set up the contrast essential for the upcoming twist?",
+                      "concept": "Duality"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Ten (Twist)",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.I.3.1",
+                      "question": "How does the twist disrupt established narrative patterns?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.2",
+                      "question": "What are the logical implications of the twist for the story’s cause and effect?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.3",
+                      "question": "How might the twist challenge audience assumptions or expectations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.4",
+                      "question": "Why is the absence of direct conflict significant in the twist stage?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.5",
+                      "question": "How does the twist influence the emotional tone of the narrative?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.6",
+                      "question": "What new perspectives or interpretations does the twist invite?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.7",
+                      "question": "How does the twist maintain continuity with prior stages while introducing novelty?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.8",
+                      "question": "What cognitive challenges does the twist pose to the audience?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.9",
+                      "question": "How does the twist exemplify transformation without direct conflict?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.10",
+                      "question": "What if the twist were presented earlier or later? How would timing affect impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.11",
+                      "question": "Why might an author choose a twist instead of a climax at this point?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.3.12",
+                      "question": "How does the twist set up the conclusion’s synthesis or resolution?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Ketsu (Conclusion)",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.I.4.1",
+                      "question": "How does the conclusion provide closure while integrating the twist?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.2",
+                      "question": "What mechanisms link the conclusion back to the introduction and development stages?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.3",
+                      "question": "Why is balancing resolution and ambiguity important in this stage?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.4",
+                      "question": "How does the conclusion shape the audience’s final interpretation of the narrative?",
+                      "concept": "Interpretation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.5",
+                      "question": "What emotional tone is established by the ending and why?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.6",
+                      "question": "How might an alternative conclusion affect the story’s thematic message?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.7",
+                      "question": "In what ways does the conclusion complete or extend the story’s cycle?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.8",
+                      "question": "What authorial strategies are evident in the story’s final synthesis?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.9",
+                      "question": "How does pacing in the conclusion influence audience reflection?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.10",
+                      "question": "Why is logical coherence crucial for a satisfying conclusion?",
+                      "concept": "Logical Coherence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.11",
+                      "question": "How does the conclusion transform or reinforce the story’s core themes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.I.4.12",
+                      "question": "What lasting impact does the conclusion leave on the audience’s understanding?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Ki (Introduction)",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.A.1.1",
+                      "question": "How does the introduction strategically frame narrative boundaries to orient the audience?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.2",
+                      "question": "In what ways does the introduction establish hierarchical relationships among characters or concepts?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.3",
+                      "question": "How does the introduction utilize system dynamics to establish initial equilibrium?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.4",
+                      "question": "Why is the modulation of mood and tone critical in setting expectations at this stage?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.5",
+                      "question": "How does the introduction employ cognitive tools such as analogy or abstraction to aid comprehension?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.6",
+                      "question": "What role does iteration play in reinforcing narrative elements during introduction?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.7",
+                      "question": "How might the introduction’s framing create a paradox or duality that primes the twist?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.8",
+                      "question": "How does the introduction negotiate uncertainty while maintaining clarity?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.9",
+                      "question": "What authorial strategies are evident in managing pacing to balance exposition and intrigue?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.10",
+                      "question": "How does the introduction’s perspective influence the audience’s inference of future events?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.11",
+                      "question": "In what ways does the introduction leverage system feedback loops to foreshadow developments?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.1.12",
+                      "question": "Why is establishing a clear boundary important for managing narrative complexity early on?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Shō (Development)",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.A.2.1",
+                      "question": "How does the development enact transformation within the established system?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.2",
+                      "question": "What systemic tensions arise during the development and how are they managed?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.3",
+                      "question": "How does the development balance continuity and discontinuity to sustain narrative momentum?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.4",
+                      "question": "What role do patterns and cycles play in the evolution of the narrative here?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.5",
+                      "question": "How does pacing influence audience engagement and anticipation during development?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.6",
+                      "question": "How are dualities or paradoxes introduced or elaborated upon in this stage?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.7",
+                      "question": "What cognitive challenges does the development pose for interpreting emerging complexities?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.8",
+                      "question": "How does transformation in this stage prepare the narrative for disruption?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.9",
+                      "question": "What authorial techniques subtly shift tone or mood to prime the twist?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.10",
+                      "question": "In what ways does the development redefine agency within the story’s system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.11",
+                      "question": "How does the development manipulate audience perspective to build complexity?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.2.12",
+                      "question": "Why is clarity in complexity vital to avoid narrative entropy during development?",
+                      "concept": "Entropy"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Ten (Twist)",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.A.3.1",
+                      "question": "How does the twist function as a disruptive force within the narrative system?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.2",
+                      "question": "What paradoxes or ambiguities emerge from the twist, and how do they affect interpretation?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.3",
+                      "question": "How does the twist recalibrate cause and effect relationships established earlier?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.4",
+                      "question": "In what ways does the twist embody emergent properties within the narrative system?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.5",
+                      "question": "How does the twist leverage inversion or reframing to challenge audience assumptions?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.6",
+                      "question": "Why might the absence of direct conflict in the twist be a deliberate authorial strategy?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.7",
+                      "question": "How does the twist manipulate pacing to maximize cognitive impact?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.8",
+                      "question": "What new patterns or cycles are introduced by the twist?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.9",
+                      "question": "How does the twist redefine agency or intention within the story?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.10",
+                      "question": "What role does uncertainty play in shaping the audience’s response to the twist?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.11",
+                      "question": "How does the twist maintain logical coherence despite its disruptive nature?",
+                      "concept": "Logical Coherence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.3.12",
+                      "question": "How does the twist set the stage for thematic transformation in the conclusion?",
+                      "concept": "Transformation"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Ketsu (Conclusion)",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.A.4.1",
+                      "question": "How does the conclusion synthesize narrative elements to provide thematic closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.2",
+                      "question": "In what ways does the conclusion resolve or extend the paradoxes introduced earlier?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.3",
+                      "question": "How does the conclusion maintain continuity while integrating disruption?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.4",
+                      "question": "Why is managing ambiguity important in the resolution phase?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.5",
+                      "question": "How do pacing and timing in the conclusion affect audience reflection and catharsis?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.6",
+                      "question": "What authorial strategies are employed to balance closure with open-ended interpretation?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.7",
+                      "question": "How does the conclusion transform or reinforce the story’s core themes and agency?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.8",
+                      "question": "What role does the conclusion play in completing systemic cycles introduced earlier?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.9",
+                      "question": "How does the conclusion leverage emergent properties to produce a satisfying narrative outcome?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.10",
+                      "question": "Why is logical coherence essential to unify the story’s disruptive elements in the ending?",
+                      "concept": "Logical Coherence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.11",
+                      "question": "How does the conclusion manage tension between resolution and ongoing uncertainty?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.A.4.12",
+                      "question": "What lasting emotional or cognitive effects does the conclusion aim to leave on the audience?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/4] 1. Ki (Introduction)",
+                  "part_concept": "Framing",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.1",
+                      "question": "How does the introduction function as a meta-narrative frame shaping both form and content?",
+                      "concept": "Framing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.2",
+                      "question": "In what ways does the introduction’s boundary-setting engage with cultural or genre conventions?",
+                      "concept": "Genre"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.3",
+                      "question": "How does the introduction’s pacing serve as a reflexive device influencing audience expectations?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.4",
+                      "question": "What role does ambiguity play in constructing a liminal threshold during introduction?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.5",
+                      "question": "How does the introduction employ system theory concepts like feedback and emergence to prefigure narrative complexity?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.6",
+                      "question": "Why might the introduction intentionally invoke paradox or duality to challenge interpretive norms?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.7",
+                      "question": "How does the authorial strategy in introduction reflect or subvert traditional storytelling hierarchies?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.8",
+                      "question": "What cognitive mechanisms are engaged by abstraction and analogy to prepare the audience for disruption?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.9",
+                      "question": "How might the introduction’s design foster a transformative interpretive process over the course of the narrative?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.10",
+                      "question": "In what ways does the introduction reflect meta-critical awareness of storytelling conventions?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.11",
+                      "question": "How does the introduction manipulate audience focus to prepare for complex narrative layering?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.1.12",
+                      "question": "What is the significance of establishing a system boundary at this stage for narrative coherence?",
+                      "concept": "Boundary"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/4] 2. Shō (Development)",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.1",
+                      "question": "How does the development stage enact systemic transformation that challenges initial narrative equilibria?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.2",
+                      "question": "What role do feedback loops and tension play in evolving the narrative system during development?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.3",
+                      "question": "How does the development negotiate between continuity and discontinuity to sustain interpretive tension?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.4",
+                      "question": "In what ways does the development deconstruct or reconstruct hierarchical narrative structures?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.5",
+                      "question": "How does pacing function as a meta-textual device to modulate audience engagement in this stage?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.6",
+                      "question": "What paradoxes or dualities emerge that complicate straightforward interpretation?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.7",
+                      "question": "How does the development stage utilize cognitive dissonance to promote deeper engagement?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.8",
+                      "question": "Why is managing narrative entropy critical to maintain system coherence during transformation?",
+                      "concept": "Entropy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.9",
+                      "question": "How does the authorial strategy here challenge or reinforce audience assumptions about causality?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.10",
+                      "question": "In what ways does the development stage facilitate emergent meanings beyond linear causality?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.11",
+                      "question": "How does the stage expand or complicate agency within the narrative system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.2.12",
+                      "question": "What is the significance of the development’s systemic complexity for meta-critical interpretation?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/4] 3. Ten (Twist)",
+                  "part_concept": "Disruption",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.1",
+                      "question": "How does the twist function as a deliberate meta-critical disruption of narrative expectations?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.2",
+                      "question": "What are the implications of ambiguity and paradox introduced by the twist for interpretive plurality?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.3",
+                      "question": "How does the twist invert or reframe cause and effect relationships established previously?",
+                      "concept": "Inversion"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.4",
+                      "question": "In what ways does the twist exemplify emergent properties disrupting linear narrative logic?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.5",
+                      "question": "How does the twist serve as a threshold moment, challenging audience focus and expectations?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.6",
+                      "question": "Why might the twist’s absence of conflict be a radical authorial strategy subverting conventional climax?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.7",
+                      "question": "How does pacing at the twist manipulate cognitive and emotional audience response?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.8",
+                      "question": "What new narrative hierarchies or patterns emerge as a result of the twist?",
+                      "concept": "Hierarchy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.9",
+                      "question": "How does the twist redefine agency and intention within the story’s system?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.10",
+                      "question": "What role does uncertainty play in destabilizing the audience’s interpretive framework at the twist?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.11",
+                      "question": "How does the twist balance disruption with logical coherence to maintain narrative plausibility?",
+                      "concept": "Logical Coherence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.3.12",
+                      "question": "In what ways does the twist set up opportunities for cultural or thematic transformation in the conclusion?",
+                      "concept": "Transformation (Cultural)"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/4] 4. Ketsu (Conclusion)",
+                  "part_concept": "Closure",
+                  "children": [
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.1",
+                      "question": "How does the conclusion operate as a meta-critical synthesis that redefines narrative closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.2",
+                      "question": "In what ways does the conclusion resolve or perpetuate the paradoxes introduced earlier?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.3",
+                      "question": "How does the conclusion maintain systemic coherence while integrating disruption?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.4",
+                      "question": "Why is managing ambiguity and open-endedness important in the conclusion for interpretive plurality?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.5",
+                      "question": "How do pacing and narrative timing in the conclusion affect meta-cognitive audience reflection?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.6",
+                      "question": "What authorial strategies are employed to balance closure with reflexive openness?",
+                      "concept": "Authorial Strategy"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.7",
+                      "question": "How does the conclusion facilitate cultural or thematic transformation in the broader narrative context?",
+                      "concept": "Transformation (Cultural)"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.8",
+                      "question": "What role does the conclusion play in completing or complicating systemic cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.9",
+                      "question": "How does the conclusion leverage emergent properties to produce a dynamic narrative ending?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.10",
+                      "question": "Why is logical coherence essential in unifying disruptive narrative elements in the conclusion?",
+                      "concept": "Logical Coherence"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.11",
+                      "question": "How does the conclusion negotiate tension between resolution and ongoing uncertainty or openness?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Kishōtenketsu.ME.4.12",
+                      "question": "What lasting emotional and cognitive impacts does the conclusion intend to leave on the audience?",
+                      "concept": "Catharsis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

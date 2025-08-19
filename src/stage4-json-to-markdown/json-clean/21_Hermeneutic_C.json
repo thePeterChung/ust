@@ -1,0 +1,1681 @@
+{
+  "discipline": "Theology",
+  "children": [
+    {
+      "structure_name": "Hermeneutic-Cycle",
+      "children": [
+        {
+          "text": "Structure",
+          "children": [
+            {
+              "structure_process": " 1. Pre-understanding → 2. Textual Engagement → 3. Interpretation → 4. Reflection → 5. Application → 6. Revision"
+            },
+            {
+              "text": "<structure_parts_master>",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Pre-understanding"
+                },
+                {
+                  "structure_part": "[2/6] 2. Textual Engagement"
+                },
+                {
+                  "structure_part": "[3/6] 3. Interpretation"
+                },
+                {
+                  "structure_part": "[4/6] 4. Reflection"
+                },
+                {
+                  "structure_part": "[5/6] 5. Application"
+                },
+                {
+                  "structure_part": "[6/6] 6. Revision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "children": [
+            {
+              "examples": "Biblical exegesis, Theological analysis, Religious text study"
+            }
+          ]
+        },
+        {
+          "text": "Terminology",
+          "children": [
+            {
+              "terminology": "1. Pre-understanding → Prior beliefs and assumptions before interpreting a text"
+            },
+            {
+              "terminology": "2. Textual Engagement → Close reading and examination of the text itself"
+            },
+            {
+              "terminology": "3. Interpretation → Deriving meaning and significance from the text"
+            },
+            {
+              "terminology": "4. Reflection → Considering implications and coherence of interpretation"
+            },
+            {
+              "terminology": "5. Application → Relating interpretation to lived experience or practice"
+            },
+            {
+              "terminology": "6. Revision → Adjusting understanding based on new insights or contexts"
+            }
+          ]
+        },
+        {
+          "text": "Level",
+          "children": [
+            {
+              "level": "Beginner",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Pre-understanding",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.1",
+                      "question": "How do your prior beliefs influence your initial approach to the text?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.2",
+                      "question": "What assumptions do you bring before reading the text?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.3",
+                      "question": "Why is it important to recognize your pre-understanding in interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.4",
+                      "question": "How might different backgrounds change one's pre-understanding?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.5",
+                      "question": "What if you ignored your preconceptions entirely?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.6",
+                      "question": "How can awareness of pre-understanding improve interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.7",
+                      "question": "What role does personal intention play in shaping pre-understanding?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.8",
+                      "question": "How do you distinguish between objective and subjective pre-understandings?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.9",
+                      "question": "What emotions might influence your initial stance toward the text?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.10",
+                      "question": "How does recognizing pre-understanding affect your openness to new meanings?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.11",
+                      "question": "Why might pre-understanding lead to misinterpretation if unexamined?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.1.12",
+                      "question": "How can you use your pre-understanding constructively in studying a text?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Textual Engagement",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.1",
+                      "question": "How do you approach reading the text carefully for meaning?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.2",
+                      "question": "What details in the text stand out during your first reading?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.3",
+                      "question": "Why is attention to language important in textual engagement?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.4",
+                      "question": "How do you handle difficult or unfamiliar terms in the text?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.5",
+                      "question": "What if you focused only on the literal meaning of the text?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.6",
+                      "question": "How can rereading the text alter your understanding?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.7",
+                      "question": "What patterns or repetitions do you notice in the text?",
+                      "concept": "Pattern"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.8",
+                      "question": "How does the text’s structure influence your reading?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.9",
+                      "question": "What feelings arise as you engage closely with the text?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.10",
+                      "question": "How does the context of the text affect your engagement?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.11",
+                      "question": "Why might multiple readings be necessary for deeper understanding?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.2.12",
+                      "question": "How do you balance focusing on details and the whole text?",
+                      "concept": "Scale"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Interpretation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.1",
+                      "question": "How do you begin to form meaning from the text after reading?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.2",
+                      "question": "What factors influence your interpretation choices?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.3",
+                      "question": "Why might interpretations vary between readers?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.4",
+                      "question": "How does your pre-understanding shape your interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.5",
+                      "question": "What if alternative interpretations challenge your initial view?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.6",
+                      "question": "How can you justify your interpretation with evidence from the text?",
+                      "concept": "Cause and Effect"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.7",
+                      "question": "What role does context play in your interpretation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.8",
+                      "question": "How do you handle conflicting meanings within the text?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.9",
+                      "question": "What emotional responses might your interpretation evoke in an audience?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.10",
+                      "question": "Why is interpretation considered a transformative process?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.11",
+                      "question": "How does interpretation lead to new questions or insights?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.3.12",
+                      "question": "What next steps follow from your current interpretation?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Reflection",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.1",
+                      "question": "How do you evaluate the coherence of your interpretation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.2",
+                      "question": "Why is reflecting on your interpretation important?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.3",
+                      "question": "What questions arise when you consider your interpretation critically?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.4",
+                      "question": "How does reflection help identify assumptions in your interpretation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.5",
+                      "question": "What if reflection reveals contradictions in your understanding?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.6",
+                      "question": "How can reflection deepen your engagement with the text?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.7",
+                      "question": "What role does emotional response play in reflecting on interpretation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.8",
+                      "question": "How might reflecting on different perspectives enrich your interpretation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.9",
+                      "question": "Why is it important to consider the wider context during reflection?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.10",
+                      "question": "How can reflection lead to questioning initial assumptions?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.11",
+                      "question": "What emotions might arise when your interpretation is challenged during reflection?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.4.12",
+                      "question": "How does reflection support ongoing learning in the hermeneutic process?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Application",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.1",
+                      "question": "How can you apply the interpretation to your own life or practice?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.2",
+                      "question": "Why is it important to connect interpretation with lived experience?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.3",
+                      "question": "What changes might your interpretation inspire in behavior or thought?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.4",
+                      "question": "How does applying interpretation influence your understanding of the text?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.5",
+                      "question": "What if application leads to unexpected outcomes?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.6",
+                      "question": "How do social or cultural contexts affect the application of interpretation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.7",
+                      "question": "What role do emotions play when applying interpretation in real life?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.8",
+                      "question": "How can application reveal strengths or weaknesses in your interpretation?",
+                      "concept": "Resolution"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.9",
+                      "question": "Why might application require adaptation or modification?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.10",
+                      "question": "How can applying interpretation contribute to personal growth?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.11",
+                      "question": "What next steps follow after applying your interpretation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.5.12",
+                      "question": "How might different audiences respond to your applied interpretation?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Revision",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.1",
+                      "question": "How do new insights lead to revising your understanding?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.2",
+                      "question": "Why is revision a crucial part of the hermeneutic cycle?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.3",
+                      "question": "What factors might prompt you to change your interpretation?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.4",
+                      "question": "How can revision improve clarity and accuracy in interpretation?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.5",
+                      "question": "What if revision challenges your deeply held beliefs?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.6",
+                      "question": "How do you balance consistency and openness in revising understanding?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.7",
+                      "question": "What role does feedback from others play in revision?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.8",
+                      "question": "How can revision lead to new cycles of interpretation?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.9",
+                      "question": "Why might revision be emotionally challenging?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.10",
+                      "question": "How does revision reflect the dynamic nature of meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.11",
+                      "question": "What next questions emerge after revision?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.B.6.12",
+                      "question": "How does revision contribute to deeper understanding over time?",
+                      "concept": "Metaphor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Intermediate",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Pre-understanding",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.1",
+                      "question": "How do your cultural and historical contexts shape your pre-understanding of the text?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.2",
+                      "question": "Why is it necessary to critically examine prior assumptions before interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.3",
+                      "question": "How can unacknowledged pre-understandings limit interpretive possibilities?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.4",
+                      "question": "In what ways might pre-understanding act as both a lens and a barrier?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.5",
+                      "question": "How do you differentiate between subjective bias and informed perspective in pre-understanding?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.6",
+                      "question": "What strategies can help make implicit pre-understandings explicit?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.7",
+                      "question": "How does recognizing pre-understanding contribute to interpretive agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.8",
+                      "question": "What if multiple pre-understandings conflict—how should this tension be navigated?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.9",
+                      "question": "How might pre-understanding evolve over time through repeated engagement?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.10",
+                      "question": "What role do emotions play in shaping pre-understanding and openness to the text?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.11",
+                      "question": "How can examining pre-understanding improve fairness in interpretation?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.1.12",
+                      "question": "Why is pre-understanding considered foundational yet provisional in the hermeneutic process?",
+                      "concept": "Agency"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Textual Engagement",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.1",
+                      "question": "How does active engagement with textual details influence interpretation quality?",
+                      "concept": "Focus"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.2",
+                      "question": "Why is it important to balance literal and contextual readings during textual engagement?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.3",
+                      "question": "How do linguistic nuances affect meaning during close reading?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.4",
+                      "question": "In what ways can textual engagement reveal latent themes or patterns?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.5",
+                      "question": "How might selective focus on certain text elements skew interpretation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.6",
+                      "question": "What strategies aid in maintaining an open yet critical stance during reading?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.7",
+                      "question": "How can textual engagement serve as a feedback loop within the hermeneutic cycle?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.8",
+                      "question": "What role does repetition within the text play in shaping comprehension?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.9",
+                      "question": "How does recognizing structural elements of the text guide interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.10",
+                      "question": "What emotional responses can close reading elicit, and how do they influence understanding?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.11",
+                      "question": "How does awareness of textual boundaries affect engagement?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.2.12",
+                      "question": "Why is iterative reading important for developing a nuanced interpretation?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Interpretation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.1",
+                      "question": "How do interpretive frameworks shape the transformation of text into meaning?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.2",
+                      "question": "What criteria can be used to evaluate the plausibility of different interpretations?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.3",
+                      "question": "How does ambiguity within the text challenge fixed interpretations?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.4",
+                      "question": "In what ways can multiple valid interpretations coexist without contradiction?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.5",
+                      "question": "How can interpretation reveal underlying power dynamics or ideological influences?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.6",
+                      "question": "What role does intertextuality play in expanding interpretive possibilities?",
+                      "concept": "Unknown"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.7",
+                      "question": "How does interpretation reflect both the text’s content and the interpreter’s perspective?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.8",
+                      "question": "Why must interpretations remain open to revision and further questioning?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.9",
+                      "question": "How do emotional responses influence interpretive choices and meaning-making?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.10",
+                      "question": "What ethical considerations arise when interpreting religious or sacred texts?",
+                      "concept": "Unknown"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.11",
+                      "question": "How can interpretation serve as a transformative process for both text and reader?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.3.12",
+                      "question": "What next steps can be taken to test or expand the current interpretation?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Reflection",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.1",
+                      "question": "How does critical reflection help identify hidden assumptions in your interpretation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.2",
+                      "question": "Why is reflecting on different interpretive outcomes important for deeper understanding?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.3",
+                      "question": "How can reflection uncover tensions between the text and your pre-understanding?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.4",
+                      "question": "What if reflection reveals contradictions—how should you reconcile them?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.5",
+                      "question": "How can emotional awareness enhance the reflective stage of interpretation?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.6",
+                      "question": "What role does perspective-taking play in refining your interpretation during reflection?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.7",
+                      "question": "How might reflection guide the decision to revise or affirm your understanding?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.8",
+                      "question": "Why is ongoing reflection essential to avoid premature closure in interpretation?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.9",
+                      "question": "How does reflection support balancing subjective insight with textual evidence?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.10",
+                      "question": "What if reflection challenges your emotional attachment to a particular interpretation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.11",
+                      "question": "How can reflection facilitate the emergence of new interpretive possibilities?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.4.12",
+                      "question": "How does reflection contribute to iterative learning within the hermeneutic cycle?",
+                      "concept": "Iteration"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Application",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.1",
+                      "question": "How can you apply your interpretation to inform personal beliefs or practices?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.2",
+                      "question": "Why is it important to consider the social context when applying an interpretation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.3",
+                      "question": "How might applying interpretation lead to transformative action or change?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.4",
+                      "question": "What challenges might arise when translating interpretation into practice?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.5",
+                      "question": "How do emotional and ethical factors influence the application stage?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.6",
+                      "question": "What if application leads to conflicting outcomes in different contexts?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.7",
+                      "question": "How can feedback from the application stage inform further interpretation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.8",
+                      "question": "What strategies help maintain fidelity to the text while adapting to new contexts?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.9",
+                      "question": "How does applying interpretation contribute to the interpreter’s growth and agency?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.10",
+                      "question": "Why might application require reconsidering earlier interpretive choices?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.11",
+                      "question": "How can differing audiences affect the reception of your applied interpretation?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.5.12",
+                      "question": "What next steps emerge after applying interpretation in a practical context?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Revision",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.1",
+                      "question": "How do new insights from application and reflection prompt revision of interpretation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.2",
+                      "question": "Why is revision a continual and necessary part of the hermeneutic cycle?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.3",
+                      "question": "How can revision reconcile conflicts between pre-understanding and textual evidence?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.4",
+                      "question": "What challenges arise when deeply held beliefs are questioned during revision?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.5",
+                      "question": "How does revision maintain openness without losing interpretive coherence?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.6",
+                      "question": "What role does feedback from others play in refining your revised interpretation?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.7",
+                      "question": "How can revision lead to the emergence of new meanings or understandings?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.8",
+                      "question": "What if revision results in fundamentally changing your approach to the text?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.9",
+                      "question": "How does revision contribute to deeper learning and interpretive maturity?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.10",
+                      "question": "Why is it important to document changes made during the revision process?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.11",
+                      "question": "How does revision prepare the interpreter for subsequent hermeneutic cycles?",
+                      "concept": "Cycle"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.I.6.12",
+                      "question": "What next questions emerge after completing a cycle of revision?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Advanced",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Pre-understanding",
+                  "part_concept": "Agency",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.1",
+                      "question": "How does pre-understanding function as both a creative and constraining force in hermeneutics?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.2",
+                      "question": "Why is it critical to interrogate the historical situatedness of your pre-understandings before interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.3",
+                      "question": "In what ways can pre-understanding be deconstructed to reveal latent biases affecting interpretation?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.4",
+                      "question": "How can dualities within pre-understanding, such as tradition and innovation, influence interpretive outcomes?",
+                      "concept": "Duality"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.5",
+                      "question": "What methods allow for reflexive engagement with one’s own pre-understandings to enhance interpretive integrity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.6",
+                      "question": "How can the iterative nature of the hermeneutic cycle progressively transform pre-understanding itself?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.7",
+                      "question": "What are the implications of agency in navigating between pre-understanding and textual evidence?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.8",
+                      "question": "How might unresolved tensions within pre-understanding challenge hermeneutic coherence?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.9",
+                      "question": "How do mood and affective states influence the openness or resistance of pre-understanding?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.10",
+                      "question": "What strategies can be employed to maintain fairness when confronting deeply held preconceptions?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.11",
+                      "question": "How can pre-understanding act as a hermeneutic horizon shaping interpretive possibilities?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.1.12",
+                      "question": "In what ways does pre-understanding serve as both a threshold and a boundary in the interpretive process?",
+                      "concept": "Threshold"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Textual Engagement",
+                  "part_concept": "Focus",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.1",
+                      "question": "How does focused textual engagement reveal emergent meanings that challenge initial assumptions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.2",
+                      "question": "Why is balancing literal, historical, and contextual readings crucial for a robust hermeneutic practice?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.3",
+                      "question": "How can linguistic subtleties and semantic fields complicate the process of textual interpretation?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.4",
+                      "question": "In what ways does iterative engagement with the text enhance depth and nuance of understanding?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.5",
+                      "question": "How might selective attention to certain textual features introduce interpretive bias or omission?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.6",
+                      "question": "What role does feedback between pre-understanding and textual details play during close reading?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.7",
+                      "question": "How does repetition within the text contribute to the reinforcement or disruption of interpretive patterns?",
+                      "concept": "Repetition"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.8",
+                      "question": "How do boundaries within the text—such as genre or form—guide or limit interpretive possibilities?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.9",
+                      "question": "How can awareness of structural elements prevent premature closure in interpretation?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.10",
+                      "question": "What emotional tones emerge through textual engagement, and how do they shape interpretive choices?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.11",
+                      "question": "Why is the capacity to hold ambiguity essential during detailed textual analysis?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.2.12",
+                      "question": "How does contextualizing textual features within broader systems enhance comprehension?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Interpretation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.1",
+                      "question": "How does interpretation act as a transformative dialogue between text and interpreter?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.2",
+                      "question": "What epistemological frameworks inform the evaluation of competing interpretations?",
+                      "concept": "Accumulation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.3",
+                      "question": "How does embracing paradox and ambiguity enrich interpretive complexity?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.4",
+                      "question": "In what ways can multiple interpretations coexist as valid without collapsing into relativism?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.5",
+                      "question": "How does power dynamics manifest in interpretive authority and contested meanings?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.6",
+                      "question": "How does intertextuality challenge or support the boundaries of a given interpretation?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.7",
+                      "question": "How can emotional tone and mood influence the perceived legitimacy of an interpretation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.8",
+                      "question": "What ethical responsibilities arise in interpreting sacred or contested texts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.9",
+                      "question": "How does reflexivity allow interpreters to negotiate between subjective perspective and textual fidelity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.10",
+                      "question": "Why is openness to revision essential for sustaining interpretive integrity over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.11",
+                      "question": "How can interpretation serve as a site of cultural or theological transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.3.12",
+                      "question": "What next avenues of inquiry emerge from a complex interpretive process?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Reflection",
+                  "part_concept": "Inference",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.1",
+                      "question": "How does deep reflection enable the identification of implicit assumptions within your interpretation?",
+                      "concept": "Inference"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.2",
+                      "question": "Why is it essential to interrogate the interplay between text, interpreter, and context during reflection?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.3",
+                      "question": "How can reflection illuminate unresolved tensions or paradoxes in hermeneutic understanding?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.4",
+                      "question": "What if reflective analysis reveals contradictions—how can these inform further interpretation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.5",
+                      "question": "How does emotional awareness during reflection deepen the interpretive process?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.6",
+                      "question": "What role does perspective-taking play in challenging or reaffirming interpretive stances?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.7",
+                      "question": "How can reflection mediate between subjective insights and objective textual evidence?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.8",
+                      "question": "Why must reflection remain an ongoing process to prevent interpretive closure?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.9",
+                      "question": "How does reflection support the emergence of new hermeneutic horizons?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.10",
+                      "question": "In what ways does reflection contribute to the iterative nature of interpretation?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.11",
+                      "question": "How can reflective practice enhance ethical responsibility in interpretation?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.4.12",
+                      "question": "What next methodological steps emerge from reflective critique in the hermeneutic cycle?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Application",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.1",
+                      "question": "How does applying interpretation to lived contexts transform both the text’s meaning and practical outcomes?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.2",
+                      "question": "Why must application consider diverse socio-cultural boundaries to remain relevant and responsible?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.3",
+                      "question": "How can application provoke ethical dilemmas that challenge prior interpretive decisions?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.4",
+                      "question": "What strategies facilitate maintaining textual fidelity while adapting interpretations for new contexts?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.5",
+                      "question": "How does agency manifest in translating interpretation into transformative action?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.6",
+                      "question": "What are the risks and benefits of applying interpretations that disrupt established norms?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.7",
+                      "question": "How can feedback from application settings inform the revision of interpretive frameworks?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.8",
+                      "question": "In what ways do emotional and ethical considerations shape the application phase?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.9",
+                      "question": "How does the reception of applied interpretations by different audiences affect interpretive authority?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.10",
+                      "question": "Why is iterative reassessment critical after the application of interpretation in practical contexts?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.11",
+                      "question": "What next ethical questions emerge following the application of a particular interpretation?",
+                      "concept": "Choice"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.5.12",
+                      "question": "How can application serve as a catalyst for further hermeneutic cycles and deeper inquiry?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Revision",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.1",
+                      "question": "How does revision incorporate insights from reflection and application to reshape interpretation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.2",
+                      "question": "Why is embracing uncertainty fundamental to the revision process in hermeneutics?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.3",
+                      "question": "How can revision negotiate conflicts between tradition and innovation within interpretation?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.4",
+                      "question": "What challenges emerge when revising deeply ingrained preconceptions or doctrinal stances?",
+                      "concept": "Conflict"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.5",
+                      "question": "How does revision maintain coherence while fostering openness to new meanings?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.6",
+                      "question": "What role does collaborative feedback play in refining revised interpretations?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.7",
+                      "question": "How can revision lead to emergent insights that challenge prior hermeneutic assumptions?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.8",
+                      "question": "What if revision results in a paradigm shift—how does this affect subsequent interpretive cycles?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.9",
+                      "question": "How does documenting revision processes contribute to memory and cumulative hermeneutic knowledge?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.10",
+                      "question": "Why is revision crucial for sustaining the dynamic and iterative nature of hermeneutics?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.11",
+                      "question": "How does revision prepare interpreters to engage with future texts and contexts more critically?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.A.6.12",
+                      "question": "What next directions can be envisioned after completing a rigorous revision phase?",
+                      "concept": "Choice"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "Meta/Expert",
+              "children": [
+                {
+                  "structure_part": "[1/6] 1. Pre-understanding",
+                  "part_concept": "Reflexivity",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.1",
+                      "question": "How does meta-reflexivity expose the dialectical tensions inherent in pre-understanding within the hermeneutic cycle?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.2",
+                      "question": "In what ways can pre-understanding be reconceptualized as a dynamic, co-constitutive horizon rather than a static bias?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.3",
+                      "question": "How do power relations and ideological frameworks shape the formation and contestation of pre-understandings?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.4",
+                      "question": "What methodological innovations can deepen critical awareness of one’s pre-understandings in theological hermeneutics?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.5",
+                      "question": "How does engaging with the hermeneutic circle’s iterative nature transform the interpreter’s epistemic stance over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.6",
+                      "question": "How can pre-understanding be theorized through the lens of threshold concepts to facilitate transformative learning?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.7",
+                      "question": "What role does affective cognition play in complicating or enriching the pre-understanding phase?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.8",
+                      "question": "How can interpreters ethically navigate the paradoxes between subjective pre-understandings and objective textual claims?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.9",
+                      "question": "In what ways can reflexive practice dismantle epistemic injustices embedded in pre-understandings?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.10",
+                      "question": "How do meta-theoretical perspectives inform the critique and reconstruction of pre-understandings?",
+                      "concept": "Perspective"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.11",
+                      "question": "What strategies enable the iterative deconstruction and reconstruction of pre-understanding without leading to relativism?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.1.12",
+                      "question": "How might digital hermeneutics alter traditional conceptions of pre-understanding in theological interpretation?",
+                      "concept": "System"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[2/6] 2. Textual Engagement",
+                  "part_concept": "Emergence",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.1",
+                      "question": "How does emergent meaning challenge linear and reductionist approaches to textual engagement?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.2",
+                      "question": "What advanced hermeneutic strategies reveal the polyphonic and multivocal nature of sacred texts?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.3",
+                      "question": "How can systemic approaches integrate intertextual and contextual dimensions during deep textual engagement?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.4",
+                      "question": "In what ways does attending to semiotic layers and symbolic codes enrich interpretive depth?",
+                      "concept": "Abstraction"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.5",
+                      "question": "How do iterative rereadings under varying epistemic frameworks reshape textual understanding?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.6",
+                      "question": "What role does disruptive reading play in exposing hegemonic interpretive paradigms?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.7",
+                      "question": "How can attention to pacing and temporal form reveal latent structural tensions within the text?",
+                      "concept": "Pacing"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.8",
+                      "question": "How do hermeneutic boundaries function as both constraints and enablers in the process of textual engagement?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.9",
+                      "question": "How can digital humanities tools expand the scope and scale of textual engagement in theological studies?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.10",
+                      "question": "What challenges arise in maintaining interpretive fidelity amid complex systems of textual interrelation?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.11",
+                      "question": "How does attention to mood and tone during textual engagement shape the horizon of expectation?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.2.12",
+                      "question": "What novel insights emerge from crossing disciplinary perspectives during textual engagement?",
+                      "concept": "Perspective"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[3/6] 3. Interpretation",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.1",
+                      "question": "How does advanced hermeneutic theory conceptualize interpretation as a site of ongoing cultural and epistemic transformation?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.2",
+                      "question": "What critical frameworks best navigate the tensions between interpretive pluralism and the quest for coherence?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.3",
+                      "question": "How can meta-interpretive approaches account for power dynamics embedded in interpretive authority?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.4",
+                      "question": "In what ways does embracing paradox and ambiguity serve as a productive force rather than an obstacle in interpretation?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.5",
+                      "question": "How do intertextuality and dialogicality complicate the boundaries of singular interpretations?",
+                      "concept": "Boundary"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.6",
+                      "question": "What role do emotional tone and mood play in legitimating or contesting interpretive claims at an expert level?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.7",
+                      "question": "How do ethical considerations intersect with epistemic humility in high-level interpretive practice?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.8",
+                      "question": "How can reflexivity be theorized as a meta-cognitive tool enhancing interpretive depth and fairness?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.9",
+                      "question": "What are the implications of iteration and disruption for sustaining vibrant and responsible interpretive communities?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.10",
+                      "question": "How might meta-interpretation address the challenges posed by digital and postmodern hermeneutics?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.11",
+                      "question": "How can expert interpreters balance the need for closure with openness to emergent meanings?",
+                      "concept": "Closure"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.3.12",
+                      "question": "What new horizons for theological inquiry are opened through meta-level hermeneutic interpretation?",
+                      "concept": "Emergence"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[4/6] 4. Reflection",
+                  "part_concept": "Reflexivity",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.1",
+                      "question": "How does meta-reflective practice reveal the interdependence between interpreter subjectivity and textual objectivity?",
+                      "concept": "Reflexivity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.2",
+                      "question": "In what ways can reflection destabilize previously held interpretive paradigms to enable transformative insight?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.3",
+                      "question": "How can reflective inquiry negotiate the paradox between closure and openness in the hermeneutic process?",
+                      "concept": "Paradox"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.4",
+                      "question": "What role does affective and cognitive interplay play during advanced hermeneutic reflection?",
+                      "concept": "Mood"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.5",
+                      "question": "How does reflection facilitate the emergence of new interpretive horizons within complex theological systems?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.6",
+                      "question": "How can reflection act as a critical threshold crossing that transforms interpretive agency?",
+                      "concept": "Threshold"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.7",
+                      "question": "What methodological innovations enhance the depth and fairness of meta-reflective hermeneutics?",
+                      "concept": "Catharsis"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.8",
+                      "question": "How does reflection maintain dynamic balance between epistemic humility and interpretive confidence?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.9",
+                      "question": "Why is iterative reflection indispensable for sustaining interpretive rigor over time?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.10",
+                      "question": "How can collective and dialogical reflection expand interpretive possibilities beyond individual limitations?",
+                      "concept": "System"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.11",
+                      "question": "What ethical responsibilities emerge through sustained meta-reflective engagement with contested texts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.4.12",
+                      "question": "What next avenues for research and inquiry does meta-reflection uncover within hermeneutic studies?",
+                      "concept": "Choice"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[5/6] 5. Application",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.1",
+                      "question": "How can advanced application processes mediate tensions between tradition and innovation in theological praxis?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.2",
+                      "question": "In what ways does the application of interpretation function as a performative act reshaping communal beliefs?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.3",
+                      "question": "How might the application phase disrupt existing socio-cultural boundaries to foster transformative justice?",
+                      "concept": "Disruption"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.4",
+                      "question": "What frameworks ensure ethical integrity while adapting theological insights to diverse contemporary contexts?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.5",
+                      "question": "How does feedback from real-world application cycles inform and recalibrate interpretive theories?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.6",
+                      "question": "What challenges arise when applying interpretations across pluralistic audiences with conflicting values?",
+                      "concept": "Ambiguity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.7",
+                      "question": "How do emotional and rhetorical elements influence the reception and efficacy of applied interpretations?",
+                      "concept": "Tone"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.8",
+                      "question": "Why is iterative reassessment necessary to sustain transformative impact in applied hermeneutics?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.9",
+                      "question": "How can application catalyze emergent theological frameworks that address contemporary ethical dilemmas?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.10",
+                      "question": "What role does collective agency play in legitimating and contesting applied interpretations?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.11",
+                      "question": "How can digital platforms reshape the scope and dissemination of applied theological interpretations?",
+                      "concept": "Scale"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.5.12",
+                      "question": "What next cycles of hermeneutic inquiry are sparked by the outcomes of application phases?",
+                      "concept": "Cycle"
+                    }
+                  ]
+                },
+                {
+                  "structure_part": "[6/6] 6. Revision",
+                  "part_concept": "Transformation",
+                  "children": [
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.1",
+                      "question": "How does the revision phase integrate multi-layered insights from reflection and application to renew interpretive frameworks?",
+                      "concept": "Transformation"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.2",
+                      "question": "In what ways does embracing epistemic uncertainty during revision foster resilience in hermeneutic theory?",
+                      "concept": "Uncertainty"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.3",
+                      "question": "How can revision critically negotiate tensions between historical fidelity and contemporary relevance?",
+                      "concept": "Tension"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.4",
+                      "question": "What methodological innovations support collaborative and transparent revision processes in theology?",
+                      "concept": "Feedback"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.5",
+                      "question": "How does revision facilitate the emergence of novel hermeneutic paradigms in response to cultural shifts?",
+                      "concept": "Emergence"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.6",
+                      "question": "What are the implications of radical revision for the authority and continuity of sacred texts?",
+                      "concept": "Power"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.7",
+                      "question": "How can revision practices incorporate digital tools to enhance memory and cumulative knowledge?",
+                      "concept": "Memory"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.8",
+                      "question": "Why is sustained iteration fundamental to the vitality and adaptability of hermeneutic traditions?",
+                      "concept": "Iteration"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.9",
+                      "question": "How does revision prepare theological interpreters to navigate emerging challenges in a globalized context?",
+                      "concept": "Metaphor"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.10",
+                      "question": "What ethical responsibilities arise when revising interpretations that influence lived religious experiences?",
+                      "concept": "Agency"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.11",
+                      "question": "How does transparent documentation of revision processes contribute to scholarly rigor and public trust?",
+                      "concept": "Continuity"
+                    },
+                    {
+                      "question_id": "Hermeneutic-Cycle.ME.6.12",
+                      "question": "What next transformative directions can be anticipated following comprehensive hermeneutic revision?",
+                      "concept": "Choice"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
